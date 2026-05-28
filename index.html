@@ -32,11 +32,7 @@
     cursor: pointer;
   }
   .logo span { color: #f5b50a; }
-  nav ul {
-    list-style: none;
-    display: flex;
-    gap: 28px;
-  }
+  nav ul { list-style: none; display: flex; gap: 28px; }
   nav a {
     color: #ccc;
     text-decoration: none;
@@ -45,11 +41,7 @@
     transition: color 0.2s;
   }
   nav a:hover { color: #f5b50a; }
-  .header-right {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-  }
+  .header-right { display: flex; align-items: center; gap: 16px; }
   .btn-login {
     background: #f5b50a;
     color: #000;
@@ -68,17 +60,8 @@
     padding: 90px 20px 70px;
     text-align: center;
   }
-  .hero h1 {
-    font-size: 44px;
-    font-weight: 800;
-    margin-bottom: 12px;
-    color: #fff;
-  }
-  .hero p {
-    font-size: 16px;
-    color: #aaa;
-    margin-bottom: 36px;
-  }
+  .hero h1 { font-size: 44px; font-weight: 800; margin-bottom: 12px; color: #fff; }
+  .hero p { font-size: 16px; color: #aaa; margin-bottom: 36px; }
   .search-box {
     max-width: 700px;
     margin: 0 auto;
@@ -127,15 +110,9 @@
     transition: all 0.2s;
   }
   .chip:hover { border-color: #f5b50a; color: #f5b50a; }
-  .chip.active {
-    background: #f5b50a;
-    color: #000;
-    border-color: #f5b50a;
-  }
+  .chip.active { background: #f5b50a; color: #000; border-color: #f5b50a; }
 
-  .section {
-    padding: 40px 40px 20px;
-  }
+  .section { padding: 40px 40px 20px; }
   .section-header {
     display: flex;
     align-items: center;
@@ -168,6 +145,9 @@
     cursor: pointer;
     transition: transform 0.2s, box-shadow 0.2s;
     position: relative;
+    text-decoration: none;
+    color: inherit;
+    display: block;
   }
   .movie:hover {
     transform: translateY(-4px);
@@ -205,9 +185,7 @@
     border-radius: 3px;
     z-index: 2;
   }
-  .movie-info {
-    padding: 10px 12px 14px;
-  }
+  .movie-info { padding: 10px 12px 14px; }
   .movie-title {
     font-size: 14px;
     font-weight: 600;
@@ -233,117 +211,6 @@
     font-size: 14px;
   }
 
-  /* Modal */
-  .modal-backdrop {
-    display: none;
-    position: fixed;
-    inset: 0;
-    background: rgba(0,0,0,0.85);
-    z-index: 1000;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-    overflow-y: auto;
-  }
-  .modal-backdrop.open { display: flex; }
-  .modal {
-    background: #1a1a1a;
-    border-radius: 10px;
-    max-width: 900px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.8);
-    display: flex;
-    flex-direction: row;
-  }
-  .modal-poster {
-    width: 300px;
-    flex-shrink: 0;
-    background: #2a2a2a;
-  }
-  .modal-poster img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-  }
-  .modal-body {
-    padding: 32px;
-    flex: 1;
-    color: #ddd;
-  }
-  .modal-close {
-    position: absolute;
-    top: 12px;
-    right: 16px;
-    background: rgba(0,0,0,0.6);
-    border: none;
-    color: #fff;
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    cursor: pointer;
-    font-size: 18px;
-    z-index: 2;
-  }
-  .modal-body h2 {
-    font-size: 28px;
-    margin-bottom: 8px;
-    color: #fff;
-  }
-  .modal-meta {
-    display: flex;
-    gap: 14px;
-    font-size: 13px;
-    color: #aaa;
-    margin-bottom: 18px;
-    flex-wrap: wrap;
-  }
-  .modal-meta span.rating { color: #f5b50a; font-weight: 600; }
-  .modal-genres {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-    margin-bottom: 18px;
-  }
-  .modal-genres span {
-    background: #2a2a2a;
-    color: #ccc;
-    padding: 4px 10px;
-    border-radius: 14px;
-    font-size: 11px;
-  }
-  .modal-desc {
-    font-size: 14px;
-    line-height: 1.6;
-    color: #bbb;
-    margin-bottom: 24px;
-  }
-  .btn-play {
-    background: #f5b50a;
-    color: #000;
-    border: none;
-    padding: 12px 28px;
-    border-radius: 6px;
-    font-weight: 700;
-    font-size: 14px;
-    cursor: pointer;
-    margin-right: 10px;
-  }
-  .btn-play:hover { background: #ffc933; }
-  .btn-secondary {
-    background: transparent;
-    color: #ccc;
-    border: 1px solid #444;
-    padding: 12px 24px;
-    border-radius: 6px;
-    font-weight: 600;
-    font-size: 14px;
-    cursor: pointer;
-  }
-  .btn-secondary:hover { border-color: #f5b50a; color: #f5b50a; }
-
   footer {
     background: #1a1a1a;
     border-top: 1px solid #2a2a2a;
@@ -362,10 +229,6 @@
     .section { padding: 30px 16px 10px; }
     .genre-bar { padding: 20px 16px 0; }
     .grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; }
-    .modal { flex-direction: column; }
-    .modal-poster { width: 100%; max-height: 300px; }
-    .modal-body { padding: 22px; }
-    .modal-body h2 { font-size: 22px; }
   }
 </style>
 </head>
@@ -395,157 +258,18 @@
     <input type="text" id="search" placeholder="Search for movies, TV shows, actors..." autocomplete="off" />
     <button onclick="doSearch()">SEARCH</button>
   </div>
-
- <div style="margin-top:20px;">
-  <a 
-    href="https://www.effectivecpmnetwork.com/juxu9sau?key=b98baa5570f162d9918462f7df0dd586"
-    target="_blank"
-    rel="noopener noreferrer"
-    style="
-      display:inline-block;
-      background:#f5b50a;
-      color:#000;
-      padding:12px 24px;
-      border-radius:6px;
-      font-weight:700;
-      text-decoration:none;
-      transition:0.2s;
-      box-shadow:0 6px 20px rgba(245,181,10,0.3);
-    "
-    onmouseover="this.style.background='#ffc933'"
-    onmouseout="this.style.background='#f5b50a'"
-  >
-    🎬 Start Watching Free
-  </a>
-</div>
- 
 </section>
-
-<div style="text-align:center; margin: 30px 0;">
-  <script async="async" data-cfasync="false"
-    src="https://pl29577397.effectivecpmnetwork.com/134732592d114ab979575e1bbb2cf40c/invoke.js">
-  </script>
-
-  <div id="container-134732592d114ab979575e1bbb2cf40c"></div>
-</div>
 
 <div class="genre-bar" id="genreBar"></div>
 
-<main id="main">
-  <!-- sections rendered by JS -->
-</main>
+<main id="main"></main>
 
 <footer>
   <p>&copy; 2026 MovieZone. This is a demo site. No real streaming content.</p>
 </footer>
 
-<!-- Modal -->
-<div class="modal-backdrop" id="modal" onclick="if(event.target===this)closeModal()">
-  <div class="modal">
-    <button class="modal-close" onclick="closeModal()">×</button>
-    <div class="modal-poster"><img id="mPoster" src="" alt="" /></div>
-    <div class="modal-body">
-      <h2 id="mTitle"></h2>
-      <div class="modal-meta">
-        <span id="mYear"></span>
-        <span class="rating" id="mRating"></span>
-        <span id="mDuration"></span>
-        <span id="mQuality"></span>
-      </div>
-      <div class="modal-genres" id="mGenres"></div>
-      <p class="modal-desc" id="mDesc"></p>
-      <button class="btn-play" onclick="fakePlay()">▶ Watch Now</button>
-      <button class="btn-secondary">+ Watchlist</button>
-    </div>
-  </div>
-</div>
-
+<script src="catalog.js"></script>
 <script>
-  const catalog = [
-    // Trending Movies
-    { id:1, kind:'movie', title:"Oppenheimer", year:2023, quality:"HD", rating:"8.4", duration:"3h 0m", genres:["Drama","History","Biography"], section:"trending", badge:"HOT", poster:"https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg", desc:"The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during World War II."},
-    { id:2, kind:'movie', title:"Dune: Part Two", year:2024, quality:"HD", rating:"8.6", duration:"2h 46m", genres:["Sci-Fi","Adventure"], section:"trending", badge:"HOT", poster:"https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg", desc:"Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family."},
-    { id:3, kind:'movie', title:"Barbie", year:2023, quality:"HD", rating:"7.0", duration:"1h 54m", genres:["Comedy","Adventure"], section:"trending", poster:"https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg", desc:"Barbie suffers a crisis that leads her to question her world and her existence in this whimsical adventure."},
-    { id:4, kind:'movie', title:"The Batman", year:2022, quality:"HD", rating:"7.8", duration:"2h 56m", genres:["Action","Crime","Drama"], section:"trending", poster:"https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg", desc:"When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption."},
-    { id:5, kind:'movie', title:"John Wick: Chapter 4", year:2023, quality:"HD", rating:"7.7", duration:"2h 49m", genres:["Action","Thriller"], section:"trending", poster:"https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg", desc:"John Wick uncovers a path to defeating the High Table, but before he can earn his freedom, he must face a new enemy."},
-    { id:6, kind:'movie', title:"Spider-Man: No Way Home", year:2021, quality:"HD", rating:"8.2", duration:"2h 28m", genres:["Action","Adventure","Sci-Fi"], section:"trending", poster:"https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg", desc:"With Spider-Man's identity now revealed, Peter asks Doctor Strange for help, unleashing villains from across the multiverse."},
-    { id:7, kind:'movie', title:"Avatar: The Way of Water", year:2022, quality:"HD", rating:"7.6", duration:"3h 12m", genres:["Sci-Fi","Adventure"], section:"trending", poster:"https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg", desc:"Jake Sully lives with his family on Pandora. When a familiar threat returns, Jake must work with Neytiri to protect their home."},
-    { id:8, kind:'movie', title:"Top Gun: Maverick", year:2022, quality:"HD", rating:"8.3", duration:"2h 11m", genres:["Action","Drama"], section:"trending", poster:"https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg", desc:"After thirty years, Maverick is still pushing the envelope as a top naval aviator, training a new generation of pilots."},
-
-    // Recent
-    { id:9, kind:'movie', title:"Wonka", year:2023, quality:"HD", rating:"7.1", duration:"1h 56m", genres:["Family","Fantasy","Musical"], section:"recent", badge:"NEW", poster:"https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg", desc:"With dreams of opening a shop in a city renowned for its chocolate, a young Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers."},
-    { id:10, kind:'movie', title:"Killers of the Flower Moon", year:2023, quality:"HD", rating:"7.6", duration:"3h 26m", genres:["Crime","Drama","History"], section:"recent", badge:"NEW", poster:"https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg", desc:"Members of the Osage tribe in the United States are murdered under mysterious circumstances in the 1920s, sparking a major FBI investigation."},
-    { id:11, kind:'movie', title:"Past Lives", year:2023, quality:"HD", rating:"7.8", duration:"1h 45m", genres:["Drama","Romance"], section:"recent", poster:"https://image.tmdb.org/t/p/w500/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg", desc:"Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora's family emigrates from South Korea."},
-    { id:12, kind:'movie', title:"The Holdovers", year:2023, quality:"HD", rating:"7.9", duration:"2h 13m", genres:["Comedy","Drama"], section:"recent", poster:"https://image.tmdb.org/t/p/w500/VrXLA7sgZyABKxk4DZ2ApR79Tk.jpg", desc:"A curmudgeonly instructor at a New England prep school remains on campus during Christmas break to babysit a handful of students with nowhere to go."},
-    { id:13, kind:'movie', title:"Anatomy of a Fall", year:2023, quality:"HD", rating:"7.7", duration:"2h 32m", genres:["Drama","Thriller"], section:"recent", poster:"https://image.tmdb.org/t/p/w500/8MtZxbHBhULxNDQQz2WUYUYjJ4o.jpg", desc:"A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness."},
-    { id:14, kind:'movie', title:"Poor Things", year:2023, quality:"HD", rating:"8.0", duration:"2h 21m", genres:["Comedy","Drama","Romance"], section:"recent", poster:"https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg", desc:"The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant scientist Dr. Godwin Baxter."},
-    { id:15, kind:'movie', title:"Saltburn", year:2023, quality:"HD", rating:"7.1", duration:"2h 11m", genres:["Drama","Thriller"], section:"recent", badge:"NEW", poster:"https://image.tmdb.org/t/p/w500/yj11WgUbDqI4FfXOJgsJlnDDPSF.jpg", desc:"A student at Oxford University finds himself drawn into the world of a charming and aristocratic classmate."},
-    { id:16, kind:'movie', title:"The Iron Claw", year:2023, quality:"HD", rating:"7.5", duration:"2h 12m", genres:["Drama","Biography"], section:"recent", poster:"https://image.tmdb.org/t/p/w500/41QvF0VnxKokSyq80iWdH3HmqYE.jpg", desc:"The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling."},
-
-    // TV Shows
-    { id:17, kind:'tv', title:"Breaking Bad", year:"2008-2013", quality:"HD", rating:"9.5", duration:"5 Seasons", genres:["Crime","Drama","Thriller"], section:"shows", poster:"https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg", desc:"A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine."},
-    { id:18, kind:'tv', title:"Game of Thrones", year:"2011-2019", quality:"HD", rating:"9.2", duration:"8 Seasons", genres:["Fantasy","Drama","Adventure"], section:"shows", poster:"https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg", desc:"Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."},
-    { id:19, kind:'tv', title:"Stranger Things", year:"2016-", quality:"HD", rating:"8.6", duration:"4 Seasons", genres:["Sci-Fi","Horror","Drama"], section:"shows", poster:"https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg", desc:"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying forces, and one strange girl."},
-    { id:20, kind:'tv', title:"The Last of Us", year:"2023-", quality:"HD", rating:"8.7", duration:"2 Seasons", genres:["Drama","Action","Horror"], section:"shows", badge:"NEW", poster:"https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg", desc:"Twenty years after modern civilization has been destroyed, Joel is hired to smuggle Ellie out of an oppressive quarantine zone."},
-    { id:21, kind:'tv', title:"House of the Dragon", year:"2022-", quality:"HD", rating:"8.4", duration:"2 Seasons", genres:["Fantasy","Drama"], section:"shows", poster:"https://image.tmdb.org/t/p/w500/z2yahl2uefxDCl0nogcRBstwruJ.jpg", desc:"The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke."},
-    { id:22, kind:'tv', title:"Succession", year:"2018-2023", quality:"HD", rating:"8.9", duration:"4 Seasons", genres:["Drama","Comedy"], section:"shows", poster:"https://image.tmdb.org/t/p/w500/7HW47XbkNQ5fiwQFYGWdw9gs144.jpg", desc:"The Roy family controls the biggest media and entertainment company in the world. The series tracks their lives as they contemplate their future."},
-    { id:23, kind:'tv', title:"The Bear", year:"2022-", quality:"HD", rating:"8.6", duration:"3 Seasons", genres:["Comedy","Drama"], section:"shows", badge:"HOT", poster:"https://image.tmdb.org/t/p/w500/zPyHvUS2lf6T6aMQcrCBs3e6L8L.jpg", desc:"A young chef from the fine dining world returns to Chicago to run his family's sandwich shop."},
-    { id:24, kind:'tv', title:"Wednesday", year:"2022-", quality:"HD", rating:"8.1", duration:"1 Season", genres:["Comedy","Fantasy","Mystery"], section:"shows", poster:"https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg", desc:"Wednesday Addams attempts to master her emerging psychic ability, thwart a killing spree and solve a supernatural mystery."},
-
-    // Top Rated Movies
-    { id:25, kind:'movie', title:"The Shawshank Redemption", year:1994, quality:"HD", rating:"9.3", duration:"2h 22m", genres:["Drama"], section:"top", poster:"https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg", desc:"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."},
-    { id:26, kind:'movie', title:"The Godfather", year:1972, quality:"HD", rating:"9.2", duration:"2h 55m", genres:["Crime","Drama"], section:"top", poster:"https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg", desc:"An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son."},
-    { id:27, kind:'movie', title:"The Dark Knight", year:2008, quality:"HD", rating:"9.0", duration:"2h 32m", genres:["Action","Crime","Drama"], section:"top", poster:"https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg", desc:"When the menace known as the Joker wreaks havoc on Gotham, Batman must accept one of the greatest psychological tests of his ability."},
-    { id:28, kind:'movie', title:"Pulp Fiction", year:1994, quality:"HD", rating:"8.9", duration:"2h 34m", genres:["Crime","Drama"], section:"top", poster:"https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg", desc:"The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption."},
-    { id:29, kind:'movie', title:"Forrest Gump", year:1994, quality:"HD", rating:"8.8", duration:"2h 22m", genres:["Drama","Romance"], section:"top", poster:"https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg", desc:"The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man."},
-    { id:30, kind:'movie', title:"Inception", year:2010, quality:"HD", rating:"8.8", duration:"2h 28m", genres:["Action","Sci-Fi","Thriller"], section:"top", poster:"https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg", desc:"A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into a CEO's mind."},
-    { id:31, kind:'movie', title:"Interstellar", year:2014, quality:"HD", rating:"8.7", duration:"2h 49m", genres:["Sci-Fi","Drama","Adventure"], section:"top", poster:"https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg", desc:"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."},
-    { id:32, kind:'movie', title:"The Matrix", year:1999, quality:"HD", rating:"8.7", duration:"2h 16m", genres:["Action","Sci-Fi"], section:"top", poster:"https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg", desc:"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."},
-
-    // Action Pack
-    { id:33, kind:'movie', title:"Mad Max: Fury Road", year:2015, quality:"HD", rating:"8.1", duration:"2h 0m", genres:["Action","Adventure"], section:"action", poster:"https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg", desc:"In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners."},
-    { id:34, kind:'movie', title:"Mission: Impossible - Fallout", year:2018, quality:"HD", rating:"7.7", duration:"2h 27m", genres:["Action","Thriller"], section:"action", poster:"https://image.tmdb.org/t/p/w500/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg", desc:"Ethan Hunt and his IMF team race against time after a mission gone wrong."},
-    { id:35, kind:'movie', title:"Gladiator", year:2000, quality:"HD", rating:"8.5", duration:"2h 35m", genres:["Action","Drama"], section:"action", poster:"https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg", desc:"A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family."},
-    { id:36, kind:'movie', title:"Black Panther", year:2018, quality:"HD", rating:"7.3", duration:"2h 14m", genres:["Action","Adventure","Sci-Fi"], section:"action", poster:"https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg", desc:"T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future."},
-    { id:37, kind:'movie', title:"The Avengers", year:2012, quality:"HD", rating:"8.0", duration:"2h 23m", genres:["Action","Adventure","Sci-Fi"], section:"action", poster:"https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg", desc:"Earth's mightiest heroes must come together and learn to fight as a team to stop the mischievous Loki and his alien army."},
-    { id:38, kind:'movie', title:"Edge of Tomorrow", year:2014, quality:"HD", rating:"7.9", duration:"1h 53m", genres:["Action","Sci-Fi"], section:"action", poster:"https://image.tmdb.org/t/p/w500/uHM2bRWBJ2fy6BIaXmYLqozsJxs.jpg", desc:"A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies."},
-
-    // Horror / Thriller
-    { id:39, kind:'movie', title:"The Shining", year:1980, quality:"HD", rating:"8.4", duration:"2h 26m", genres:["Horror","Drama"], section:"horror", poster:"https://image.tmdb.org/t/p/w500/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg", desc:"A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence."},
-    { id:40, kind:'movie', title:"Hereditary", year:2018, quality:"HD", rating:"7.3", duration:"2h 7m", genres:["Horror","Drama","Mystery"], section:"horror", poster:"https://image.tmdb.org/t/p/w500/p81Z1ZMxhRTHjORrhojUDFwHKLE.jpg", desc:"A grieving family is haunted by tragic and disturbing occurrences after the death of their secretive grandmother."},
-    { id:41, kind:'movie', title:"Get Out", year:2017, quality:"HD", rating:"7.7", duration:"1h 44m", genres:["Horror","Mystery","Thriller"], section:"horror", poster:"https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg", desc:"A young African-American visits his white girlfriend's parents for the weekend, where his uneasiness leads to a nightmare."},
-    { id:42, kind:'movie', title:"A Quiet Place", year:2018, quality:"HD", rating:"7.5", duration:"1h 30m", genres:["Horror","Sci-Fi","Thriller"], section:"horror", poster:"https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg", desc:"In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing."},
-    { id:43, kind:'movie', title:"Midsommar", year:2019, quality:"HD", rating:"7.0", duration:"2h 27m", genres:["Horror","Drama","Mystery"], section:"horror", poster:"https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg", desc:"A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival."},
-    { id:44, kind:'movie', title:"Sinister", year:2012, quality:"HD", rating:"6.8", duration:"1h 50m", genres:["Horror","Mystery","Thriller"], section:"horror", poster:"https://image.tmdb.org/t/p/w500/yvirUYrva23IZ4iLb4tMS6QFusy.jpg", desc:"A true-crime writer finds a cache of 8mm home movies that suggest the murder he is currently researching is the work of a serial killer."},
-
-    // Comedy
-    { id:45, kind:'movie', title:"The Grand Budapest Hotel", year:2014, quality:"HD", rating:"8.1", duration:"1h 39m", genres:["Comedy","Adventure","Drama"], section:"comedy", poster:"https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg", desc:"A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy."},
-    { id:46, kind:'movie', title:"Superbad", year:2007, quality:"HD", rating:"7.6", duration:"1h 53m", genres:["Comedy"], section:"comedy", poster:"https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg", desc:"Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry."},
-    { id:47, kind:'movie', title:"Hot Fuzz", year:2007, quality:"HD", rating:"7.8", duration:"2h 1m", genres:["Comedy","Action","Mystery"], section:"comedy", poster:"https://image.tmdb.org/t/p/w500/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg", desc:"Exceptional London cop is reassigned to a sleepy English village, where he uncovers a series of grisly accidents."},
-    { id:48, kind:'movie', title:"Bridesmaids", year:2011, quality:"HD", rating:"6.8", duration:"2h 5m", genres:["Comedy","Romance"], section:"comedy", poster:"https://image.tmdb.org/t/p/w500/lLgvJSAaRoSXTBjQ9pZGYpVfXxQ.jpg", desc:"Competition between the maid of honor and a bridesmaid threatens to upend the life of an out-of-work pastry chef."},
-    { id:49, kind:'movie', title:"Knives Out", year:2019, quality:"HD", rating:"7.9", duration:"2h 10m", genres:["Comedy","Crime","Mystery"], section:"comedy", poster:"https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg", desc:"A detective investigates the death of the patriarch of an eccentric, combative family."},
-    { id:50, kind:'movie', title:"The Nice Guys", year:2016, quality:"HD", rating:"7.4", duration:"1h 56m", genres:["Comedy","Action","Crime"], section:"comedy", poster:"https://image.tmdb.org/t/p/w500/m4RaCkmpqcUOTTKLgU2v8DPgZSm.jpg", desc:"In 1970s Los Angeles, a mismatched pair of private eyes investigate the apparent suicide of a fading porn star."},
-
-    // Anime / Animation
-    { id:51, kind:'movie', title:"Spirited Away", year:2001, quality:"HD", rating:"8.6", duration:"2h 5m", genres:["Animation","Fantasy","Adventure"], section:"anime", poster:"https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg", desc:"A young girl wanders into a world ruled by gods and witches where humans are turned into beasts."},
-    { id:52, kind:'movie', title:"Your Name", year:2016, quality:"HD", rating:"8.4", duration:"1h 46m", genres:["Animation","Romance","Drama"], section:"anime", poster:"https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg", desc:"Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?"},
-    { id:53, kind:'movie', title:"Spider-Man: Across the Spider-Verse", year:2023, quality:"HD", rating:"8.6", duration:"2h 20m", genres:["Animation","Action","Sci-Fi"], section:"anime", badge:"NEW", poster:"https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg", desc:"Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its existence."},
-    { id:54, kind:'movie', title:"The Boy and the Heron", year:2023, quality:"HD", rating:"7.7", duration:"2h 4m", genres:["Animation","Fantasy","Adventure"], section:"anime", poster:"https://image.tmdb.org/t/p/w500/jDQPkgzerGophKsZ22DPdjsmFNH.jpg", desc:"A young boy named Mahito yearning for his mother ventures into a world shared by the living and the dead."},
-    { id:55, kind:'movie', title:"Princess Mononoke", year:1997, quality:"HD", rating:"8.4", duration:"2h 14m", genres:["Animation","Fantasy","Adventure"], section:"anime", poster:"https://image.tmdb.org/t/p/w500/jHWmNr7m544fJ8eItsfNk8fs2Ed.jpg", desc:"On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between forest gods and a mining colony."},
-    { id:56, kind:'movie', title:"Demon Slayer: Mugen Train", year:2020, quality:"HD", rating:"8.2", duration:"1h 57m", genres:["Animation","Action","Fantasy"], section:"anime", poster:"https://image.tmdb.org/t/p/w500/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg", desc:"Tanjiro and his comrades board the Mugen Train on a new mission to investigate the mysterious disappearance of over forty people."},
-  ];
-
-  const sections = [
-    { id:'trending', title:'Trending Now' },
-    { id:'recent', title:'Recently Added' },
-    { id:'shows', title:'Popular TV Shows' },
-    { id:'top', title:'Top IMDB' },
-    { id:'action', title:'Action & Adventure' },
-    { id:'horror', title:'Horror & Thriller' },
-    { id:'comedy', title:'Comedy' },
-    { id:'anime', title:'Animation' },
-  ];
-
   const allGenres = ['All', ...Array.from(new Set(catalog.flatMap(m => m.genres))).sort()];
 
   let activeGenre = 'All';
@@ -557,7 +281,7 @@
       ? `<div class="badge ${m.badge === 'NEW' ? 'new' : ''}">${m.badge}</div>`
       : '';
     return `
-      <div class="movie" onclick="openModal(${m.id})">
+      <a class="movie" href="watch.html?id=${m.id}">
         ${badgeHtml}
         <div class="quality">${m.quality}</div>
         <img class="poster" src="${m.poster}" alt="${m.title}" loading="lazy"
@@ -570,7 +294,7 @@
             <span>★ ${m.rating}</span>
           </div>
         </div>
-      </div>`;
+      </a>`;
   }
 
   function matches(m) {
@@ -593,7 +317,6 @@
   function renderMain() {
     const main = document.getElementById('main');
 
-    // If searching or genre filtered, show one combined "Results" section
     if (activeQuery || activeGenre !== 'All' || kindFilter) {
       const results = catalog.filter(matches);
       const label = activeQuery
@@ -659,30 +382,6 @@
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  function openModal(id) {
-    const m = catalog.find(x => x.id === id);
-    if (!m) return;
-    document.getElementById('mPoster').src = m.poster;
-    document.getElementById('mTitle').textContent = m.title;
-    document.getElementById('mYear').textContent = m.year;
-    document.getElementById('mRating').textContent = '★ ' + m.rating;
-    document.getElementById('mDuration').textContent = m.duration;
-    document.getElementById('mQuality').textContent = m.quality;
-    document.getElementById('mGenres').innerHTML = m.genres.map(g => `<span>${g}</span>`).join('');
-    document.getElementById('mDesc').textContent = m.desc;
-    document.getElementById('modal').classList.add('open');
-    document.body.style.overflow = 'hidden';
-  }
-
-  function closeModal() {
-    document.getElementById('modal').classList.remove('open');
-    document.body.style.overflow = '';
-  }
-
-  function fakePlay() {
-    alert("This is a demo site — no real video playback.");
-  }
-
   document.getElementById('search').addEventListener('input', () => {
     activeQuery = document.getElementById('search').value.trim();
     renderMain();
@@ -690,16 +389,10 @@
   document.getElementById('search').addEventListener('keypress', e => {
     if (e.key === 'Enter') doSearch();
   });
-  document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') closeModal();
-  });
 
   renderGenres();
   renderMain();
 </script>
- 
-<script src="https://pl29577395.effectivecpmnetwork.com/3a/f2/9d/3af29d4ada9311efc1d532779f1954a4.js"></script>
- <script src="https://pl29577395.effectivecpmnetwork.com/3a/f2/9d/3af29d4ada9311efc1d532779f1954a4.js"></script>
 
 </body>
 </html>

@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Loading… - MovieZone</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: #0f0f0f;
+    color: #e5e5e5;
+    min-height: 100vh;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  header {
+    background: #1a1a1a;
+    border-bottom: 1px solid #2a2a2a;
+    padding: 14px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .logo {
+    font-size: 26px;
+    font-weight: 800;
+    color: #fff;
+    letter-spacing: -0.5px;
+  }
+  .logo span { color: #f5b50a; }
+  nav ul { list-style: none; display: flex; gap: 28px; }
+  nav a {
+    color: #ccc;
+    font-size: 14px;
+    font-weight: 500;
+    transition: color 0.2s;
+  }
+  nav a:hover { color: #f5b50a; }
+  .btn-login {
+    background: #f5b50a;
+    color: #000;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 13px;
+  }
+
+  .breadcrumb {
+    padding: 18px 40px 0;
+    font-size: 13px;
+    color: #888;
+  }
+  .breadcrumb a { color: #f5b50a; }
+  .breadcrumb a:hover { text-decoration: underline; }
+
+  .player-wrap {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 40px;
+  }
+
+  /* Video player placeholder */
+  .player {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #000;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 10px 50px rgba(0, 0, 0, 0.6);
+  }
+  .player-bg {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    filter: blur(20px) brightness(0.35);
+    transform: scale(1.1);
+  }
+  .player-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 30px;
+  }
+  .play-btn {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background: rgba(245, 181, 10, 0.95);
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18px;
+    transition: transform 0.2s, background 0.2s;
+    box-shadow: 0 0 30px rgba(245, 181, 10, 0.4);
+  }
+  .play-btn:hover {
+    transform: scale(1.08);
+    background: #ffc933;
+  }
+  .play-btn svg { width: 36px; height: 36px; fill: #000; margin-left: 4px; }
+  .player-hint {
+    color: #ccc;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+  }
+
+  /* Error state shown after clicking play */
+  .error-state {
+    position: absolute;
+    inset: 0;
+    background: rgba(10, 10, 10, 0.97);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 40px 30px;
+  }
+  .error-state.show { display: flex; }
+  .error-icon {
+    width: 64px;
+    height: 64px;
+    background: rgba(229, 9, 20, 0.15);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  .error-icon svg { width: 32px; height: 32px; fill: #e50914; }
+  .error-state h3 {
+    font-size: 22px;
+    color: #fff;
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  .error-state p {
+    color: #aaa;
+    font-size: 14px;
+    max-width: 520px;
+    line-height: 1.6;
+    margin-bottom: 24px;
+  }
+  .error-actions {
+    display: flex;
+    gap: 12px;
+  }
+  .err-btn {
+    background: transparent;
+    color: #ccc;
+    border: 1px solid #444;
+    padding: 10px 22px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .err-btn:hover { border-color: #f5b50a; color: #f5b50a; }
+  .err-btn.primary {
+    background: #f5b50a;
+    color: #000;
+    border-color: #f5b50a;
+  }
+  .err-btn.primary:hover { background: #ffc933; color: #000; }
+  .error-code {
+    margin-top: 18px;
+    font-family: 'Courier New', monospace;
+    font-size: 11px;
+    color: #555;
+    letter-spacing: 1px;
+  }
+
+  /* Server list (decorative — also broken) */
+  .servers {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 16px;
+    justify-content: center;
+  }
+  .server-chip {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    color: #888;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-size: 12px;
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
+  .server-chip.unavailable::after {
+    content: ' • offline';
+    color: #e50914;
+    font-size: 10px;
+  }
+
+  /* Movie info section */
+  .info-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px 40px 50px;
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 30px;
+  }
+  .info-poster {
+    width: 100%;
+    aspect-ratio: 2/3;
+    border-radius: 8px;
+    object-fit: cover;
+    background: #2a2a2a;
+  }
+  .info-body h1 {
+    font-size: 32px;
+    color: #fff;
+    margin-bottom: 10px;
+    font-weight: 800;
+  }
+  .info-meta {
+    display: flex;
+    gap: 14px;
+    color: #aaa;
+    font-size: 13px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .rating-pill { color: #f5b50a; font-weight: 600; }
+  .quality-pill {
+    background: #e50914;
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 11px;
+  }
+  .info-genres {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  .info-genres span {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    color: #ccc;
+    padding: 5px 12px;
+    border-radius: 14px;
+    font-size: 12px;
+  }
+  .info-desc {
+    color: #bbb;
+    font-size: 15px;
+    line-height: 1.7;
+    margin-bottom: 24px;
+  }
+  .info-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+  .action-btn {
+    background: transparent;
+    color: #ccc;
+    border: 1px solid #444;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .action-btn:hover { border-color: #f5b50a; color: #f5b50a; }
+
+  /* Related */
+  .related-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 40px 50px;
+  }
+  .related-wrap h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    border-left: 3px solid #f5b50a;
+    padding-left: 12px;
+    margin-bottom: 22px;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 16px;
+  }
+  .related-card {
+    background: #1a1a1a;
+    border-radius: 6px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.2s;
+    display: block;
+  }
+  .related-card:hover { transform: translateY(-3px); }
+  .related-card img {
+    width: 100%;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+    display: block;
+  }
+  .related-card .title-line {
+    padding: 8px 10px 10px;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  footer {
+    background: #1a1a1a;
+    border-top: 1px solid #2a2a2a;
+    padding: 30px 40px;
+    text-align: center;
+    color: #666;
+    font-size: 13px;
+  }
+
+  .not-found {
+    text-align: center;
+    padding: 100px 20px;
+    color: #aaa;
+  }
+  .not-found h1 { color: #fff; font-size: 28px; margin-bottom: 10px; }
+  .not-found a { color: #f5b50a; text-decoration: underline; }
+
+  @media (max-width: 768px) {
+    header { padding: 12px 16px; }
+    nav { display: none; }
+    .breadcrumb { padding: 14px 16px 0; }
+    .player-wrap { padding: 0 16px; margin: 14px auto; }
+    .info-wrap {
+      grid-template-columns: 1fr;
+      padding: 24px 16px 40px;
+    }
+    .info-poster { max-width: 200px; margin: 0 auto; }
+    .info-body h1 { font-size: 24px; text-align: center; }
+    .info-meta { justify-content: center; }
+    .info-genres { justify-content: center; }
+    .info-actions { justify-content: center; }
+    .related-wrap { padding: 0 16px 40px; }
+    .related-grid { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 12px; }
+    .play-btn { width: 70px; height: 70px; }
+    .play-btn svg { width: 28px; height: 28px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="index.html">Movie<span>Zone</span></a>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="index.html">Movies</a></li>
+      <li><a href="index.html">TV Shows</a></li>
+      <li><a href="index.html">Top IMDB</a></li>
+    </ul>
+  </nav>
+  <button class="btn-login">Login</button>
+</header>
+
+<main id="content"><!-- filled by JS --></main>
+
+<footer>
+  <p>&copy; 2026 MovieZone. This is a demo site. No real streaming content.</p>
+</footer>
+
+<script src="catalog.js"></script>
+<script>
+  function getQueryId() {
+    const params = new URLSearchParams(window.location.search);
+    return parseInt(params.get('id'), 10);
+  }
+
+  function renderNotFound() {
+    document.getElementById('content').innerHTML = `
+      <div class="not-found">
+        <h1>Movie not found</h1>
+        <p>We couldn't find that title. <a href="index.html">Back to home</a></p>
+      </div>`;
+  }
+
+  function renderMovie(m) {
+    document.title = `${m.title} (${m.year}) - MovieZone`;
+
+    const related = catalog
+      .filter(x => x.id !== m.id && x.genres.some(g => m.genres.includes(g)))
+      .slice(0, 6);
+
+    document.getElementById('content').innerHTML = `
+      <div class="breadcrumb">
+        <a href="index.html">Home</a> / <a href="index.html">${m.kind === 'tv' ? 'TV Shows' : 'Movies'}</a> / ${m.title}
+      </div>
+
+      <div class="player-wrap">
+        <div class="player" id="player">
+          <div class="player-bg" style="background-image:url('${m.poster}')"></div>
+          <div class="player-overlay" id="playerOverlay">
+            <button class="play-btn" onclick="tryPlay()" aria-label="Play">
+              <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+            </button>
+            <div class="player-hint">${m.title} (${m.year}) • ${m.quality} • ${m.duration}</div>
+            <div class="servers">
+              <div class="server-chip unavailable">Server 1</div>
+              <div class="server-chip unavailable">Server 2</div>
+              <div class="server-chip unavailable">Server 3 (Backup)</div>
+            </div>
+          </div>
+          <div class="error-state" id="errorState">
+            <div class="error-icon">
+              <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/></svg>
+            </div>
+            <h3>Player Temporarily Unavailable</h3>
+            <p>We're experiencing issues with our streaming servers. Our team is working on a fix — please check back shortly.</p>
+            <div class="error-actions">
+              <button class="err-btn primary" onclick="resetPlayer()">Retry</button>
+              <a class="err-btn" href="index.html">Back to Home</a>
+            </div>
+            <div class="error-code">ERR_PLAYER_OFFLINE • SRC_UNAVAILABLE</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="info-wrap">
+        <img class="info-poster" src="${m.poster}" alt="${m.title}" />
+        <div class="info-body">
+          <h1>${m.title}</h1>
+          <div class="info-meta">
+            <span>${m.year}</span>
+            <span class="rating-pill">★ ${m.rating}</span>
+            <span>${m.duration}</span>
+            <span class="quality-pill">${m.quality}</span>
+          </div>
+          <div class="info-genres">${m.genres.map(g => `<span>${g}</span>`).join('')}</div>
+          <p class="info-desc">${m.desc}</p>
+          <div class="info-actions">
+            <button class="action-btn">+ Watchlist</button>
+            <button class="action-btn">↗ Share</button>
+            <button class="action-btn">⚑ Report Issue</button>
+          </div>
+        </div>
+      </div>
+
+      ${related.length ? `
+      <div class="related-wrap">
+        <h2>You may also like</h2>
+        <div class="related-grid">
+          ${related.map(r => `
+            <a class="related-card" href="watch.html?id=${r.id}">
+              <img src="${r.poster}" alt="${r.title}" loading="lazy" />
+              <div class="title-line">${r.title}</div>
+            </a>
+          `).join('')}
+        </div>
+      </div>` : ''}
+    `;
+  }
+
+  function tryPlay() {
+    document.getElementById('playerOverlay').style.display = 'none';
+    setTimeout(() => {
+      document.getElementById('errorState').classList.add('show');
+    }, 1200);
+  }
+
+  function resetPlayer() {
+    document.getElementById('errorState').classList.remove('show');
+    document.getElementById('playerOverlay').style.display = 'flex';
+  }
+
+  const id = getQueryId();
+  const movie = catalog.find(m => m.id === id);
+  if (movie) renderMovie(movie);
+  else renderNotFound();
+</script>
+
+</body>
+</html>
