@@ -287,8 +287,8 @@
       <a class="movie" href="watch.html?id=${m.id}">
         ${badgeHtml}
         <div class="quality">${m.quality}</div>
-        <img class="poster" src="${m.poster}" alt="${m.title}" loading="lazy"
-             onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 200 300%22><rect width=%22200%22 height=%22300%22 fill=%22%23222%22/><text x=%22100%22 y=%22150%22 fill=%22%23888%22 text-anchor=%22middle%22 font-family=%22sans-serif%22 font-size=%2214%22>No Image</text></svg>'" />
+        <img class="poster" src="${posterFor(m)}" alt="${m.title}" loading="lazy"
+             onerror="this.onerror=null;this.src=window.placeholderPoster(${JSON.stringify(m.title)})" />
         <div class="movie-info">
           <div class="movie-title">${m.title}</div>
           <div class="movie-meta">

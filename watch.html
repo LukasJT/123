@@ -86,7 +86,7 @@
   .player-overlay {
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, 0.55);
+    background: rgba(0, 0, 0, 0.7);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -94,96 +94,60 @@
     text-align: center;
     padding: 30px;
   }
-  .play-btn {
-    width: 90px;
-    height: 90px;
-    border-radius: 50%;
-    background: rgba(245, 181, 10, 0.95);
-    border: none;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 18px;
-    transition: transform 0.2s, background 0.2s;
-    box-shadow: 0 0 30px rgba(245, 181, 10, 0.4);
-  }
-  .play-btn:hover {
-    transform: scale(1.08);
-    background: #ffc933;
-  }
-  .play-btn svg { width: 36px; height: 36px; fill: #000; margin-left: 4px; }
-  .player-hint {
-    color: #ccc;
-    font-size: 14px;
-    letter-spacing: 0.3px;
-  }
 
-  /* Error state shown after clicking play */
-  .error-state {
-    position: absolute;
-    inset: 0;
-    background: rgba(10, 10, 10, 0.97);
-    display: none;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    padding: 40px 30px;
-  }
-  .error-state.show { display: flex; }
-  .error-icon {
+  /* Infinite loading state */
+  .spinner {
     width: 64px;
     height: 64px;
-    background: rgba(229, 9, 20, 0.15);
+    border: 4px solid rgba(245, 181, 10, 0.15);
+    border-top-color: #f5b50a;
     border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 20px;
+    animation: spin 0.9s linear infinite;
+    margin-bottom: 22px;
   }
-  .error-icon svg { width: 32px; height: 32px; fill: #e50914; }
-  .error-state h3 {
-    font-size: 22px;
-    color: #fff;
-    margin-bottom: 10px;
-    font-weight: 700;
-  }
-  .error-state p {
-    color: #aaa;
-    font-size: 14px;
-    max-width: 520px;
-    line-height: 1.6;
-    margin-bottom: 24px;
-  }
-  .error-actions {
-    display: flex;
-    gap: 12px;
-  }
-  .err-btn {
-    background: transparent;
-    color: #ccc;
-    border: 1px solid #444;
-    padding: 10px 22px;
-    border-radius: 6px;
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .loading-text {
+    color: #eee;
+    font-size: 15px;
     font-weight: 600;
-    font-size: 13px;
-    cursor: pointer;
-    transition: all 0.2s;
+    letter-spacing: 0.3px;
+    margin-bottom: 6px;
   }
-  .err-btn:hover { border-color: #f5b50a; color: #f5b50a; }
-  .err-btn.primary {
-    background: #f5b50a;
-    color: #000;
-    border-color: #f5b50a;
-  }
-  .err-btn.primary:hover { background: #ffc933; color: #000; }
-  .error-code {
-    margin-top: 18px;
+  .loading-sub {
+    color: #888;
+    font-size: 12px;
+    margin-bottom: 22px;
     font-family: 'Courier New', monospace;
-    font-size: 11px;
-    color: #555;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
+  }
+  .loading-bar {
+    width: min(420px, 80%);
+    height: 4px;
+    background: rgba(255,255,255,0.08);
+    border-radius: 2px;
+    overflow: hidden;
+    position: relative;
+  }
+  .loading-bar::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 40%;
+    background: linear-gradient(90deg, transparent, #f5b50a, transparent);
+    animation: slide 1.6s ease-in-out infinite;
+  }
+  @keyframes slide {
+    0%   { transform: translateX(-100%); }
+    100% { transform: translateX(350%); }
+  }
+  .player-hint {
+    color: #888;
+    font-size: 12px;
+    margin-top: 22px;
+    letter-spacing: 0.3px;
   }
 
   /* Server picker (below the player) */
@@ -471,24 +435,13 @@
 
       <div class="player-wrap">
         <div class="player" id="player">
-          <div class="player-bg" style="background-image:url('${m.poster}')"></div>
-          <div class="player-overlay" id="playerOverlay">
-            <button class="play-btn" onclick="tryPlay()" aria-label="Play">
-              <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-            </button>
-            <div class="player-hint">${m.title} (${m.year}) • ${m.quality} • ${m.duration}</div>
-          </div>
-          <div class="error-state" id="errorState">
-            <div class="error-icon">
-              <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"/></svg>
-            </div>
-            <h3>Player Temporarily Unavailable</h3>
-            <p>We're experiencing issues with our streaming servers. Our team is working on a fix — please check back shortly.</p>
-            <div class="error-actions">
-              <button class="err-btn primary" onclick="resetPlayer()">Retry</button>
-              <a class="err-btn" href="index.html">Back to Home</a>
-            </div>
-            <div class="error-code">ERR_PLAYER_OFFLINE • SERVER_${activeServer} • SRC_UNAVAILABLE</div>
+          <div class="player-bg" style="background-image:url('${posterFor(m)}')"></div>
+          <div class="player-overlay">
+            <div class="spinner"></div>
+            <div class="loading-text">Loading stream…</div>
+            <div class="loading-sub">Connecting to Server ${activeServer} • ${m.quality}</div>
+            <div class="loading-bar"></div>
+            <div class="player-hint">${m.title} (${m.year}) • ${m.duration}</div>
           </div>
         </div>
       </div>
@@ -509,7 +462,8 @@
       </div>
 
       <div class="info-wrap">
-        <img class="info-poster" src="${m.poster}" alt="${m.title}" />
+        <img class="info-poster" src="${posterFor(m)}" alt="${m.title}"
+             onerror="this.onerror=null;this.src=window.placeholderPoster(${JSON.stringify(m.title)})" />
         <div class="info-body">
           <h1>${m.title}</h1>
           <div class="info-meta">
@@ -534,25 +488,14 @@
         <div class="related-grid">
           ${related.map(r => `
             <a class="related-card" href="watch.html?id=${r.id}">
-              <img src="${r.poster}" alt="${r.title}" loading="lazy" />
+              <img src="${posterFor(r)}" alt="${r.title}" loading="lazy"
+                   onerror="this.onerror=null;this.src=window.placeholderPoster(${JSON.stringify(r.title)})" />
               <div class="title-line">${r.title}</div>
             </a>
           `).join('')}
         </div>
       </div>` : ''}
     `;
-  }
-
-  function tryPlay() {
-    document.getElementById('playerOverlay').style.display = 'none';
-    setTimeout(() => {
-      document.getElementById('errorState').classList.add('show');
-    }, 1200);
-  }
-
-  function resetPlayer() {
-    document.getElementById('errorState').classList.remove('show');
-    document.getElementById('playerOverlay').style.display = 'flex';
   }
 
   const id = getQueryId();
