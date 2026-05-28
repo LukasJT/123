@@ -358,11 +358,9 @@
   }
 
   function doSearch() {
-    activeQuery = document.getElementById('search').value.trim();
-    renderMain();
-    if (activeQuery) {
-      window.scrollTo({ top: document.getElementById('main').offsetTop - 20, behavior: 'smooth' });
-    }
+    const q = document.getElementById('search').value.trim();
+    if (!q) return;
+    window.location.href = 'search.html?q=' + encodeURIComponent(q);
   }
 
   function filterSection(kind) {
@@ -382,12 +380,8 @@
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  document.getElementById('search').addEventListener('input', () => {
-    activeQuery = document.getElementById('search').value.trim();
-    renderMain();
-  });
   document.getElementById('search').addEventListener('keypress', e => {
-    if (e.key === 'Enter') doSearch();
+    if (e.key === 'Enter') { e.preventDefault(); doSearch(); }
   });
 
   renderGenres();

@@ -186,28 +186,69 @@
     letter-spacing: 1px;
   }
 
-  /* Server list (decorative — also broken) */
-  .servers {
+  /* Server picker (below the player) */
+  .server-bar {
+    max-width: 1200px;
+    margin: 14px auto 0;
+    padding: 0 40px;
+  }
+  .server-bar-inner {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    padding: 14px 18px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+  .server-bar-label {
+    color: #888;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+  }
+  .server-tabs {
     display: flex;
     gap: 8px;
     flex-wrap: wrap;
-    margin-top: 16px;
-    justify-content: center;
+    flex: 1;
   }
-  .server-chip {
-    background: #1a1a1a;
+  .server-tab {
+    background: #0f0f0f;
     border: 1px solid #2a2a2a;
-    color: #888;
-    padding: 6px 14px;
-    border-radius: 4px;
-    font-size: 12px;
-    cursor: not-allowed;
-    opacity: 0.6;
+    color: #ccc;
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
   }
-  .server-chip.unavailable::after {
-    content: ' • offline';
-    color: #e50914;
-    font-size: 10px;
+  .server-tab:hover {
+    border-color: #555;
+    color: #fff;
+  }
+  .server-tab.active {
+    background: #f5b50a;
+    color: #000;
+    border-color: #f5b50a;
+    box-shadow: 0 0 0 1px #f5b50a inset;
+  }
+  .server-tab.active:hover { background: #ffc933; color: #000; }
+  .server-tab .dot-indicator {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #666;
+  }
+  .server-tab.active .dot-indicator {
+    background: #000;
+    box-shadow: 0 0 0 2px rgba(0,0,0,0.2);
   }
 
   /* Movie info section */
@@ -389,10 +430,24 @@
 
 <script src="catalog.js"></script>
 <script>
+  const SERVERS = [
+    { id: 1, label: 'US' },
+    { id: 2, label: 'EU' },
+    { id: 3, label: 'Backup' },
+  ];
+
   function getQueryId() {
     const params = new URLSearchParams(window.location.search);
     return parseInt(params.get('id'), 10);
   }
+
+  function getActiveServer() {
+    const params = new URLSearchParams(window.location.search);
+    const s = parseInt(params.get('server'), 10);
+    return SERVERS.some(x => x.id === s) ? s : 1;
+  }
+
+  const activeServer = getActiveServer();
 
   function renderNotFound() {
     document.getElementById('content').innerHTML = `
@@ -422,11 +477,6 @@
               <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
             </button>
             <div class="player-hint">${m.title} (${m.year}) • ${m.quality} • ${m.duration}</div>
-            <div class="servers">
-              <div class="server-chip unavailable">Server 1</div>
-              <div class="server-chip unavailable">Server 2</div>
-              <div class="server-chip unavailable">Server 3 (Backup)</div>
-            </div>
           </div>
           <div class="error-state" id="errorState">
             <div class="error-icon">
@@ -438,7 +488,22 @@
               <button class="err-btn primary" onclick="resetPlayer()">Retry</button>
               <a class="err-btn" href="index.html">Back to Home</a>
             </div>
-            <div class="error-code">ERR_PLAYER_OFFLINE • SRC_UNAVAILABLE</div>
+            <div class="error-code">ERR_PLAYER_OFFLINE • SERVER_${activeServer} • SRC_UNAVAILABLE</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="server-bar">
+        <div class="server-bar-inner">
+          <div class="server-bar-label">Streaming Server:</div>
+          <div class="server-tabs">
+            ${SERVERS.map(s => `
+              <a class="server-tab ${s.id === activeServer ? 'active' : ''}"
+                 href="watch.html?id=${m.id}&server=${s.id}">
+                <span class="dot-indicator"></span>
+                Server ${s.id} <span style="opacity:0.7;font-weight:500">(${s.label})</span>
+              </a>
+            `).join('')}
           </div>
         </div>
       </div>

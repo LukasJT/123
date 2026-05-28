@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Search - MovieZone</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: #0f0f0f;
+    color: #e5e5e5;
+    min-height: 100vh;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  header {
+    background: #1a1a1a;
+    border-bottom: 1px solid #2a2a2a;
+    padding: 14px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .logo {
+    font-size: 26px;
+    font-weight: 800;
+    color: #fff;
+    letter-spacing: -0.5px;
+  }
+  .logo span { color: #f5b50a; }
+  nav ul { list-style: none; display: flex; gap: 28px; }
+  nav a {
+    color: #ccc;
+    font-size: 14px;
+    font-weight: 500;
+    transition: color 0.2s;
+  }
+  nav a:hover { color: #f5b50a; }
+  .btn-login {
+    background: #f5b50a;
+    color: #000;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 13px;
+  }
+
+  .search-hero {
+    padding: 50px 40px 30px;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(15,15,15,1)),
+      radial-gradient(circle at 30% 50%, #2a1810, #0f0f0f);
+  }
+  .search-form {
+    max-width: 700px;
+    margin: 0 auto;
+    display: flex;
+    background: #fff;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.5);
+  }
+  .search-form input {
+    flex: 1;
+    border: none;
+    padding: 14px 22px;
+    font-size: 15px;
+    outline: none;
+    color: #111;
+  }
+  .search-form button {
+    background: #f5b50a;
+    border: none;
+    padding: 0 32px;
+    font-weight: 700;
+    font-size: 14px;
+    color: #000;
+    cursor: pointer;
+    letter-spacing: 0.5px;
+  }
+  .search-form button:hover { background: #ffc933; }
+
+  .results-wrap {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 30px 40px 50px;
+  }
+  .results-header {
+    margin-bottom: 24px;
+    border-left: 3px solid #f5b50a;
+    padding-left: 14px;
+  }
+  .results-header h1 {
+    font-size: 22px;
+    color: #fff;
+    margin-bottom: 4px;
+    font-weight: 700;
+  }
+  .results-header .count { color: #888; font-size: 13px; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 18px;
+  }
+  .movie {
+    background: #1a1a1a;
+    border-radius: 6px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+    display: block;
+  }
+  .movie:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 30px rgba(245, 181, 10, 0.2);
+  }
+  .poster {
+    width: 100%;
+    aspect-ratio: 2/3;
+    background: #2a2a2a;
+    object-fit: cover;
+    display: block;
+  }
+  .badge {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background: rgba(245, 181, 10, 0.95);
+    color: #000;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 3px;
+    z-index: 2;
+  }
+  .badge.new { background: #e50914; color: #fff; }
+  .quality {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: rgba(0,0,0,0.8);
+    color: #fff;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 3px 7px;
+    border-radius: 3px;
+    z-index: 2;
+  }
+  .movie-info { padding: 10px 12px 14px; }
+  .movie-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 4px;
+  }
+  .movie-meta {
+    font-size: 12px;
+    color: #888;
+    display: flex;
+    gap: 8px;
+  }
+  .movie-meta .dot { color: #555; }
+
+  .empty {
+    text-align: center;
+    padding: 80px 20px;
+    color: #888;
+  }
+  .empty h2 { color: #fff; font-size: 22px; margin-bottom: 10px; font-weight: 700; }
+  .empty p { font-size: 14px; margin-bottom: 24px; }
+  .empty .suggestions {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .empty .suggestions a {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    padding: 7px 14px;
+    border-radius: 18px;
+    color: #ccc;
+    font-size: 13px;
+    transition: all 0.2s;
+  }
+  .empty .suggestions a:hover { border-color: #f5b50a; color: #f5b50a; }
+
+  footer {
+    background: #1a1a1a;
+    border-top: 1px solid #2a2a2a;
+    padding: 30px 40px;
+    text-align: center;
+    color: #666;
+    font-size: 13px;
+  }
+
+  @media (max-width: 768px) {
+    header { padding: 12px 16px; }
+    nav { display: none; }
+    .search-hero { padding: 30px 16px 20px; }
+    .results-wrap { padding: 20px 16px 40px; }
+    .grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 12px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a class="logo" href="index.html">Movie<span>Zone</span></a>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="index.html">Movies</a></li>
+      <li><a href="index.html">TV Shows</a></li>
+      <li><a href="index.html">Top IMDB</a></li>
+    </ul>
+  </nav>
+  <button class="btn-login">Login</button>
+</header>
+
+<section class="search-hero">
+  <form class="search-form" id="searchForm" onsubmit="submitSearch(event)">
+    <input type="text" id="searchInput" name="q" placeholder="Search for movies, TV shows, genres..." autocomplete="off" />
+    <button type="submit">SEARCH</button>
+  </form>
+</section>
+
+<main class="results-wrap" id="results"></main>
+
+<footer>
+  <p>&copy; 2026 MovieZone. This is a demo site. No real streaming content.</p>
+</footer>
+
+<script src="catalog.js"></script>
+<script>
+  function getQuery() {
+    return (new URLSearchParams(window.location.search).get('q') || '').trim();
+  }
+
+  function submitSearch(e) {
+    e.preventDefault();
+    const v = document.getElementById('searchInput').value.trim();
+    if (!v) return;
+    window.location.href = 'search.html?q=' + encodeURIComponent(v);
+  }
+
+  // Score a movie against the query. Higher = more relevant.
+  function scoreMovie(m, queryWords) {
+    let score = 0;
+    const title = m.title.toLowerCase();
+    const genres = m.genres.map(g => g.toLowerCase());
+    const yearStr = String(m.year).toLowerCase();
+
+    for (const w of queryWords) {
+      if (!w) continue;
+      if (title === w) score += 200;
+      else if (title.startsWith(w)) score += 120;
+      else if (title.split(/\s+/).some(t => t === w)) score += 100;
+      else if (title.includes(w)) score += 60;
+
+      if (genres.some(g => g === w)) score += 50;
+      else if (genres.some(g => g.includes(w))) score += 30;
+
+      if (yearStr.includes(w)) score += 25;
+    }
+    return score;
+  }
+
+  function makeCard(m) {
+    const badgeHtml = m.badge
+      ? `<div class="badge ${m.badge === 'NEW' ? 'new' : ''}">${m.badge}</div>`
+      : '';
+    return `
+      <a class="movie" href="watch.html?id=${m.id}">
+        ${badgeHtml}
+        <div class="quality">${m.quality}</div>
+        <img class="poster" src="${m.poster}" alt="${m.title}" loading="lazy"
+             onerror="this.onerror=null;this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 200 300%22><rect width=%22200%22 height=%22300%22 fill=%22%23222%22/><text x=%22100%22 y=%22150%22 fill=%22%23888%22 text-anchor=%22middle%22 font-family=%22sans-serif%22 font-size=%2214%22>No Image</text></svg>'" />
+        <div class="movie-info">
+          <div class="movie-title">${m.title}</div>
+          <div class="movie-meta">
+            <span>${m.year}</span>
+            <span class="dot">•</span>
+            <span>★ ${m.rating}</span>
+          </div>
+        </div>
+      </a>`;
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function render() {
+    const q = getQuery();
+    document.getElementById('searchInput').value = q;
+    document.title = q ? `"${q}" - Search - MovieZone` : 'Search - MovieZone';
+
+    const resultsEl = document.getElementById('results');
+
+    if (!q) {
+      resultsEl.innerHTML = `
+        <div class="empty">
+          <h2>Type something to search</h2>
+          <p>Find movies and TV shows by title, genre, or year.</p>
+          <div class="suggestions">
+            <a href="search.html?q=action">action</a>
+            <a href="search.html?q=horror">horror</a>
+            <a href="search.html?q=2023">2023</a>
+            <a href="search.html?q=batman">batman</a>
+            <a href="search.html?q=animation">animation</a>
+          </div>
+        </div>`;
+      return;
+    }
+
+    const words = q.toLowerCase().split(/\s+/).filter(Boolean);
+    const scored = catalog
+      .map(m => ({ m, score: scoreMovie(m, words) }))
+      .filter(x => x.score > 0)
+      .sort((a, b) => b.score - a.score);
+
+    if (!scored.length) {
+      resultsEl.innerHTML = `
+        <div class="empty">
+          <h2>No results for "${escapeHtml(q)}"</h2>
+          <p>Try a different search term, or browse one of these:</p>
+          <div class="suggestions">
+            <a href="search.html?q=action">action</a>
+            <a href="search.html?q=drama">drama</a>
+            <a href="search.html?q=sci-fi">sci-fi</a>
+            <a href="search.html?q=comedy">comedy</a>
+            <a href="index.html">Back to home</a>
+          </div>
+        </div>`;
+      return;
+    }
+
+    resultsEl.innerHTML = `
+      <div class="results-header">
+        <h1>Results for "${escapeHtml(q)}"</h1>
+        <div class="count">${scored.length} result${scored.length === 1 ? '' : 's'}</div>
+      </div>
+      <div class="grid">${scored.map(x => makeCard(x.m)).join('')}</div>`;
+  }
+
+  render();
+</script>
+
+</body>
+</html>
