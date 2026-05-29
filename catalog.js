@@ -25,6 +25,40 @@ window.posterFor = function(m) {
   return (m.poster && m.poster.length) ? m.poster : window.placeholderPoster(m.title);
 };
 
+// Continue-watching: localStorage-backed recently-watched list
+window.MZ_HISTORY_KEY = 'mz_history_v1';
+window.MZ_HISTORY_MAX = 12;
+
+window.recordWatch = function(movieId) {
+  try {
+    const list = window.getRecentlyWatched();
+    const filtered = list.filter(e => e.id !== movieId);
+    filtered.unshift({ id: movieId, ts: Date.now(), progress: Math.floor(Math.random() * 70) + 5 });
+    const trimmed = filtered.slice(0, window.MZ_HISTORY_MAX);
+    localStorage.setItem(window.MZ_HISTORY_KEY, JSON.stringify(trimmed));
+  } catch (e) { /* localStorage may be disabled */ }
+};
+
+window.getRecentlyWatched = function() {
+  try {
+    const raw = localStorage.getItem(window.MZ_HISTORY_KEY);
+    if (!raw) return [];
+    const list = JSON.parse(raw);
+    return Array.isArray(list) ? list : [];
+  } catch (e) { return []; }
+};
+
+window.removeFromHistory = function(movieId) {
+  try {
+    const filtered = window.getRecentlyWatched().filter(e => e.id !== movieId);
+    localStorage.setItem(window.MZ_HISTORY_KEY, JSON.stringify(filtered));
+  } catch (e) {}
+};
+
+window.clearHistory = function() {
+  try { localStorage.removeItem(window.MZ_HISTORY_KEY); } catch (e) {}
+};
+
 window.catalog = [
   // === TRENDING ===
   { id:1, kind:'movie', title:"Oppenheimer", year:2023, quality:"HD", rating:"8.4", duration:"3h 0m", genres:["Drama","History","Biography"], section:"trending", badge:"HOT", poster:"https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg", desc:"The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during World War II."},
