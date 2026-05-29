@@ -4,6 +4,9 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Loading… - MovieZone</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+<link rel="apple-touch-icon" href="favicon.svg" />
+<meta name="theme-color" content="#f5b50a" />
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -30,8 +33,17 @@
     font-weight: 800;
     color: #fff;
     letter-spacing: -0.5px;
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
   }
   .logo span { color: #f5b50a; }
+  .logo-mark {
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    filter: drop-shadow(0 0 8px rgba(245, 181, 10, 0.25));
+  }
   nav ul { list-style: none; display: flex; gap: 28px; }
   nav a {
     color: #ccc;
@@ -374,7 +386,13 @@
 <body>
 
 <header>
-  <a class="logo" href="index.html">Movie<span>Zone</span></a>
+  <a class="logo" href="index.html">
+    <svg class="logo-mark" viewBox="0 0 44 44" aria-hidden="true">
+      <circle cx="22" cy="22" r="22" fill="#f5b50a"/>
+      <polygon points="17,11 17,33 36,22" fill="#0f0f0f"/>
+    </svg>
+    Movie<span>Zone</span>
+  </a>
   <nav>
     <ul>
       <li><a href="index.html">Home</a></li>
