@@ -209,6 +209,34 @@
     margin: 14px auto 0;
     padding: 0 40px;
   }
+  .watch-inline-ad {
+    max-width: 1200px;
+    margin: 16px auto 0;
+    padding: 0 40px;
+  }
+  .watch-inline-ad-inner {
+    background: #171717;
+    border: 1px dashed #3a3a3a;
+    border-radius: 8px;
+    min-height: 86px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 18px;
+  }
+  .watch-inline-ad-label {
+    color: #777;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+  }
+  .watch-inline-ad a {
+    color: #f5b50a;
+    font-weight: 700;
+  }
+
   .server-bar-inner {
     background: #1a1a1a;
     border: 1px solid #2a2a2a;
@@ -596,9 +624,95 @@
   @media (max-width: 420px) {
     .footer-grid { grid-template-columns: 1fr; gap: 24px; }
   }
+
+
+  /* Sponsored popup / interstitial */
+  .sponsored-popup {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.72);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    padding: 18px;
+  }
+  .sponsored-popup.show { display: flex; }
+  .sponsored-popup-card {
+    width: min(520px, 100%);
+    background: #171717;
+    border: 1px solid #3a3a3a;
+    border-radius: 12px;
+    box-shadow: 0 18px 70px rgba(0,0,0,0.75);
+    padding: 22px;
+    text-align: center;
+  }
+  .sponsored-popup-label {
+    color: #888;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    margin-bottom: 10px;
+  }
+  .sponsored-popup-title {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 800;
+    margin-bottom: 8px;
+  }
+  .sponsored-popup-text {
+    color: #aaa;
+    font-size: 14px;
+    line-height: 1.45;
+    margin-bottom: 18px;
+  }
+  .sponsored-popup-actions {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .sponsored-popup-actions a,
+  .sponsored-popup-actions button {
+    border: none;
+    border-radius: 6px;
+    padding: 11px 18px;
+    font-weight: 800;
+    cursor: pointer;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  .sponsored-popup-sponsor {
+    background: #f5b50a;
+    color: #000;
+  }
+  .sponsored-popup-continue {
+    background: #2a2a2a;
+    color: #fff;
+  }
+  .sponsored-popup-note {
+    color: #666;
+    font-size: 11px;
+    margin-top: 12px;
+  }
+
 </style>
 </head>
 <body>
+
+<div class="sponsored-popup" id="sponsoredPopup" role="dialog" aria-modal="true" aria-labelledby="sponsoredPopupTitle">
+  <div class="sponsored-popup-card">
+    <div class="sponsored-popup-label">Advertisement</div>
+    <div class="sponsored-popup-title" id="sponsoredPopupTitle">Sponsored message</div>
+    <p class="sponsored-popup-text">Support this site by checking out the sponsor, or continue to your selected page.</p>
+    <div class="sponsored-popup-actions">
+      <a class="sponsored-popup-sponsor" href="https://www.effectivecpmnetwork.com/juxu9sau?key=b98baa5570f162d9918462f7df0dd586" target="_blank" rel="nofollow sponsored noopener">Open Sponsor</a>
+      <button class="sponsored-popup-continue" type="button" id="sponsoredPopupContinue">Continue</button>
+    </div>
+    <div class="sponsored-popup-note">This popup is clearly labeled and does not force ad clicks.</div>
+  </div>
+</div>
+
 
 <aside class="ad-sidebar" aria-label="Advertisement">
   <script>
@@ -717,6 +831,53 @@
 
 <script src="catalog.js"></script>
 <script>
+
+  let pendingSponsoredNavigation = null;
+
+  function showSponsoredPopup(nextAction) {
+    pendingSponsoredNavigation = typeof nextAction === 'function' ? nextAction : null;
+    const popup = document.getElementById('sponsoredPopup');
+    if (popup) popup.classList.add('show');
+  }
+
+  function closeSponsoredPopupAndContinue() {
+    const popup = document.getElementById('sponsoredPopup');
+    if (popup) popup.classList.remove('show');
+    const action = pendingSponsoredNavigation;
+    pendingSponsoredNavigation = null;
+    if (action) action();
+  }
+
+  document.addEventListener('click', function(e) {
+    const continueBtn = e.target.closest('#sponsoredPopupContinue');
+    if (continueBtn) {
+      e.preventDefault();
+      closeSponsoredPopupAndContinue();
+      return;
+    }
+
+    const popup = document.getElementById('sponsoredPopup');
+    if (popup && e.target === popup) {
+      e.preventDefault();
+      popup.classList.remove('show');
+      pendingSponsoredNavigation = null;
+      return;
+    }
+
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+
+    const adGatedLink = e.target.closest('a.movie, a.cw-card, a.related-card, a.server-tab');
+    if (!adGatedLink) return;
+
+    const href = adGatedLink.getAttribute('href');
+    if (!href || href === '#') return;
+
+    e.preventDefault();
+    showSponsoredPopup(function() {
+      window.location.href = href;
+    });
+  });
+
   const SERVERS = [
     { id: 1, label: 'US' },
     { id: 2, label: 'EU' },
@@ -784,6 +945,15 @@
         </div>
       </div>
 
+      <div class="watch-inline-ad" aria-label="Advertisement">
+        <div class="watch-inline-ad-inner">
+          <div>
+            <div class="watch-inline-ad-label">Advertisement</div>
+            <a href="https://www.effectivecpmnetwork.com/juxu9sau?key=b98baa5570f162d9918462f7df0dd586" target="_blank" rel="nofollow sponsored noopener">Sponsored Link</a>
+          </div>
+        </div>
+      </div>
+
       <div class="info-wrap">
         <img class="info-poster" src="${posterFor(m)}" alt="${m.title}"
              onerror="this.onerror=null;this.src=window.placeholderPoster(${JSON.stringify(m.title)})" />
@@ -830,6 +1000,14 @@
   if (movie) {
     renderMovie(movie);
     window.recordWatch(movie.id);
+    const playerEl = document.getElementById('player');
+    if (playerEl) {
+      playerEl.addEventListener('click', function() {
+        showSponsoredPopup(function() {
+          // The demo player has no real stream, so keep the user on the player after the ad.
+        });
+      });
+    }
   } else {
     renderNotFound();
   }
