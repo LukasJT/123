@@ -40,6 +40,9 @@ function url(path, priority, changefreq = 'weekly') {
 const urls = [
   url('/', '1.0', 'daily'),
   url('/index.html', '0.9', 'daily'),
+  ...['privacy.html', 'terms.html', 'dmca.html', 'contact.html', 'faq.html', 'googledd325d3781eb4f8d.html'].map(page =>
+    url('/' + page, page === 'googledd325d3781eb4f8d.html' ? '0.1' : '0.4', 'yearly')
+  ),
   ...landingPages.map(page => url('/' + page.file, '0.9', 'weekly')),
   ...['action', 'comedy', 'horror', 'drama', 'sci-fi', 'trending', '2024'].map(q =>
     url('/search.html?q=' + encodeURIComponent(q), '0.8', 'daily')

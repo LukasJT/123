@@ -72,6 +72,14 @@ function nav() {
   </header>`;
 }
 
+function footer() {
+  return `<footer>
+  <p>&copy; 2026 ${SITE_NAME}. All rights reserved.</p>
+  <p>${SITE_NAME} is an informational catalog. We do not host, stream, or link to full video files.</p>
+  <p><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms</a> · <a href="dmca.html">DMCA</a> · <a href="contact.html">Contact</a></p>
+</footer>`;
+}
+
 function quickLinks() {
   return `<div class="quick-links" aria-label="Popular pages">
     <a href="genre-action.html">Action</a>
@@ -184,12 +192,10 @@ ${quickLinks()}
     <h2>Browse ${esc(page.title)} on ${SITE_NAME}</h2>
     <p>${esc(description)}</p>
     <p>Use this page as a starting point, then open any title for its synopsis, genres, year, rating, poster, and related recommendations. These landing pages are built as static HTML so search engines and visitors can reach important catalog areas quickly.</p>
+    <p>${SITE_NAME} is an informational catalog only. We do not host, stream, or link to full video files.</p>
   </section>
 </main>
-<footer>
-  <p>&copy; 2026 ${SITE_NAME}. All rights reserved.</p>
-  <p>This is a demo catalog site. No real streaming content is provided.</p>
-</footer>
+${footer()}
 </body>
 </html>
 `;

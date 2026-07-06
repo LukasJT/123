@@ -76,11 +76,11 @@ window.MZ_SEO = (function() {
   }
 
   function setMoviePage(movie, activeServer) {
-    const title = `${movie.title} (${movie.year}) - Watch on ${SITE_NAME}`;
+    const title = `${movie.title} (${movie.year}) - Details on ${SITE_NAME}`;
     const description = movieDescription(movie).slice(0, 300);
     const url = movieUrl(movie, activeServer);
     const image = window.posterFor ? window.posterFor(movie) : DEFAULT_IMAGE;
-    setPage({ title, description, url, image, type: 'video.movie' });
+    setPage({ title, description, url, image, type: 'website' });
     setJsonLd('movie-schema', {
       '@context': 'https://schema.org',
       '@type': movie.kind === 'tv' ? 'TVSeries' : 'Movie',

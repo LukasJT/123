@@ -8,7 +8,7 @@ A static movie and TV catalog site for GitHub Pages.
 - Dark theme with hero search bar
 - Genre filter chips
 - Search pages for titles, genres, sections, and years
-- Watch/detail pages with synopsis, rating, genre, and related titles
+- Detail pages with synopsis, rating, genre, and related titles
 - SEO metadata, robots.txt, and sitemap.xml generation
 - Static SEO landing pages for movies, TV shows, top IMDb, latest, trending, genres, and years
 - 838-title catalog across Movies + TV Shows
