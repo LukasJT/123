@@ -3,7 +3,20 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Search - MovieZone</title>
+<title>Search Movies and TV Shows - 123Videos</title>
+<meta name="description" content="Search the 123Videos catalog by title, genre, year, rating, and keyword." />
+<meta name="robots" content="noindex,follow" />
+<link rel="canonical" href="https://123videos.net/search.html" />
+<meta property="og:site_name" content="123Videos" />
+<meta property="og:title" content="Search Movies and TV Shows - 123Videos" />
+<meta property="og:description" content="Search the 123Videos catalog by title, genre, year, rating, and keyword." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://123videos.net/search.html" />
+<meta property="og:image" content="https://123videos.net/favicon.svg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Search Movies and TV Shows - 123Videos" />
+<meta name="twitter:description" content="Search the 123Videos catalog by title, genre, year, rating, and keyword." />
+<meta name="twitter:image" content="https://123videos.net/favicon.svg" />
 <link rel="icon" type="image/svg+xml" href="favicon.svg" />
 <link rel="apple-touch-icon" href="favicon.svg" />
 <link rel="manifest" href="manifest.json" />
@@ -557,7 +570,7 @@
       <circle cx="22" cy="22" r="22" fill="#f5b50a"/>
       <polygon points="17,11 17,33 36,22" fill="#0f0f0f"/>
     </svg>
-    Movie<span>Zone</span>
+    123<span>Videos</span>
   </a>
   <nav>
     <ul>
@@ -611,7 +624,7 @@
           <circle cx="22" cy="22" r="22" fill="#f5b50a"/>
           <polygon points="17,11 17,33 36,22" fill="#0f0f0f"/>
         </svg>
-        Movie<span>Zone</span>
+        123<span>Videos</span>
       </div>
       <p class="footer-tagline">Stream thousands of movies and TV shows in HD quality. Anytime, anywhere.</p>
       <div class="footer-social">
@@ -644,21 +657,22 @@
     <div class="footer-col">
       <h4>Support</h4>
       <ul>
-        <li><a href="#">FAQ</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li><a href="#">Terms of Service</a></li>
-        <li><a href="#">Privacy Policy</a></li>
-        <li><a href="#">DMCA</a></li>
+        <li><a href="index.html">FAQ</a></li>
+        <li><a href="index.html">Contact Us</a></li>
+        <li><a href="index.html">Terms of Service</a></li>
+        <li><a href="index.html">Privacy Policy</a></li>
+        <li><a href="index.html">DMCA</a></li>
       </ul>
     </div>
   </div>
   <div class="footer-bottom">
-    <p>&copy; 2026 MovieZone. All rights reserved.</p>
+    <p>&copy; 2026 123Videos. All rights reserved.</p>
     <p class="disclaimer">This is a demo site. No real streaming content is provided.</p>
   </div>
 </footer>
 
 <script src="catalog.js"></script>
+<script src="seo.js"></script>
 <script>
 
   let pendingSponsoredNavigation = null;
@@ -727,6 +741,8 @@
     const title = m.title.toLowerCase();
     const genres = m.genres.map(g => g.toLowerCase());
     const yearStr = String(m.year).toLowerCase();
+    const kind = m.kind.toLowerCase();
+    const section = m.section.toLowerCase();
 
     for (const w of queryWords) {
       if (!w) continue;
@@ -739,6 +755,8 @@
       else if (genres.some(g => g.includes(w))) score += 30;
 
       if (yearStr.includes(w)) score += 25;
+      if (kind === w || (w === 'movies' && kind === 'movie') || (w === 'shows' && kind === 'tv')) score += 45;
+      if (section === w || section.includes(w)) score += 45;
     }
     return score;
   }
@@ -771,11 +789,10 @@
   function render() {
     const q = getQuery();
     document.getElementById('searchInput').value = q;
-    document.title = q ? `"${q}" - Search - MovieZone` : 'Search - MovieZone';
-
     const resultsEl = document.getElementById('results');
 
     if (!q) {
+      window.MZ_SEO.setSearchPage('', 0);
       resultsEl.innerHTML = `
         <div class="empty">
           <h2>Type something to search</h2>
@@ -796,6 +813,8 @@
       .map(m => ({ m, score: scoreMovie(m, words) }))
       .filter(x => x.score > 0)
       .sort((a, b) => b.score - a.score);
+
+    window.MZ_SEO.setSearchPage(q, scored.length);
 
     if (!scored.length) {
       resultsEl.innerHTML = `

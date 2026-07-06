@@ -3,7 +3,20 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>MovieZone - Watch Free Movies Online</title>
+<title>123Videos - Watch Movies and TV Shows Online</title>
+<meta name="description" content="Browse movies and TV shows by genre, year, rating, and title on 123Videos." />
+<meta name="robots" content="index,follow" />
+<link rel="canonical" href="https://123videos.net/" />
+<meta property="og:site_name" content="123Videos" />
+<meta property="og:title" content="123Videos - Watch Movies and TV Shows Online" />
+<meta property="og:description" content="Browse movies and TV shows by genre, year, rating, and title on 123Videos." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://123videos.net/" />
+<meta property="og:image" content="https://123videos.net/favicon.svg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="123Videos - Watch Movies and TV Shows Online" />
+<meta name="twitter:description" content="Browse movies and TV shows by genre, year, rating, and title on 123Videos." />
+<meta name="twitter:image" content="https://123videos.net/favicon.svg" />
 <link rel="icon" type="image/svg+xml" href="favicon.svg" />
 <link rel="apple-touch-icon" href="favicon.svg" />
 <link rel="manifest" href="manifest.json" />
@@ -11,6 +24,19 @@
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "123Videos",
+  "url": "https://123videos.net/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://123videos.net/search.html?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -660,16 +686,16 @@
       <circle cx="22" cy="22" r="22" fill="#f5b50a"/>
       <polygon points="17,11 17,33 36,22" fill="#0f0f0f"/>
     </svg>
-    Movie<span>Zone</span>
+    123<span>Videos</span>
   </div>
   <nav>
     <ul>
-      <li><a href="#" onclick="resetView();return false;">Home</a></li>
-      <li><a href="#" onclick="filterSection('movie');return false;">Movies</a></li>
-      <li><a href="#" onclick="filterSection('tv');return false;">TV Shows</a></li>
-      <li><a href="#">Top IMDB</a></li>
-      <li><a href="#">Genre</a></li>
-      <li><a href="#">Country</a></li>
+      <li><a href="index.html" onclick="resetView();return false;">Home</a></li>
+      <li><a href="search.html?q=movie" onclick="filterSection('movie');return false;">Movies</a></li>
+      <li><a href="search.html?q=tv" onclick="filterSection('tv');return false;">TV Shows</a></li>
+      <li><a href="search.html?q=top">Top IMDB</a></li>
+      <li><a href="search.html?q=action">Genre</a></li>
+      <li><a href="search.html?q=united-states">Country</a></li>
     </ul>
   </nav>
   <div class="header-right">
@@ -681,9 +707,9 @@
 </header>
 
 <nav class="mobile-nav" id="mobileNav">
-  <a href="#" onclick="resetView();closeMobileMenu();return false;">Home</a>
-  <a href="#" onclick="filterSection('movie');closeMobileMenu();return false;">Movies</a>
-  <a href="#" onclick="filterSection('tv');closeMobileMenu();return false;">TV Shows</a>
+  <a href="index.html" onclick="resetView();closeMobileMenu();return false;">Home</a>
+  <a href="search.html?q=movie" onclick="filterSection('movie');closeMobileMenu();return false;">Movies</a>
+  <a href="search.html?q=tv" onclick="filterSection('tv');closeMobileMenu();return false;">TV Shows</a>
   <a href="search.html?q=action">Action</a>
   <a href="search.html?q=comedy">Comedy</a>
   <a href="search.html?q=horror">Horror</a>
@@ -723,7 +749,7 @@
           <circle cx="22" cy="22" r="22" fill="#f5b50a"/>
           <polygon points="17,11 17,33 36,22" fill="#0f0f0f"/>
         </svg>
-        Movie<span>Zone</span>
+        123<span>Videos</span>
       </div>
       <p class="footer-tagline">Stream thousands of movies and TV shows in HD quality. Anytime, anywhere.</p>
       <div class="footer-social">
@@ -737,8 +763,8 @@
       <h4>Browse</h4>
       <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="#" onclick="filterSection('movie');return false;">Movies</a></li>
-        <li><a href="#" onclick="filterSection('tv');return false;">TV Shows</a></li>
+        <li><a href="search.html?q=movie">Movies</a></li>
+        <li><a href="search.html?q=tv">TV Shows</a></li>
         <li><a href="search.html?q=2024">Latest Releases</a></li>
         <li><a href="search.html?q=trending">Trending</a></li>
       </ul>
@@ -756,21 +782,22 @@
     <div class="footer-col">
       <h4>Support</h4>
       <ul>
-        <li><a href="#">FAQ</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li><a href="#">Terms of Service</a></li>
-        <li><a href="#">Privacy Policy</a></li>
-        <li><a href="#">DMCA</a></li>
+        <li><a href="index.html">FAQ</a></li>
+        <li><a href="index.html">Contact Us</a></li>
+        <li><a href="index.html">Terms of Service</a></li>
+        <li><a href="index.html">Privacy Policy</a></li>
+        <li><a href="index.html">DMCA</a></li>
       </ul>
     </div>
   </div>
   <div class="footer-bottom">
-    <p>&copy; 2026 MovieZone. All rights reserved.</p>
+    <p>&copy; 2026 123Videos. All rights reserved.</p>
     <p class="disclaimer">This is a demo site. No real streaming content is provided.</p>
   </div>
 </footer>
 
 <script src="catalog.js"></script>
+<script src="seo.js"></script>
 <script>
 
   let pendingSponsoredNavigation = null;
@@ -892,7 +919,7 @@
         <section class="section">
           <div class="section-header">
             <h2>${s.title}</h2>
-            <a href="#">View all →</a>
+            <a href="search.html?q=${encodeURIComponent(s.id)}">View all →</a>
           </div>
           <div class="grid">${items.map(makeCard).join('')}</div>
         </section>`;

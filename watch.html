@@ -3,7 +3,20 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Loading… - MovieZone</title>
+<meta name="description" content="View movie and TV show details, genres, ratings, posters, and related titles on 123Videos." />
+<meta name="robots" content="index,follow" />
+<link rel="canonical" href="https://123videos.net/watch.html" />
+<meta property="og:site_name" content="123Videos" />
+<meta property="og:title" content="Watch Movies and TV Shows - 123Videos" />
+<meta property="og:description" content="View movie and TV show details, genres, ratings, posters, and related titles on 123Videos." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://123videos.net/watch.html" />
+<meta property="og:image" content="https://123videos.net/favicon.svg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Watch Movies and TV Shows - 123Videos" />
+<meta name="twitter:description" content="View movie and TV show details, genres, ratings, posters, and related titles on 123Videos." />
+<meta name="twitter:image" content="https://123videos.net/favicon.svg" />
+<title>Watch Movies and TV Shows - 123Videos</title>
 <link rel="icon" type="image/svg+xml" href="favicon.svg" />
 <link rel="apple-touch-icon" href="favicon.svg" />
 <link rel="manifest" href="manifest.json" />
@@ -734,7 +747,7 @@
       <circle cx="22" cy="22" r="22" fill="#f5b50a"/>
       <polygon points="17,11 17,33 36,22" fill="#0f0f0f"/>
     </svg>
-    Movie<span>Zone</span>
+    123<span>Videos</span>
   </a>
   <nav>
     <ul>
@@ -782,7 +795,7 @@
           <circle cx="22" cy="22" r="22" fill="#f5b50a"/>
           <polygon points="17,11 17,33 36,22" fill="#0f0f0f"/>
         </svg>
-        Movie<span>Zone</span>
+        123<span>Videos</span>
       </div>
       <p class="footer-tagline">Stream thousands of movies and TV shows in HD quality. Anytime, anywhere.</p>
       <div class="footer-social">
@@ -815,21 +828,22 @@
     <div class="footer-col">
       <h4>Support</h4>
       <ul>
-        <li><a href="#">FAQ</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li><a href="#">Terms of Service</a></li>
-        <li><a href="#">Privacy Policy</a></li>
-        <li><a href="#">DMCA</a></li>
+        <li><a href="index.html">FAQ</a></li>
+        <li><a href="index.html">Contact Us</a></li>
+        <li><a href="index.html">Terms of Service</a></li>
+        <li><a href="index.html">Privacy Policy</a></li>
+        <li><a href="index.html">DMCA</a></li>
       </ul>
     </div>
   </div>
   <div class="footer-bottom">
-    <p>&copy; 2026 MovieZone. All rights reserved.</p>
+    <p>&copy; 2026 123Videos. All rights reserved.</p>
     <p class="disclaimer">This is a demo site. No real streaming content is provided.</p>
   </div>
 </footer>
 
 <script src="catalog.js"></script>
+<script src="seo.js"></script>
 <script>
 
   let pendingSponsoredNavigation = null;
@@ -898,6 +912,7 @@
   const activeServer = getActiveServer();
 
   function renderNotFound() {
+    window.MZ_SEO.setNotFoundPage();
     document.getElementById('content').innerHTML = `
       <div class="not-found">
         <h1>Movie not found</h1>
@@ -906,7 +921,7 @@
   }
 
   function renderMovie(m) {
-    document.title = `${m.title} (${m.year}) - MovieZone`;
+    window.MZ_SEO.setMoviePage(m, activeServer);
 
     const related = catalog
       .filter(x => x.id !== m.id && x.genres.some(g => m.genres.includes(g)))

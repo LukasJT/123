@@ -1,4 +1,4 @@
-// MovieZone catalog. Posters use TMDB's public image CDN, or a generated
+// 123Videos catalog. Posters use TMDB's public image CDN, or a generated
 // SVG placeholder when poster is empty.
 
 window.placeholderPoster = function(title) {
@@ -16,7 +16,7 @@ window.placeholderPoster = function(title) {
     '<rect width="200" height="300" fill="url(#g)"/>' +
     '<text x="100" y="150" fill="#f5b50a" text-anchor="middle" font-family="Arial,sans-serif" font-size="56" font-weight="800">' + initials + '</text>' +
     '<text x="100" y="200" fill="#ddd" text-anchor="middle" font-family="Arial,sans-serif" font-size="11">' + safe + '</text>' +
-    '<text x="100" y="280" fill="#666" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="1">MOVIEZONE</text>' +
+    '<text x="100" y="280" fill="#666" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="1">123VIDEOS</text>' +
     '</svg>';
   return 'data:image/svg+xml;utf8,' + encodeURIComponent(svg).replace(/'/g, '%27');
 };

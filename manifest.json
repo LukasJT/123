@@ -1,7 +1,7 @@
 {
-  "name": "MovieZone",
-  "short_name": "MovieZone",
-  "description": "Stream movies and TV shows in HD, free.",
+  "name": "123Videos",
+  "short_name": "123Videos",
+  "description": "Browse movies and TV shows by title, genre, year, and rating.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
