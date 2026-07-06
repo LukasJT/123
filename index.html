@@ -691,10 +691,10 @@
   <nav>
     <ul>
       <li><a href="index.html" onclick="resetView();return false;">Home</a></li>
-      <li><a href="search.html?q=movie" onclick="filterSection('movie');return false;">Movies</a></li>
-      <li><a href="search.html?q=tv" onclick="filterSection('tv');return false;">TV Shows</a></li>
-      <li><a href="search.html?q=top">Top IMDB</a></li>
-      <li><a href="search.html?q=action">Genre</a></li>
+      <li><a href="movies.html" onclick="filterSection('movie');return false;">Movies</a></li>
+      <li><a href="tv-shows.html" onclick="filterSection('tv');return false;">TV Shows</a></li>
+      <li><a href="top-imdb.html">Top IMDB</a></li>
+      <li><a href="genres.html">Genre</a></li>
       <li><a href="search.html?q=united-states">Country</a></li>
     </ul>
   </nav>
@@ -708,12 +708,12 @@
 
 <nav class="mobile-nav" id="mobileNav">
   <a href="index.html" onclick="resetView();closeMobileMenu();return false;">Home</a>
-  <a href="search.html?q=movie" onclick="filterSection('movie');closeMobileMenu();return false;">Movies</a>
-  <a href="search.html?q=tv" onclick="filterSection('tv');closeMobileMenu();return false;">TV Shows</a>
-  <a href="search.html?q=action">Action</a>
-  <a href="search.html?q=comedy">Comedy</a>
-  <a href="search.html?q=horror">Horror</a>
-  <a href="search.html?q=drama">Drama</a>
+  <a href="movies.html" onclick="filterSection('movie');closeMobileMenu();return false;">Movies</a>
+  <a href="tv-shows.html" onclick="filterSection('tv');closeMobileMenu();return false;">TV Shows</a>
+  <a href="genre-action.html">Action</a>
+  <a href="genre-comedy.html">Comedy</a>
+  <a href="genre-horror.html">Horror</a>
+  <a href="genre-drama.html">Drama</a>
 </nav>
 
 <section class="hero">
@@ -763,20 +763,20 @@
       <h4>Browse</h4>
       <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="search.html?q=movie">Movies</a></li>
-        <li><a href="search.html?q=tv">TV Shows</a></li>
-        <li><a href="search.html?q=2024">Latest Releases</a></li>
-        <li><a href="search.html?q=trending">Trending</a></li>
+        <li><a href="movies.html">Movies</a></li>
+        <li><a href="tv-shows.html">TV Shows</a></li>
+        <li><a href="latest.html">Latest Releases</a></li>
+        <li><a href="trending.html">Trending</a></li>
       </ul>
     </div>
     <div class="footer-col">
       <h4>Genres</h4>
       <ul>
-        <li><a href="search.html?q=action">Action</a></li>
-        <li><a href="search.html?q=comedy">Comedy</a></li>
-        <li><a href="search.html?q=horror">Horror</a></li>
-        <li><a href="search.html?q=drama">Drama</a></li>
-        <li><a href="search.html?q=sci-fi">Sci-Fi</a></li>
+        <li><a href="genre-action.html">Action</a></li>
+        <li><a href="genre-comedy.html">Comedy</a></li>
+        <li><a href="genre-horror.html">Horror</a></li>
+        <li><a href="genre-drama.html">Drama</a></li>
+        <li><a href="genre-sci-fi.html">Sci-Fi</a></li>
       </ul>
     </div>
     <div class="footer-col">
@@ -890,6 +890,27 @@
     ).join('');
   }
 
+  function sectionUrl(sectionId) {
+    const map = {
+      trending: 'trending.html',
+      recent: 'latest.html',
+      shows: 'tv-shows.html',
+      top: 'top-imdb.html',
+      action: 'genre-action.html',
+      horror: 'genre-horror.html',
+      comedy: 'genre-comedy.html',
+      anime: 'genre-animation.html',
+      scifi: 'genre-sci-fi.html',
+      romance: 'genre-romance.html',
+      thriller: 'genre-thriller.html',
+      family: 'genre-family.html',
+      docs: 'genre-documentary.html',
+      drama: 'genre-drama.html',
+      westerns: 'genre-western.html'
+    };
+    return map[sectionId] || 'search.html?q=' + encodeURIComponent(sectionId);
+  }
+
   function renderMain() {
     const main = document.getElementById('main');
 
@@ -919,7 +940,7 @@
         <section class="section">
           <div class="section-header">
             <h2>${s.title}</h2>
-            <a href="search.html?q=${encodeURIComponent(s.id)}">View all →</a>
+            <a href="${sectionUrl(s.id)}">View all →</a>
           </div>
           <div class="grid">${items.map(makeCard).join('')}</div>
         </section>`;

@@ -752,9 +752,9 @@
   <nav>
     <ul>
       <li><a href="index.html">Home</a></li>
-      <li><a href="index.html">Movies</a></li>
-      <li><a href="index.html">TV Shows</a></li>
-      <li><a href="index.html">Top IMDB</a></li>
+        <li><a href="movies.html">Movies</a></li>
+        <li><a href="tv-shows.html">TV Shows</a></li>
+        <li><a href="top-imdb.html">Top IMDB</a></li>
     </ul>
   </nav>
   <div class="header-right">
@@ -767,12 +767,12 @@
 
 <nav class="mobile-nav" id="mobileNav">
   <a href="index.html">Home</a>
-  <a href="index.html">Movies</a>
-  <a href="index.html">TV Shows</a>
-  <a href="search.html?q=action">Action</a>
-  <a href="search.html?q=comedy">Comedy</a>
-  <a href="search.html?q=horror">Horror</a>
-  <a href="search.html?q=drama">Drama</a>
+  <a href="movies.html">Movies</a>
+  <a href="tv-shows.html">TV Shows</a>
+  <a href="genre-action.html">Action</a>
+  <a href="genre-comedy.html">Comedy</a>
+  <a href="genre-horror.html">Horror</a>
+  <a href="genre-drama.html">Drama</a>
 </nav>
 
 <main id="content"><!-- filled by JS --></main>
@@ -809,20 +809,20 @@
       <h4>Browse</h4>
       <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="index.html">Movies</a></li>
-        <li><a href="index.html">TV Shows</a></li>
-        <li><a href="search.html?q=2024">Latest Releases</a></li>
-        <li><a href="search.html?q=trending">Trending</a></li>
+        <li><a href="movies.html">Movies</a></li>
+        <li><a href="tv-shows.html">TV Shows</a></li>
+        <li><a href="latest.html">Latest Releases</a></li>
+        <li><a href="trending.html">Trending</a></li>
       </ul>
     </div>
     <div class="footer-col">
       <h4>Genres</h4>
       <ul>
-        <li><a href="search.html?q=action">Action</a></li>
-        <li><a href="search.html?q=comedy">Comedy</a></li>
-        <li><a href="search.html?q=horror">Horror</a></li>
-        <li><a href="search.html?q=drama">Drama</a></li>
-        <li><a href="search.html?q=sci-fi">Sci-Fi</a></li>
+        <li><a href="genre-action.html">Action</a></li>
+        <li><a href="genre-comedy.html">Comedy</a></li>
+        <li><a href="genre-horror.html">Horror</a></li>
+        <li><a href="genre-drama.html">Drama</a></li>
+        <li><a href="genre-sci-fi.html">Sci-Fi</a></li>
       </ul>
     </div>
     <div class="footer-col">
@@ -929,7 +929,7 @@
 
     document.getElementById('content').innerHTML = `
       <div class="breadcrumb">
-        <a href="index.html">Home</a> / <a href="index.html">${m.kind === 'tv' ? 'TV Shows' : 'Movies'}</a> / ${m.title}
+        <a href="index.html">Home</a> / <a href="${m.kind === 'tv' ? 'tv-shows.html' : 'movies.html'}">${m.kind === 'tv' ? 'TV Shows' : 'Movies'}</a> / ${m.title}
       </div>
 
       <div class="player-wrap">

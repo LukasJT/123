@@ -11,6 +11,9 @@ vm.createContext(sandbox);
 vm.runInContext(fs.readFileSync('catalog.js', 'utf8'), sandbox);
 
 const catalog = sandbox.window.catalog || [];
+const landingPages = fs.existsSync('landing-pages.json')
+  ? JSON.parse(fs.readFileSync('landing-pages.json', 'utf8'))
+  : [];
 const genres = [...new Set(catalog.flatMap(item => item.genres))].sort();
 const years = [...new Set(catalog.map(item => item.year))].sort((a, b) => b - a).slice(0, 12);
 const sections = [...new Set(catalog.map(item => item.section))].sort();
@@ -37,6 +40,7 @@ function url(path, priority, changefreq = 'weekly') {
 const urls = [
   url('/', '1.0', 'daily'),
   url('/index.html', '0.9', 'daily'),
+  ...landingPages.map(page => url('/' + page.file, '0.9', 'weekly')),
   ...['action', 'comedy', 'horror', 'drama', 'sci-fi', 'trending', '2024'].map(q =>
     url('/search.html?q=' + encodeURIComponent(q), '0.8', 'daily')
   ),
