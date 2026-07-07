@@ -20,7 +20,7 @@ const titlePages = fs.existsSync('title-pages.json')
 const genres = [...new Set(catalog.flatMap(item => item.genres))].sort();
 const years = [...new Set(catalog.map(item => item.year))].sort((a, b) => b - a).slice(0, 12);
 const sections = [...new Set(catalog.map(item => item.section))].sort();
-const policyPages = ['privacy.html', 'terms.html', 'dmca.html', 'contact.html', 'faq.html'];
+const policyPages = ['about.html', 'privacy.html', 'terms.html', 'dmca.html', 'contact.html', 'faq.html'];
 
 function esc(value) {
   return String(value)
@@ -187,7 +187,7 @@ ${body}
 <footer>
   <p>&copy; 2026 123Videos. All rights reserved.</p>
   <p>123Videos is an informational catalog. We do not host, stream, or link to full video files.</p>
-  <p><a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms</a> | <a href="dmca.html">DMCA</a> | <a href="contact.html">Contact</a> | <a href="sitemap.html">Sitemap</a></p>
+  <p><a href="about.html">About</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms</a> | <a href="dmca.html">DMCA</a> | <a href="contact.html">Contact</a> | <a href="sitemap.html">Sitemap</a></p>
 </footer>
 </body>
 </html>
