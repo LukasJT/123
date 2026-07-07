@@ -175,6 +175,22 @@ function breadcrumbNav(item, kindLabel) {
   </nav>`;
 }
 
+function relatedListSchema(item, file, related) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: `Titles related to ${item.title}`,
+    description: `Related movie and TV catalog recommendations for ${item.title} on ${SITE_NAME}.`,
+    url: absolute(file),
+    itemListElement: related.map((relatedItem, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      url: absolute(titlePath(relatedItem)),
+      name: relatedItem.title
+    }))
+  };
+}
+
 function renderTitlePage(item) {
   const file = titlePath(item);
   const kindLabel = item.kind === 'tv' ? 'TV Show' : 'Movie';
@@ -210,6 +226,7 @@ function renderTitlePage(item) {
 <link rel="stylesheet" href="landing.css">
 <script type="application/ld+json">${JSON.stringify(schema(item, file))}</script>
 <script type="application/ld+json">${JSON.stringify(breadcrumbSchema(item, file, kindLabel))}</script>
+${related.length ? `<script type="application/ld+json">${JSON.stringify(relatedListSchema(item, file, related))}</script>` : ''}
 </head>
 <body>
 ${nav()}
