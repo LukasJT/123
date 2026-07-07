@@ -135,6 +135,8 @@ function renderTitlePage(item) {
 <meta name="twitter:image" content="${attr(posterFor(item))}">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="manifest" href="manifest.json">
+<link rel="alternate" type="application/rss+xml" title="${SITE_NAME} Catalog Updates" href="feed.xml">
+<link rel="search" type="application/opensearchdescription+xml" title="${SITE_NAME}" href="opensearch.xml">
 <link rel="stylesheet" href="landing.css">
 <script type="application/ld+json">${JSON.stringify(schema(item, file))}</script>
 </head>

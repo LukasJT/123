@@ -41,6 +41,10 @@ function url(path, priority, changefreq = 'weekly') {
   ].join('\n');
 }
 
+function absolute(path) {
+  return new URL(path, BASE_URL + '/').href;
+}
+
 function escHtml(value) {
   return String(value)
     .replace(/&/g, '&amp;')
@@ -48,6 +52,78 @@ function escHtml(value) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+}
+
+function titlePath(item) {
+  if (sandbox.window.titlePath) return sandbox.window.titlePath(item);
+  return 'watch.html?id=' + encodeURIComponent(item.id);
+}
+
+function itemYear(item) {
+  const match = String(item.year).match(/\d{4}/);
+  return match ? Number(match[0]) : 0;
+}
+
+function renderFeeds() {
+  const feedItems = catalog
+    .slice()
+    .sort((a, b) => itemYear(b) - itemYear(a) || Number.parseFloat(b.rating) - Number.parseFloat(a.rating))
+    .slice(0, 80);
+
+  const rssItems = feedItems.map(item => {
+    const link = absolute(titlePath(item));
+    const kind = item.kind === 'tv' ? 'TV show' : 'movie';
+    const description = `${item.title} is a ${String(item.year)} ${kind} in the 123Videos catalog with rating ${item.rating}, genres ${item.genres.join(', ')}, and related title recommendations.`;
+    return [
+      '    <item>',
+      `      <title>${esc(item.title)} (${esc(item.year)})</title>`,
+      `      <link>${esc(link)}</link>`,
+      `      <guid>${esc(link)}</guid>`,
+      `      <description>${esc(description)}</description>`,
+      '    </item>'
+    ].join('\n');
+  }).join('\n');
+
+  fs.writeFileSync('feed.xml', [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<rss version="2.0">',
+    '  <channel>',
+    '    <title>123Videos Catalog Updates</title>',
+    `    <link>${BASE_URL}/</link>`,
+    '    <description>Recent and notable movies and TV shows in the 123Videos informational catalog.</description>',
+    '    <language>en</language>',
+    rssItems,
+    '  </channel>',
+    '</rss>',
+    ''
+  ].join('\n'));
+
+  fs.writeFileSync('latest.json', JSON.stringify({
+    site: '123Videos',
+    url: BASE_URL,
+    description: 'Recent and notable movies and TV shows in the 123Videos informational catalog.',
+    items: feedItems.map(item => ({
+      title: item.title,
+      kind: item.kind,
+      year: item.year,
+      rating: item.rating,
+      genres: item.genres,
+      url: absolute(titlePath(item))
+    }))
+  }, null, 2) + '\n');
+
+  fs.writeFileSync('opensearch.xml', [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">',
+    '  <ShortName>123Videos</ShortName>',
+    '  <Description>Search the 123Videos movie and TV catalog.</Description>',
+    `  <Url type="text/html" template="${BASE_URL}/search.html?q={searchTerms}"/>`,
+    '  <InputEncoding>UTF-8</InputEncoding>',
+    '</OpenSearchDescription>',
+    ''
+  ].join('\n'));
+
+  return ['feed.xml', 'latest.json', 'opensearch.xml'];
 }
 
 function pageTitle(file) {
@@ -76,6 +152,8 @@ function htmlShell(file, title, description, body) {
 <meta name="description" content="${escHtml(description)}">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="${escHtml(new URL(file, BASE_URL + '/').href)}">
+<link rel="alternate" type="application/rss+xml" title="123Videos Catalog Updates" href="feed.xml">
+<link rel="search" type="application/opensearchdescription+xml" title="123Videos" href="opensearch.xml">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="stylesheet" href="landing.css">
 </head>
@@ -176,6 +254,7 @@ function renderHtmlSitemaps() {
 }
 
 const htmlSitemapPages = renderHtmlSitemaps();
+const feedPages = renderFeeds();
 
 const urls = [
   url('/', '1.0', 'daily'),
@@ -183,6 +262,7 @@ const urls = [
   ...[...policyPages, 'googledd325d3781eb4f8d.html'].map(page =>
     url('/' + page, page === 'googledd325d3781eb4f8d.html' ? '0.1' : '0.4', 'yearly')
   ),
+  ...feedPages.map(page => url('/' + page, '0.5', 'daily')),
   ...htmlSitemapPages.map(page => url('/' + page, page === 'sitemap.html' ? '0.8' : '0.7', 'weekly')),
   ...landingPages.map(page => url('/' + page.file, '0.9', 'weekly')),
   ...titlePages.map(page => url('/' + page.file, '0.8', 'monthly')),

@@ -1,0 +1,937 @@
+{
+  "site": "123Videos",
+  "url": "https://123videos.net",
+  "description": "Recent and notable movies and TV shows in the 123Videos informational catalog.",
+  "items": [
+    {
+      "title": "Dune: Part Two",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "8.6",
+      "genres": [
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "url": "https://123videos.net/title-dune-part-two-2024-2.html"
+    },
+    {
+      "title": "Shogun",
+      "kind": "tv",
+      "year": "2024",
+      "rating": "8.6",
+      "genres": [
+        "Drama",
+        "History",
+        "Adventure"
+      ],
+      "url": "https://123videos.net/title-shogun-2024-42.html"
+    },
+    {
+      "title": "The Brutalist",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "8.0",
+      "genres": [
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-the-brutalist-2024-730.html"
+    },
+    {
+      "title": "Deadpool & Wolverine",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.7",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-deadpool-and-wolverine-2024-195.html"
+    },
+    {
+      "title": "Inside Out 2",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.6",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "url": "https://123videos.net/title-inside-out-2-2024-194.html"
+    },
+    {
+      "title": "Wicked",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.6",
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "url": "https://123videos.net/title-wicked-2024-197.html"
+    },
+    {
+      "title": "Anora",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.6",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "url": "https://123videos.net/title-anora-2024-731.html"
+    },
+    {
+      "title": "Furiosa: A Mad Max Saga",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.5",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "url": "https://123videos.net/title-furiosa-a-mad-max-saga-2024-193.html"
+    },
+    {
+      "title": "The Substance",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.5",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-the-substance-2024-196.html"
+    },
+    {
+      "title": "Conclave",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.5",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-conclave-2024-732.html"
+    },
+    {
+      "title": "Challengers",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.1",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sport"
+      ],
+      "url": "https://123videos.net/title-challengers-2024-24.html"
+    },
+    {
+      "title": "Heretic",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.1",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-heretic-2024-734.html"
+    },
+    {
+      "title": "Civil War",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.0",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-civil-war-2024-23.html"
+    },
+    {
+      "title": "Nosferatu",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "7.0",
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-nosferatu-2024-733.html"
+    },
+    {
+      "title": "Longlegs",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "6.7",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "url": "https://123videos.net/title-longlegs-2024-271.html"
+    },
+    {
+      "title": "Beetlejuice Beetlejuice",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "6.7",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "url": "https://123videos.net/title-beetlejuice-beetlejuice-2024-728.html"
+    },
+    {
+      "title": "Gladiator II",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "6.6",
+      "genres": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ],
+      "url": "https://123videos.net/title-gladiator-ii-2024-726.html"
+    },
+    {
+      "title": "Joker: Folie à Deux",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "5.1",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Musical"
+      ],
+      "url": "https://123videos.net/title-joker-folie-deux-2024-727.html"
+    },
+    {
+      "title": "Megalopolis",
+      "kind": "movie",
+      "year": 2024,
+      "rating": "4.8",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-megalopolis-2024-729.html"
+    },
+    {
+      "title": "12th Fail",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "8.9",
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "url": "https://123videos.net/title-12th-fail-2023-749.html"
+    },
+    {
+      "title": "The Last of Us",
+      "kind": "tv",
+      "year": "2023-",
+      "rating": "8.7",
+      "genres": [
+        "Drama",
+        "Action",
+        "Horror"
+      ],
+      "url": "https://123videos.net/title-the-last-of-us-2023-28.html"
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "8.6",
+      "genres": [
+        "Animation",
+        "Action",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-spider-man-across-the-spider-verse-2023-95.html"
+    },
+    {
+      "title": "Oppenheimer",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "8.4",
+      "genres": [
+        "Drama",
+        "History",
+        "Biography"
+      ],
+      "url": "https://123videos.net/title-oppenheimer-2023-1.html"
+    },
+    {
+      "title": "Poor Things",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "8.0",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "url": "https://123videos.net/title-poor-things-2023-18.html"
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 3",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.9",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-guardians-of-the-galaxy-vol-3-2023-10.html"
+    },
+    {
+      "title": "The Holdovers",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.9",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-the-holdovers-2023-16.html"
+    },
+    {
+      "title": "Past Lives",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.8",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "url": "https://123videos.net/title-past-lives-2023-15.html"
+    },
+    {
+      "title": "John Wick: Chapter 4",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.7",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-john-wick-chapter-4-2023-5.html"
+    },
+    {
+      "title": "Mission: Impossible - Dead Reckoning",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.7",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-mission-impossible-dead-reckoning-2023-11.html"
+    },
+    {
+      "title": "Anatomy of a Fall",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.7",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-anatomy-of-a-fall-2023-17.html"
+    },
+    {
+      "title": "The Boy and the Heron",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.7",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Adventure"
+      ],
+      "url": "https://123videos.net/title-the-boy-and-the-heron-2023-96.html"
+    },
+    {
+      "title": "Killers of the Flower Moon",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.6",
+      "genres": [
+        "Crime",
+        "Drama",
+        "History"
+      ],
+      "url": "https://123videos.net/title-killers-of-the-flower-moon-2023-14.html"
+    },
+    {
+      "title": "The Iron Claw",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.5",
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "url": "https://123videos.net/title-the-iron-claw-2023-20.html"
+    },
+    {
+      "title": "American Fiction",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.5",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-american-fiction-2023-22.html"
+    },
+    {
+      "title": "Wonka",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.1",
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Musical"
+      ],
+      "url": "https://123videos.net/title-wonka-2023-13.html"
+    },
+    {
+      "title": "Saltburn",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.1",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-saltburn-2023-19.html"
+    },
+    {
+      "title": "Talk to Me",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.1",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-talk-to-me-2023-78.html"
+    },
+    {
+      "title": "Barbie",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.0",
+      "genres": [
+        "Comedy",
+        "Adventure"
+      ],
+      "url": "https://123videos.net/title-barbie-2023-3.html"
+    },
+    {
+      "title": "Jawan",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "7.0",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-jawan-2023-748.html"
+    },
+    {
+      "title": "Maestro",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "6.6",
+      "genres": [
+        "Drama",
+        "Biography",
+        "Music"
+      ],
+      "url": "https://123videos.net/title-maestro-2023-21.html"
+    },
+    {
+      "title": "The Flash",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "6.4",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-the-flash-2023-831.html"
+    },
+    {
+      "title": "The Marvels",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "6.2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-the-marvels-2023-12.html"
+    },
+    {
+      "title": "Pathaan",
+      "kind": "movie",
+      "year": 2023,
+      "rating": "6.0",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-pathaan-2023-747.html"
+    },
+    {
+      "title": "Severance",
+      "kind": "tv",
+      "year": "2022-",
+      "rating": "8.7",
+      "genres": [
+        "Sci-Fi",
+        "Drama",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-severance-2022-35.html"
+    },
+    {
+      "title": "Extraordinary Attorney Woo",
+      "kind": "tv",
+      "year": "2022",
+      "rating": "8.7",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "url": "https://123videos.net/title-extraordinary-attorney-woo-2022-167.html"
+    },
+    {
+      "title": "The Bear",
+      "kind": "tv",
+      "year": "2022-",
+      "rating": "8.6",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-the-bear-2022-31.html"
+    },
+    {
+      "title": "Spy x Family",
+      "kind": "tv",
+      "year": "2022-",
+      "rating": "8.6",
+      "genres": [
+        "Animation",
+        "Action",
+        "Comedy"
+      ],
+      "url": "https://123videos.net/title-spy-x-family-2022-457.html"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "kind": "tv",
+      "year": "2022",
+      "rating": "8.6",
+      "genres": [
+        "Animation",
+        "Action",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-cyberpunk-edgerunners-2022-458.html"
+    },
+    {
+      "title": "House of the Dragon",
+      "kind": "tv",
+      "year": "2022-",
+      "rating": "8.4",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-house-of-the-dragon-2022-29.html"
+    },
+    {
+      "title": "Andor",
+      "kind": "tv",
+      "year": "2022-",
+      "rating": "8.4",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-andor-2022-41.html"
+    },
+    {
+      "title": "Chainsaw Man",
+      "kind": "tv",
+      "year": "2022-",
+      "rating": "8.4",
+      "genres": [
+        "Animation",
+        "Action",
+        "Horror"
+      ],
+      "url": "https://123videos.net/title-chainsaw-man-2022-456.html"
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "8.3",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-top-gun-maverick-2022-8.html"
+    },
+    {
+      "title": "KGF: Chapter 2",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "8.2",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-kgf-chapter-2-2022-422.html"
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "8.1",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy"
+      ],
+      "url": "https://123videos.net/title-everything-everywhere-all-at-once-2022-9.html"
+    },
+    {
+      "title": "Wednesday",
+      "kind": "tv",
+      "year": "2022-",
+      "rating": "8.1",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Mystery"
+      ],
+      "url": "https://123videos.net/title-wednesday-2022-32.html"
+    },
+    {
+      "title": "The Glory",
+      "kind": "tv",
+      "year": "2022-2023",
+      "rating": "8.1",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-the-glory-2022-2023-390.html"
+    },
+    {
+      "title": "The Batman",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "7.8",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-the-batman-2022-4.html"
+    },
+    {
+      "title": "RRR",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "7.8",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "url": "https://123videos.net/title-rrr-2022-421.html"
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "7.8",
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-all-quiet-on-the-western-front-2022-813.html"
+    },
+    {
+      "title": "Suzume",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "7.7",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "url": "https://123videos.net/title-suzume-2022-305.html"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "7.6",
+      "genres": [
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "url": "https://123videos.net/title-avatar-the-way-of-water-2022-7.html"
+    },
+    {
+      "title": "All of Us Are Dead",
+      "kind": "tv",
+      "year": "2022-",
+      "rating": "7.5",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Action"
+      ],
+      "url": "https://123videos.net/title-all-of-us-are-dead-2022-389.html"
+    },
+    {
+      "title": "Barbarian",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "7.0",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-barbarian-2022-269.html"
+    },
+    {
+      "title": "Pearl",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "7.0",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Mystery"
+      ],
+      "url": "https://123videos.net/title-pearl-2022-272.html"
+    },
+    {
+      "title": "Nope",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "6.8",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-nope-2022-617.html"
+    },
+    {
+      "title": "X",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "6.6",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-x-2022-618.html"
+    },
+    {
+      "title": "Smile",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "6.5",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-smile-2022-79.html"
+    },
+    {
+      "title": "M3GAN",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "6.3",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "url": "https://123videos.net/title-m3gan-2022-270.html"
+    },
+    {
+      "title": "Black Adam",
+      "kind": "movie",
+      "year": 2022,
+      "rating": "6.2",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-black-adam-2022-830.html"
+    },
+    {
+      "title": "Move to Heaven",
+      "kind": "tv",
+      "year": "2021",
+      "rating": "8.7",
+      "genres": [
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-move-to-heaven-2021-168.html"
+    },
+    {
+      "title": "Beyond Evil",
+      "kind": "tv",
+      "year": "2021",
+      "rating": "8.7",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "url": "https://123videos.net/title-beyond-evil-2021-796.html"
+    },
+    {
+      "title": "Vincenzo",
+      "kind": "tv",
+      "year": "2021",
+      "rating": "8.4",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "url": "https://123videos.net/title-vincenzo-2021-165.html"
+    },
+    {
+      "title": "Hometown Cha-Cha-Cha",
+      "kind": "tv",
+      "year": "2021",
+      "rating": "8.4",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "url": "https://123videos.net/title-hometown-cha-cha-cha-2021-792.html"
+    },
+    {
+      "title": "D.P.",
+      "kind": "tv",
+      "year": "2021-",
+      "rating": "8.3",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "url": "https://123videos.net/title-d-p-2021-391.html"
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "kind": "movie",
+      "year": 2021,
+      "rating": "8.2",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "url": "https://123videos.net/title-spider-man-no-way-home-2021-6.html"
+    },
+    {
+      "title": "Loki",
+      "kind": "tv",
+      "year": "2021-",
+      "rating": "8.2",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://123videos.net/title-loki-2021-37.html"
+    },
+    {
+      "title": "Dune",
+      "kind": "movie",
+      "year": 2021,
+      "rating": "8.0",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-dune-2021-108.html"
+    },
+    {
+      "title": "Squid Game",
+      "kind": "tv",
+      "year": "2021-",
+      "rating": "8.0",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "url": "https://123videos.net/title-squid-game-2021-161.html"
+    },
+    {
+      "title": "My Name",
+      "kind": "tv",
+      "year": "2021",
+      "rating": "7.8",
+      "genres": [
+        "Crime",
+        "Action",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-my-name-2021-169.html"
+    },
+    {
+      "title": "Pushpa: The Rise",
+      "kind": "movie",
+      "year": 2021,
+      "rating": "7.6",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "url": "https://123videos.net/title-pushpa-the-rise-2021-746.html"
+    }
+  ]
+}

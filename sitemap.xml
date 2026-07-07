@@ -41,6 +41,21 @@
     <priority>0.1</priority>
   </url>
   <url>
+    <loc>https://123videos.net/feed.xml</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/latest.json</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/opensearch.xml</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://123videos.net/sitemap.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

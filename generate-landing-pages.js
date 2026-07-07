@@ -178,6 +178,8 @@ function renderPage(page) {
 <meta name="twitter:image" content="${BASE_URL}/favicon.svg">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="manifest" href="manifest.json">
+<link rel="alternate" type="application/rss+xml" title="${SITE_NAME} Catalog Updates" href="feed.xml">
+<link rel="search" type="application/opensearchdescription+xml" title="${SITE_NAME}" href="opensearch.xml">
 <link rel="stylesheet" href="landing.css">
 <script type="application/ld+json">${JSON.stringify(pageSchema(page, items))}</script>
 <script type="application/ld+json">${JSON.stringify(faqSchema(page))}</script>
