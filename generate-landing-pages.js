@@ -96,6 +96,9 @@ function quickLinks() {
     <a href="catalog-a-z.html">A-Z</a>
     <a href="best-movies.html">Best Movies</a>
     <a href="best-tv-shows.html">Best TV Shows</a>
+    <a href="2020s-movies-and-tv-shows.html">2020s</a>
+    <a href="classic-movies-and-tv-shows.html">Classics</a>
+    <a href="action-thrillers.html">Action Thrillers</a>
     <a href="year-2024.html">2024</a>
     <a href="trending.html">Trending</a>
   </div>`;
@@ -219,12 +222,43 @@ const numericYears = [...new Set(catalog.map(item => String(item.year).match(/\d
   .sort((a, b) => Number(b) - Number(a))
   .slice(0, 12);
 const commercialGenres = ['Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Horror', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller'];
+const decadeRanges = [
+  { file: '2020s', title: '2020s', start: 2020, end: 2029 },
+  { file: '2010s', title: '2010s', start: 2010, end: 2019 },
+  { file: '2000s', title: '2000s', start: 2000, end: 2009 },
+  { file: '1990s', title: '1990s', start: 1990, end: 1999 },
+  { file: 'classic', title: 'Classic', start: 1900, end: 1989 }
+];
+const genreCombos = [
+  { file: 'action-thrillers', title: 'Action Thrillers', genres: ['Action', 'Thriller'] },
+  { file: 'sci-fi-adventures', title: 'Sci-Fi Adventures', genres: ['Sci-Fi', 'Adventure'] },
+  { file: 'crime-dramas', title: 'Crime Dramas', genres: ['Crime', 'Drama'] },
+  { file: 'romantic-comedies', title: 'Romantic Comedies', genres: ['Romance', 'Comedy'] },
+  { file: 'animated-family-titles', title: 'Animated Family Titles', genres: ['Animation', 'Family'] },
+  { file: 'horror-thrillers', title: 'Horror Thrillers', genres: ['Horror', 'Thriller'] },
+  { file: 'mystery-thrillers', title: 'Mystery Thrillers', genres: ['Mystery', 'Thriller'] },
+  { file: 'documentary-biography', title: 'Documentary Biography Titles', genres: ['Documentary', 'Biography'] }
+];
 
 function topRated(items, limit = 120) {
   return items
     .slice()
     .sort((a, b) => Number.parseFloat(b.rating) - Number.parseFloat(a.rating))
     .slice(0, limit);
+}
+
+function releaseYear(item) {
+  const match = String(item.year).match(/\d{4}/);
+  return match ? Number(match[0]) : null;
+}
+
+function inRange(item, start, end) {
+  const year = releaseYear(item);
+  return year !== null && year >= start && year <= end;
+}
+
+function hasAllGenres(item, requiredGenres) {
+  return requiredGenres.every(genre => item.genres.includes(genre));
 }
 
 const pages = [
@@ -355,6 +389,88 @@ for (const year of numericYears.slice(0, 5)) {
       description: `Browse the best-rated ${year} TV shows in the ${SITE_NAME} catalog with ratings, genres, posters, and title detail pages.`,
       intro: `Use this ${year} TV show list to compare strong catalog series by rating, genre, poster, duration, and related recommendations.`,
       heading: `Top-rated ${year} TV shows`,
+      items: shows
+    });
+  }
+}
+
+for (const decade of decadeRanges) {
+  const items = topRated(catalog.filter(item => inRange(item, decade.start, decade.end)));
+  if (items.length) {
+    pages.push({
+      file: `${decade.file}-movies-and-tv-shows.html`,
+      title: `${decade.title} Movies and TV Shows`,
+      eyebrow: `${decade.title} catalog`,
+      description: `Browse ${items.length} ${decade.title.toLowerCase()} movies and TV shows in the ${SITE_NAME} catalog with ratings, years, genres, posters, and title detail pages.`,
+      intro: `Explore ${decade.title.toLowerCase()} movies and TV shows by rating, year, genre, poster, and related recommendations across the ${SITE_NAME} catalog.`,
+      heading: `Top-rated ${decade.title.toLowerCase()} titles`,
+      items
+    });
+  }
+
+  const movies = topRated(items.filter(item => item.kind === 'movie'));
+  if (movies.length >= 4) {
+    pages.push({
+      file: `${decade.file}-movies.html`,
+      title: `${decade.title} Movies`,
+      eyebrow: `${decade.title} movies`,
+      description: `Browse ${movies.length} ${decade.title.toLowerCase()} movies in the ${SITE_NAME} catalog with ratings, years, genres, posters, and title detail pages.`,
+      intro: `Compare ${decade.title.toLowerCase()} movies by rating, genre, poster, year, duration, and related recommendations.`,
+      heading: `Top-rated ${decade.title.toLowerCase()} movies`,
+      items: movies
+    });
+  }
+
+  const shows = topRated(items.filter(item => item.kind === 'tv'));
+  if (shows.length >= 2) {
+    pages.push({
+      file: `${decade.file}-tv-shows.html`,
+      title: `${decade.title} TV Shows`,
+      eyebrow: `${decade.title} series`,
+      description: `Browse ${shows.length} ${decade.title.toLowerCase()} TV shows in the ${SITE_NAME} catalog with ratings, years, genres, posters, and title detail pages.`,
+      intro: `Compare ${decade.title.toLowerCase()} TV shows by rating, genre, poster, year, duration, and related recommendations.`,
+      heading: `Top-rated ${decade.title.toLowerCase()} TV shows`,
+      items: shows
+    });
+  }
+}
+
+for (const combo of genreCombos) {
+  const items = topRated(catalog.filter(item => hasAllGenres(item, combo.genres)));
+  if (items.length >= 4) {
+    pages.push({
+      file: `${combo.file}.html`,
+      title: combo.title,
+      eyebrow: 'Curated discovery',
+      description: `Browse ${items.length} ${combo.title.toLowerCase()} in the ${SITE_NAME} catalog with ratings, years, genres, posters, and title detail pages.`,
+      intro: `${combo.title} brings together titles that share ${combo.genres.join(' and ').toLowerCase()} catalog signals, making it easier to compare related movies and TV shows by rating, year, genre, and recommendations.`,
+      heading: `Top-rated ${combo.title.toLowerCase()}`,
+      items
+    });
+  }
+
+  const movies = topRated(items.filter(item => item.kind === 'movie'));
+  if (movies.length >= 4) {
+    pages.push({
+      file: `${combo.file}-movies.html`,
+      title: `${combo.title} Movies`,
+      eyebrow: 'Curated movies',
+      description: `Browse ${movies.length} ${combo.title.toLowerCase()} movies in the ${SITE_NAME} catalog with ratings, years, genres, posters, and detail pages.`,
+      intro: `This movie-focused ${combo.title.toLowerCase()} page helps visitors compare related titles by rating, genre, year, poster, and recommendations.`,
+      heading: `Top-rated ${combo.title.toLowerCase()} movies`,
+      items: movies
+    });
+  }
+
+  const shows = topRated(items.filter(item => item.kind === 'tv'));
+  if (shows.length >= 3) {
+    pages.push({
+      file: `${combo.file}-tv-shows.html`,
+      title: `${combo.title} TV Shows`,
+      eyebrow: 'Curated series',
+      description: `Browse ${shows.length} ${combo.title.toLowerCase()} TV shows in the ${SITE_NAME} catalog with ratings, years, genres, posters, and detail pages.`,
+      intro: `This series-focused ${combo.title.toLowerCase()} page helps visitors compare related TV titles by rating, genre, year, poster, and recommendations.`,
+      heading: `Top-rated ${combo.title.toLowerCase()} TV shows`,
       items: shows
     });
   }
