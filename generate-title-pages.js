@@ -84,6 +84,35 @@ function relatedCard(item) {
   </a>`;
 }
 
+function collectionLinks(item) {
+  const kindLabel = item.kind === 'tv' ? 'TV Shows' : 'Movies';
+  const kindSlug = item.kind === 'tv' ? 'tv-shows' : 'movies';
+  const links = [];
+  const add = (href, label) => {
+    if (fs.existsSync(href)) links.push({ href, label });
+  };
+
+  add(`${kindSlug}.html`, `All ${kindLabel}`);
+  add(`year-${item.year}.html`, `${item.year} Movies and TV Shows`);
+  add(`year-${item.year}-${kindSlug}.html`, `${item.year} ${kindLabel}`);
+  add(item.kind === 'tv' ? 'best-tv-shows.html' : 'best-movies.html', `Best ${kindLabel}`);
+
+  item.genres.slice(0, 4).forEach(genre => {
+    add(`genre-${slug(genre)}.html`, `${genre} Movies and TV Shows`);
+    add(`genre-${slug(genre)}-${kindSlug}.html`, `${genre} ${kindLabel}`);
+  });
+
+  const seen = new Set();
+  return links
+    .filter(link => {
+      if (seen.has(link.href)) return false;
+      seen.add(link.href);
+      return true;
+    })
+    .map(link => `<a href="${attr(link.href)}">${esc(link.label)}</a>`)
+    .join('');
+}
+
 function schema(item, file) {
   const type = item.kind === 'tv' ? 'TVSeries' : 'Movie';
   return {
@@ -208,6 +237,13 @@ ${breadcrumbNav(item, kindLabel)}
       <p>${esc(item.desc)}</p>
       <p class="catalog-note">${SITE_NAME} is an informational catalog only. This page does not provide playback, hosting, downloads, or links to full video files.</p>
     </div>
+  </section>
+  <section class="collection-section">
+    <div class="section-heading">
+      <h2>Browse Similar Catalog Pages</h2>
+      <p>Genre and year collections</p>
+    </div>
+    <div class="collection-links">${collectionLinks(item)}</div>
   </section>
   ${related.length ? `<section class="related-section">
     <div class="section-heading">

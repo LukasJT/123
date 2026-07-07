@@ -248,6 +248,24 @@ h1 {
   font-size: 13px;
 }
 .related-section { margin-top: 34px; }
+.collection-section { margin-top: 28px; }
+.collection-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.collection-links a {
+  background: #171717;
+  border: 1px solid #303030;
+  border-radius: 18px;
+  color: #d0d0d0;
+  font-size: 13px;
+  padding: 8px 12px;
+}
+.collection-links a:hover {
+  border-color: #f5b50a;
+  color: #f5b50a;
+}
 .sitemap-content {
   display: grid;
   gap: 26px;
