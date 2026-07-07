@@ -69,7 +69,7 @@ function footer() {
   return `<footer>
     <p>&copy; 2026 ${SITE_NAME}. All rights reserved.</p>
     <p>${SITE_NAME} is an informational catalog. We do not host, stream, or link to full video files.</p>
-    <p><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms</a> · <a href="dmca.html">DMCA</a> · <a href="contact.html">Contact</a></p>
+    <p><a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms</a> | <a href="dmca.html">DMCA</a> | <a href="contact.html">Contact</a></p>
   </footer>`;
 }
 
@@ -79,7 +79,7 @@ function relatedCard(item) {
     <img src="${attr(posterFor(item))}" alt="${attr(item.title)} poster" loading="lazy">
     <span class="card-body">
       <span class="card-title">${esc(item.title)}</span>
-      <span class="meta"><span>${esc(item.year)}</span><span>★ ${esc(item.rating)}</span></span>
+      <span class="meta"><span>${esc(item.year)}</span><span>Rating ${esc(item.rating)}</span></span>
     </span>
   </a>`;
 }

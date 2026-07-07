@@ -35,6 +35,186 @@
     "description": "Browse 22 movie and TV show genres on 123Videos, from action and comedy to horror, drama, sci-fi, and documentaries."
   },
   {
+    "file": "best-movies.html",
+    "title": "Best Movies by Rating",
+    "description": "Browse the highest-rated movies in the 123Videos catalog, organized with posters, years, genres, ratings, and detail pages."
+  },
+  {
+    "file": "best-tv-shows.html",
+    "title": "Best TV Shows by Rating",
+    "description": "Browse the highest-rated TV shows in the 123Videos catalog, including popular series, mini-series, anime, dramas, comedies, and thrillers."
+  },
+  {
+    "file": "best-action-movies.html",
+    "title": "Best Action Movies",
+    "description": "Browse the best-rated action movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-action-tv-shows.html",
+    "title": "Best Action TV Shows",
+    "description": "Browse the best-rated action TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-adventure-movies.html",
+    "title": "Best Adventure Movies",
+    "description": "Browse the best-rated adventure movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-adventure-tv-shows.html",
+    "title": "Best Adventure TV Shows",
+    "description": "Browse the best-rated adventure TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-animation-movies.html",
+    "title": "Best Animation Movies",
+    "description": "Browse the best-rated animation movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-animation-tv-shows.html",
+    "title": "Best Animation TV Shows",
+    "description": "Browse the best-rated animation TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-comedy-movies.html",
+    "title": "Best Comedy Movies",
+    "description": "Browse the best-rated comedy movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-comedy-tv-shows.html",
+    "title": "Best Comedy TV Shows",
+    "description": "Browse the best-rated comedy TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-crime-movies.html",
+    "title": "Best Crime Movies",
+    "description": "Browse the best-rated crime movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-crime-tv-shows.html",
+    "title": "Best Crime TV Shows",
+    "description": "Browse the best-rated crime TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-documentary-movies.html",
+    "title": "Best Documentary Movies",
+    "description": "Browse the best-rated documentary movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-documentary-tv-shows.html",
+    "title": "Best Documentary TV Shows",
+    "description": "Browse the best-rated documentary TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-drama-movies.html",
+    "title": "Best Drama Movies",
+    "description": "Browse the best-rated drama movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-drama-tv-shows.html",
+    "title": "Best Drama TV Shows",
+    "description": "Browse the best-rated drama TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-family-movies.html",
+    "title": "Best Family Movies",
+    "description": "Browse the best-rated family movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-horror-movies.html",
+    "title": "Best Horror Movies",
+    "description": "Browse the best-rated horror movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-horror-tv-shows.html",
+    "title": "Best Horror TV Shows",
+    "description": "Browse the best-rated horror TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-mystery-movies.html",
+    "title": "Best Mystery Movies",
+    "description": "Browse the best-rated mystery movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-mystery-tv-shows.html",
+    "title": "Best Mystery TV Shows",
+    "description": "Browse the best-rated mystery TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-romance-movies.html",
+    "title": "Best Romance Movies",
+    "description": "Browse the best-rated romance movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-romance-tv-shows.html",
+    "title": "Best Romance TV Shows",
+    "description": "Browse the best-rated romance TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-sci-fi-movies.html",
+    "title": "Best Sci-Fi Movies",
+    "description": "Browse the best-rated sci-fi movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-sci-fi-tv-shows.html",
+    "title": "Best Sci-Fi TV Shows",
+    "description": "Browse the best-rated sci-fi TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-thriller-movies.html",
+    "title": "Best Thriller Movies",
+    "description": "Browse the best-rated thriller movies in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-thriller-tv-shows.html",
+    "title": "Best Thriller TV Shows",
+    "description": "Browse the best-rated thriller TV shows in the 123Videos catalog with years, ratings, posters, genres, and title detail pages."
+  },
+  {
+    "file": "best-2024-movies.html",
+    "title": "Best 2024 Movies",
+    "description": "Browse the best-rated 2024 movies in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
+    "file": "best-2023-movies.html",
+    "title": "Best 2023 Movies",
+    "description": "Browse the best-rated 2023 movies in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
+    "file": "best-2023-tv-shows.html",
+    "title": "Best 2023 TV Shows",
+    "description": "Browse the best-rated 2023 TV shows in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
+    "file": "best-2022-movies.html",
+    "title": "Best 2022 Movies",
+    "description": "Browse the best-rated 2022 movies in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
+    "file": "best-2022-tv-shows.html",
+    "title": "Best 2022 TV Shows",
+    "description": "Browse the best-rated 2022 TV shows in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
+    "file": "best-2021-movies.html",
+    "title": "Best 2021 Movies",
+    "description": "Browse the best-rated 2021 movies in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
+    "file": "best-2021-tv-shows.html",
+    "title": "Best 2021 TV Shows",
+    "description": "Browse the best-rated 2021 TV shows in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
+    "file": "best-2020-movies.html",
+    "title": "Best 2020 Movies",
+    "description": "Browse the best-rated 2020 movies in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
+    "file": "best-2020-tv-shows.html",
+    "title": "Best 2020 TV Shows",
+    "description": "Browse the best-rated 2020 TV shows in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
     "file": "genre-action.html",
     "title": "Action Movies and TV Shows",
     "description": "Browse 235 action movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."

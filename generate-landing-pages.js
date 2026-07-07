@@ -54,7 +54,7 @@ function card(item) {
     <img src="${attr(posterFor(item))}" alt="${attr(item.title)} poster" loading="lazy">
     <span class="card-body">
       <span class="card-title">${esc(item.title)}</span>
-      <span class="meta"><span>${esc(item.year)}</span><span>★ ${esc(item.rating)}</span><span>${esc(item.kind === 'tv' ? 'TV' : 'Movie')}</span></span>
+      <span class="meta"><span>${esc(item.year)}</span><span>Rating ${esc(item.rating)}</span><span>${esc(item.kind === 'tv' ? 'TV' : 'Movie')}</span></span>
     </span>
   </a>`;
 }
@@ -82,7 +82,7 @@ function footer() {
   return `<footer>
   <p>&copy; 2026 ${SITE_NAME}. All rights reserved.</p>
   <p>${SITE_NAME} is an informational catalog. We do not host, stream, or link to full video files.</p>
-  <p><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms</a> · <a href="dmca.html">DMCA</a> · <a href="contact.html">Contact</a></p>
+  <p><a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms</a> | <a href="dmca.html">DMCA</a> | <a href="contact.html">Contact</a></p>
 </footer>`;
 }
 
@@ -94,6 +94,8 @@ function quickLinks() {
     <a href="genre-drama.html">Drama</a>
     <a href="genre-sci-fi.html">Sci-Fi</a>
     <a href="catalog-a-z.html">A-Z</a>
+    <a href="best-movies.html">Best Movies</a>
+    <a href="best-tv-shows.html">Best TV Shows</a>
     <a href="year-2024.html">2024</a>
     <a href="trending.html">Trending</a>
   </div>`;
@@ -216,6 +218,14 @@ const genres = [...new Set(catalog.flatMap(item => item.genres))].sort();
 const numericYears = [...new Set(catalog.map(item => String(item.year).match(/\d{4}/)?.[0]).filter(Boolean))]
   .sort((a, b) => Number(b) - Number(a))
   .slice(0, 12);
+const commercialGenres = ['Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family', 'Horror', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller'];
+
+function topRated(items, limit = 120) {
+  return items
+    .slice()
+    .sort((a, b) => Number.parseFloat(b.rating) - Number.parseFloat(a.rating))
+    .slice(0, limit);
+}
 
 const pages = [
   {
@@ -269,6 +279,86 @@ const pages = [
     items: catalog
   }
 ];
+
+pages.push({
+  file: 'best-movies.html',
+  title: 'Best Movies by Rating',
+  eyebrow: 'Top movie picks',
+  description: `Browse the highest-rated movies in the ${SITE_NAME} catalog, organized with posters, years, genres, ratings, and detail pages.`,
+  intro: `Start with the highest-rated movies in the ${SITE_NAME} catalog, then jump into individual title pages for synopsis, genre, poster, year, duration, and related recommendations.`,
+  heading: 'Highest-rated movies',
+  items: topRated(catalog.filter(item => item.kind === 'movie'))
+});
+
+pages.push({
+  file: 'best-tv-shows.html',
+  title: 'Best TV Shows by Rating',
+  eyebrow: 'Top series picks',
+  description: `Browse the highest-rated TV shows in the ${SITE_NAME} catalog, including popular series, mini-series, anime, dramas, comedies, and thrillers.`,
+  intro: `Find the highest-rated TV shows in the ${SITE_NAME} catalog and compare series by rating, release year, genre, poster, and related recommendations.`,
+  heading: 'Highest-rated TV shows',
+  items: topRated(catalog.filter(item => item.kind === 'tv'))
+});
+
+for (const genre of commercialGenres) {
+  const genreItems = catalog.filter(item => item.genres.includes(genre));
+  const movies = topRated(genreItems.filter(item => item.kind === 'movie'));
+  const shows = topRated(genreItems.filter(item => item.kind === 'tv'));
+
+  if (movies.length >= 6) {
+    pages.push({
+      file: `best-${slug(genre)}-movies.html`,
+      title: `Best ${genre} Movies`,
+      eyebrow: `Top ${genre.toLowerCase()} movies`,
+      description: `Browse the best-rated ${genre.toLowerCase()} movies in the ${SITE_NAME} catalog with years, ratings, posters, genres, and title detail pages.`,
+      intro: `This ranked ${genre.toLowerCase()} movie collection highlights strong catalog picks by rating, with quick paths into synopsis pages and related recommendations.`,
+      heading: `Top-rated ${genre.toLowerCase()} movies`,
+      items: movies
+    });
+  }
+
+  if (shows.length >= 4) {
+    pages.push({
+      file: `best-${slug(genre)}-tv-shows.html`,
+      title: `Best ${genre} TV Shows`,
+      eyebrow: `Top ${genre.toLowerCase()} series`,
+      description: `Browse the best-rated ${genre.toLowerCase()} TV shows in the ${SITE_NAME} catalog with years, ratings, posters, genres, and title detail pages.`,
+      intro: `This ranked ${genre.toLowerCase()} TV collection helps visitors compare popular series by rating, year, genre, and related recommendations.`,
+      heading: `Top-rated ${genre.toLowerCase()} TV shows`,
+      items: shows
+    });
+  }
+}
+
+for (const year of numericYears.slice(0, 5)) {
+  const yearItems = catalog.filter(item => String(item.year).includes(year));
+  const movies = topRated(yearItems.filter(item => item.kind === 'movie'));
+  const shows = topRated(yearItems.filter(item => item.kind === 'tv'));
+
+  if (movies.length >= 4) {
+    pages.push({
+      file: `best-${year}-movies.html`,
+      title: `Best ${year} Movies`,
+      eyebrow: `${year} movie rankings`,
+      description: `Browse the best-rated ${year} movies in the ${SITE_NAME} catalog with ratings, genres, posters, and title detail pages.`,
+      intro: `Use this ${year} movie list to compare the strongest catalog titles from the year by rating, genre, poster, duration, and related recommendations.`,
+      heading: `Top-rated ${year} movies`,
+      items: movies
+    });
+  }
+
+  if (shows.length >= 2) {
+    pages.push({
+      file: `best-${year}-tv-shows.html`,
+      title: `Best ${year} TV Shows`,
+      eyebrow: `${year} series rankings`,
+      description: `Browse the best-rated ${year} TV shows in the ${SITE_NAME} catalog with ratings, genres, posters, and title detail pages.`,
+      intro: `Use this ${year} TV show list to compare strong catalog series by rating, genre, poster, duration, and related recommendations.`,
+      heading: `Top-rated ${year} TV shows`,
+      items: shows
+    });
+  }
+}
 
 for (const genre of genres) {
   const items = catalog.filter(item => item.genres.includes(genre));

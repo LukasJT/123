@@ -74,7 +74,7 @@
     flex-shrink: 0;
     filter: drop-shadow(0 0 8px rgba(245, 181, 10, 0.25));
   }
-  nav ul { list-style: none; display: flex; gap: 28px; }
+  nav ul { list-style: none; display: flex; gap: 20px; flex-wrap: wrap; }
   nav a {
     color: #ccc;
     text-decoration: none;
@@ -694,6 +694,8 @@
       <li><a href="movies.html" onclick="filterSection('movie');return false;">Movies</a></li>
       <li><a href="tv-shows.html" onclick="filterSection('tv');return false;">TV Shows</a></li>
       <li><a href="top-imdb.html">Top IMDB</a></li>
+      <li><a href="best-movies.html">Best Movies</a></li>
+      <li><a href="best-tv-shows.html">Best TV</a></li>
       <li><a href="genres.html">Genre</a></li>
       <li><a href="search.html?q=united-states">Country</a></li>
     </ul>
@@ -710,6 +712,8 @@
   <a href="index.html" onclick="resetView();closeMobileMenu();return false;">Home</a>
   <a href="movies.html" onclick="filterSection('movie');closeMobileMenu();return false;">Movies</a>
   <a href="tv-shows.html" onclick="filterSection('tv');closeMobileMenu();return false;">TV Shows</a>
+  <a href="best-movies.html">Best Movies</a>
+  <a href="best-tv-shows.html">Best TV Shows</a>
   <a href="genre-action.html">Action</a>
   <a href="genre-comedy.html">Comedy</a>
   <a href="genre-horror.html">Horror</a>
@@ -765,6 +769,8 @@
         <li><a href="index.html">Home</a></li>
         <li><a href="movies.html">Movies</a></li>
         <li><a href="tv-shows.html">TV Shows</a></li>
+        <li><a href="best-movies.html">Best Movies</a></li>
+        <li><a href="best-tv-shows.html">Best TV Shows</a></li>
         <li><a href="latest.html">Latest Releases</a></li>
         <li><a href="trending.html">Trending</a></li>
       </ul>
