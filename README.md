@@ -19,6 +19,7 @@ A static movie and TV catalog site for GitHub Pages.
 - ItemList structured data for related title recommendations
 - Site identity, search, and search-results structured data on core pages
 - About page with AboutPage structured data for site trust signals
+- Advertising disclosure page for sponsored links and third-party ad transparency
 - Cross-links from title pages into matching genre, year, type, and ranked catalog pages
 - 838-title catalog across Movies + TV Shows
 - Responsive grid layout

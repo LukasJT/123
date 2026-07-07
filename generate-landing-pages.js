@@ -82,7 +82,7 @@ function footer() {
   return `<footer>
   <p>&copy; 2026 ${SITE_NAME}. All rights reserved.</p>
   <p>${SITE_NAME} is an informational catalog. We do not host, stream, or link to full video files.</p>
-  <p><a href="about.html">About</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms</a> | <a href="dmca.html">DMCA</a> | <a href="contact.html">Contact</a> | <a href="sitemap.html">Sitemap</a></p>
+  <p><a href="about.html">About</a> | <a href="advertising.html">Advertising</a> | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms</a> | <a href="dmca.html">DMCA</a> | <a href="contact.html">Contact</a> | <a href="sitemap.html">Sitemap</a></p>
 </footer>`;
 }
 
