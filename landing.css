@@ -236,6 +236,33 @@ h1 {
   font-size: 13px;
 }
 .related-section { margin-top: 34px; }
+.sitemap-content {
+  display: grid;
+  gap: 26px;
+}
+.sitemap-section {
+  background: #171717;
+  border: 1px solid #282828;
+  border-radius: 8px;
+  padding: 24px;
+}
+.sitemap-section h2 {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+.sitemap-list {
+  display: grid;
+  gap: 10px 24px;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  list-style: none;
+}
+.sitemap-list a {
+  color: #ccc;
+  font-size: 14px;
+  line-height: 1.4;
+}
+.sitemap-list a:hover { color: #f5b50a; }
 footer {
   background: #131313;
   border-top: 1px solid #2a2a2a;
