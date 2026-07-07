@@ -11,6 +11,7 @@ A static movie and TV catalog site for GitHub Pages.
 - Detail pages with synopsis, rating, genre, and related titles
 - SEO metadata, robots.txt, and sitemap.xml generation
 - Static SEO landing pages for movies, TV shows, top IMDb, latest, trending, genres, and years
+- Static title pages for every movie and TV show in the catalog
 - 838-title catalog across Movies + TV Shows
 - Responsive grid layout
 
@@ -21,6 +22,7 @@ Just open `index.html` in a browser.
 Run these after catalog changes:
 
 ```sh
+node generate-title-pages.js
 node generate-landing-pages.js
 node generate-seo-assets.js
 ```

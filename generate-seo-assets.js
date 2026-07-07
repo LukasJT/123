@@ -14,6 +14,9 @@ const catalog = sandbox.window.catalog || [];
 const landingPages = fs.existsSync('landing-pages.json')
   ? JSON.parse(fs.readFileSync('landing-pages.json', 'utf8'))
   : [];
+const titlePages = fs.existsSync('title-pages.json')
+  ? JSON.parse(fs.readFileSync('title-pages.json', 'utf8'))
+  : [];
 const genres = [...new Set(catalog.flatMap(item => item.genres))].sort();
 const years = [...new Set(catalog.map(item => item.year))].sort((a, b) => b - a).slice(0, 12);
 const sections = [...new Set(catalog.map(item => item.section))].sort();
@@ -44,13 +47,13 @@ const urls = [
     url('/' + page, page === 'googledd325d3781eb4f8d.html' ? '0.1' : '0.4', 'yearly')
   ),
   ...landingPages.map(page => url('/' + page.file, '0.9', 'weekly')),
+  ...titlePages.map(page => url('/' + page.file, '0.8', 'monthly')),
   ...['action', 'comedy', 'horror', 'drama', 'sci-fi', 'trending', '2024'].map(q =>
     url('/search.html?q=' + encodeURIComponent(q), '0.8', 'daily')
   ),
   ...genres.map(genre => url('/search.html?q=' + encodeURIComponent(genre.toLowerCase()), '0.7')),
   ...years.map(year => url('/search.html?q=' + encodeURIComponent(year), '0.7')),
-  ...sections.map(section => url('/search.html?q=' + encodeURIComponent(section), '0.6')),
-  ...catalog.map(item => url('/watch.html?id=' + encodeURIComponent(item.id), '0.8', 'monthly'))
+  ...sections.map(section => url('/search.html?q=' + encodeURIComponent(section), '0.6'))
 ];
 
 const unique = [...new Map(urls.map(entry => [entry.match(/<loc>(.*?)<\/loc>/)[1], entry])).values()];

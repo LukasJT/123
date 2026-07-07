@@ -43,8 +43,13 @@ function posterFor(item) {
   return item.poster && item.poster.length ? item.poster : 'favicon.svg';
 }
 
+function titlePath(item) {
+  if (sandbox.window.titlePath) return sandbox.window.titlePath(item);
+  return 'watch.html?id=' + encodeURIComponent(item.id);
+}
+
 function card(item) {
-  return `<a class="card" href="watch.html?id=${encodeURIComponent(item.id)}">
+  return `<a class="card" href="${titlePath(item)}">
     <span class="quality">${esc(item.quality)}</span>
     <img src="${attr(posterFor(item))}" alt="${attr(item.title)} poster" loading="lazy">
     <span class="card-body">
@@ -104,7 +109,7 @@ function pageSchema(page, items) {
       itemListElement: items.slice(0, 50).map((item, index) => ({
         '@type': 'ListItem',
         position: index + 1,
-        url: absolute(`watch.html?id=${encodeURIComponent(item.id)}`),
+        url: absolute(titlePath(item)),
         name: item.title
       }))
     }

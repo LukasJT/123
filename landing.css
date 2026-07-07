@@ -179,6 +179,63 @@ h1 {
   margin-bottom: 10px;
 }
 .copy-block p + p { margin-top: 12px; }
+.detail-layout {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 30px;
+  align-items: start;
+  margin-bottom: 42px;
+}
+.detail-poster {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+  background: #2a2a2a;
+}
+.detail-body {
+  background: #171717;
+  border: 1px solid #282828;
+  border-radius: 8px;
+  padding: 24px;
+}
+.detail-body h2 {
+  color: #fff;
+  font-size: 22px;
+  margin-bottom: 14px;
+}
+.detail-body p {
+  color: #bbb;
+  line-height: 1.75;
+  margin-top: 18px;
+}
+.detail-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin-bottom: 16px;
+}
+.detail-meta span,
+.detail-genres a {
+  background: #0f0f0f;
+  border: 1px solid #303030;
+  border-radius: 16px;
+  color: #ccc;
+  display: inline-flex;
+  font-size: 12px;
+  padding: 6px 11px;
+}
+.detail-genres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.detail-genres a:hover { border-color: #f5b50a; color: #f5b50a; }
+.catalog-note {
+  color: #888 !important;
+  font-size: 13px;
+}
+.related-section { margin-top: 34px; }
 footer {
   background: #131313;
   border-top: 1px solid #2a2a2a;
@@ -195,4 +252,6 @@ footer {
   .quick-links, .content, .ad-row { padding-left: 16px; padding-right: 16px; }
   .grid { grid-template-columns: repeat(auto-fill, minmax(125px, 1fr)); gap: 11px; }
   .section-heading { align-items: flex-start; flex-direction: column; gap: 6px; }
+  .detail-layout { grid-template-columns: 1fr; gap: 20px; }
+  .detail-poster { max-width: 210px; margin: 0 auto; }
 }

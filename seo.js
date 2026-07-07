@@ -8,6 +8,7 @@ window.MZ_SEO = (function() {
   }
 
   function movieUrl(movie, includeServer) {
+    if (window.titlePath) return absoluteUrl(window.titlePath(movie));
     const path = `watch.html?id=${encodeURIComponent(movie.id)}${includeServer ? '&server=' + encodeURIComponent(includeServer) : ''}`;
     return absoluteUrl(path);
   }

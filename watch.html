@@ -978,7 +978,7 @@
         <h2>You may also like</h2>
         <div class="related-grid">
           ${related.map(r => `
-            <a class="related-card" href="watch.html?id=${r.id}">
+            <a class="related-card" href="${window.titlePath ? window.titlePath(r) : `watch.html?id=${r.id}`}">
               <img src="${posterFor(r)}" alt="${r.title}" loading="lazy"
                    onerror="this.onerror=null;this.src=window.placeholderPoster(${JSON.stringify(r.title)})" />
               <div class="title-line">${r.title}</div>

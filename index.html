@@ -857,7 +857,7 @@
       ? `<div class="badge ${m.badge === 'NEW' ? 'new' : ''}">${m.badge}</div>`
       : '';
     return `
-      <a class="movie" href="watch.html?id=${m.id}">
+      <a class="movie" href="${window.titlePath ? window.titlePath(m) : `watch.html?id=${m.id}`}">
         ${badgeHtml}
         <div class="quality">${m.quality}</div>
         <img class="poster" src="${posterFor(m)}" alt="${m.title}" loading="lazy"
@@ -1004,7 +1004,7 @@
         </div>
         <div class="cw-strip">
           ${items.map(({h, m}) => `
-            <a class="cw-card" href="watch.html?id=${m.id}">
+            <a class="cw-card" href="${window.titlePath ? window.titlePath(m) : `watch.html?id=${m.id}`}">
               <img class="cw-poster" src="${posterFor(m)}" alt="${m.title}" loading="lazy"
                    onerror="this.onerror=null;this.src=window.placeholderPoster(${JSON.stringify(m.title)})" />
               <div class="cw-progress"><div class="cw-progress-fill" style="width:${h.progress}%"></div></div>

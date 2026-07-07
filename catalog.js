@@ -25,6 +25,18 @@ window.posterFor = function(m) {
   return (m.poster && m.poster.length) ? m.poster : window.placeholderPoster(m.title);
 };
 
+window.titleSlug = function(m) {
+  return String(m.title + '-' + m.year + '-' + m.id)
+    .toLowerCase()
+    .replace(/&/g, 'and')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+};
+
+window.titlePath = function(m) {
+  return 'title-' + window.titleSlug(m) + '.html';
+};
+
 // Continue-watching: localStorage-backed recently-watched list
 window.MZ_HISTORY_KEY = 'mz_history_v1';
 window.MZ_HISTORY_MAX = 12;
