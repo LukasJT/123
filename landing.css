@@ -35,6 +35,18 @@ nav a {
   transition: color 0.2s;
 }
 nav a:hover { color: #f5b50a; }
+.breadcrumbs {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 18px 40px 0;
+  color: #777;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 12px;
+}
+.breadcrumbs a { color: #bbb; }
+.breadcrumbs a:hover { color: #f5b50a; }
 .hero {
   padding: 58px 40px 34px;
   background:

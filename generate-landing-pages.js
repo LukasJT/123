@@ -123,6 +123,43 @@ function pageSchema(page, items) {
   };
 }
 
+function breadcrumbSchema(page) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: SITE_NAME,
+        item: BASE_URL + '/'
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Catalog',
+        item: absolute('sitemap.html')
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: page.title,
+        item: absolute(page.file)
+      }
+    ]
+  };
+}
+
+function breadcrumbNav(page) {
+  return `<nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="index.html">${SITE_NAME}</a>
+    <span>/</span>
+    <a href="sitemap.html">Catalog</a>
+    <span>/</span>
+    <span>${esc(page.title)}</span>
+  </nav>`;
+}
+
 function faqSchema(page) {
   return {
     '@context': 'https://schema.org',
@@ -182,10 +219,12 @@ function renderPage(page) {
 <link rel="search" type="application/opensearchdescription+xml" title="${SITE_NAME}" href="opensearch.xml">
 <link rel="stylesheet" href="landing.css">
 <script type="application/ld+json">${JSON.stringify(pageSchema(page, items))}</script>
+<script type="application/ld+json">${JSON.stringify(breadcrumbSchema(page))}</script>
 <script type="application/ld+json">${JSON.stringify(faqSchema(page))}</script>
 </head>
 <body>
 ${nav()}
+${breadcrumbNav(page)}
 <section class="hero">
   <div class="hero-inner">
     <div class="eyebrow">${esc(page.eyebrow || 'Browse catalog')}</div>

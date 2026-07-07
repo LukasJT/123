@@ -105,6 +105,47 @@ function schema(item, file) {
   };
 }
 
+function breadcrumbSchema(item, file, kindLabel) {
+  const sectionFile = item.kind === 'tv' ? 'tv-shows.html' : 'movies.html';
+  const sectionName = item.kind === 'tv' ? 'TV Shows' : 'Movies';
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: SITE_NAME,
+        item: BASE_URL + '/'
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: sectionName,
+        item: absolute(sectionFile)
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: `${item.title} ${kindLabel}`,
+        item: absolute(file)
+      }
+    ]
+  };
+}
+
+function breadcrumbNav(item, kindLabel) {
+  const sectionFile = item.kind === 'tv' ? 'tv-shows.html' : 'movies.html';
+  const sectionName = item.kind === 'tv' ? 'TV Shows' : 'Movies';
+  return `<nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="index.html">${SITE_NAME}</a>
+    <span>/</span>
+    <a href="${sectionFile}">${sectionName}</a>
+    <span>/</span>
+    <span>${esc(item.title)} ${esc(kindLabel)}</span>
+  </nav>`;
+}
+
 function renderTitlePage(item) {
   const file = titlePath(item);
   const kindLabel = item.kind === 'tv' ? 'TV Show' : 'Movie';
@@ -139,9 +180,11 @@ function renderTitlePage(item) {
 <link rel="search" type="application/opensearchdescription+xml" title="${SITE_NAME}" href="opensearch.xml">
 <link rel="stylesheet" href="landing.css">
 <script type="application/ld+json">${JSON.stringify(schema(item, file))}</script>
+<script type="application/ld+json">${JSON.stringify(breadcrumbSchema(item, file, kindLabel))}</script>
 </head>
 <body>
 ${nav()}
+${breadcrumbNav(item, kindLabel)}
 <section class="hero title-hero">
   <div class="hero-inner">
     <div class="eyebrow">${esc(kindLabel)} Details</div>
