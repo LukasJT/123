@@ -72,6 +72,7 @@ function nav() {
         <li><a href="top-imdb.html">Top IMDb</a></li>
         <li><a href="latest.html">Latest</a></li>
         <li><a href="genres.html">Genres</a></li>
+        <li><a href="catalog-a-z.html">A-Z</a></li>
       </ul>
     </nav>
   </header>`;
@@ -92,6 +93,7 @@ function quickLinks() {
     <a href="genre-horror.html">Horror</a>
     <a href="genre-drama.html">Drama</a>
     <a href="genre-sci-fi.html">Sci-Fi</a>
+    <a href="catalog-a-z.html">A-Z</a>
     <a href="year-2024.html">2024</a>
     <a href="trending.html">Trending</a>
   </div>`;
@@ -142,7 +144,10 @@ function faqSchema(page) {
 }
 
 function renderPage(page) {
-  const items = page.items.slice().sort((a, b) => Number.parseFloat(b.rating) - Number.parseFloat(a.rating));
+  const items = page.items.slice().sort((a, b) => {
+    if (page.sort === 'title') return a.title.localeCompare(b.title);
+    return Number.parseFloat(b.rating) - Number.parseFloat(a.rating);
+  });
   const visible = items.slice(0, 120);
   const title = `${page.title} - ${SITE_NAME}`;
   const description = page.description;
@@ -214,6 +219,14 @@ const numericYears = [...new Set(catalog.map(item => String(item.year).match(/\d
 
 const pages = [
   {
+    file: 'catalog-a-z.html',
+    title: 'A-Z Movie and TV Show Catalog',
+    eyebrow: 'Browse A-Z',
+    description: `Browse the full ${SITE_NAME} catalog alphabetically, including movies and TV shows with ratings, years, genres, and detail pages.`,
+    items: catalog,
+    sort: 'title'
+  },
+  {
     file: 'movies.html',
     title: 'Movies',
     eyebrow: 'Movie catalog',
@@ -266,6 +279,28 @@ for (const genre of genres) {
     description: `Browse ${items.length} ${genre.toLowerCase()} movies and TV shows with ratings, years, posters, and related catalog pages on ${SITE_NAME}.`,
     items
   });
+
+  const movies = items.filter(item => item.kind === 'movie');
+  if (movies.length) {
+    pages.push({
+      file: `genre-${slug(genre)}-movies.html`,
+      title: `${genre} Movies`,
+      eyebrow: `${genre} movies`,
+      description: `Browse ${movies.length} ${genre.toLowerCase()} movies with ratings, years, posters, and related catalog pages on ${SITE_NAME}.`,
+      items: movies
+    });
+  }
+
+  const shows = items.filter(item => item.kind === 'tv');
+  if (shows.length) {
+    pages.push({
+      file: `genre-${slug(genre)}-tv-shows.html`,
+      title: `${genre} TV Shows`,
+      eyebrow: `${genre} series`,
+      description: `Browse ${shows.length} ${genre.toLowerCase()} TV shows with ratings, years, posters, and related catalog pages on ${SITE_NAME}.`,
+      items: shows
+    });
+  }
 }
 
 for (const year of numericYears) {
@@ -276,6 +311,47 @@ for (const year of numericYears) {
     eyebrow: `${year} catalog`,
     description: `Browse ${items.length} movies and TV shows from ${year} in the ${SITE_NAME} catalog.`,
     items
+  });
+
+  const movies = items.filter(item => item.kind === 'movie');
+  if (movies.length) {
+    pages.push({
+      file: `year-${year}-movies.html`,
+      title: `${year} Movies`,
+      eyebrow: `${year} movies`,
+      description: `Browse ${movies.length} movies from ${year} in the ${SITE_NAME} catalog, including ratings, genres, posters, and detail pages.`,
+      items: movies
+    });
+  }
+
+  const shows = items.filter(item => item.kind === 'tv');
+  if (shows.length) {
+    pages.push({
+      file: `year-${year}-tv-shows.html`,
+      title: `${year} TV Shows`,
+      eyebrow: `${year} series`,
+      description: `Browse ${shows.length} TV shows from ${year} in the ${SITE_NAME} catalog, including ratings, genres, posters, and detail pages.`,
+      items: shows
+    });
+  }
+}
+
+const alphaGroups = new Map();
+for (const item of catalog) {
+  const first = item.title.trim().charAt(0).toUpperCase();
+  const key = /^[A-Z]$/.test(first) ? first : '0-9';
+  if (!alphaGroups.has(key)) alphaGroups.set(key, []);
+  alphaGroups.get(key).push(item);
+}
+
+for (const [letter, items] of [...alphaGroups.entries()].sort()) {
+  pages.push({
+    file: `catalog-${letter.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.html`,
+    title: `${letter} Movies and TV Shows`,
+    eyebrow: `A-Z: ${letter}`,
+    description: `Browse ${items.length} ${SITE_NAME} catalog title${items.length === 1 ? '' : 's'} starting with ${letter}.`,
+    items,
+    sort: 'title'
   });
 }
 
