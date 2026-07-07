@@ -17,6 +17,7 @@ A static movie and TV catalog site for GitHub Pages.
 - RSS, JSON, and OpenSearch files for catalog discovery
 - Breadcrumb navigation and BreadcrumbList structured data on generated pages
 - ItemList structured data for related title recommendations
+- Site identity, search, and search-results structured data on core pages
 - Cross-links from title pages into matching genre, year, type, and ranked catalog pages
 - 838-title catalog across Movies + TV Shows
 - Responsive grid layout

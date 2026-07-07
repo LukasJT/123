@@ -29,14 +29,46 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "123Videos",
-  "url": "https://123videos.net/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://123videos.net/search.html?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://123videos.net/#organization",
+      "name": "123Videos",
+      "url": "https://123videos.net/",
+      "logo": "https://123videos.net/favicon.svg",
+      "sameAs": [
+        "https://github.com/LukasJT/123"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://123videos.net/#website",
+      "name": "123Videos",
+      "url": "https://123videos.net/",
+      "publisher": {
+        "@id": "https://123videos.net/#organization"
+      },
+      "inLanguage": "en",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://123videos.net/search.html?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://123videos.net/#webpage",
+      "url": "https://123videos.net/",
+      "name": "123Videos - Browse Movies and TV Shows",
+      "isPartOf": {
+        "@id": "https://123videos.net/#website"
+      },
+      "about": {
+        "@id": "https://123videos.net/#organization"
+      },
+      "description": "Browse movies and TV shows by genre, year, rating, and title on 123Videos."
+    }
+  ]
 }
 </script>
 <style>

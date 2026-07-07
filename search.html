@@ -20,10 +20,54 @@
 <link rel="icon" type="image/svg+xml" href="favicon.svg" />
 <link rel="apple-touch-icon" href="favicon.svg" />
 <link rel="manifest" href="manifest.json" />
+<link rel="alternate" type="application/rss+xml" title="123Videos Catalog Updates" href="feed.xml" />
+<link rel="search" type="application/opensearchdescription+xml" title="123Videos" href="opensearch.xml" />
 <meta name="theme-color" content="#f5b50a" />
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://123videos.net/#organization",
+      "name": "123Videos",
+      "url": "https://123videos.net/",
+      "logo": "https://123videos.net/favicon.svg",
+      "sameAs": [
+        "https://github.com/LukasJT/123"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://123videos.net/#website",
+      "name": "123Videos",
+      "url": "https://123videos.net/",
+      "publisher": {
+        "@id": "https://123videos.net/#organization"
+      },
+      "inLanguage": "en",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://123videos.net/search.html?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "SearchResultsPage",
+      "@id": "https://123videos.net/search.html#webpage",
+      "url": "https://123videos.net/search.html",
+      "name": "Search Movies and TV Shows - 123Videos",
+      "isPartOf": {
+        "@id": "https://123videos.net/#website"
+      },
+      "description": "Search the 123Videos catalog by title, genre, year, rating, and keyword."
+    }
+  ]
+}
+</script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
