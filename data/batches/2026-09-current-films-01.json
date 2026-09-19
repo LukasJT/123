@@ -1,0 +1,17 @@
+{
+  "id": "2026-09-current-films-01",
+  "purpose": "Add a small, fully sourced current-film batch while the broader ingestion pipeline is established.",
+  "selectionCriteria": "Released 2025 films with an authoritative first-party source and no normalized title/year/type match in the existing catalog.",
+  "verifiedAt": "2026-09-19",
+  "records": [
+    { "id": 839, "title": "KPop Demon Hunters", "kind": "movie", "year": 2025, "sources": ["https://www.netflix.com/tudum/kpop-demon-hunters"] },
+    { "id": 840, "title": "F1 The Movie", "kind": "movie", "year": 2025, "sources": ["https://www.apple.com/tv-pr/originals/f1/", "https://tv.apple.com/us/info/f1-the-movie"] },
+    { "id": 841, "title": "Frankenstein", "kind": "movie", "year": 2025, "sources": ["https://www.netflix.com/tudum/articles/frankenstein-guillermo-del-toro-release-date-cast-photos"] }
+  ],
+  "validation": { "additions": 3, "updates": 0, "newDuplicateCandidates": 0 },
+  "limitations": [
+    "The intended batch was capped below 40 because only first-party facts reviewed during this implementation were accepted.",
+    "No external rating values, poster URLs, or where-to-watch claims were added.",
+    "Existing legacy duplicate candidates are documented separately and require URL consolidation decisions."
+  ]
+}

@@ -17,6 +17,9 @@ const landingPages = fs.existsSync('landing-pages.json')
 const titlePages = fs.existsSync('title-pages.json')
   ? JSON.parse(fs.readFileSync('title-pages.json', 'utf8'))
   : [];
+const editorialPages = fs.existsSync('editorial-pages.json')
+  ? JSON.parse(fs.readFileSync('editorial-pages.json', 'utf8'))
+  : [];
 const genres = [...new Set(catalog.flatMap(item => item.genres))].sort();
 const years = [...new Set(catalog.map(item => item.year))].sort((a, b) => b - a).slice(0, 12);
 const sections = [...new Set(catalog.map(item => item.section))].sort();
@@ -266,6 +269,7 @@ const urls = [
   ...htmlSitemapPages.map(page => url('/' + page, page === 'sitemap.html' ? '0.8' : '0.7', 'weekly')),
   ...landingPages.map(page => url('/' + page.file, '0.9', 'weekly')),
   ...titlePages.map(page => url('/' + page.file, '0.8', 'monthly')),
+  ...editorialPages.map(page => url('/' + page.file, '0.7', 'monthly')),
   ...['action', 'comedy', 'horror', 'drama', 'sci-fi', 'trending', '2024'].map(q =>
     url('/search.html?q=' + encodeURIComponent(q), '0.8', 'daily')
   ),

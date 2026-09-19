@@ -1,0 +1,9 @@
+{
+  "name": "123videos-static-catalog",
+  "private": true,
+  "scripts": {
+    "build": "node generate-landing-pages.js && node generate-title-pages.js && node scripts/generate-editorial.js && node generate-seo-assets.js",
+    "check": "node scripts/check-site.js",
+    "test": "node --test test/*.test.js"
+  }
+}

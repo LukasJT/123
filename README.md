@@ -28,10 +28,12 @@ A static movie and TV catalog site for GitHub Pages.
 Just open `index.html` in a browser.
 
 ## SEO files
-Run these after catalog changes:
+Install no dependencies. Run the complete deterministic build and checks after catalog changes:
 
 ```sh
-node generate-title-pages.js
-node generate-landing-pages.js
-node generate-seo-assets.js
+npm run build
+npm test
+npm run check
 ```
+
+New factual additions require a source-backed manifest under `data/batches/`. Editorial guide definitions live in `data/editorial/guides.json`. See `docs/batch-workflow.md` and `docs/content-policy.md` before publishing.

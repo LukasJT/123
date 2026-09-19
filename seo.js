@@ -91,12 +91,6 @@ window.MZ_SEO = (function() {
       datePublished: String(movie.year),
       genre: movie.genres,
       duration: movie.duration,
-      aggregateRating: {
-        '@type': 'AggregateRating',
-        ratingValue: movie.rating,
-        bestRating: '10',
-        ratingCount: '1000'
-      },
       url
     });
   }
@@ -120,7 +114,7 @@ window.MZ_SEO = (function() {
       title,
       description,
       url: searchUrl(clean),
-      robots: resultCount > 0 ? 'index,follow' : 'noindex,follow'
+      robots: 'noindex,follow'
     });
   }
 
