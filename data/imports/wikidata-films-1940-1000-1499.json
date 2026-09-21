@@ -1,0 +1,2698 @@
+{
+  "id": "wikidata-films-1940-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1940,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q7862386",
+      "externalIds": {
+        "wikidata": "Q7862386"
+      },
+      "kind": "movie",
+      "title": "Tørres Snørtevold",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Norwegian comedy film directed by Tancred Ibsen",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7862386"
+      ]
+    },
+    {
+      "id": "wikidata-Q12129853",
+      "externalIds": {
+        "wikidata": "Q12129853"
+      },
+      "kind": "movie",
+      "title": "Tugboat Annie Sails Again",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12129853"
+      ]
+    },
+    {
+      "id": "wikidata-Q3232251",
+      "externalIds": {
+        "wikidata": "Q3232251"
+      },
+      "kind": "movie",
+      "title": "Three Faces West",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film directed by Bernard Vorhaus",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3232251"
+      ]
+    },
+    {
+      "id": "wikidata-Q7798641",
+      "externalIds": {
+        "wikidata": "Q7798641"
+      },
+      "kind": "movie",
+      "title": "Thuzar",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Burmese film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7798641"
+      ]
+    },
+    {
+      "id": "wikidata-Q1144353",
+      "externalIds": {
+        "wikidata": "Q1144353"
+      },
+      "kind": "movie",
+      "title": "Too Many Husbands (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Wesley Ruggles",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1144353"
+      ]
+    },
+    {
+      "id": "wikidata-Q7827121",
+      "externalIds": {
+        "wikidata": "Q7827121"
+      },
+      "kind": "movie",
+      "title": "Torrid Zone",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by William Keighley",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7827121"
+      ]
+    },
+    {
+      "id": "wikidata-Q7815085",
+      "externalIds": {
+        "wikidata": "Q7815085"
+      },
+      "kind": "movie",
+      "title": "Tom Brown's School Days (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Robert Stevenson",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7815085"
+      ]
+    },
+    {
+      "id": "wikidata-Q7855794",
+      "externalIds": {
+        "wikidata": "Q7855794"
+      },
+      "kind": "movie",
+      "title": "Turnabout (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Hal Roach",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7855794"
+      ]
+    },
+    {
+      "id": "wikidata-Q2422817",
+      "externalIds": {
+        "wikidata": "Q2422817"
+      },
+      "kind": "movie",
+      "title": "Tin Pan Alley (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film by Walter Lang",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2422817"
+      ]
+    },
+    {
+      "id": "wikidata-Q7784852",
+      "externalIds": {
+        "wikidata": "Q7784852"
+      },
+      "kind": "movie",
+      "title": "Third Finger, Left Hand",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7784852"
+      ]
+    },
+    {
+      "id": "wikidata-Q7828422",
+      "externalIds": {
+        "wikidata": "Q7828422"
+      },
+      "kind": "movie",
+      "title": "Totsugu hi made",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Japanese film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7828422"
+      ]
+    },
+    {
+      "id": "wikidata-Q7802916",
+      "externalIds": {
+        "wikidata": "Q7802916"
+      },
+      "kind": "movie",
+      "title": "Tilly of Bloomsbury (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 British film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7802916"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883202",
+      "externalIds": {
+        "wikidata": "Q7883202"
+      },
+      "kind": "movie",
+      "title": "Under Your Hat",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 British film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883202"
+      ]
+    },
+    {
+      "id": "wikidata-Q7797794",
+      "externalIds": {
+        "wikidata": "Q7797794"
+      },
+      "kind": "movie",
+      "title": "Three Silent Men",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 British film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7797794"
+      ]
+    },
+    {
+      "id": "wikidata-Q3542600",
+      "externalIds": {
+        "wikidata": "Q3542600"
+      },
+      "kind": "movie",
+      "title": "Two Girls on Broadway",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3542600"
+      ]
+    },
+    {
+      "id": "wikidata-Q7859370",
+      "externalIds": {
+        "wikidata": "Q7859370"
+      },
+      "kind": "movie",
+      "title": "Two for Danger",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7859370"
+      ]
+    },
+    {
+      "id": "wikidata-Q7898080",
+      "externalIds": {
+        "wikidata": "Q7898080"
+      },
+      "kind": "movie",
+      "title": "Up in the Air (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7898080"
+      ]
+    },
+    {
+      "id": "wikidata-Q7811205",
+      "externalIds": {
+        "wikidata": "Q7811205"
+      },
+      "kind": "movie",
+      "title": "To byl český muzikant",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7811205"
+      ]
+    },
+    {
+      "id": "wikidata-Q131554151",
+      "externalIds": {
+        "wikidata": "Q131554151"
+      },
+      "kind": "movie",
+      "title": "Tom Thumb in Trouble",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Charles Jones",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q131554151"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883189",
+      "externalIds": {
+        "wikidata": "Q7883189"
+      },
+      "kind": "movie",
+      "title": "Under Texas Skies (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883189"
+      ]
+    },
+    {
+      "id": "wikidata-Q7897560",
+      "externalIds": {
+        "wikidata": "Q7897560"
+      },
+      "kind": "movie",
+      "title": "Untamed (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7897560"
+      ]
+    },
+    {
+      "id": "wikidata-Q7902687",
+      "externalIds": {
+        "wikidata": "Q7902687"
+      },
+      "kind": "movie",
+      "title": "Uthama Puthiran (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7902687"
+      ]
+    },
+    {
+      "id": "wikidata-Q7901878",
+      "externalIds": {
+        "wikidata": "Q7901878"
+      },
+      "kind": "movie",
+      "title": "Usha Haran",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Indian film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7901878"
+      ]
+    },
+    {
+      "id": "wikidata-Q7843446",
+      "externalIds": {
+        "wikidata": "Q7843446"
+      },
+      "kind": "movie",
+      "title": "Triple Justice",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7843446"
+      ]
+    },
+    {
+      "id": "wikidata-Q7786282",
+      "externalIds": {
+        "wikidata": "Q7786282"
+      },
+      "kind": "movie",
+      "title": "This Thing Called Love (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7786282"
+      ]
+    },
+    {
+      "id": "wikidata-Q16938253",
+      "externalIds": {
+        "wikidata": "Q16938253"
+      },
+      "kind": "movie",
+      "title": "Those Were the Days!",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16938253"
+      ]
+    },
+    {
+      "id": "wikidata-Q16935344",
+      "externalIds": {
+        "wikidata": "Q16935344"
+      },
+      "kind": "movie",
+      "title": "Three Cheers for the Irish",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16935344"
+      ]
+    },
+    {
+      "id": "wikidata-Q17034901",
+      "externalIds": {
+        "wikidata": "Q17034901"
+      },
+      "kind": "movie",
+      "title": "Trail of the Vigilantes",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film directed by Allan Dwan",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17034901"
+      ]
+    },
+    {
+      "id": "wikidata-Q376070",
+      "externalIds": {
+        "wikidata": "Q376070"
+      },
+      "kind": "movie",
+      "title": "Typhoon (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q376070"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155261",
+      "externalIds": {
+        "wikidata": "Q18155261"
+      },
+      "kind": "movie",
+      "title": "Too Many Girls (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by George Abbott",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155261"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363927",
+      "externalIds": {
+        "wikidata": "Q19363927"
+      },
+      "kind": "movie",
+      "title": "Thundering Frontier",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363927"
+      ]
+    },
+    {
+      "id": "wikidata-Q15710578",
+      "externalIds": {
+        "wikidata": "Q15710578"
+      },
+      "kind": "movie",
+      "title": "Three Men from Texas",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15710578"
+      ]
+    },
+    {
+      "id": "wikidata-Q19818755",
+      "externalIds": {
+        "wikidata": "Q19818755"
+      },
+      "kind": "movie",
+      "title": "Twilight (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19818755"
+      ]
+    },
+    {
+      "id": "wikidata-Q1219413",
+      "externalIds": {
+        "wikidata": "Q1219413"
+      },
+      "kind": "movie",
+      "title": "Vasilisa the Beautiful (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Soviet film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1219413"
+      ]
+    },
+    {
+      "id": "wikidata-Q3517837",
+      "externalIds": {
+        "wikidata": "Q3517837"
+      },
+      "kind": "movie",
+      "title": "Thunder Over Paris",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Dominique Bernard-Deschamps",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3517837"
+      ]
+    },
+    {
+      "id": "wikidata-Q3051458",
+      "externalIds": {
+        "wikidata": "Q3051458"
+      },
+      "kind": "movie",
+      "title": "They Were Twelve Women",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 French film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3051458"
+      ]
+    },
+    {
+      "id": "wikidata-Q24905269",
+      "externalIds": {
+        "wikidata": "Q24905269"
+      },
+      "kind": "movie",
+      "title": "Tobias Is an Angel",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24905269"
+      ]
+    },
+    {
+      "id": "wikidata-Q4004225",
+      "externalIds": {
+        "wikidata": "Q4004225"
+      },
+      "kind": "movie",
+      "title": "Una famiglia impossibile",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Carlo Ludovico Bragaglia",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4004225"
+      ]
+    },
+    {
+      "id": "wikidata-Q3898419",
+      "externalIds": {
+        "wikidata": "Q3898419"
+      },
+      "kind": "movie",
+      "title": "Two on a Vacation",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Italian film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3898419"
+      ]
+    },
+    {
+      "id": "wikidata-Q27942953",
+      "externalIds": {
+        "wikidata": "Q27942953"
+      },
+      "kind": "movie",
+      "title": "Two Smart Men",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 British film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27942953"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226308",
+      "externalIds": {
+        "wikidata": "Q3226308"
+      },
+      "kind": "movie",
+      "title": "Tugboat Mickey",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Tugboat Mickey is a 1940 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226308"
+      ]
+    },
+    {
+      "id": "wikidata-Q3202908",
+      "externalIds": {
+        "wikidata": "Q3202908"
+      },
+      "kind": "movie",
+      "title": "Two Women (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3202908"
+      ]
+    },
+    {
+      "id": "wikidata-Q4457761",
+      "externalIds": {
+        "wikidata": "Q4457761"
+      },
+      "kind": "movie",
+      "title": "Timur and His Team",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Soviet film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4457761"
+      ]
+    },
+    {
+      "id": "wikidata-Q8556522",
+      "externalIds": {
+        "wikidata": "Q8556522"
+      },
+      "kind": "movie",
+      "title": "Trailing Double Trouble",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8556522"
+      ]
+    },
+    {
+      "id": "wikidata-Q84427806",
+      "externalIds": {
+        "wikidata": "Q84427806"
+      },
+      "kind": "movie",
+      "title": "Tomboy (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q84427806"
+      ]
+    },
+    {
+      "id": "wikidata-Q106982111",
+      "externalIds": {
+        "wikidata": "Q106982111"
+      },
+      "kind": "movie",
+      "title": "Travelling Actors",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Japanese film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106982111"
+      ]
+    },
+    {
+      "id": "wikidata-Q3305696",
+      "externalIds": {
+        "wikidata": "Q3305696"
+      },
+      "kind": "movie",
+      "title": "Threats (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3305696"
+      ]
+    },
+    {
+      "id": "wikidata-Q124098413",
+      "externalIds": {
+        "wikidata": "Q124098413"
+      },
+      "kind": "movie",
+      "title": "Unknown Opponent",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124098413"
+      ]
+    },
+    {
+      "id": "wikidata-Q4025038",
+      "externalIds": {
+        "wikidata": "Q4025038"
+      },
+      "kind": "movie",
+      "title": "Two Worlds (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4025038"
+      ]
+    },
+    {
+      "id": "wikidata-Q2451419",
+      "externalIds": {
+        "wikidata": "Q2451419"
+      },
+      "kind": "movie",
+      "title": "Trenck the Pandur",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2451419"
+      ]
+    },
+    {
+      "id": "wikidata-Q8057457",
+      "externalIds": {
+        "wikidata": "Q8057457"
+      },
+      "kind": "movie",
+      "title": "You Ought to Be in Pictures",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Isadore Freleng",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8057457"
+      ]
+    },
+    {
+      "id": "wikidata-Q643220",
+      "externalIds": {
+        "wikidata": "Q643220"
+      },
+      "kind": "movie",
+      "title": "Virginia City (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film directed by Michael Curtiz",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q643220"
+      ]
+    },
+    {
+      "id": "wikidata-Q1367668",
+      "externalIds": {
+        "wikidata": "Q1367668"
+      },
+      "kind": "movie",
+      "title": "Waterloo Bridge (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Mervyn LeRoy",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1367668"
+      ]
+    },
+    {
+      "id": "wikidata-Q10954531",
+      "externalIds": {
+        "wikidata": "Q10954531"
+      },
+      "kind": "movie",
+      "title": "You Nazty Spy!",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film by Jules White",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10954531"
+      ]
+    },
+    {
+      "id": "wikidata-Q403110",
+      "externalIds": {
+        "wikidata": "Q403110"
+      },
+      "kind": "movie",
+      "title": "You're Missing the Point",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Juan Bustillo Oros",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q403110"
+      ]
+    },
+    {
+      "id": "wikidata-Q2533012",
+      "externalIds": {
+        "wikidata": "Q2533012"
+      },
+      "kind": "movie",
+      "title": "Vom Bäumlein, das andere Blätter hat gewollt",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Nazi propaganda film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2533012"
+      ]
+    },
+    {
+      "id": "wikidata-Q8040290",
+      "externalIds": {
+        "wikidata": "Q8040290"
+      },
+      "kind": "movie",
+      "title": "Wyoming (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8040290"
+      ]
+    },
+    {
+      "id": "wikidata-Q8025627",
+      "externalIds": {
+        "wikidata": "Q8025627"
+      },
+      "kind": "movie",
+      "title": "Winners of the West (1940 serial)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Ford Beebe, Ray Taylor",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8025627"
+      ]
+    },
+    {
+      "id": "wikidata-Q7993122",
+      "externalIds": {
+        "wikidata": "Q7993122"
+      },
+      "kind": "movie",
+      "title": "Where's That Fire?",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Marcel Varnel",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7993122"
+      ]
+    },
+    {
+      "id": "wikidata-Q3109119",
+      "externalIds": {
+        "wikidata": "Q3109119"
+      },
+      "kind": "movie",
+      "title": "Vigil in the Night",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by George Stevens",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3109119"
+      ]
+    },
+    {
+      "id": "wikidata-Q875875",
+      "externalIds": {
+        "wikidata": "Q875875"
+      },
+      "kind": "movie",
+      "title": "Wunschkonzert",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 German film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q875875"
+      ]
+    },
+    {
+      "id": "wikidata-Q8056452",
+      "externalIds": {
+        "wikidata": "Q8056452"
+      },
+      "kind": "movie",
+      "title": "You'll Find Out",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8056452"
+      ]
+    },
+    {
+      "id": "wikidata-Q7944428",
+      "externalIds": {
+        "wikidata": "Q7944428"
+      },
+      "kind": "movie",
+      "title": "Västkustens hjältar",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7944428"
+      ]
+    },
+    {
+      "id": "wikidata-Q7961537",
+      "externalIds": {
+        "wikidata": "Q7961537"
+      },
+      "kind": "movie",
+      "title": "Waldo's Last Stand",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7961537"
+      ]
+    },
+    {
+      "id": "wikidata-Q7936038",
+      "externalIds": {
+        "wikidata": "Q7936038"
+      },
+      "kind": "movie",
+      "title": "Viswa Mohini",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Indian film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7936038"
+      ]
+    },
+    {
+      "id": "wikidata-Q7959649",
+      "externalIds": {
+        "wikidata": "Q7959649"
+      },
+      "kind": "movie",
+      "title": "Wagon Train (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7959649"
+      ]
+    },
+    {
+      "id": "wikidata-Q3824790",
+      "externalIds": {
+        "wikidata": "Q3824790"
+      },
+      "kind": "movie",
+      "title": "When the Daltons Rode",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3824790"
+      ]
+    },
+    {
+      "id": "wikidata-Q8025290",
+      "externalIds": {
+        "wikidata": "Q8025290"
+      },
+      "kind": "movie",
+      "title": "Wings of Destiny",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Australian film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8025290"
+      ]
+    },
+    {
+      "id": "wikidata-Q8031347",
+      "externalIds": {
+        "wikidata": "Q8031347"
+      },
+      "kind": "movie",
+      "title": "Women Without Names (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American crime drama",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8031347"
+      ]
+    },
+    {
+      "id": "wikidata-Q8048072",
+      "externalIds": {
+        "wikidata": "Q8048072"
+      },
+      "kind": "movie",
+      "title": "Yamla Jat",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8048072"
+      ]
+    },
+    {
+      "id": "wikidata-Q7989798",
+      "externalIds": {
+        "wikidata": "Q7989798"
+      },
+      "kind": "movie",
+      "title": "Westward Ho! (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 British film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7989798"
+      ]
+    },
+    {
+      "id": "wikidata-Q7931294",
+      "externalIds": {
+        "wikidata": "Q7931294"
+      },
+      "kind": "movie",
+      "title": "Vimochanam",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film directed by T. Marconi",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7931294"
+      ]
+    },
+    {
+      "id": "wikidata-Q7975881",
+      "externalIds": {
+        "wikidata": "Q7975881"
+      },
+      "kind": "movie",
+      "title": "Wayda",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Indian film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7975881"
+      ]
+    },
+    {
+      "id": "wikidata-Q8046267",
+      "externalIds": {
+        "wikidata": "Q8046267"
+      },
+      "kind": "movie",
+      "title": "Yaad Rahe",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Indian film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8046267"
+      ]
+    },
+    {
+      "id": "wikidata-Q17034722",
+      "externalIds": {
+        "wikidata": "Q17034722"
+      },
+      "kind": "movie",
+      "title": "We Who Are Young",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17034722"
+      ]
+    },
+    {
+      "id": "wikidata-Q16944872",
+      "externalIds": {
+        "wikidata": "Q16944872"
+      },
+      "kind": "movie",
+      "title": "Victory (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16944872"
+      ]
+    },
+    {
+      "id": "wikidata-Q16947970",
+      "externalIds": {
+        "wikidata": "Q16947970"
+      },
+      "kind": "movie",
+      "title": "Who Killed Aunt Maggie?",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16947970"
+      ]
+    },
+    {
+      "id": "wikidata-Q14947932",
+      "externalIds": {
+        "wikidata": "Q14947932"
+      },
+      "kind": "movie",
+      "title": "Women in War",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q14947932"
+      ]
+    },
+    {
+      "id": "wikidata-Q2568905",
+      "externalIds": {
+        "wikidata": "Q2568905"
+      },
+      "kind": "movie",
+      "title": "Vienna Tales",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film directed by Géza von Bolváry",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2568905"
+      ]
+    },
+    {
+      "id": "wikidata-Q18085659",
+      "externalIds": {
+        "wikidata": "Q18085659"
+      },
+      "kind": "movie",
+      "title": "You Can't Fool Your Wife",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18085659"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155840",
+      "externalIds": {
+        "wikidata": "Q18155840"
+      },
+      "kind": "movie",
+      "title": "Wildcat Bus",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155840"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814908",
+      "externalIds": {
+        "wikidata": "Q20814908"
+      },
+      "kind": "movie",
+      "title": "Woman Made to Measure",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film directed by Helmut Käutner",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814908"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528211",
+      "externalIds": {
+        "wikidata": "Q21528211"
+      },
+      "kind": "movie",
+      "title": "Viva Cisco Kid",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528211"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528244",
+      "externalIds": {
+        "wikidata": "Q21528244"
+      },
+      "kind": "movie",
+      "title": "Wolf of New York",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528244"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528207",
+      "externalIds": {
+        "wikidata": "Q21528207"
+      },
+      "kind": "movie",
+      "title": "Village Barn Dance",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528207"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528214",
+      "externalIds": {
+        "wikidata": "Q21528214"
+      },
+      "kind": "movie",
+      "title": "Wagons Westward",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Lew Landers",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528214"
+      ]
+    },
+    {
+      "id": "wikidata-Q22115538",
+      "externalIds": {
+        "wikidata": "Q22115538"
+      },
+      "kind": "movie",
+      "title": "Wings of Youth (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Canadian film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22115538"
+      ]
+    },
+    {
+      "id": "wikidata-Q3338553",
+      "externalIds": {
+        "wikidata": "Q3338553"
+      },
+      "kind": "movie",
+      "title": "Window Cleaners",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Donald Duck cartoon",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3338553"
+      ]
+    },
+    {
+      "id": "wikidata-Q12989012",
+      "externalIds": {
+        "wikidata": "Q12989012"
+      },
+      "kind": "movie",
+      "title": "Vikrama Urvashi",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Indian film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12989012"
+      ]
+    },
+    {
+      "id": "wikidata-Q15512794",
+      "externalIds": {
+        "wikidata": "Q15512794"
+      },
+      "kind": "movie",
+      "title": "Yesterday's Heroes",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15512794"
+      ]
+    },
+    {
+      "id": "wikidata-Q4536759",
+      "externalIds": {
+        "wikidata": "Q4536759"
+      },
+      "kind": "movie",
+      "title": "Yakov Sverdlov (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Soviet biographical film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4536759"
+      ]
+    },
+    {
+      "id": "wikidata-Q62018338",
+      "externalIds": {
+        "wikidata": "Q62018338"
+      },
+      "kind": "movie",
+      "title": "West of Carson City",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q62018338"
+      ]
+    },
+    {
+      "id": "wikidata-Q8557599",
+      "externalIds": {
+        "wikidata": "Q8557599"
+      },
+      "kind": "movie",
+      "title": "West of Pinto Basin",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8557599"
+      ]
+    },
+    {
+      "id": "wikidata-Q65032633",
+      "externalIds": {
+        "wikidata": "Q65032633"
+      },
+      "kind": "movie",
+      "title": "West of Abilene",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Ralph Ceder",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65032633"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245225",
+      "externalIds": {
+        "wikidata": "Q101245225"
+      },
+      "kind": "movie",
+      "title": "While Thousands Cheer",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245225"
+      ]
+    },
+    {
+      "id": "wikidata-Q106866528",
+      "externalIds": {
+        "wikidata": "Q106866528"
+      },
+      "kind": "movie",
+      "title": "Wild Horse Valley (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106866528"
+      ]
+    },
+    {
+      "id": "wikidata-Q108551412",
+      "externalIds": {
+        "wikidata": "Q108551412"
+      },
+      "kind": "movie",
+      "title": "Wild Horse Range (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q108551412"
+      ]
+    },
+    {
+      "id": "wikidata-Q10681146",
+      "externalIds": {
+        "wikidata": "Q10681146"
+      },
+      "kind": "movie",
+      "title": "With Open Arms (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10681146"
+      ]
+    },
+    {
+      "id": "wikidata-Q123900186",
+      "externalIds": {
+        "wikidata": "Q123900186"
+      },
+      "kind": "movie",
+      "title": "You Are the Song",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q123900186"
+      ]
+    },
+    {
+      "id": "wikidata-Q124209573",
+      "externalIds": {
+        "wikidata": "Q124209573"
+      },
+      "kind": "movie",
+      "title": "Yes or No? (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124209573"
+      ]
+    },
+    {
+      "id": "wikidata-Q519505",
+      "externalIds": {
+        "wikidata": "Q519505"
+      },
+      "kind": "movie",
+      "title": "Young Tom Edison",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Norman Taurog",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q519505"
+      ]
+    },
+    {
+      "id": "wikidata-Q8058000",
+      "externalIds": {
+        "wikidata": "Q8058000"
+      },
+      "kind": "movie",
+      "title": "Young Buffalo Bill",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8058000"
+      ]
+    },
+    {
+      "id": "wikidata-Q8057965",
+      "externalIds": {
+        "wikidata": "Q8057965"
+      },
+      "kind": "movie",
+      "title": "Young Bill Hickok",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8057965"
+      ]
+    },
+    {
+      "id": "wikidata-Q8056571",
+      "externalIds": {
+        "wikidata": "Q8056571"
+      },
+      "kind": "movie",
+      "title": "You're Not So Tough",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Joe May",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8056571"
+      ]
+    },
+    {
+      "id": "wikidata-Q7875591",
+      "externalIds": {
+        "wikidata": "Q7875591"
+      },
+      "kind": "movie",
+      "title": "Young People (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Allan Dwan",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7875591"
+      ]
+    },
+    {
+      "id": "wikidata-Q8072331",
+      "externalIds": {
+        "wikidata": "Q8072331"
+      },
+      "kind": "movie",
+      "title": "Zindagi (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Pramathesh Barua",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8072331"
+      ]
+    },
+    {
+      "id": "wikidata-Q9393348",
+      "externalIds": {
+        "wikidata": "Q9393348"
+      },
+      "kind": "movie",
+      "title": "Złota Maska",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Polish film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q9393348"
+      ]
+    },
+    {
+      "id": "wikidata-Q12300227",
+      "externalIds": {
+        "wikidata": "Q12300227"
+      },
+      "kind": "movie",
+      "title": "Zoebaida",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 Dutch East Indian film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12300227"
+      ]
+    },
+    {
+      "id": "wikidata-Q19364011",
+      "externalIds": {
+        "wikidata": "Q19364011"
+      },
+      "kind": "movie",
+      "title": "Yukon Flight",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film by Ralph Staub",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19364011"
+      ]
+    },
+    {
+      "id": "wikidata-Q19364010",
+      "externalIds": {
+        "wikidata": "Q19364010"
+      },
+      "kind": "movie",
+      "title": "Youth Will Be Served",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19364010"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650068",
+      "externalIds": {
+        "wikidata": "Q20650068"
+      },
+      "kind": "movie",
+      "title": "Young as You Feel (1940 film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 American film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650068"
+      ]
+    },
+    {
+      "id": "wikidata-Q48672838",
+      "externalIds": {
+        "wikidata": "Q48672838"
+      },
+      "kind": "movie",
+      "title": "Zanzibar (film)",
+      "year": 1940,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1940 film",
+      "batchId": "wikidata-films-1940-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48672838"
+      ]
+    }
+  ]
+}
