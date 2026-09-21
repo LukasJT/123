@@ -386,6 +386,11 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://123videos.net/best-2024-tv-shows.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://123videos.net/best-2023-movies.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -567,6 +572,11 @@
   </url>
   <url>
     <loc>https://123videos.net/mystery-thrillers-movies.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/mystery-thrillers-tv-shows.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -5402,6 +5412,56 @@
   </url>
   <url>
     <loc>https://123videos.net/title-frankenstein-2025-841.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-3-body-problem-2024-842.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-baby-reindeer-2024-843.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-griselda-2024-844.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-the-gentlemen-2024-845.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-ripley-2024-846.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-avatar-the-last-airbender-2024-847.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-blue-eye-samurai-2023-848.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-fool-me-once-2024-849.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-one-day-2024-850.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://123videos.net/title-scoop-2024-851.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

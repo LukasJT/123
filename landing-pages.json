@@ -7,12 +7,12 @@
   {
     "file": "movies.html",
     "title": "Movies",
-    "description": "Browse 713 movies by rating, genre, year, and popularity on 123Videos."
+    "description": "Browse 714 movies by rating, genre, year, and popularity on 123Videos."
   },
   {
     "file": "tv-shows.html",
     "title": "TV Shows",
-    "description": "Browse 128 TV shows by rating, genre, year, and popularity on 123Videos."
+    "description": "Browse 137 TV shows by rating, genre, year, and popularity on 123Videos."
   },
   {
     "file": "top-imdb.html",
@@ -175,6 +175,11 @@
     "description": "Browse the best-rated 2024 movies in the 123Videos catalog with ratings, genres, posters, and title detail pages."
   },
   {
+    "file": "best-2024-tv-shows.html",
+    "title": "Best 2024 TV Shows",
+    "description": "Browse the best-rated 2024 TV shows in the 123Videos catalog with ratings, genres, posters, and title detail pages."
+  },
+  {
     "file": "best-2023-movies.html",
     "title": "Best 2023 Movies",
     "description": "Browse the best-rated 2023 movies in the 123Videos catalog with ratings, genres, posters, and title detail pages."
@@ -207,17 +212,17 @@
   {
     "file": "2020s-movies-and-tv-shows.html",
     "title": "2020s Movies and TV Shows",
-    "description": "Browse 106 2020s movies and TV shows in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
+    "description": "Browse 116 2020s movies and TV shows in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
   },
   {
     "file": "2020s-movies.html",
     "title": "2020s Movies",
-    "description": "Browse 75 2020s movies in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
+    "description": "Browse 76 2020s movies in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
   },
   {
     "file": "2020s-tv-shows.html",
     "title": "2020s TV Shows",
-    "description": "Browse 31 2020s TV shows in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
+    "description": "Browse 40 2020s TV shows in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
   },
   {
     "file": "2010s-movies-and-tv-shows.html",
@@ -302,7 +307,7 @@
   {
     "file": "crime-dramas.html",
     "title": "Crime Dramas",
-    "description": "Browse 84 crime dramas in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
+    "description": "Browse 87 crime dramas in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
   },
   {
     "file": "crime-dramas-movies.html",
@@ -312,7 +317,7 @@
   {
     "file": "crime-dramas-tv-shows.html",
     "title": "Crime Dramas TV Shows",
-    "description": "Browse 20 crime dramas TV shows in the 123Videos catalog with ratings, years, genres, posters, and detail pages."
+    "description": "Browse 23 crime dramas TV shows in the 123Videos catalog with ratings, years, genres, posters, and detail pages."
   },
   {
     "file": "romantic-comedies.html",
@@ -352,12 +357,17 @@
   {
     "file": "mystery-thrillers.html",
     "title": "Mystery Thrillers",
-    "description": "Browse 46 mystery thrillers in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
+    "description": "Browse 47 mystery thrillers in the 123Videos catalog with ratings, years, genres, posters, and title detail pages."
   },
   {
     "file": "mystery-thrillers-movies.html",
     "title": "Mystery Thrillers Movies",
     "description": "Browse 44 mystery thrillers movies in the 123Videos catalog with ratings, years, genres, posters, and detail pages."
+  },
+  {
+    "file": "mystery-thrillers-tv-shows.html",
+    "title": "Mystery Thrillers TV Shows",
+    "description": "Browse 3 mystery thrillers TV shows in the 123Videos catalog with ratings, years, genres, posters, and detail pages."
   },
   {
     "file": "documentary-biography.html",
@@ -372,7 +382,7 @@
   {
     "file": "genre-action.html",
     "title": "Action Movies and TV Shows",
-    "description": "Browse 237 action movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 239 action movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-action-movies.html",
@@ -382,12 +392,12 @@
   {
     "file": "genre-action-tv-shows.html",
     "title": "Action TV Shows",
-    "description": "Browse 39 action TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 41 action TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-adventure.html",
     "title": "Adventure Movies and TV Shows",
-    "description": "Browse 161 adventure movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 162 adventure movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-adventure-movies.html",
@@ -397,12 +407,12 @@
   {
     "file": "genre-adventure-tv-shows.html",
     "title": "Adventure TV Shows",
-    "description": "Browse 16 adventure TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 17 adventure TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-animation.html",
     "title": "Animation Movies and TV Shows",
-    "description": "Browse 98 animation movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 99 animation movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-animation-movies.html",
@@ -412,7 +422,7 @@
   {
     "file": "genre-animation-tv-shows.html",
     "title": "Animation TV Shows",
-    "description": "Browse 36 animation TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 37 animation TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-biography.html",
@@ -432,7 +442,7 @@
   {
     "file": "genre-comedy.html",
     "title": "Comedy Movies and TV Shows",
-    "description": "Browse 216 comedy movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 217 comedy movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-comedy-movies.html",
@@ -442,12 +452,12 @@
   {
     "file": "genre-comedy-tv-shows.html",
     "title": "Comedy TV Shows",
-    "description": "Browse 39 comedy TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 40 comedy TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-crime.html",
     "title": "Crime Movies and TV Shows",
-    "description": "Browse 134 crime movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 137 crime movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-crime-movies.html",
@@ -457,7 +467,7 @@
   {
     "file": "genre-crime-tv-shows.html",
     "title": "Crime TV Shows",
-    "description": "Browse 23 crime TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 26 crime TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-documentary.html",
@@ -477,17 +487,17 @@
   {
     "file": "genre-drama.html",
     "title": "Drama Movies and TV Shows",
-    "description": "Browse 429 drama movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 438 drama movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-drama-movies.html",
     "title": "Drama Movies",
-    "description": "Browse 346 drama movies with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 347 drama movies with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-drama-tv-shows.html",
     "title": "Drama TV Shows",
-    "description": "Browse 83 drama TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 91 drama TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-family.html",
@@ -502,7 +512,7 @@
   {
     "file": "genre-fantasy.html",
     "title": "Fantasy Movies and TV Shows",
-    "description": "Browse 68 fantasy movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 69 fantasy movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-fantasy-movies.html",
@@ -512,7 +522,7 @@
   {
     "file": "genre-fantasy-tv-shows.html",
     "title": "Fantasy TV Shows",
-    "description": "Browse 11 fantasy TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 12 fantasy TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-film-noir.html",
@@ -582,7 +592,7 @@
   {
     "file": "genre-mystery.html",
     "title": "Mystery Movies and TV Shows",
-    "description": "Browse 102 mystery movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 104 mystery movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-mystery-movies.html",
@@ -592,12 +602,12 @@
   {
     "file": "genre-mystery-tv-shows.html",
     "title": "Mystery TV Shows",
-    "description": "Browse 16 mystery TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 18 mystery TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-romance.html",
     "title": "Romance Movies and TV Shows",
-    "description": "Browse 112 romance movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 113 romance movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-romance-movies.html",
@@ -607,12 +617,12 @@
   {
     "file": "genre-romance-tv-shows.html",
     "title": "Romance TV Shows",
-    "description": "Browse 13 romance TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 14 romance TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-sci-fi.html",
     "title": "Sci-Fi Movies and TV Shows",
-    "description": "Browse 139 sci-fi movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 140 sci-fi movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-sci-fi-movies.html",
@@ -622,7 +632,7 @@
   {
     "file": "genre-sci-fi-tv-shows.html",
     "title": "Sci-Fi TV Shows",
-    "description": "Browse 17 sci-fi TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 18 sci-fi TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-sport.html",
@@ -642,7 +652,7 @@
   {
     "file": "genre-thriller.html",
     "title": "Thriller Movies and TV Shows",
-    "description": "Browse 184 thriller movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 186 thriller movies and TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-thriller-movies.html",
@@ -652,7 +662,7 @@
   {
     "file": "genre-thriller-tv-shows.html",
     "title": "Thriller TV Shows",
-    "description": "Browse 15 thriller TV shows with ratings, years, posters, and related catalog pages on 123Videos."
+    "description": "Browse 17 thriller TV shows with ratings, years, posters, and related catalog pages on 123Videos."
   },
   {
     "file": "genre-war.html",
@@ -692,22 +702,22 @@
   {
     "file": "year-2024.html",
     "title": "2024 Movies and TV Shows",
-    "description": "Browse 19 movies and TV shows from 2024 in the 123Videos catalog."
+    "description": "Browse 28 movies and TV shows from 2024 in the 123Videos catalog."
   },
   {
     "file": "year-2024-movies.html",
     "title": "2024 Movies",
-    "description": "Browse 18 movies from 2024 in the 123Videos catalog, including ratings, genres, posters, and detail pages."
+    "description": "Browse 19 movies from 2024 in the 123Videos catalog, including ratings, genres, posters, and detail pages."
   },
   {
     "file": "year-2024-tv-shows.html",
     "title": "2024 TV Shows",
-    "description": "Browse 1 TV shows from 2024 in the 123Videos catalog, including ratings, genres, posters, and detail pages."
+    "description": "Browse 9 TV shows from 2024 in the 123Videos catalog, including ratings, genres, posters, and detail pages."
   },
   {
     "file": "year-2023.html",
     "title": "2023 Movies and TV Shows",
-    "description": "Browse 30 movies and TV shows from 2023 in the 123Videos catalog."
+    "description": "Browse 31 movies and TV shows from 2023 in the 123Videos catalog."
   },
   {
     "file": "year-2023-movies.html",
@@ -717,7 +727,7 @@
   {
     "file": "year-2023-tv-shows.html",
     "title": "2023 TV Shows",
-    "description": "Browse 7 TV shows from 2023 in the 123Videos catalog, including ratings, genres, posters, and detail pages."
+    "description": "Browse 8 TV shows from 2023 in the 123Videos catalog, including ratings, genres, posters, and detail pages."
   },
   {
     "file": "year-2022.html",
@@ -857,17 +867,17 @@
   {
     "file": "catalog-0-9.html",
     "title": "0-9 Movies and TV Shows",
-    "description": "Browse 15 123Videos catalog titles starting with 0-9."
+    "description": "Browse 16 123Videos catalog titles starting with 0-9."
   },
   {
     "file": "catalog-a.html",
     "title": "A Movies and TV Shows",
-    "description": "Browse 61 123Videos catalog titles starting with A."
+    "description": "Browse 62 123Videos catalog titles starting with A."
   },
   {
     "file": "catalog-b.html",
     "title": "B Movies and TV Shows",
-    "description": "Browse 64 123Videos catalog titles starting with B."
+    "description": "Browse 66 123Videos catalog titles starting with B."
   },
   {
     "file": "catalog-c.html",
@@ -887,12 +897,12 @@
   {
     "file": "catalog-f.html",
     "title": "F Movies and TV Shows",
-    "description": "Browse 27 123Videos catalog titles starting with F."
+    "description": "Browse 28 123Videos catalog titles starting with F."
   },
   {
     "file": "catalog-g.html",
     "title": "G Movies and TV Shows",
-    "description": "Browse 27 123Videos catalog titles starting with G."
+    "description": "Browse 28 123Videos catalog titles starting with G."
   },
   {
     "file": "catalog-h.html",
@@ -932,7 +942,7 @@
   {
     "file": "catalog-o.html",
     "title": "O Movies and TV Shows",
-    "description": "Browse 16 123Videos catalog titles starting with O."
+    "description": "Browse 17 123Videos catalog titles starting with O."
   },
   {
     "file": "catalog-p.html",
@@ -947,17 +957,17 @@
   {
     "file": "catalog-r.html",
     "title": "R Movies and TV Shows",
-    "description": "Browse 21 123Videos catalog titles starting with R."
+    "description": "Browse 22 123Videos catalog titles starting with R."
   },
   {
     "file": "catalog-s.html",
     "title": "S Movies and TV Shows",
-    "description": "Browse 74 123Videos catalog titles starting with S."
+    "description": "Browse 75 123Videos catalog titles starting with S."
   },
   {
     "file": "catalog-t.html",
     "title": "T Movies and TV Shows",
-    "description": "Browse 175 123Videos catalog titles starting with T."
+    "description": "Browse 176 123Videos catalog titles starting with T."
   },
   {
     "file": "catalog-u.html",
