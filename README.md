@@ -11,6 +11,7 @@ A static movie and TV catalog site for GitHub Pages.
 - Detail pages with synopsis, rating, genre, and related titles
 - SEO metadata, robots.txt, and sitemap.xml generation
 - Automatic sitemap indexing and 45,000-URL segmentation for large imports
+- Deterministic 5,000-record browser catalog chunks with a validated import manifest
 - Static SEO landing pages for movies, TV shows, top IMDb, latest, trending, genres, and years
 - Static title pages for every movie and TV show in the catalog
 - Expanded landing pages for genre + type, year + type, and A-Z catalog browsing

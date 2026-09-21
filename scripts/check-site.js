@@ -50,6 +50,21 @@ for (const file of fs.readdirSync('.').filter(name => /^sitemap(?:-pages-\d+)?\.
   }
 }
 
+if (fs.existsSync('catalog-imports.js')) {
+  const source = fs.readFileSync('catalog-imports.js', 'utf8');
+  const manifestMatch = source.match(/window\.catalogImportManifest=(\{.*\});/);
+  if (!manifestMatch) {
+    errors.push('catalog-imports.js: missing import manifest');
+  } else {
+    const manifest = JSON.parse(manifestMatch[1]);
+    const chunkTotal = manifest.chunks.reduce((sum, chunk) => sum + chunk.count, 0);
+    if (chunkTotal !== manifest.total) errors.push(`catalog-imports.js: manifest total ${manifest.total} does not match chunk total ${chunkTotal}`);
+    for (const chunk of manifest.chunks) {
+      if (!fs.existsSync(chunk.file)) errors.push(`catalog-imports.js: missing chunk ${chunk.file}`);
+    }
+  }
+}
+
 if (errors.length) {
   console.error(errors.slice(0, 100).join('\n'));
   process.exit(1);
