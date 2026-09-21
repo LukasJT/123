@@ -23,7 +23,7 @@ A static movie and TV catalog site for GitHub Pages.
 - About page with AboutPage structured data for site trust signals
 - Advertising disclosure page for sponsored links and third-party ad transparency
 - Cross-links from title pages into matching genre, year, type, and ranked catalog pages
-- 1,177-title catalog across Movies + TV Shows
+- 1,750-title catalog across Movies + TV Shows
 - Responsive grid layout
 
 ## Run locally
