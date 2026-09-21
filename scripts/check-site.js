@@ -41,6 +41,15 @@ for (const file of fs.readdirSync('.').filter(name => name.endsWith('.html'))) {
   }
 }
 
+for (const file of fs.readdirSync('.').filter(name => /^sitemap(?:-pages-\d+)?\.xml$/.test(name))) {
+  const xml = fs.readFileSync(file, 'utf8');
+  const urlCount = [...xml.matchAll(/<url>/g)].length;
+  if (urlCount > 45000) errors.push(`${file}: contains ${urlCount} URLs; maximum configured size is 45000`);
+  for (const match of xml.matchAll(/<sitemap><loc>https:\/\/123videos\.net\/([^<]+)<\/loc><\/sitemap>/g)) {
+    if (!fs.existsSync(match[1])) errors.push(`${file}: missing sitemap file ${match[1]}`);
+  }
+}
+
 if (errors.length) {
   console.error(errors.slice(0, 100).join('\n'));
   process.exit(1);

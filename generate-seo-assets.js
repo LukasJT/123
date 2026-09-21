@@ -2,6 +2,7 @@ const fs = require('fs');
 const vm = require('vm');
 
 const BASE_URL = 'https://123videos.net';
+const SITEMAP_URL_LIMIT = Math.max(1, Number(process.env.SITEMAP_URL_LIMIT || 45000));
 const sandbox = {
   window: {},
   localStorage: { getItem() { return null; }, setItem() {}, removeItem() {} }
@@ -279,13 +280,40 @@ const urls = [
 ];
 
 const unique = [...new Map(urls.map(entry => [entry.match(/<loc>(.*?)<\/loc>/)[1], entry])).values()];
-const sitemap = [
-  '<?xml version="1.0" encoding="UTF-8"?>',
-  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
-  ...unique,
-  '</urlset>',
-  ''
-].join('\n');
+for (const file of fs.readdirSync('.').filter(name => /^sitemap-pages-\d+\.xml$/.test(name))) {
+  fs.unlinkSync(file);
+}
 
-fs.writeFileSync('sitemap.xml', sitemap);
-console.log(`Generated sitemap.xml with ${unique.length} URLs.`);
+if (unique.length <= SITEMAP_URL_LIMIT) {
+  const sitemap = [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ...unique,
+    '</urlset>',
+    ''
+  ].join('\n');
+  fs.writeFileSync('sitemap.xml', sitemap);
+  console.log(`Generated sitemap.xml with ${unique.length} URLs.`);
+} else {
+  const sitemapFiles = [];
+  for (let offset = 0; offset < unique.length; offset += SITEMAP_URL_LIMIT) {
+    const file = `sitemap-pages-${Math.floor(offset / SITEMAP_URL_LIMIT) + 1}.xml`;
+    const entries = unique.slice(offset, offset + SITEMAP_URL_LIMIT);
+    fs.writeFileSync(file, [
+      '<?xml version="1.0" encoding="UTF-8"?>',
+      '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+      ...entries,
+      '</urlset>',
+      ''
+    ].join('\n'));
+    sitemapFiles.push(file);
+  }
+  fs.writeFileSync('sitemap.xml', [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ...sitemapFiles.map(file => `  <sitemap><loc>${esc(absolute(file))}</loc></sitemap>`),
+    '</sitemapindex>',
+    ''
+  ].join('\n'));
+  console.log(`Generated sitemap.xml index with ${sitemapFiles.length} files and ${unique.length} URLs.`);
+}
