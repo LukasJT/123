@@ -1,0 +1,1474 @@
+{
+  "id": "wikidata-films-1927-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1927,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q272036",
+      "externalIds": {
+        "wikidata": "Q272036"
+      },
+      "kind": "movie",
+      "title": "Wings (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q272036"
+      ]
+    },
+    {
+      "id": "wikidata-Q1483683",
+      "externalIds": {
+        "wikidata": "Q1483683"
+      },
+      "kind": "movie",
+      "title": "Underworld (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 gangster film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1483683"
+      ]
+    },
+    {
+      "id": "wikidata-Q661560",
+      "externalIds": {
+        "wikidata": "Q661560"
+      },
+      "kind": "movie",
+      "title": "With Love and Hisses",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q661560"
+      ]
+    },
+    {
+      "id": "wikidata-Q1322046",
+      "externalIds": {
+        "wikidata": "Q1322046"
+      },
+      "kind": "movie",
+      "title": "Why Girls Love Sailors",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film by Fred Guiol",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1322046"
+      ]
+    },
+    {
+      "id": "wikidata-Q970383",
+      "externalIds": {
+        "wikidata": "Q970383"
+      },
+      "kind": "movie",
+      "title": "Winners of the Wilderness",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q970383"
+      ]
+    },
+    {
+      "id": "wikidata-Q916450",
+      "externalIds": {
+        "wikidata": "Q916450"
+      },
+      "kind": "movie",
+      "title": "West Point (film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q916450"
+      ]
+    },
+    {
+      "id": "wikidata-Q3542590",
+      "externalIds": {
+        "wikidata": "Q3542590"
+      },
+      "kind": "movie",
+      "title": "Two-Time Mama",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3542590"
+      ]
+    },
+    {
+      "id": "wikidata-Q3567880",
+      "externalIds": {
+        "wikidata": "Q3567880"
+      },
+      "kind": "movie",
+      "title": "Why Girls Say No",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3567880"
+      ]
+    },
+    {
+      "id": "wikidata-Q7993966",
+      "externalIds": {
+        "wikidata": "Q7993966"
+      },
+      "kind": "movie",
+      "title": "Whispering Smith Rides",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7993966"
+      ]
+    },
+    {
+      "id": "wikidata-Q2049123",
+      "externalIds": {
+        "wikidata": "Q2049123"
+      },
+      "kind": "movie",
+      "title": "Upstream (film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2049123"
+      ]
+    },
+    {
+      "id": "wikidata-Q7992915",
+      "externalIds": {
+        "wikidata": "Q7992915"
+      },
+      "kind": "movie",
+      "title": "When a Man Loves",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film by Alan Crosland",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7992915"
+      ]
+    },
+    {
+      "id": "wikidata-Q7994725",
+      "externalIds": {
+        "wikidata": "Q7994725"
+      },
+      "kind": "movie",
+      "title": "White Gold (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7994725"
+      ]
+    },
+    {
+      "id": "wikidata-Q3549227",
+      "externalIds": {
+        "wikidata": "Q3549227"
+      },
+      "kind": "movie",
+      "title": "Uncle Tom's Cabin (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3549227"
+      ]
+    },
+    {
+      "id": "wikidata-Q1947929",
+      "externalIds": {
+        "wikidata": "Q1947929"
+      },
+      "kind": "movie",
+      "title": "Women Love Diamonds",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1947929"
+      ]
+    },
+    {
+      "id": "wikidata-Q7910642",
+      "externalIds": {
+        "wikidata": "Q7910642"
+      },
+      "kind": "movie",
+      "title": "Valencia (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7910642"
+      ]
+    },
+    {
+      "id": "wikidata-Q7915004",
+      "externalIds": {
+        "wikidata": "Q7915004"
+      },
+      "kind": "movie",
+      "title": "Vanity (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7915004"
+      ]
+    },
+    {
+      "id": "wikidata-Q17067577",
+      "externalIds": {
+        "wikidata": "Q17067577"
+      },
+      "kind": "movie",
+      "title": "Under the Southern Cross (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17067577"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709164",
+      "externalIds": {
+        "wikidata": "Q18709164"
+      },
+      "kind": "movie",
+      "title": "Whys and Other Whys",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709164"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363975",
+      "externalIds": {
+        "wikidata": "Q19363975"
+      },
+      "kind": "movie",
+      "title": "We're All Gamblers",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363975"
+      ]
+    },
+    {
+      "id": "wikidata-Q19898205",
+      "externalIds": {
+        "wikidata": "Q19898205"
+      },
+      "kind": "movie",
+      "title": "Weekend Magic",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19898205"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528240",
+      "externalIds": {
+        "wikidata": "Q21528240"
+      },
+      "kind": "movie",
+      "title": "Winds of the Pampas",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528240"
+      ]
+    },
+    {
+      "id": "wikidata-Q21869954",
+      "externalIds": {
+        "wikidata": "Q21869954"
+      },
+      "kind": "movie",
+      "title": "Vacation from Marriage (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21869954"
+      ]
+    },
+    {
+      "id": "wikidata-Q21869962",
+      "externalIds": {
+        "wikidata": "Q21869962"
+      },
+      "kind": "movie",
+      "title": "Venus in Evening Wear",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21869962"
+      ]
+    },
+    {
+      "id": "wikidata-Q22001180",
+      "externalIds": {
+        "wikidata": "Q22001180"
+      },
+      "kind": "movie",
+      "title": "Witches' Night (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22001180"
+      ]
+    },
+    {
+      "id": "wikidata-Q22001170",
+      "externalIds": {
+        "wikidata": "Q22001170"
+      },
+      "kind": "movie",
+      "title": "Werther (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film by Milos Hajský",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22001170"
+      ]
+    },
+    {
+      "id": "wikidata-Q24041272",
+      "externalIds": {
+        "wikidata": "Q24041272"
+      },
+      "kind": "movie",
+      "title": "Who's Who In The Wrestling World - And Why?",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24041272"
+      ]
+    },
+    {
+      "id": "wikidata-Q23796808",
+      "externalIds": {
+        "wikidata": "Q23796808"
+      },
+      "kind": "movie",
+      "title": "Wandering Girls",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23796808"
+      ]
+    },
+    {
+      "id": "wikidata-Q24893667",
+      "externalIds": {
+        "wikidata": "Q24893667"
+      },
+      "kind": "movie",
+      "title": "Venus of Venice",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24893667"
+      ]
+    },
+    {
+      "id": "wikidata-Q30038345",
+      "externalIds": {
+        "wikidata": "Q30038345"
+      },
+      "kind": "movie",
+      "title": "Wild Geese (film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30038345"
+      ]
+    },
+    {
+      "id": "wikidata-Q30609834",
+      "externalIds": {
+        "wikidata": "Q30609834"
+      },
+      "kind": "movie",
+      "title": "When the Young Wine Blossoms (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film directed by Carl Wilhelm",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30609834"
+      ]
+    },
+    {
+      "id": "wikidata-Q30642314",
+      "externalIds": {
+        "wikidata": "Q30642314"
+      },
+      "kind": "movie",
+      "title": "What Happened to Father? (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30642314"
+      ]
+    },
+    {
+      "id": "wikidata-Q29638888",
+      "externalIds": {
+        "wikidata": "Q29638888"
+      },
+      "kind": "movie",
+      "title": "Wolf's Clothing (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q29638888"
+      ]
+    },
+    {
+      "id": "wikidata-Q24951302",
+      "externalIds": {
+        "wikidata": "Q24951302"
+      },
+      "kind": "movie",
+      "title": "White Flannels",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24951302"
+      ]
+    },
+    {
+      "id": "wikidata-Q25448156",
+      "externalIds": {
+        "wikidata": "Q25448156"
+      },
+      "kind": "movie",
+      "title": "What Every Girl Should Know (film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25448156"
+      ]
+    },
+    {
+      "id": "wikidata-Q55637842",
+      "externalIds": {
+        "wikidata": "Q55637842"
+      },
+      "kind": "movie",
+      "title": "Wolf Fangs",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55637842"
+      ]
+    },
+    {
+      "id": "wikidata-Q55258967",
+      "externalIds": {
+        "wikidata": "Q55258967"
+      },
+      "kind": "movie",
+      "title": "Very Confidential",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55258967"
+      ]
+    },
+    {
+      "id": "wikidata-Q55762019",
+      "externalIds": {
+        "wikidata": "Q55762019"
+      },
+      "kind": "movie",
+      "title": "Whispering Sage",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55762019"
+      ]
+    },
+    {
+      "id": "wikidata-Q57584319",
+      "externalIds": {
+        "wikidata": "Q57584319"
+      },
+      "kind": "movie",
+      "title": "Wedding Bills",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q57584319"
+      ]
+    },
+    {
+      "id": "wikidata-Q58762353",
+      "externalIds": {
+        "wikidata": "Q58762353"
+      },
+      "kind": "movie",
+      "title": "White Pants Willie",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q58762353"
+      ]
+    },
+    {
+      "id": "wikidata-Q56755584",
+      "externalIds": {
+        "wikidata": "Q56755584"
+      },
+      "kind": "movie",
+      "title": "U-9 Weddigen",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56755584"
+      ]
+    },
+    {
+      "id": "wikidata-Q63565877",
+      "externalIds": {
+        "wikidata": "Q63565877"
+      },
+      "kind": "movie",
+      "title": "When Danger Calls",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q63565877"
+      ]
+    },
+    {
+      "id": "wikidata-Q65069759",
+      "externalIds": {
+        "wikidata": "Q65069759"
+      },
+      "kind": "movie",
+      "title": "Woman's Law",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65069759"
+      ]
+    },
+    {
+      "id": "wikidata-Q63802438",
+      "externalIds": {
+        "wikidata": "Q63802438"
+      },
+      "kind": "movie",
+      "title": "Wilful Youth",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q63802438"
+      ]
+    },
+    {
+      "id": "wikidata-Q63802445",
+      "externalIds": {
+        "wikidata": "Q63802445"
+      },
+      "kind": "movie",
+      "title": "Web of Fate",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q63802445"
+      ]
+    },
+    {
+      "id": "wikidata-Q17651279",
+      "externalIds": {
+        "wikidata": "Q17651279"
+      },
+      "kind": "movie",
+      "title": "White Pebbles",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17651279"
+      ]
+    },
+    {
+      "id": "wikidata-Q76488877",
+      "externalIds": {
+        "wikidata": "Q76488877"
+      },
+      "kind": "movie",
+      "title": "Western Courage (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q76488877"
+      ]
+    },
+    {
+      "id": "wikidata-Q28064518",
+      "externalIds": {
+        "wikidata": "Q28064518"
+      },
+      "kind": "movie",
+      "title": "Wild Beauty (1927 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28064518"
+      ]
+    },
+    {
+      "id": "wikidata-Q106537498",
+      "externalIds": {
+        "wikidata": "Q106537498"
+      },
+      "kind": "movie",
+      "title": "Wolf's Trail",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106537498"
+      ]
+    },
+    {
+      "id": "wikidata-Q106537673",
+      "externalIds": {
+        "wikidata": "Q106537673"
+      },
+      "kind": "movie",
+      "title": "Wolves of the Air",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106537673"
+      ]
+    },
+    {
+      "id": "wikidata-Q110517095",
+      "externalIds": {
+        "wikidata": "Q110517095"
+      },
+      "kind": "movie",
+      "title": "Wages of Conscience",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q110517095"
+      ]
+    },
+    {
+      "id": "wikidata-Q8047445",
+      "externalIds": {
+        "wikidata": "Q8047445"
+      },
+      "kind": "movie",
+      "title": "Yale vs. Harvard",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8047445"
+      ]
+    },
+    {
+      "id": "wikidata-Q8047002",
+      "externalIds": {
+        "wikidata": "Q8047002"
+      },
+      "kind": "movie",
+      "title": "Yaji and Kita: Yasuda's Rescue",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8047002"
+      ]
+    },
+    {
+      "id": "wikidata-Q2600495",
+      "externalIds": {
+        "wikidata": "Q2600495"
+      },
+      "kind": "movie",
+      "title": "Yo soy tu padre",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2600495"
+      ]
+    },
+    {
+      "id": "wikidata-Q17059907",
+      "externalIds": {
+        "wikidata": "Q17059907"
+      },
+      "kind": "movie",
+      "title": "You Walk So Softly",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17059907"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709169",
+      "externalIds": {
+        "wikidata": "Q18709169"
+      },
+      "kind": "movie",
+      "title": "Women's Wares",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 silent drama film by Arthur Gregor",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709169"
+      ]
+    },
+    {
+      "id": "wikidata-Q3571909",
+      "externalIds": {
+        "wikidata": "Q3571909"
+      },
+      "kind": "movie",
+      "title": "Yasmina (film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3571909"
+      ]
+    },
+    {
+      "id": "wikidata-Q3228140",
+      "externalIds": {
+        "wikidata": "Q3228140"
+      },
+      "kind": "movie",
+      "title": "Women of Ryazan",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3228140"
+      ]
+    },
+    {
+      "id": "wikidata-Q24041150",
+      "externalIds": {
+        "wikidata": "Q24041150"
+      },
+      "kind": "movie",
+      "title": "Your Acquaintance",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24041150"
+      ]
+    },
+    {
+      "id": "wikidata-Q63923796",
+      "externalIds": {
+        "wikidata": "Q63923796"
+      },
+      "kind": "movie",
+      "title": "Yours to Command",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q63923796"
+      ]
+    },
+    {
+      "id": "wikidata-Q64481571",
+      "externalIds": {
+        "wikidata": "Q64481571"
+      },
+      "kind": "movie",
+      "title": "Your Wife and Mine",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1927 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64481571"
+      ]
+    },
+    {
+      "id": "wikidata-Q4023311",
+      "externalIds": {
+        "wikidata": "Q4023311"
+      },
+      "kind": "movie",
+      "title": "Yvette (1928 film)",
+      "year": 1927,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1928 film",
+      "batchId": "wikidata-films-1927-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4023311"
+      ]
+    }
+  ]
+}
