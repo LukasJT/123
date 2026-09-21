@@ -13,7 +13,7 @@ const sandbox = {
 vm.createContext(sandbox);
 vm.runInContext(fs.readFileSync('catalog.js', 'utf8'), sandbox);
 
-const catalog = sandbox.window.catalog || [];
+const catalog = require('./scripts/catalog-loader')();
 
 function esc(value) {
   return String(value)
@@ -202,7 +202,9 @@ function renderTitlePage(item) {
     .sort((a, b) => Number.parseFloat(b.rating) - Number.parseFloat(a.rating))
     .slice(0, 12);
   const title = `${item.title} (${item.year}) ${kindLabel} Details - ${SITE_NAME}`;
-  const description = `${item.title} (${item.year}) is a ${item.genres.join(', ')} ${kindLabel.toLowerCase()} rated ${item.rating}. Browse synopsis, poster, duration, genres, and related recommendations on ${SITE_NAME}.`;
+  const description = item.rating
+    ? `${item.title} (${item.year}) is a ${item.genres.join(', ')} ${kindLabel.toLowerCase()} rated ${item.rating}. Browse synopsis, poster, duration, genres, and related recommendations on ${SITE_NAME}.`
+    : `${item.title} (${item.year}) is a ${item.genres.join(', ')} ${kindLabel.toLowerCase()}. Browse synopsis, release details, genres, and related recommendations on ${SITE_NAME}.`;
   const html = `<!DOCTYPE html>
 <html lang="en">
 <head>

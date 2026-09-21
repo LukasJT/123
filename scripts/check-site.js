@@ -4,7 +4,7 @@ const vm = require('vm');
 const sandbox = { window: {}, localStorage: { getItem() { return null; }, setItem() {}, removeItem() {} } };
 vm.createContext(sandbox);
 vm.runInContext(fs.readFileSync('catalog.js', 'utf8'), sandbox);
-const catalog = sandbox.window.catalog || [];
+const catalog = require('./catalog-loader')();
 const errors = [];
 const ids = new Set();
 const normalized = new Map();

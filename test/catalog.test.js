@@ -7,7 +7,7 @@ function loadCatalog() {
   const sandbox = { window: {}, localStorage: { getItem() { return null; }, setItem() {}, removeItem() {} } };
   vm.createContext(sandbox);
   vm.runInContext(fs.readFileSync('catalog.js', 'utf8'), sandbox);
-  return sandbox.window.catalog;
+  return require('../scripts/catalog-loader')();
 }
 
 test('verified batch has unique IDs, sources, and checked dates', () => {

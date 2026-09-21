@@ -37,3 +37,14 @@ npm run check
 ```
 
 New factual additions require a source-backed manifest under `data/batches/`. Editorial guide definitions live in `data/editorial/guides.json`. See `docs/batch-workflow.md` and `docs/content-policy.md` before publishing.
+
+## Large catalog imports
+
+The repository supports resumable TMDB daily-export batches without downloading posters. Obtain an authorized TMDB API Read Access Token, then run a bounded batch:
+
+```sh
+TMDB_BEARER_TOKEN=... npm run import:tmdb -- --kind=movie --date=2026-09-19 --offset=0 --limit=1000
+TMDB_BEARER_TOKEN=... npm run import:tmdb -- --kind=tv --date=2026-09-19 --offset=0 --limit=1000
+```
+
+Advance `offset` by `limit` and commit each generated file under `data/imports/` after review. The build merges imports deterministically into `catalog-imports.js`. TMDB attribution and API terms apply. “Every title ever released” cannot be guaranteed by any single database; the practical target is every eligible record in the selected dated export, with future exports used for additions and corrections.

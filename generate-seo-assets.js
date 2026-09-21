@@ -10,7 +10,7 @@ const sandbox = {
 vm.createContext(sandbox);
 vm.runInContext(fs.readFileSync('catalog.js', 'utf8'), sandbox);
 
-const catalog = sandbox.window.catalog || [];
+const catalog = require('./scripts/catalog-loader')();
 const landingPages = fs.existsSync('landing-pages.json')
   ? JSON.parse(fs.readFileSync('landing-pages.json', 'utf8'))
   : [];
