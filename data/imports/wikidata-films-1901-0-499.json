@@ -1,0 +1,1354 @@
+{
+  "id": "wikidata-films-1901-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1901,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q386329",
+      "externalIds": {
+        "wikidata": "Q386329"
+      },
+      "kind": "movie",
+      "title": "President McKinley Inauguration Footage",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q386329"
+      ]
+    },
+    {
+      "id": "wikidata-Q1186401",
+      "externalIds": {
+        "wikidata": "Q1186401"
+      },
+      "kind": "movie",
+      "title": "Star Theatre (film)",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1186401"
+      ]
+    },
+    {
+      "id": "wikidata-Q1851504",
+      "externalIds": {
+        "wikidata": "Q1851504"
+      },
+      "kind": "movie",
+      "title": "The Man with the Rubber Head",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1851504"
+      ]
+    },
+    {
+      "id": "wikidata-Q2071862",
+      "externalIds": {
+        "wikidata": "Q2071862"
+      },
+      "kind": "movie",
+      "title": "Blue Beard (1901 film)",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2071862"
+      ]
+    },
+    {
+      "id": "wikidata-Q2852354",
+      "externalIds": {
+        "wikidata": "Q2852354"
+      },
+      "kind": "movie",
+      "title": "Another Job for the Undertaker",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2852354"
+      ]
+    },
+    {
+      "id": "wikidata-Q2068989",
+      "externalIds": {
+        "wikidata": "Q2068989"
+      },
+      "kind": "movie",
+      "title": "Arrival of Tongkin Train",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2068989"
+      ]
+    },
+    {
+      "id": "wikidata-Q2922967",
+      "externalIds": {
+        "wikidata": "Q2922967"
+      },
+      "kind": "movie",
+      "title": "Boxing in Barrels",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2922967"
+      ]
+    },
+    {
+      "id": "wikidata-Q2069070",
+      "externalIds": {
+        "wikidata": "Q2069070"
+      },
+      "kind": "movie",
+      "title": "The Artist's Dilemma",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2069070"
+      ]
+    },
+    {
+      "id": "wikidata-Q2844866",
+      "externalIds": {
+        "wikidata": "Q2844866"
+      },
+      "kind": "movie",
+      "title": "An Affair of Honor (film)",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American silent film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2844866"
+      ]
+    },
+    {
+      "id": "wikidata-Q2791016",
+      "externalIds": {
+        "wikidata": "Q2791016"
+      },
+      "kind": "movie",
+      "title": "Band and Battalion of the U.S. Indian School",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 silent film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2791016"
+      ]
+    },
+    {
+      "id": "wikidata-Q4368589",
+      "externalIds": {
+        "wikidata": "Q4368589"
+      },
+      "kind": "movie",
+      "title": "Fire! (1901 film)",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4368589"
+      ]
+    },
+    {
+      "id": "wikidata-Q133504",
+      "externalIds": {
+        "wikidata": "Q133504"
+      },
+      "kind": "movie",
+      "title": "Scrooge, or, Marley's Ghost",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film directed by Walter R. Booth",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q133504"
+      ]
+    },
+    {
+      "id": "wikidata-Q2412740",
+      "externalIds": {
+        "wikidata": "Q2412740"
+      },
+      "kind": "movie",
+      "title": "The Martyred Presidents",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2412740"
+      ]
+    },
+    {
+      "id": "wikidata-Q2405386",
+      "externalIds": {
+        "wikidata": "Q2405386"
+      },
+      "kind": "movie",
+      "title": "Terrible Teddy, the Grizzly King",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2405386"
+      ]
+    },
+    {
+      "id": "wikidata-Q3985963",
+      "externalIds": {
+        "wikidata": "Q3985963"
+      },
+      "kind": "movie",
+      "title": "The Big Swallow",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film by James Williamson",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3985963"
+      ]
+    },
+    {
+      "id": "wikidata-Q2870537",
+      "externalIds": {
+        "wikidata": "Q2870537"
+      },
+      "kind": "movie",
+      "title": "Stop Thief!",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2870537"
+      ]
+    },
+    {
+      "id": "wikidata-Q15052475",
+      "externalIds": {
+        "wikidata": "Q15052475"
+      },
+      "kind": "movie",
+      "title": "Morecambe Church Lads' Brigade at Drill",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15052475"
+      ]
+    },
+    {
+      "id": "wikidata-Q1964741",
+      "externalIds": {
+        "wikidata": "Q1964741"
+      },
+      "kind": "movie",
+      "title": "An Over-Incubated Baby",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1964741"
+      ]
+    },
+    {
+      "id": "wikidata-Q2036245",
+      "externalIds": {
+        "wikidata": "Q2036245"
+      },
+      "kind": "movie",
+      "title": "Cheese Mites, or Lilliputians in a London Restaurant",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film by Walter R. Booth",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2036245"
+      ]
+    },
+    {
+      "id": "wikidata-Q7727809",
+      "externalIds": {
+        "wikidata": "Q7727809"
+      },
+      "kind": "movie",
+      "title": "The Countryman and the Cinematograph",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film by Robert W. Paul",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7727809"
+      ]
+    },
+    {
+      "id": "wikidata-Q1765398",
+      "externalIds": {
+        "wikidata": "Q1765398"
+      },
+      "kind": "movie",
+      "title": "Artistic Creation",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British silent film by Walter R. Booth",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1765398"
+      ]
+    },
+    {
+      "id": "wikidata-Q7739002",
+      "externalIds": {
+        "wikidata": "Q7739002"
+      },
+      "kind": "movie",
+      "title": "The Haunted Curiosity Shop",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7739002"
+      ]
+    },
+    {
+      "id": "wikidata-Q6663547",
+      "externalIds": {
+        "wikidata": "Q6663547"
+      },
+      "kind": "movie",
+      "title": "The Magic Sword (1901 film)",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6663547"
+      ]
+    },
+    {
+      "id": "wikidata-Q1708889",
+      "externalIds": {
+        "wikidata": "Q1708889"
+      },
+      "kind": "movie",
+      "title": "The Death of Poor Joe",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film by George Albert",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1708889"
+      ]
+    },
+    {
+      "id": "wikidata-Q3007033",
+      "externalIds": {
+        "wikidata": "Q3007033"
+      },
+      "kind": "movie",
+      "title": "Execution of Czolgosz with Panorama of Auburn Prison",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3007033"
+      ]
+    },
+    {
+      "id": "wikidata-Q1212942",
+      "externalIds": {
+        "wikidata": "Q1212942"
+      },
+      "kind": "movie",
+      "title": "Histoire d'un crime (film)",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1212942"
+      ]
+    },
+    {
+      "id": "wikidata-Q6691756",
+      "externalIds": {
+        "wikidata": "Q6691756"
+      },
+      "kind": "movie",
+      "title": "Love by the Light of the Moon",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6691756"
+      ]
+    },
+    {
+      "id": "wikidata-Q5242885",
+      "externalIds": {
+        "wikidata": "Q5242885"
+      },
+      "kind": "movie",
+      "title": "Day at the Circus (1901 film)",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5242885"
+      ]
+    },
+    {
+      "id": "wikidata-Q2411678",
+      "externalIds": {
+        "wikidata": "Q2411678"
+      },
+      "kind": "movie",
+      "title": "The Gordon Sisters Boxing",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film by Thomas Edison",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2411678"
+      ]
+    },
+    {
+      "id": "wikidata-Q18151305",
+      "externalIds": {
+        "wikidata": "Q18151305"
+      },
+      "kind": "movie",
+      "title": "Kansas Saloon Smashers",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Edwin Stanton Porter",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18151305"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649751",
+      "externalIds": {
+        "wikidata": "Q20649751"
+      },
+      "kind": "movie",
+      "title": "Inauguration of the Commonwealth",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 Australian film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649751"
+      ]
+    },
+    {
+      "id": "wikidata-Q20977964",
+      "externalIds": {
+        "wikidata": "Q20977964"
+      },
+      "kind": "movie",
+      "title": "Descente du Mont Serrat",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20977964"
+      ]
+    },
+    {
+      "id": "wikidata-Q3202145",
+      "externalIds": {
+        "wikidata": "Q3202145"
+      },
+      "kind": "movie",
+      "title": "The Magician's Cavern",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3202145"
+      ]
+    },
+    {
+      "id": "wikidata-Q3207362",
+      "externalIds": {
+        "wikidata": "Q3207362"
+      },
+      "kind": "movie",
+      "title": "The Brahmin and the Butterfly",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French short silent fantasy film by Georges Méliès",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3207362"
+      ]
+    },
+    {
+      "id": "wikidata-Q3061793",
+      "externalIds": {
+        "wikidata": "Q3061793"
+      },
+      "kind": "movie",
+      "title": "Excelsior!",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3061793"
+      ]
+    },
+    {
+      "id": "wikidata-Q4337545",
+      "externalIds": {
+        "wikidata": "Q4337545"
+      },
+      "kind": "movie",
+      "title": "À la conquête de l'air",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film by Ferdinand Zecca",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4337545"
+      ]
+    },
+    {
+      "id": "wikidata-Q3225418",
+      "externalIds": {
+        "wikidata": "Q3225418"
+      },
+      "kind": "movie",
+      "title": "Red Riding Hood (1901 film)",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3225418"
+      ]
+    },
+    {
+      "id": "wikidata-Q3335211",
+      "externalIds": {
+        "wikidata": "Q3335211"
+      },
+      "kind": "movie",
+      "title": "The Dwarf and the Giant",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3335211"
+      ]
+    },
+    {
+      "id": "wikidata-Q61764570",
+      "externalIds": {
+        "wikidata": "Q61764570"
+      },
+      "kind": "movie",
+      "title": "Santos Dumont Explaining His Air Ship to the Hon. C.S. Rolls",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q61764570"
+      ]
+    },
+    {
+      "id": "wikidata-Q3030264",
+      "externalIds": {
+        "wikidata": "Q3030264"
+      },
+      "kind": "movie",
+      "title": "Dislocation Extraordinary",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Georges Méliès",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3030264"
+      ]
+    },
+    {
+      "id": "wikidata-Q16668840",
+      "externalIds": {
+        "wikidata": "Q16668840"
+      },
+      "kind": "movie",
+      "title": "Par le trou de la serrure",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16668840"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245287",
+      "externalIds": {
+        "wikidata": "Q101245287"
+      },
+      "kind": "movie",
+      "title": "Royal Visit of the Duke and Duchess of Cornwall and York to New Zealand",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 New Zealand film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245287"
+      ]
+    },
+    {
+      "id": "wikidata-Q104835788",
+      "externalIds": {
+        "wikidata": "Q104835788"
+      },
+      "kind": "movie",
+      "title": "Royal Visit to Open the First Commonwealth Parliament",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 Australian film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104835788"
+      ]
+    },
+    {
+      "id": "wikidata-Q16674525",
+      "externalIds": {
+        "wikidata": "Q16674525"
+      },
+      "kind": "movie",
+      "title": "Dream and Reality",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French silent short film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16674525"
+      ]
+    },
+    {
+      "id": "wikidata-Q3204543",
+      "externalIds": {
+        "wikidata": "Q3204543"
+      },
+      "kind": "movie",
+      "title": "L'Omnibus des toqués ou Blancs et Noirs",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Georges Méliès",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3204543"
+      ]
+    },
+    {
+      "id": "wikidata-Q116108518",
+      "externalIds": {
+        "wikidata": "Q116108518"
+      },
+      "kind": "movie",
+      "title": "Dummy Mace (film)",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Staged short boxing movie",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q116108518"
+      ]
+    },
+    {
+      "id": "wikidata-Q3218672",
+      "externalIds": {
+        "wikidata": "Q3218672"
+      },
+      "kind": "movie",
+      "title": "Laura Comstock's Bag-Punching Dog",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3218672"
+      ]
+    },
+    {
+      "id": "wikidata-Q124804875",
+      "externalIds": {
+        "wikidata": "Q124804875"
+      },
+      "kind": "movie",
+      "title": "The Old Maid Having Her Picture Taken",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124804875"
+      ]
+    },
+    {
+      "id": "wikidata-Q125463747",
+      "externalIds": {
+        "wikidata": "Q125463747"
+      },
+      "kind": "movie",
+      "title": "Dolly's Toys",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Arthur Melbourne-Cooper",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q125463747"
+      ]
+    },
+    {
+      "id": "wikidata-Q125716895",
+      "externalIds": {
+        "wikidata": "Q125716895"
+      },
+      "kind": "movie",
+      "title": "Employees Leaving Messrs Vickers and Maxim's in Barrow",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q125716895"
+      ]
+    },
+    {
+      "id": "wikidata-Q971823",
+      "externalIds": {
+        "wikidata": "Q971823"
+      },
+      "kind": "movie",
+      "title": "What Happened on Twenty-third Street, New York City",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 American film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q971823"
+      ]
+    },
+    {
+      "id": "wikidata-Q1708631",
+      "externalIds": {
+        "wikidata": "Q1708631"
+      },
+      "kind": "movie",
+      "title": "Undressing Extraordinary",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1708631"
+      ]
+    },
+    {
+      "id": "wikidata-Q2036344",
+      "externalIds": {
+        "wikidata": "Q2036344"
+      },
+      "kind": "movie",
+      "title": "The Waif and the Wizard",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 British film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2036344"
+      ]
+    },
+    {
+      "id": "wikidata-Q3209112",
+      "externalIds": {
+        "wikidata": "Q3209112"
+      },
+      "kind": "movie",
+      "title": "The Sacred Fountain",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 French film",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3209112"
+      ]
+    },
+    {
+      "id": "wikidata-Q2922215",
+      "externalIds": {
+        "wikidata": "Q2922215"
+      },
+      "kind": "movie",
+      "title": "The Triple-Headed Lady",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Georges Méliès",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2922215"
+      ]
+    },
+    {
+      "id": "wikidata-Q125408529",
+      "externalIds": {
+        "wikidata": "Q125408529"
+      },
+      "kind": "movie",
+      "title": "Why Mr. Nation Wants a Divorce",
+      "year": 1901,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1901-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q125408529"
+      ]
+    }
+  ]
+}
