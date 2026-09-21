@@ -1,0 +1,658 @@
+{
+  "id": "wikidata-films-1943-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1943,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q12133955",
+      "externalIds": {
+        "wikidata": "Q12133955"
+      },
+      "kind": "movie",
+      "title": "Wintertime (film)",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by John Brahm",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12133955"
+      ]
+    },
+    {
+      "id": "wikidata-Q8022199",
+      "externalIds": {
+        "wikidata": "Q8022199"
+      },
+      "kind": "movie",
+      "title": "Willoughby's Magic Hat",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8022199"
+      ]
+    },
+    {
+      "id": "wikidata-Q3571586",
+      "externalIds": {
+        "wikidata": "Q3571586"
+      },
+      "kind": "movie",
+      "title": "Yankee Doodle Daffy",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 animated short film directed by Friz Freleng",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3571586"
+      ]
+    },
+    {
+      "id": "wikidata-Q8031416",
+      "externalIds": {
+        "wikidata": "Q8031416"
+      },
+      "kind": "movie",
+      "title": "Women in Bondage",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Steve Sekely",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8031416"
+      ]
+    },
+    {
+      "id": "wikidata-Q8058532",
+      "externalIds": {
+        "wikidata": "Q8058532"
+      },
+      "kind": "movie",
+      "title": "Young and Willing",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Virginia Van Upp, Edward H. Griffith",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8058532"
+      ]
+    },
+    {
+      "id": "wikidata-Q8056751",
+      "externalIds": {
+        "wikidata": "Q8056751"
+      },
+      "kind": "movie",
+      "title": "You, John Jones!",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Mervyn LeRoy",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8056751"
+      ]
+    },
+    {
+      "id": "wikidata-Q3572849",
+      "externalIds": {
+        "wikidata": "Q3572849"
+      },
+      "kind": "movie",
+      "title": "Young Ideas",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3572849"
+      ]
+    },
+    {
+      "id": "wikidata-Q8051690",
+      "externalIds": {
+        "wikidata": "Q8051690"
+      },
+      "kind": "movie",
+      "title": "Yellow Canary (film)",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Herbert Wilcox",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8051690"
+      ]
+    },
+    {
+      "id": "wikidata-Q8025277",
+      "externalIds": {
+        "wikidata": "Q8025277"
+      },
+      "kind": "movie",
+      "title": "Wings Up",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 American film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8025277"
+      ]
+    },
+    {
+      "id": "wikidata-Q1429244",
+      "externalIds": {
+        "wikidata": "Q1429244"
+      },
+      "kind": "movie",
+      "title": "Wild Flower (film)",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 Mexican film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1429244"
+      ]
+    },
+    {
+      "id": "wikidata-Q8059304",
+      "externalIds": {
+        "wikidata": "Q8059304"
+      },
+      "kind": "movie",
+      "title": "Youth in Crisis",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8059304"
+      ]
+    },
+    {
+      "id": "wikidata-Q8056995",
+      "externalIds": {
+        "wikidata": "Q8056995"
+      },
+      "kind": "movie",
+      "title": "You Can't Beat the Law",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Phil Rosen",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8056995"
+      ]
+    },
+    {
+      "id": "wikidata-Q8031308",
+      "externalIds": {
+        "wikidata": "Q8031308"
+      },
+      "kind": "movie",
+      "title": "Women Aren't Angels",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 British film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8031308"
+      ]
+    },
+    {
+      "id": "wikidata-Q8030599",
+      "externalIds": {
+        "wikidata": "Q8030599"
+      },
+      "kind": "movie",
+      "title": "Wolves of the Range",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Sam Newfield",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8030599"
+      ]
+    },
+    {
+      "id": "wikidata-Q8036626",
+      "externalIds": {
+        "wikidata": "Q8036626"
+      },
+      "kind": "movie",
+      "title": "World of Plenty",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 British film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8036626"
+      ]
+    },
+    {
+      "id": "wikidata-Q8065774",
+      "externalIds": {
+        "wikidata": "Q8065774"
+      },
+      "kind": "movie",
+      "title": "Zameen (1943 film)",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 Indian film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8065774"
+      ]
+    },
+    {
+      "id": "wikidata-Q2592950",
+      "externalIds": {
+        "wikidata": "Q2592950"
+      },
+      "kind": "movie",
+      "title": "Women at War",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 American short film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2592950"
+      ]
+    },
+    {
+      "id": "wikidata-Q3486192",
+      "externalIds": {
+        "wikidata": "Q3486192"
+      },
+      "kind": "movie",
+      "title": "Women Are No Angels",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3486192"
+      ]
+    },
+    {
+      "id": "wikidata-Q18211247",
+      "externalIds": {
+        "wikidata": "Q18211247"
+      },
+      "kind": "movie",
+      "title": "Wings on Her Shoulder",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 Canadian film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18211247"
+      ]
+    },
+    {
+      "id": "wikidata-Q18636669",
+      "externalIds": {
+        "wikidata": "Q18636669"
+      },
+      "kind": "movie",
+      "title": "Yanks Ahoy",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Kurt Neumann",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18636669"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363996",
+      "externalIds": {
+        "wikidata": "Q19363996"
+      },
+      "kind": "movie",
+      "title": "Wild Horse Stampede",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Alan James",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363996"
+      ]
+    },
+    {
+      "id": "wikidata-Q23020931",
+      "externalIds": {
+        "wikidata": "Q23020931"
+      },
+      "kind": "movie",
+      "title": "You're a Lucky Fellow, Mr. Smith",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Felix E. Feist",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23020931"
+      ]
+    },
+    {
+      "id": "wikidata-Q26720505",
+      "externalIds": {
+        "wikidata": "Q26720505"
+      },
+      "kind": "movie",
+      "title": "Wings Over the Pacific",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film by Phil Rosen",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q26720505"
+      ]
+    },
+    {
+      "id": "wikidata-Q3955567",
+      "externalIds": {
+        "wikidata": "Q3955567"
+      },
+      "kind": "movie",
+      "title": "Without a Woman",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 Italian film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3955567"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019811",
+      "externalIds": {
+        "wikidata": "Q4019811"
+      },
+      "kind": "movie",
+      "title": "Wild Bird (film)",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019811"
+      ]
+    },
+    {
+      "id": "wikidata-Q64759211",
+      "externalIds": {
+        "wikidata": "Q64759211"
+      },
+      "kind": "movie",
+      "title": "Wild Horse Rustlers",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 American Western film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64759211"
+      ]
+    },
+    {
+      "id": "wikidata-Q10709600",
+      "externalIds": {
+        "wikidata": "Q10709600"
+      },
+      "kind": "movie",
+      "title": "Young Blood (1943 film)",
+      "year": 1943,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1943 film",
+      "batchId": "wikidata-films-1943-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10709600"
+      ]
+    }
+  ]
+}

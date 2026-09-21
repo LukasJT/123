@@ -13,7 +13,7 @@ const sandbox = {
 vm.createContext(sandbox);
 vm.runInContext(fs.readFileSync('catalog.js', 'utf8'), sandbox);
 
-const catalog = sandbox.window.catalog || [];
+const catalog = require('./scripts/catalog-loader')();
 
 function esc(value) {
   return String(value)
@@ -45,6 +45,13 @@ function absolute(path) {
 
 function posterFor(item) {
   return item.poster && item.poster.length ? item.poster : 'favicon.svg';
+}
+
+function isoDuration(item) {
+  if (!Number.isInteger(item.runtimeMinutes) || item.runtimeMinutes <= 0) return undefined;
+  const hours = Math.floor(item.runtimeMinutes / 60);
+  const minutes = item.runtimeMinutes % 60;
+  return `PT${hours ? `${hours}H` : ''}${minutes ? `${minutes}M` : ''}`;
 }
 
 function nav() {
@@ -79,7 +86,7 @@ function relatedCard(item) {
     <img src="${attr(posterFor(item))}" alt="${attr(item.title)} poster" loading="lazy">
     <span class="card-body">
       <span class="card-title">${esc(item.title)}</span>
-      <span class="meta"><span>${esc(item.year)}</span><span>Rating ${esc(item.rating)}</span></span>
+      <span class="meta"><span>${esc(item.year)}</span>${item.rating ? `<span>Rating ${esc(item.rating)}</span>` : ''}</span>
     </span>
   </a>`;
 }
@@ -115,23 +122,19 @@ function collectionLinks(item) {
 
 function schema(item, file) {
   const type = item.kind === 'tv' ? 'TVSeries' : 'Movie';
-  return {
+  const result = {
     '@context': 'https://schema.org',
     '@type': type,
     name: item.title,
     description: item.desc,
     image: posterFor(item),
-    datePublished: String(item.year),
     genre: item.genres,
-    duration: item.duration,
-    url: absolute(file),
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: item.rating,
-      bestRating: '10',
-      ratingCount: '1000'
-    }
+    url: absolute(file)
   };
+  if (item.releaseDate) result.datePublished = item.releaseDate;
+  const duration = isoDuration(item);
+  if (duration) result.duration = duration;
+  return result;
 }
 
 function breadcrumbSchema(item, file, kindLabel) {
@@ -199,7 +202,10 @@ function renderTitlePage(item) {
     .sort((a, b) => Number.parseFloat(b.rating) - Number.parseFloat(a.rating))
     .slice(0, 12);
   const title = `${item.title} (${item.year}) ${kindLabel} Details - ${SITE_NAME}`;
-  const description = `${item.title} (${item.year}) is a ${item.genres.join(', ')} ${kindLabel.toLowerCase()} rated ${item.rating}. Browse synopsis, poster, duration, genres, and related recommendations on ${SITE_NAME}.`;
+  const genreText = item.genres.length ? `${item.genres.join(', ')} ` : '';
+  const description = item.rating
+    ? `${item.title} (${item.year}) is a ${genreText}${kindLabel.toLowerCase()} rated ${item.rating}. Browse synopsis, poster, duration, genres, and related recommendations on ${SITE_NAME}.`
+    : `${item.title} (${item.year}) is a ${genreText}${kindLabel.toLowerCase()}. Browse synopsis, release details, genres, and related recommendations on ${SITE_NAME}.`;
   const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -246,9 +252,9 @@ ${breadcrumbNav(item, kindLabel)}
       <div class="detail-meta">
         <span>${esc(kindLabel)}</span>
         <span>${esc(item.year)}</span>
-        <span>Rating ${esc(item.rating)}/10</span>
-        <span>${esc(item.duration)}</span>
-        <span>${esc(item.quality)}</span>
+        ${item.rating ? `<span>Rating ${esc(item.rating)}/10</span>` : ''}
+        ${item.duration ? `<span>${esc(item.duration)}</span>` : ''}
+        ${item.quality ? `<span>${esc(item.quality)}</span>` : ''}
       </div>
       <div class="detail-genres">${item.genres.map(genre => `<a href="genre-${slug(genre)}.html">${esc(genre)}</a>`).join('')}</div>
       <p>${esc(item.desc)}</p>

@@ -1,0 +1,1474 @@
+{
+  "id": "wikidata-films-1917-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1917,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q4019790",
+      "externalIds": {
+        "wikidata": "Q4019790"
+      },
+      "kind": "movie",
+      "title": "Wild and Woolly (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019790"
+      ]
+    },
+    {
+      "id": "wikidata-Q1752025",
+      "externalIds": {
+        "wikidata": "Q1752025"
+      },
+      "kind": "movie",
+      "title": "Tom Sawyer (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 comedy-drama film directed by William Desmond Taylor",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1752025"
+      ]
+    },
+    {
+      "id": "wikidata-Q7968173",
+      "externalIds": {
+        "wikidata": "Q7968173"
+      },
+      "kind": "movie",
+      "title": "Wanted – A Bad Man",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7968173"
+      ]
+    },
+    {
+      "id": "wikidata-Q7977694",
+      "externalIds": {
+        "wikidata": "Q7977694"
+      },
+      "kind": "movie",
+      "title": "We Never Sleep (film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7977694"
+      ]
+    },
+    {
+      "id": "wikidata-Q3999140",
+      "externalIds": {
+        "wikidata": "Q3999140"
+      },
+      "kind": "movie",
+      "title": "Triumph (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3999140"
+      ]
+    },
+    {
+      "id": "wikidata-Q4937114",
+      "externalIds": {
+        "wikidata": "Q4937114"
+      },
+      "kind": "movie",
+      "title": "Ulbo Garvema",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 Dutch film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4937114"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019632",
+      "externalIds": {
+        "wikidata": "Q4019632"
+      },
+      "kind": "movie",
+      "title": "Whose Baby?",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film directed by Clarence G. Badger",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019632"
+      ]
+    },
+    {
+      "id": "wikidata-Q7816362",
+      "externalIds": {
+        "wikidata": "Q7816362"
+      },
+      "kind": "movie",
+      "title": "Tom Jones (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 British film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7816362"
+      ]
+    },
+    {
+      "id": "wikidata-Q7991096",
+      "externalIds": {
+        "wikidata": "Q7991096"
+      },
+      "kind": "movie",
+      "title": "What Every Woman Knows (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 British film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7991096"
+      ]
+    },
+    {
+      "id": "wikidata-Q3992075",
+      "externalIds": {
+        "wikidata": "Q3992075"
+      },
+      "kind": "movie",
+      "title": "To the Death (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3992075"
+      ]
+    },
+    {
+      "id": "wikidata-Q17065535",
+      "externalIds": {
+        "wikidata": "Q17065535"
+      },
+      "kind": "movie",
+      "title": "Who's Your Neighbor?",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17065535"
+      ]
+    },
+    {
+      "id": "wikidata-Q3992035",
+      "externalIds": {
+        "wikidata": "Q3992035"
+      },
+      "kind": "movie",
+      "title": "To-Day",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3992035"
+      ]
+    },
+    {
+      "id": "wikidata-Q7992919",
+      "externalIds": {
+        "wikidata": "Q7992919"
+      },
+      "kind": "movie",
+      "title": "When a Man Sees Red (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film by Franck Lloyd",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7992919"
+      ]
+    },
+    {
+      "id": "wikidata-Q7999462",
+      "externalIds": {
+        "wikidata": "Q7999462"
+      },
+      "kind": "movie",
+      "title": "Wife Number Two",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7999462"
+      ]
+    },
+    {
+      "id": "wikidata-Q2559565",
+      "externalIds": {
+        "wikidata": "Q2559565"
+      },
+      "kind": "movie",
+      "title": "When Four Do the Same",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2559565"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709161",
+      "externalIds": {
+        "wikidata": "Q18709161"
+      },
+      "kind": "movie",
+      "title": "Where Love Is",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709161"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709156",
+      "externalIds": {
+        "wikidata": "Q18709156"
+      },
+      "kind": "movie",
+      "title": "Wee Lady Betty",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 silent film by Charles Miller",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709156"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709146",
+      "externalIds": {
+        "wikidata": "Q18709146"
+      },
+      "kind": "movie",
+      "title": "Unconquered (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709146"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709157",
+      "externalIds": {
+        "wikidata": "Q18709157"
+      },
+      "kind": "movie",
+      "title": "What Money Can't Buy",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709157"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363991",
+      "externalIds": {
+        "wikidata": "Q19363991"
+      },
+      "kind": "movie",
+      "title": "Who Is Number One?",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363991"
+      ]
+    },
+    {
+      "id": "wikidata-Q20002694",
+      "externalIds": {
+        "wikidata": "Q20002694"
+      },
+      "kind": "movie",
+      "title": "Wanda Warenine",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 Italian film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20002694"
+      ]
+    },
+    {
+      "id": "wikidata-Q20487099",
+      "externalIds": {
+        "wikidata": "Q20487099"
+      },
+      "kind": "movie",
+      "title": "Under False Colors",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20487099"
+      ]
+    },
+    {
+      "id": "wikidata-Q3555499",
+      "externalIds": {
+        "wikidata": "Q3555499"
+      },
+      "kind": "movie",
+      "title": "Vengeance of the Dead",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3555499"
+      ]
+    },
+    {
+      "id": "wikidata-Q3556249",
+      "externalIds": {
+        "wikidata": "Q3556249"
+      },
+      "kind": "movie",
+      "title": "Vertigo (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 French film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3556249"
+      ]
+    },
+    {
+      "id": "wikidata-Q4009796",
+      "externalIds": {
+        "wikidata": "Q4009796"
+      },
+      "kind": "movie",
+      "title": "Vera, the Medium",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4009796"
+      ]
+    },
+    {
+      "id": "wikidata-Q28925866",
+      "externalIds": {
+        "wikidata": "Q28925866"
+      },
+      "kind": "movie",
+      "title": "Unmasked (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28925866"
+      ]
+    },
+    {
+      "id": "wikidata-Q22078273",
+      "externalIds": {
+        "wikidata": "Q22078273"
+      },
+      "kind": "movie",
+      "title": "Troublemakers (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22078273"
+      ]
+    },
+    {
+      "id": "wikidata-Q20743912",
+      "externalIds": {
+        "wikidata": "Q20743912"
+      },
+      "kind": "movie",
+      "title": "Unusable (film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20743912"
+      ]
+    },
+    {
+      "id": "wikidata-Q23954875",
+      "externalIds": {
+        "wikidata": "Q23954875"
+      },
+      "kind": "movie",
+      "title": "When the Dead Speak",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film by Robert Reinert",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23954875"
+      ]
+    },
+    {
+      "id": "wikidata-Q4009651",
+      "externalIds": {
+        "wikidata": "Q4009651"
+      },
+      "kind": "movie",
+      "title": "Vengeance Is Mine (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film by Frank Hall Crane",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4009651"
+      ]
+    },
+    {
+      "id": "wikidata-Q3025000",
+      "externalIds": {
+        "wikidata": "Q3025000"
+      },
+      "kind": "movie",
+      "title": "Twin Kiddies",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film by Henry King",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3025000"
+      ]
+    },
+    {
+      "id": "wikidata-Q2870550",
+      "externalIds": {
+        "wikidata": "Q2870550"
+      },
+      "kind": "movie",
+      "title": "Told at Twilight",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film by Henry King",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2870550"
+      ]
+    },
+    {
+      "id": "wikidata-Q43303351",
+      "externalIds": {
+        "wikidata": "Q43303351"
+      },
+      "kind": "movie",
+      "title": "Truthful Tulliver",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q43303351"
+      ]
+    },
+    {
+      "id": "wikidata-Q3567855",
+      "externalIds": {
+        "wikidata": "Q3567855"
+      },
+      "kind": "movie",
+      "title": "Who Shall Take My Life?",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3567855"
+      ]
+    },
+    {
+      "id": "wikidata-Q66305442",
+      "externalIds": {
+        "wikidata": "Q66305442"
+      },
+      "kind": "movie",
+      "title": "When False Tongues Speak",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film directed by Carl Harbaugh",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q66305442"
+      ]
+    },
+    {
+      "id": "wikidata-Q77885110",
+      "externalIds": {
+        "wikidata": "Q77885110"
+      },
+      "kind": "movie",
+      "title": "Whose Wife?",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q77885110"
+      ]
+    },
+    {
+      "id": "wikidata-Q21282665",
+      "externalIds": {
+        "wikidata": "Q21282665"
+      },
+      "kind": "movie",
+      "title": "Two Little Imps",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film by Kenean Buel",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21282665"
+      ]
+    },
+    {
+      "id": "wikidata-Q18224737",
+      "externalIds": {
+        "wikidata": "Q18224737"
+      },
+      "kind": "movie",
+      "title": "Treason (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18224737"
+      ]
+    },
+    {
+      "id": "wikidata-Q4018164",
+      "externalIds": {
+        "wikidata": "Q4018164"
+      },
+      "kind": "movie",
+      "title": "War and the Woman",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4018164"
+      ]
+    },
+    {
+      "id": "wikidata-Q8851738",
+      "externalIds": {
+        "wikidata": "Q8851738"
+      },
+      "kind": "movie",
+      "title": "When Love Was Blind (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8851738"
+      ]
+    },
+    {
+      "id": "wikidata-Q30753721",
+      "externalIds": {
+        "wikidata": "Q30753721"
+      },
+      "kind": "movie",
+      "title": "Up or Down?",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30753721"
+      ]
+    },
+    {
+      "id": "wikidata-Q43303335",
+      "externalIds": {
+        "wikidata": "Q43303335"
+      },
+      "kind": "movie",
+      "title": "Time Locks and Diamonds",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q43303335"
+      ]
+    },
+    {
+      "id": "wikidata-Q30744241",
+      "externalIds": {
+        "wikidata": "Q30744241"
+      },
+      "kind": "movie",
+      "title": "Wild Sumac",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30744241"
+      ]
+    },
+    {
+      "id": "wikidata-Q96091387",
+      "externalIds": {
+        "wikidata": "Q96091387"
+      },
+      "kind": "movie",
+      "title": "Who Was the Other Man?",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q96091387"
+      ]
+    },
+    {
+      "id": "wikidata-Q21183948",
+      "externalIds": {
+        "wikidata": "Q21183948"
+      },
+      "kind": "movie",
+      "title": "When Men Are Tempted",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21183948"
+      ]
+    },
+    {
+      "id": "wikidata-Q15068184",
+      "externalIds": {
+        "wikidata": "Q15068184"
+      },
+      "kind": "movie",
+      "title": "Wedding in the Eccentric Club",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 German film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15068184"
+      ]
+    },
+    {
+      "id": "wikidata-Q19796635",
+      "externalIds": {
+        "wikidata": "Q19796635"
+      },
+      "kind": "movie",
+      "title": "When the Heart Burns with Hate",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 silent German film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19796635"
+      ]
+    },
+    {
+      "id": "wikidata-Q10729038",
+      "externalIds": {
+        "wikidata": "Q10729038"
+      },
+      "kind": "movie",
+      "title": "Unge hjerter",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10729038"
+      ]
+    },
+    {
+      "id": "wikidata-Q3552027",
+      "externalIds": {
+        "wikidata": "Q3552027"
+      },
+      "kind": "movie",
+      "title": "Until They Get Me",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3552027"
+      ]
+    },
+    {
+      "id": "wikidata-Q138773973",
+      "externalIds": {
+        "wikidata": "Q138773973"
+      },
+      "kind": "movie",
+      "title": "To Honor and Obey",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q138773973"
+      ]
+    },
+    {
+      "id": "wikidata-Q8050773",
+      "externalIds": {
+        "wikidata": "Q8050773"
+      },
+      "kind": "movie",
+      "title": "Ye Wooing of Peggy",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 silent short film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8050773"
+      ]
+    },
+    {
+      "id": "wikidata-Q19881893",
+      "externalIds": {
+        "wikidata": "Q19881893"
+      },
+      "kind": "movie",
+      "title": "Wolf Lowry",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19881893"
+      ]
+    },
+    {
+      "id": "wikidata-Q56322679",
+      "externalIds": {
+        "wikidata": "Q56322679"
+      },
+      "kind": "movie",
+      "title": "Yankee Pluck",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film directed by George Archainbaud",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56322679"
+      ]
+    },
+    {
+      "id": "wikidata-Q17479373",
+      "externalIds": {
+        "wikidata": "Q17479373"
+      },
+      "kind": "movie",
+      "title": "Youth (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 silent drama film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17479373"
+      ]
+    },
+    {
+      "id": "wikidata-Q30749736",
+      "externalIds": {
+        "wikidata": "Q30749736"
+      },
+      "kind": "movie",
+      "title": "Wooden Shoes",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film by Raymond B. West",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30749736"
+      ]
+    },
+    {
+      "id": "wikidata-Q21290813",
+      "externalIds": {
+        "wikidata": "Q21290813"
+      },
+      "kind": "movie",
+      "title": "Wrath of Love",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film by James Vincent",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21290813"
+      ]
+    },
+    {
+      "id": "wikidata-Q4020573",
+      "externalIds": {
+        "wikidata": "Q4020573"
+      },
+      "kind": "movie",
+      "title": "Within the Law (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 American film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4020573"
+      ]
+    },
+    {
+      "id": "wikidata-Q43303295",
+      "externalIds": {
+        "wikidata": "Q43303295"
+      },
+      "kind": "movie",
+      "title": "Wild Winship's Widow",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q43303295"
+      ]
+    },
+    {
+      "id": "wikidata-Q52084096",
+      "externalIds": {
+        "wikidata": "Q52084096"
+      },
+      "kind": "movie",
+      "title": "Your Obedient Servant (film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 silent film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q52084096"
+      ]
+    },
+    {
+      "id": "wikidata-Q62601680",
+      "externalIds": {
+        "wikidata": "Q62601680"
+      },
+      "kind": "movie",
+      "title": "Wrath (1917 film)",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 silent film",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q62601680"
+      ]
+    },
+    {
+      "id": "wikidata-Q4020713",
+      "externalIds": {
+        "wikidata": "Q4020713"
+      },
+      "kind": "movie",
+      "title": "Womanhood, the Glory of the Nation",
+      "year": 1917,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1917 film by J. Stuart Blackton and William P. S. Earle",
+      "batchId": "wikidata-films-1917-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4020713"
+      ]
+    }
+  ]
+}

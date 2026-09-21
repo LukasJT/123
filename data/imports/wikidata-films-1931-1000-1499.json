@@ -1,0 +1,1402 @@
+{
+  "id": "wikidata-films-1931-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1931,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q257486",
+      "externalIds": {
+        "wikidata": "Q257486"
+      },
+      "kind": "movie",
+      "title": "Waterloo Bridge (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q257486"
+      ]
+    },
+    {
+      "id": "wikidata-Q3569754",
+      "externalIds": {
+        "wikidata": "Q3569754"
+      },
+      "kind": "movie",
+      "title": "Woman Hungry",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film directed by Clarence G. Badger",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3569754"
+      ]
+    },
+    {
+      "id": "wikidata-Q427192",
+      "externalIds": {
+        "wikidata": "Q427192"
+      },
+      "kind": "movie",
+      "title": "Way Back Home (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film directed by William A. Seiter",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q427192"
+      ]
+    },
+    {
+      "id": "wikidata-Q7897994",
+      "externalIds": {
+        "wikidata": "Q7897994"
+      },
+      "kind": "movie",
+      "title": "Up Pops the Devil",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7897994"
+      ]
+    },
+    {
+      "id": "wikidata-Q12133779",
+      "externalIds": {
+        "wikidata": "Q12133779"
+      },
+      "kind": "movie",
+      "title": "Windy Riley Goes Hollywood",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12133779"
+      ]
+    },
+    {
+      "id": "wikidata-Q7897995",
+      "externalIds": {
+        "wikidata": "Q7897995"
+      },
+      "kind": "movie",
+      "title": "Up Pops the Duke",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7897995"
+      ]
+    },
+    {
+      "id": "wikidata-Q1722894",
+      "externalIds": {
+        "wikidata": "Q1722894"
+      },
+      "kind": "movie",
+      "title": "Wrestling Swordfish",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1722894"
+      ]
+    },
+    {
+      "id": "wikidata-Q8037316",
+      "externalIds": {
+        "wikidata": "Q8037316"
+      },
+      "kind": "movie",
+      "title": "Wot a Night",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8037316"
+      ]
+    },
+    {
+      "id": "wikidata-Q12129910",
+      "externalIds": {
+        "wikidata": "Q12129910"
+      },
+      "kind": "movie",
+      "title": "Two Crowded Hours",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12129910"
+      ]
+    },
+    {
+      "id": "wikidata-Q7903982",
+      "externalIds": {
+        "wikidata": "Q7903982"
+      },
+      "kind": "movie",
+      "title": "Uwiedziona",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7903982"
+      ]
+    },
+    {
+      "id": "wikidata-Q3552068",
+      "externalIds": {
+        "wikidata": "Q3552068"
+      },
+      "kind": "movie",
+      "title": "Up for the Cup (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3552068"
+      ]
+    },
+    {
+      "id": "wikidata-Q7998261",
+      "externalIds": {
+        "wikidata": "Q7998261"
+      },
+      "kind": "movie",
+      "title": "Wicked (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film directed by Allan Dwan",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7998261"
+      ]
+    },
+    {
+      "id": "wikidata-Q7997290",
+      "externalIds": {
+        "wikidata": "Q7997290"
+      },
+      "kind": "movie",
+      "title": "Who Killed Doc Robin?",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7997290"
+      ]
+    },
+    {
+      "id": "wikidata-Q7884161",
+      "externalIds": {
+        "wikidata": "Q7884161"
+      },
+      "kind": "movie",
+      "title": "Uneasy Virtue",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7884161"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883063",
+      "externalIds": {
+        "wikidata": "Q7883063"
+      },
+      "kind": "movie",
+      "title": "Under Eighteen",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883063"
+      ]
+    },
+    {
+      "id": "wikidata-Q7991541",
+      "externalIds": {
+        "wikidata": "Q7991541"
+      },
+      "kind": "movie",
+      "title": "What a Night! (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7991541"
+      ]
+    },
+    {
+      "id": "wikidata-Q7836022",
+      "externalIds": {
+        "wikidata": "Q7836022"
+      },
+      "kind": "movie",
+      "title": "Traveling Husbands",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7836022"
+      ]
+    },
+    {
+      "id": "wikidata-Q7979574",
+      "externalIds": {
+        "wikidata": "Q7979574"
+      },
+      "kind": "movie",
+      "title": "Weenie Roast",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7979574"
+      ]
+    },
+    {
+      "id": "wikidata-Q8042756",
+      "externalIds": {
+        "wikidata": "Q8042756"
+      },
+      "kind": "movie",
+      "title": "X Marks the Spot (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film by Erle C. Kenton",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8042756"
+      ]
+    },
+    {
+      "id": "wikidata-Q7927158",
+      "externalIds": {
+        "wikidata": "Q7927158"
+      },
+      "kind": "movie",
+      "title": "Victoria and Her Hussar (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film directed by Richard Oswald",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7927158"
+      ]
+    },
+    {
+      "id": "wikidata-Q7919734",
+      "externalIds": {
+        "wikidata": "Q7919734"
+      },
+      "kind": "movie",
+      "title": "Venetian Nights (film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7919734"
+      ]
+    },
+    {
+      "id": "wikidata-Q7844300",
+      "externalIds": {
+        "wikidata": "Q7844300"
+      },
+      "kind": "movie",
+      "title": "Tritiya Paksha",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 Bengali short film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7844300"
+      ]
+    },
+    {
+      "id": "wikidata-Q7995389",
+      "externalIds": {
+        "wikidata": "Q7995389"
+      },
+      "kind": "movie",
+      "title": "White Shoulders",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7995389"
+      ]
+    },
+    {
+      "id": "wikidata-Q17103703",
+      "externalIds": {
+        "wikidata": "Q17103703"
+      },
+      "kind": "movie",
+      "title": "Tropical Nights (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17103703"
+      ]
+    },
+    {
+      "id": "wikidata-Q17102561",
+      "externalIds": {
+        "wikidata": "Q17102561"
+      },
+      "kind": "movie",
+      "title": "Wibbel the Tailor (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17102561"
+      ]
+    },
+    {
+      "id": "wikidata-Q17039203",
+      "externalIds": {
+        "wikidata": "Q17039203"
+      },
+      "kind": "movie",
+      "title": "Without Meyer, No Celebration is Complete",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film directed by Carl Boese",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17039203"
+      ]
+    },
+    {
+      "id": "wikidata-Q16029063",
+      "externalIds": {
+        "wikidata": "Q16029063"
+      },
+      "kind": "movie",
+      "title": "Women of All Nations",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film directed by Raoul Walsh",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16029063"
+      ]
+    },
+    {
+      "id": "wikidata-Q17113372",
+      "externalIds": {
+        "wikidata": "Q17113372"
+      },
+      "kind": "movie",
+      "title": "Who Takes Love Seriously?",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17113372"
+      ]
+    },
+    {
+      "id": "wikidata-Q3937200",
+      "externalIds": {
+        "wikidata": "Q3937200"
+      },
+      "kind": "movie",
+      "title": "West of Broadway (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3937200"
+      ]
+    },
+    {
+      "id": "wikidata-Q19364003",
+      "externalIds": {
+        "wikidata": "Q19364003"
+      },
+      "kind": "movie",
+      "title": "Women Go on Forever",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19364003"
+      ]
+    },
+    {
+      "id": "wikidata-Q17640299",
+      "externalIds": {
+        "wikidata": "Q17640299"
+      },
+      "kind": "movie",
+      "title": "Unfaithful (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17640299"
+      ]
+    },
+    {
+      "id": "wikidata-Q19364004",
+      "externalIds": {
+        "wikidata": "Q19364004"
+      },
+      "kind": "movie",
+      "title": "Women Love Once",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19364004"
+      ]
+    },
+    {
+      "id": "wikidata-Q4020838",
+      "externalIds": {
+        "wikidata": "Q4020838"
+      },
+      "kind": "movie",
+      "title": "Working Girls (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4020838"
+      ]
+    },
+    {
+      "id": "wikidata-Q19881904",
+      "externalIds": {
+        "wikidata": "Q19881904"
+      },
+      "kind": "movie",
+      "title": "Wonderland (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19881904"
+      ]
+    },
+    {
+      "id": "wikidata-Q3552099",
+      "externalIds": {
+        "wikidata": "Q3552099"
+      },
+      "kind": "movie",
+      "title": "Ups 'n Downs",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3552099"
+      ]
+    },
+    {
+      "id": "wikidata-Q20006404",
+      "externalIds": {
+        "wikidata": "Q20006404"
+      },
+      "kind": "movie",
+      "title": "Up for Murder",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20006404"
+      ]
+    },
+    {
+      "id": "wikidata-Q25206587",
+      "externalIds": {
+        "wikidata": "Q25206587"
+      },
+      "kind": "movie",
+      "title": "Weekend in Paradise (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25206587"
+      ]
+    },
+    {
+      "id": "wikidata-Q25208027",
+      "externalIds": {
+        "wikidata": "Q25208027"
+      },
+      "kind": "movie",
+      "title": "When Do You Commit Suicide? (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25208027"
+      ]
+    },
+    {
+      "id": "wikidata-Q8000663",
+      "externalIds": {
+        "wikidata": "Q8000663"
+      },
+      "kind": "movie",
+      "title": "Wild Horse (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8000663"
+      ]
+    },
+    {
+      "id": "wikidata-Q3818649",
+      "externalIds": {
+        "wikidata": "Q3818649"
+      },
+      "kind": "movie",
+      "title": "Two Gun Man",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film directed by Phil Rosen",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3818649"
+      ]
+    },
+    {
+      "id": "wikidata-Q55637590",
+      "externalIds": {
+        "wikidata": "Q55637590"
+      },
+      "kind": "movie",
+      "title": "When the Soldiers",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55637590"
+      ]
+    },
+    {
+      "id": "wikidata-Q2859004",
+      "externalIds": {
+        "wikidata": "Q2859004"
+      },
+      "kind": "movie",
+      "title": "When Love Is Over",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2859004"
+      ]
+    },
+    {
+      "id": "wikidata-Q4018769",
+      "externalIds": {
+        "wikidata": "Q4018769"
+      },
+      "kind": "movie",
+      "title": "Woman in the Jungle",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film directed by Dimitri Buchowetzki",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4018769"
+      ]
+    },
+    {
+      "id": "wikidata-Q64214349",
+      "externalIds": {
+        "wikidata": "Q64214349"
+      },
+      "kind": "movie",
+      "title": "West of Cheyenne (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64214349"
+      ]
+    },
+    {
+      "id": "wikidata-Q65677538",
+      "externalIds": {
+        "wikidata": "Q65677538"
+      },
+      "kind": "movie",
+      "title": "Valley of Badmen",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65677538"
+      ]
+    },
+    {
+      "id": "wikidata-Q65924937",
+      "externalIds": {
+        "wikidata": "Q65924937"
+      },
+      "kind": "movie",
+      "title": "Wild West Whoopee",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65924937"
+      ]
+    },
+    {
+      "id": "wikidata-Q65924945",
+      "externalIds": {
+        "wikidata": "Q65924945"
+      },
+      "kind": "movie",
+      "title": "Two-Gun Caballero",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65924945"
+      ]
+    },
+    {
+      "id": "wikidata-Q86736329",
+      "externalIds": {
+        "wikidata": "Q86736329"
+      },
+      "kind": "movie",
+      "title": "Two Fisted Justice (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American Western film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q86736329"
+      ]
+    },
+    {
+      "id": "wikidata-Q120493293",
+      "externalIds": {
+        "wikidata": "Q120493293"
+      },
+      "kind": "movie",
+      "title": "Women Men Marry (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q120493293"
+      ]
+    },
+    {
+      "id": "wikidata-Q131363912",
+      "externalIds": {
+        "wikidata": "Q131363912"
+      },
+      "kind": "movie",
+      "title": "Two Stars in the Milky Way",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 Taiwanese film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q131363912"
+      ]
+    },
+    {
+      "id": "wikidata-Q8058076",
+      "externalIds": {
+        "wikidata": "Q8058076"
+      },
+      "kind": "movie",
+      "title": "Young Donovan's Kid",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8058076"
+      ]
+    },
+    {
+      "id": "wikidata-Q8058424",
+      "externalIds": {
+        "wikidata": "Q8058424"
+      },
+      "kind": "movie",
+      "title": "Young Sinners (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8058424"
+      ]
+    },
+    {
+      "id": "wikidata-Q8055275",
+      "externalIds": {
+        "wikidata": "Q8055275"
+      },
+      "kind": "movie",
+      "title": "Yorck",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8055275"
+      ]
+    },
+    {
+      "id": "wikidata-Q17109084",
+      "externalIds": {
+        "wikidata": "Q17109084"
+      },
+      "kind": "movie",
+      "title": "You Don't Know What You're Doin'!",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17109084"
+      ]
+    },
+    {
+      "id": "wikidata-Q8053816",
+      "externalIds": {
+        "wikidata": "Q8053816"
+      },
+      "kind": "movie",
+      "title": "Yira, yira",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8053816"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650067",
+      "externalIds": {
+        "wikidata": "Q20650067"
+      },
+      "kind": "movie",
+      "title": "Young as You Feel (1931 film)",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650067"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528256",
+      "externalIds": {
+        "wikidata": "Q21528256"
+      },
+      "kind": "movie",
+      "title": "Yodeling Yokels",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528256"
+      ]
+    },
+    {
+      "id": "wikidata-Q23035456",
+      "externalIds": {
+        "wikidata": "Q23035456"
+      },
+      "kind": "movie",
+      "title": "Yankee Don",
+      "year": 1931,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1931-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23035456"
+      ]
+    }
+  ]
+}

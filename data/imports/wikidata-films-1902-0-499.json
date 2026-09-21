@@ -1,0 +1,802 @@
+{
+  "id": "wikidata-films-1902-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1902,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q244971",
+      "externalIds": {
+        "wikidata": "Q244971"
+      },
+      "kind": "movie",
+      "title": "A Trip to the Moon",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French short film by Georges Méliès",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q244971"
+      ]
+    },
+    {
+      "id": "wikidata-Q2069080",
+      "externalIds": {
+        "wikidata": "Q2069080"
+      },
+      "kind": "movie",
+      "title": "Gulliver's Travels Among the Lilliputians and the Giants",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French silent film by Georges Méliès",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2069080"
+      ]
+    },
+    {
+      "id": "wikidata-Q7548337",
+      "externalIds": {
+        "wikidata": "Q7548337"
+      },
+      "kind": "movie",
+      "title": "Snow White (1902 film)",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 American film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7548337"
+      ]
+    },
+    {
+      "id": "wikidata-Q4048200",
+      "externalIds": {
+        "wikidata": "Q4048200"
+      },
+      "kind": "movie",
+      "title": "Restitution inattendue",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4048200"
+      ]
+    },
+    {
+      "id": "wikidata-Q1137799",
+      "externalIds": {
+        "wikidata": "Q1137799"
+      },
+      "kind": "movie",
+      "title": "The Coronation of Edward VII",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1137799"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988040",
+      "externalIds": {
+        "wikidata": "Q3988040"
+      },
+      "kind": "movie",
+      "title": "The Little Match Seller",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 British film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988040"
+      ]
+    },
+    {
+      "id": "wikidata-Q6659359",
+      "externalIds": {
+        "wikidata": "Q6659359"
+      },
+      "kind": "movie",
+      "title": "Living Wigan",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 film by Sagar Mitchell and James Kenyon",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6659359"
+      ]
+    },
+    {
+      "id": "wikidata-Q3020124",
+      "externalIds": {
+        "wikidata": "Q3020124"
+      },
+      "kind": "movie",
+      "title": "The Extraordinary Waiter",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 British film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3020124"
+      ]
+    },
+    {
+      "id": "wikidata-Q3006831",
+      "externalIds": {
+        "wikidata": "Q3006831"
+      },
+      "kind": "movie",
+      "title": "Jack and the Beanstalk (1902 film)",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3006831"
+      ]
+    },
+    {
+      "id": "wikidata-Q3230819",
+      "externalIds": {
+        "wikidata": "Q3230819"
+      },
+      "kind": "movie",
+      "title": "Robinson Crusoe (1902 film)",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3230819"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709134",
+      "externalIds": {
+        "wikidata": "Q18709134"
+      },
+      "kind": "movie",
+      "title": "The Treasures of Satan",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709134"
+      ]
+    },
+    {
+      "id": "wikidata-Q3520769",
+      "externalIds": {
+        "wikidata": "Q3520769"
+      },
+      "kind": "movie",
+      "title": "The Eruption of Mount Pelee",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French film by Georges Méliès",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3520769"
+      ]
+    },
+    {
+      "id": "wikidata-Q2941693",
+      "externalIds": {
+        "wikidata": "Q2941693"
+      },
+      "kind": "movie",
+      "title": "The Catastrophe of the Balloon \"Le Pax\"",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2941693"
+      ]
+    },
+    {
+      "id": "wikidata-Q15866137",
+      "externalIds": {
+        "wikidata": "Q15866137"
+      },
+      "kind": "movie",
+      "title": "How to Stop a Motor Car",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 English film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15866137"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650004",
+      "externalIds": {
+        "wikidata": "Q20650004"
+      },
+      "kind": "movie",
+      "title": "Under Southern Skies (1902 film)",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 Australian film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650004"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649267",
+      "externalIds": {
+        "wikidata": "Q20649267"
+      },
+      "kind": "movie",
+      "title": "Lazarus (1902 film)",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 Australian film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649267"
+      ]
+    },
+    {
+      "id": "wikidata-Q12146031",
+      "externalIds": {
+        "wikidata": "Q12146031"
+      },
+      "kind": "movie",
+      "title": "La fée printemps",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12146031"
+      ]
+    },
+    {
+      "id": "wikidata-Q20977958",
+      "externalIds": {
+        "wikidata": "Q20977958"
+      },
+      "kind": "movie",
+      "title": "Danse des Ouléd-Naïd",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20977958"
+      ]
+    },
+    {
+      "id": "wikidata-Q20978088",
+      "externalIds": {
+        "wikidata": "Q20978088"
+      },
+      "kind": "movie",
+      "title": "Loie Fuller (film)",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French short black-and-white silent film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20978088"
+      ]
+    },
+    {
+      "id": "wikidata-Q20978117",
+      "externalIds": {
+        "wikidata": "Q20978117"
+      },
+      "kind": "movie",
+      "title": "Montserrat (film)",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 Spanish film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20978117"
+      ]
+    },
+    {
+      "id": "wikidata-Q20977932",
+      "externalIds": {
+        "wikidata": "Q20977932"
+      },
+      "kind": "movie",
+      "title": "Choque de trenes",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 Spanish film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20977932"
+      ]
+    },
+    {
+      "id": "wikidata-Q3207530",
+      "externalIds": {
+        "wikidata": "Q3207530"
+      },
+      "kind": "movie",
+      "title": "The Shadow-Girl",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 film by Georges Méliès",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3207530"
+      ]
+    },
+    {
+      "id": "wikidata-Q26862636",
+      "externalIds": {
+        "wikidata": "Q26862636"
+      },
+      "kind": "movie",
+      "title": "The Girls in the Overalls",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 American film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q26862636"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523121",
+      "externalIds": {
+        "wikidata": "Q3523121"
+      },
+      "kind": "movie",
+      "title": "The Twentieth Century Tramp; or, Happy Hooligan and His Airship",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 film by Edwin Stanton Porter",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523121"
+      ]
+    },
+    {
+      "id": "wikidata-Q8274900",
+      "externalIds": {
+        "wikidata": "Q8274900"
+      },
+      "kind": "movie",
+      "title": "Alcohol and its Victims",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8274900"
+      ]
+    },
+    {
+      "id": "wikidata-Q3203710",
+      "externalIds": {
+        "wikidata": "Q3203710"
+      },
+      "kind": "movie",
+      "title": "The Human Fly (film)",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 film by Georges Méliès",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3203710"
+      ]
+    },
+    {
+      "id": "wikidata-Q4062213",
+      "externalIds": {
+        "wikidata": "Q4062213"
+      },
+      "kind": "movie",
+      "title": "Ali Baba and the Forty Thieves (1902 film)",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4062213"
+      ]
+    },
+    {
+      "id": "wikidata-Q2492596",
+      "externalIds": {
+        "wikidata": "Q2492596"
+      },
+      "kind": "movie",
+      "title": "Uncle Josh at the Moving Picture Show",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 American film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2492596"
+      ]
+    },
+    {
+      "id": "wikidata-Q3549571",
+      "externalIds": {
+        "wikidata": "Q3549571"
+      },
+      "kind": "movie",
+      "title": "Up-to-Date Surgery",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 French film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3549571"
+      ]
+    },
+    {
+      "id": "wikidata-Q110300564",
+      "externalIds": {
+        "wikidata": "Q110300564"
+      },
+      "kind": "movie",
+      "title": "Ringling Brothers Parade Film",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 American film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q110300564"
+      ]
+    },
+    {
+      "id": "wikidata-Q11829965",
+      "externalIds": {
+        "wikidata": "Q11829965"
+      },
+      "kind": "movie",
+      "title": "Cabman's Adventure",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 Polish film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11829965"
+      ]
+    },
+    {
+      "id": "wikidata-Q17628732",
+      "externalIds": {
+        "wikidata": "Q17628732"
+      },
+      "kind": "movie",
+      "title": "Fun in a Bakery Shop",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17628732"
+      ]
+    },
+    {
+      "id": "wikidata-Q16621601",
+      "externalIds": {
+        "wikidata": "Q16621601"
+      },
+      "kind": "movie",
+      "title": "Skating Rink in the Royal Baths",
+      "year": 1902,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1902 Polish film",
+      "batchId": "wikidata-films-1902-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16621601"
+      ]
+    }
+  ]
+}

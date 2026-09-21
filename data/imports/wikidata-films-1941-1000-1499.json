@@ -1,0 +1,1282 @@
+{
+  "id": "wikidata-films-1941-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1941,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q3564932",
+      "externalIds": {
+        "wikidata": "Q3564932"
+      },
+      "kind": "movie",
+      "title": "Wabbit Twouble",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 Bugs Bunny cartoon directed by Bob Clampett",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3564932"
+      ]
+    },
+    {
+      "id": "wikidata-Q1707931",
+      "externalIds": {
+        "wikidata": "Q1707931"
+      },
+      "kind": "movie",
+      "title": "You'll Never Get Rich",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Sidney Lanfield",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1707931"
+      ]
+    },
+    {
+      "id": "wikidata-Q331738",
+      "externalIds": {
+        "wikidata": "Q331738"
+      },
+      "kind": "movie",
+      "title": "Western Union (film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 American Western film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q331738"
+      ]
+    },
+    {
+      "id": "wikidata-Q5191835",
+      "externalIds": {
+        "wikidata": "Q5191835"
+      },
+      "kind": "movie",
+      "title": "When the Heart Sings",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 Argentine film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5191835"
+      ]
+    },
+    {
+      "id": "wikidata-Q5549073",
+      "externalIds": {
+        "wikidata": "Q5549073"
+      },
+      "kind": "movie",
+      "title": "Volver a vivir (film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 Argentine film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5549073"
+      ]
+    },
+    {
+      "id": "wikidata-Q1479652",
+      "externalIds": {
+        "wikidata": "Q1479652"
+      },
+      "kind": "movie",
+      "title": "When Ladies Meet (1941 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Robert Zigler Leonard",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1479652"
+      ]
+    },
+    {
+      "id": "wikidata-Q12134514",
+      "externalIds": {
+        "wikidata": "Q12134514"
+      },
+      "kind": "movie",
+      "title": "Women in Defense",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 American film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12134514"
+      ]
+    },
+    {
+      "id": "wikidata-Q3541722",
+      "externalIds": {
+        "wikidata": "Q3541722"
+      },
+      "kind": "movie",
+      "title": "You Belong to Me (1941 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Wesley Ruggles",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3541722"
+      ]
+    },
+    {
+      "id": "wikidata-Q7994659",
+      "externalIds": {
+        "wikidata": "Q7994659"
+      },
+      "kind": "movie",
+      "title": "White Eagle (1941 serial)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by James W. Horne",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7994659"
+      ]
+    },
+    {
+      "id": "wikidata-Q1607973",
+      "externalIds": {
+        "wikidata": "Q1607973"
+      },
+      "kind": "movie",
+      "title": "Week-End in Havana",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Walter Lang",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1607973"
+      ]
+    },
+    {
+      "id": "wikidata-Q3018734",
+      "externalIds": {
+        "wikidata": "Q3018734"
+      },
+      "kind": "movie",
+      "title": "Wild Geese Calling",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by John Brahm",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3018734"
+      ]
+    },
+    {
+      "id": "wikidata-Q8050760",
+      "externalIds": {
+        "wikidata": "Q8050760"
+      },
+      "kind": "movie",
+      "title": "Ye Olde Minstrels",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 American film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8050760"
+      ]
+    },
+    {
+      "id": "wikidata-Q7979069",
+      "externalIds": {
+        "wikidata": "Q7979069"
+      },
+      "kind": "movie",
+      "title": "Wedding Worries",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 American film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7979069"
+      ]
+    },
+    {
+      "id": "wikidata-Q2549028",
+      "externalIds": {
+        "wikidata": "Q2549028"
+      },
+      "kind": "movie",
+      "title": "Warclouds in the Pacific",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2549028"
+      ]
+    },
+    {
+      "id": "wikidata-Q8033717",
+      "externalIds": {
+        "wikidata": "Q8033717"
+      },
+      "kind": "movie",
+      "title": "Woody Woodpecker (1941 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Walter Lantz",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8033717"
+      ]
+    },
+    {
+      "id": "wikidata-Q3572726",
+      "externalIds": {
+        "wikidata": "Q3572726"
+      },
+      "kind": "movie",
+      "title": "You're in the Army Now",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Lewis Seiler",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3572726"
+      ]
+    },
+    {
+      "id": "wikidata-Q3564164",
+      "externalIds": {
+        "wikidata": "Q3564164"
+      },
+      "kind": "movie",
+      "title": "Vénus aveugle",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 French film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3564164"
+      ]
+    },
+    {
+      "id": "wikidata-Q7994084",
+      "externalIds": {
+        "wikidata": "Q7994084"
+      },
+      "kind": "movie",
+      "title": "Whistling in the Dark (1941 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by S. Sylvan Simon",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7994084"
+      ]
+    },
+    {
+      "id": "wikidata-Q1451565",
+      "externalIds": {
+        "wikidata": "Q1451565"
+      },
+      "kind": "movie",
+      "title": "Women Are Better Diplomats",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1451565"
+      ]
+    },
+    {
+      "id": "wikidata-Q8034460",
+      "externalIds": {
+        "wikidata": "Q8034460"
+      },
+      "kind": "movie",
+      "title": "Words for Battle",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 British film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8034460"
+      ]
+    },
+    {
+      "id": "wikidata-Q7987060",
+      "externalIds": {
+        "wikidata": "Q7987060"
+      },
+      "kind": "movie",
+      "title": "West of Cimarron",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7987060"
+      ]
+    },
+    {
+      "id": "wikidata-Q7977191",
+      "externalIds": {
+        "wikidata": "Q7977191"
+      },
+      "kind": "movie",
+      "title": "We, the Animals Squeak!",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7977191"
+      ]
+    },
+    {
+      "id": "wikidata-Q7934089",
+      "externalIds": {
+        "wikidata": "Q7934089"
+      },
+      "kind": "movie",
+      "title": "Virginia (1941 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 American drama film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7934089"
+      ]
+    },
+    {
+      "id": "wikidata-Q1711605",
+      "externalIds": {
+        "wikidata": "Q1711605"
+      },
+      "kind": "movie",
+      "title": "Who Killed Santa Claus?",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1711605"
+      ]
+    },
+    {
+      "id": "wikidata-Q8036072",
+      "externalIds": {
+        "wikidata": "Q8036072"
+      },
+      "kind": "movie",
+      "title": "World Premiere (film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Ted Tetzlaff",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8036072"
+      ]
+    },
+    {
+      "id": "wikidata-Q16948816",
+      "externalIds": {
+        "wikidata": "Q16948816"
+      },
+      "kind": "movie",
+      "title": "Where Did You Get That Girl?",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Arthur Lubin",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16948816"
+      ]
+    },
+    {
+      "id": "wikidata-Q17035030",
+      "externalIds": {
+        "wikidata": "Q17035030"
+      },
+      "kind": "movie",
+      "title": "Week-End for Three",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Irving Reis",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17035030"
+      ]
+    },
+    {
+      "id": "wikidata-Q14624798",
+      "externalIds": {
+        "wikidata": "Q14624798"
+      },
+      "kind": "movie",
+      "title": "Wanita dan Satria",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 Dutch East Indian film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q14624798"
+      ]
+    },
+    {
+      "id": "wikidata-Q1392947",
+      "externalIds": {
+        "wikidata": "Q1392947"
+      },
+      "kind": "movie",
+      "title": "Venus on Trial",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film directed by Hans H. Zerlett",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1392947"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155665",
+      "externalIds": {
+        "wikidata": "Q18155665"
+      },
+      "kind": "movie",
+      "title": "Washington Melodrama",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by S. Sylvan Simon",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155665"
+      ]
+    },
+    {
+      "id": "wikidata-Q6172596",
+      "externalIds": {
+        "wikidata": "Q6172596"
+      },
+      "kind": "movie",
+      "title": "White Eagle (1941 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 Argentine film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6172596"
+      ]
+    },
+    {
+      "id": "wikidata-Q18394695",
+      "externalIds": {
+        "wikidata": "Q18394695"
+      },
+      "kind": "movie",
+      "title": "We Thieves Are Honourable (1942 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18394695"
+      ]
+    },
+    {
+      "id": "wikidata-Q19364071",
+      "externalIds": {
+        "wikidata": "Q19364071"
+      },
+      "kind": "movie",
+      "title": "Whirlwind (1941 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19364071"
+      ]
+    },
+    {
+      "id": "wikidata-Q15710672",
+      "externalIds": {
+        "wikidata": "Q15710672"
+      },
+      "kind": "movie",
+      "title": "Wide Open Town",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Lesley Selander",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15710672"
+      ]
+    },
+    {
+      "id": "wikidata-Q3567437",
+      "externalIds": {
+        "wikidata": "Q3567437"
+      },
+      "kind": "movie",
+      "title": "West Point Widow",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Robert Siodmak",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3567437"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650066",
+      "externalIds": {
+        "wikidata": "Q20650066"
+      },
+      "kind": "movie",
+      "title": "You're the One (1941 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650066"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528219",
+      "externalIds": {
+        "wikidata": "Q21528219"
+      },
+      "kind": "movie",
+      "title": "We Go Fast",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by William C. McGann",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528219"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528253",
+      "externalIds": {
+        "wikidata": "Q21528253"
+      },
+      "kind": "movie",
+      "title": "Wyoming Wildcat",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by George Sherman",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528253"
+      ]
+    },
+    {
+      "id": "wikidata-Q22947841",
+      "externalIds": {
+        "wikidata": "Q22947841"
+      },
+      "kind": "movie",
+      "title": "Wings of a Continent",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 Canadian film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22947841"
+      ]
+    },
+    {
+      "id": "wikidata-Q23755622",
+      "externalIds": {
+        "wikidata": "Q23755622"
+      },
+      "kind": "movie",
+      "title": "You Will Remember",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 British musical drama film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23755622"
+      ]
+    },
+    {
+      "id": "wikidata-Q6012384",
+      "externalIds": {
+        "wikidata": "Q6012384"
+      },
+      "kind": "movie",
+      "title": "You Are My Love (film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 Argentine film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6012384"
+      ]
+    },
+    {
+      "id": "wikidata-Q3572116",
+      "externalIds": {
+        "wikidata": "Q3572116"
+      },
+      "kind": "movie",
+      "title": "Yellow Caesar",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 British film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3572116"
+      ]
+    },
+    {
+      "id": "wikidata-Q56291009",
+      "externalIds": {
+        "wikidata": "Q56291009"
+      },
+      "kind": "movie",
+      "title": "What Does Brigitte Want?",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56291009"
+      ]
+    },
+    {
+      "id": "wikidata-Q63450082",
+      "externalIds": {
+        "wikidata": "Q63450082"
+      },
+      "kind": "movie",
+      "title": "You're Out of Luck",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q63450082"
+      ]
+    },
+    {
+      "id": "wikidata-Q8834447",
+      "externalIds": {
+        "wikidata": "Q8834447"
+      },
+      "kind": "movie",
+      "title": "Wrangler's Roost",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by S. Roy Luby",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8834447"
+      ]
+    },
+    {
+      "id": "wikidata-Q83705781",
+      "externalIds": {
+        "wikidata": "Q83705781"
+      },
+      "kind": "movie",
+      "title": "Wanderers of the West",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q83705781"
+      ]
+    },
+    {
+      "id": "wikidata-Q10676605",
+      "externalIds": {
+        "wikidata": "Q10676605"
+      },
+      "kind": "movie",
+      "title": "We're All Errand Boys",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10676605"
+      ]
+    },
+    {
+      "id": "wikidata-Q10483359",
+      "externalIds": {
+        "wikidata": "Q10483359"
+      },
+      "kind": "movie",
+      "title": "Woman on Board",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10483359"
+      ]
+    },
+    {
+      "id": "wikidata-Q3562958",
+      "externalIds": {
+        "wikidata": "Q3562958"
+      },
+      "kind": "movie",
+      "title": "Volpone (film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3562958"
+      ]
+    },
+    {
+      "id": "wikidata-Q123495669",
+      "externalIds": {
+        "wikidata": "Q123495669"
+      },
+      "kind": "movie",
+      "title": "Yellow Rose (1941 film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q123495669"
+      ]
+    },
+    {
+      "id": "wikidata-Q2082212",
+      "externalIds": {
+        "wikidata": "Q2082212"
+      },
+      "kind": "movie",
+      "title": "Ziegfeld Girl (film)",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by Robert Zigler Leonard, Busby Berkeley",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2082212"
+      ]
+    },
+    {
+      "id": "wikidata-Q8072798",
+      "externalIds": {
+        "wikidata": "Q8072798"
+      },
+      "kind": "movie",
+      "title": "Zis Boom Bah",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 film by William Nigh",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8072798"
+      ]
+    },
+    {
+      "id": "wikidata-Q8065488",
+      "externalIds": {
+        "wikidata": "Q8065488"
+      },
+      "kind": "movie",
+      "title": "Zalim Saudagar",
+      "year": 1941,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1941 Indian film",
+      "batchId": "wikidata-films-1941-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8065488"
+      ]
+    }
+  ]
+}

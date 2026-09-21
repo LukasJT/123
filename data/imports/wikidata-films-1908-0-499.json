@@ -1,0 +1,3202 @@
+{
+  "id": "wikidata-films-1908-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1908,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q2607399",
+      "externalIds": {
+        "wikidata": "Q2607399"
+      },
+      "kind": "movie",
+      "title": "His Wife's Child",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1913 film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2607399"
+      ]
+    },
+    {
+      "id": "wikidata-Q1424007",
+      "externalIds": {
+        "wikidata": "Q1424007"
+      },
+      "kind": "movie",
+      "title": "Dr. Jekyll and Mr. Hyde (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American silent horror film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1424007"
+      ]
+    },
+    {
+      "id": "wikidata-Q181242",
+      "externalIds": {
+        "wikidata": "Q181242"
+      },
+      "kind": "movie",
+      "title": "A Christmas Carol (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 silent film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q181242"
+      ]
+    },
+    {
+      "id": "wikidata-Q1248410",
+      "externalIds": {
+        "wikidata": "Q1248410"
+      },
+      "kind": "movie",
+      "title": "Hôtel électrique",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1248410"
+      ]
+    },
+    {
+      "id": "wikidata-Q4067295",
+      "externalIds": {
+        "wikidata": "Q4067295"
+      },
+      "kind": "movie",
+      "title": "Antony and Cleopatra (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 silent short film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4067295"
+      ]
+    },
+    {
+      "id": "wikidata-Q2007008",
+      "externalIds": {
+        "wikidata": "Q2007008"
+      },
+      "kind": "movie",
+      "title": "After Many Years (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2007008"
+      ]
+    },
+    {
+      "id": "wikidata-Q2439990",
+      "externalIds": {
+        "wikidata": "Q2439990"
+      },
+      "kind": "movie",
+      "title": "Macbeth (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2439990"
+      ]
+    },
+    {
+      "id": "wikidata-Q1757248",
+      "externalIds": {
+        "wikidata": "Q1757248"
+      },
+      "kind": "movie",
+      "title": "Money Mad (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1757248"
+      ]
+    },
+    {
+      "id": "wikidata-Q2629466",
+      "externalIds": {
+        "wikidata": "Q2629466"
+      },
+      "kind": "movie",
+      "title": "Balked at the Altar",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2629466"
+      ]
+    },
+    {
+      "id": "wikidata-Q3126476",
+      "externalIds": {
+        "wikidata": "Q3126476"
+      },
+      "kind": "movie",
+      "title": "Hamlet (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 short silent film by Henri Desfontaines",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3126476"
+      ]
+    },
+    {
+      "id": "wikidata-Q4660499",
+      "externalIds": {
+        "wikidata": "Q4660499"
+      },
+      "kind": "movie",
+      "title": "A Visit to the Seaside",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 short film by George Albert Smith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4660499"
+      ]
+    },
+    {
+      "id": "wikidata-Q94748",
+      "externalIds": {
+        "wikidata": "Q94748"
+      },
+      "kind": "movie",
+      "title": "Fantasmagorie (film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 short film by Émile Cohl",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q94748"
+      ]
+    },
+    {
+      "id": "wikidata-Q5467143",
+      "externalIds": {
+        "wikidata": "Q5467143"
+      },
+      "kind": "movie",
+      "title": "For the Term of His Natural Life (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 Australian film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5467143"
+      ]
+    },
+    {
+      "id": "wikidata-Q3704483",
+      "externalIds": {
+        "wikidata": "Q3704483"
+      },
+      "kind": "movie",
+      "title": "Deceived Slumming Party",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3704483"
+      ]
+    },
+    {
+      "id": "wikidata-Q4738303",
+      "externalIds": {
+        "wikidata": "Q4738303"
+      },
+      "kind": "movie",
+      "title": "£100 Reward",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 British short silent film by James Williamson",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4738303"
+      ]
+    },
+    {
+      "id": "wikidata-Q4205069",
+      "externalIds": {
+        "wikidata": "Q4205069"
+      },
+      "kind": "movie",
+      "title": "Humanity Through the Ages",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4205069"
+      ]
+    },
+    {
+      "id": "wikidata-Q3549426",
+      "externalIds": {
+        "wikidata": "Q3549426"
+      },
+      "kind": "movie",
+      "title": "A Calamitous Elopement",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3549426"
+      ]
+    },
+    {
+      "id": "wikidata-Q3400439",
+      "externalIds": {
+        "wikidata": "Q3400439"
+      },
+      "kind": "movie",
+      "title": "For Love of Gold",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3400439"
+      ]
+    },
+    {
+      "id": "wikidata-Q3076766",
+      "externalIds": {
+        "wikidata": "Q3076766"
+      },
+      "kind": "movie",
+      "title": "For a Wife's Honor",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3076766"
+      ]
+    },
+    {
+      "id": "wikidata-Q3202910",
+      "externalIds": {
+        "wikidata": "Q3202910"
+      },
+      "kind": "movie",
+      "title": "Betrayed by a Handprint",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3202910"
+      ]
+    },
+    {
+      "id": "wikidata-Q3860603",
+      "externalIds": {
+        "wikidata": "Q3860603"
+      },
+      "kind": "movie",
+      "title": "Monday Morning in a Coney Island Police Court",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3860603"
+      ]
+    },
+    {
+      "id": "wikidata-Q3213864",
+      "externalIds": {
+        "wikidata": "Q3213864"
+      },
+      "kind": "movie",
+      "title": "Behind the Scenes (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3213864"
+      ]
+    },
+    {
+      "id": "wikidata-Q2819903",
+      "externalIds": {
+        "wikidata": "Q2819903"
+      },
+      "kind": "movie",
+      "title": "A Smoked Husband",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2819903"
+      ]
+    },
+    {
+      "id": "wikidata-Q3067188",
+      "externalIds": {
+        "wikidata": "Q3067188"
+      },
+      "kind": "movie",
+      "title": "Father Gets in the Game",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3067188"
+      ]
+    },
+    {
+      "id": "wikidata-Q3150951",
+      "externalIds": {
+        "wikidata": "Q3150951"
+      },
+      "kind": "movie",
+      "title": "Ingomar, the Barbarian",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3150951"
+      ]
+    },
+    {
+      "id": "wikidata-Q2932518",
+      "externalIds": {
+        "wikidata": "Q2932518"
+      },
+      "kind": "movie",
+      "title": "Concealing a Burglar",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2932518"
+      ]
+    },
+    {
+      "id": "wikidata-Q3221137",
+      "externalIds": {
+        "wikidata": "Q3221137"
+      },
+      "kind": "movie",
+      "title": "A Woman's Way (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 silent film by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3221137"
+      ]
+    },
+    {
+      "id": "wikidata-Q2844877",
+      "externalIds": {
+        "wikidata": "Q2844877"
+      },
+      "kind": "movie",
+      "title": "An Awful Moment",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2844877"
+      ]
+    },
+    {
+      "id": "wikidata-Q4530537",
+      "externalIds": {
+        "wikidata": "Q4530537"
+      },
+      "kind": "movie",
+      "title": "Excursion to the Moon",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4530537"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028468",
+      "externalIds": {
+        "wikidata": "Q16028468"
+      },
+      "kind": "movie",
+      "title": "French Cops Learning English",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028468"
+      ]
+    },
+    {
+      "id": "wikidata-Q16636733",
+      "externalIds": {
+        "wikidata": "Q16636733"
+      },
+      "kind": "movie",
+      "title": "Fortune Favors the Brave (film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16636733"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028888",
+      "externalIds": {
+        "wikidata": "Q16028888"
+      },
+      "kind": "movie",
+      "title": "A Love Tragedy in Spain",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028888"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028801",
+      "externalIds": {
+        "wikidata": "Q16028801"
+      },
+      "kind": "movie",
+      "title": "Long Distance Wireless Photography",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028801"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028317",
+      "externalIds": {
+        "wikidata": "Q16028317"
+      },
+      "kind": "movie",
+      "title": "Buncoed Stage Johnnie",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028317"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028679",
+      "externalIds": {
+        "wikidata": "Q16028679"
+      },
+      "kind": "movie",
+      "title": "Fun With the Bridal Party",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028679"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028437",
+      "externalIds": {
+        "wikidata": "Q16028437"
+      },
+      "kind": "movie",
+      "title": "A Fake Diamond Swindler",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028437"
+      ]
+    },
+    {
+      "id": "wikidata-Q5825052",
+      "externalIds": {
+        "wikidata": "Q5825052"
+      },
+      "kind": "movie",
+      "title": "El fusilamiento de Dorrego",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 Argentine film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5825052"
+      ]
+    },
+    {
+      "id": "wikidata-Q4056419",
+      "externalIds": {
+        "wikidata": "Q4056419"
+      },
+      "kind": "movie",
+      "title": "Mishaps of the New York–Paris Race",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4056419"
+      ]
+    },
+    {
+      "id": "wikidata-Q15973356",
+      "externalIds": {
+        "wikidata": "Q15973356"
+      },
+      "kind": "movie",
+      "title": "Honeymoon in a Balloon",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15973356"
+      ]
+    },
+    {
+      "id": "wikidata-Q3641379",
+      "externalIds": {
+        "wikidata": "Q3641379"
+      },
+      "kind": "movie",
+      "title": "Bobby's Kodak",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3641379"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028996",
+      "externalIds": {
+        "wikidata": "Q16028996"
+      },
+      "kind": "movie",
+      "title": "Incident from Don Quixote",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028996"
+      ]
+    },
+    {
+      "id": "wikidata-Q3817954",
+      "externalIds": {
+        "wikidata": "Q3817954"
+      },
+      "kind": "movie",
+      "title": "L'Arlésienne (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3817954"
+      ]
+    },
+    {
+      "id": "wikidata-Q3202475",
+      "externalIds": {
+        "wikidata": "Q3202475"
+      },
+      "kind": "movie",
+      "title": "L'Assommoir (film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3202475"
+      ]
+    },
+    {
+      "id": "wikidata-Q16029009",
+      "externalIds": {
+        "wikidata": "Q16029009"
+      },
+      "kind": "movie",
+      "title": "A Tricky Painter's Fate",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16029009"
+      ]
+    },
+    {
+      "id": "wikidata-Q15973334",
+      "externalIds": {
+        "wikidata": "Q15973334"
+      },
+      "kind": "movie",
+      "title": "A Grandmother's Story",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15973334"
+      ]
+    },
+    {
+      "id": "wikidata-Q19543809",
+      "externalIds": {
+        "wikidata": "Q19543809"
+      },
+      "kind": "movie",
+      "title": "Love and Molasses",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19543809"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028710",
+      "externalIds": {
+        "wikidata": "Q16028710"
+      },
+      "kind": "movie",
+      "title": "Moitié de polka",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028710"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028561",
+      "externalIds": {
+        "wikidata": "Q16028561"
+      },
+      "kind": "movie",
+      "title": "Hypnotist's Revenge",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028561"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028907",
+      "externalIds": {
+        "wikidata": "Q16028907"
+      },
+      "kind": "movie",
+      "title": "In the Barber Shop",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028907"
+      ]
+    },
+    {
+      "id": "wikidata-Q108502541",
+      "externalIds": {
+        "wikidata": "Q108502541"
+      },
+      "kind": "movie",
+      "title": "L'aspirateur (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French silent short film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q108502541"
+      ]
+    },
+    {
+      "id": "wikidata-Q3326206",
+      "externalIds": {
+        "wikidata": "Q3326206"
+      },
+      "kind": "movie",
+      "title": "Romeo and Juliet (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by J. Stuart Blackton",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3326206"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986977",
+      "externalIds": {
+        "wikidata": "Q3986977"
+      },
+      "kind": "movie",
+      "title": "The Fairylogue and Radio-Plays",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986977"
+      ]
+    },
+    {
+      "id": "wikidata-Q1212230",
+      "externalIds": {
+        "wikidata": "Q1212230"
+      },
+      "kind": "movie",
+      "title": "The Assassination of the Duke of Guise",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1212230"
+      ]
+    },
+    {
+      "id": "wikidata-Q2174031",
+      "externalIds": {
+        "wikidata": "Q2174031"
+      },
+      "kind": "movie",
+      "title": "The Adventures of Dollie",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2174031"
+      ]
+    },
+    {
+      "id": "wikidata-Q2006986",
+      "externalIds": {
+        "wikidata": "Q2006986"
+      },
+      "kind": "movie",
+      "title": "Rescued from an Eagle's Nest",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2006986"
+      ]
+    },
+    {
+      "id": "wikidata-Q3202192",
+      "externalIds": {
+        "wikidata": "Q3202192"
+      },
+      "kind": "movie",
+      "title": "The Call of the Wild (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3202192"
+      ]
+    },
+    {
+      "id": "wikidata-Q1967064",
+      "externalIds": {
+        "wikidata": "Q1967064"
+      },
+      "kind": "movie",
+      "title": "Stenka Razin (film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Vladimir Romashkov",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1967064"
+      ]
+    },
+    {
+      "id": "wikidata-Q3339721",
+      "externalIds": {
+        "wikidata": "Q3339721"
+      },
+      "kind": "movie",
+      "title": "Nick Carter, le roi des détectives",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3339721"
+      ]
+    },
+    {
+      "id": "wikidata-Q1985281",
+      "externalIds": {
+        "wikidata": "Q1985281"
+      },
+      "kind": "movie",
+      "title": "Romance of a Jewess",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1985281"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987021",
+      "externalIds": {
+        "wikidata": "Q3987021"
+      },
+      "kind": "movie",
+      "title": "The Fight for Freedom",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American silent film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987021"
+      ]
+    },
+    {
+      "id": "wikidata-Q3213843",
+      "externalIds": {
+        "wikidata": "Q3213843"
+      },
+      "kind": "movie",
+      "title": "The Black Viper",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3213843"
+      ]
+    },
+    {
+      "id": "wikidata-Q3519872",
+      "externalIds": {
+        "wikidata": "Q3519872"
+      },
+      "kind": "movie",
+      "title": "The Bandit's Waterloo",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3519872"
+      ]
+    },
+    {
+      "id": "wikidata-Q9358034",
+      "externalIds": {
+        "wikidata": "Q9358034"
+      },
+      "kind": "movie",
+      "title": "The Humpty Dumpty Circus",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q9358034"
+      ]
+    },
+    {
+      "id": "wikidata-Q3521123",
+      "externalIds": {
+        "wikidata": "Q3521123"
+      },
+      "kind": "movie",
+      "title": "The Greaser's Gauntlet",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3521123"
+      ]
+    },
+    {
+      "id": "wikidata-Q961681",
+      "externalIds": {
+        "wikidata": "Q961681"
+      },
+      "kind": "movie",
+      "title": "The Fatal Hour (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q961681"
+      ]
+    },
+    {
+      "id": "wikidata-Q3206911",
+      "externalIds": {
+        "wikidata": "Q3206911"
+      },
+      "kind": "movie",
+      "title": "The Girl and the Outlaw",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3206911"
+      ]
+    },
+    {
+      "id": "wikidata-Q3222058",
+      "externalIds": {
+        "wikidata": "Q3222058"
+      },
+      "kind": "movie",
+      "title": "The Heart of O'Yama",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3222058"
+      ]
+    },
+    {
+      "id": "wikidata-Q3520608",
+      "externalIds": {
+        "wikidata": "Q3520608"
+      },
+      "kind": "movie",
+      "title": "The Devil (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3520608"
+      ]
+    },
+    {
+      "id": "wikidata-Q3521173",
+      "externalIds": {
+        "wikidata": "Q3521173"
+      },
+      "kind": "movie",
+      "title": "The Guerrilla (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3521173"
+      ]
+    },
+    {
+      "id": "wikidata-Q654151",
+      "externalIds": {
+        "wikidata": "Q654151"
+      },
+      "kind": "movie",
+      "title": "The Ingrate",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q654151"
+      ]
+    },
+    {
+      "id": "wikidata-Q776665",
+      "externalIds": {
+        "wikidata": "Q776665"
+      },
+      "kind": "movie",
+      "title": "The Clubman and the Tramp",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American silent short comedy film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q776665"
+      ]
+    },
+    {
+      "id": "wikidata-Q3520857",
+      "externalIds": {
+        "wikidata": "Q3520857"
+      },
+      "kind": "movie",
+      "title": "The Feud and the Turkey",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3520857"
+      ]
+    },
+    {
+      "id": "wikidata-Q3520273",
+      "externalIds": {
+        "wikidata": "Q3520273"
+      },
+      "kind": "movie",
+      "title": "The Christmas Burglars",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3520273"
+      ]
+    },
+    {
+      "id": "wikidata-Q3327168",
+      "externalIds": {
+        "wikidata": "Q3327168"
+      },
+      "kind": "movie",
+      "title": "Mr. Jones at the Ball",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3327168"
+      ]
+    },
+    {
+      "id": "wikidata-Q3521237",
+      "externalIds": {
+        "wikidata": "Q3521237"
+      },
+      "kind": "movie",
+      "title": "The Helping Hand (1908 American film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3521237"
+      ]
+    },
+    {
+      "id": "wikidata-Q1056775",
+      "externalIds": {
+        "wikidata": "Q1056775"
+      },
+      "kind": "movie",
+      "title": "The Last Days of Pompeii (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 Italian film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1056775"
+      ]
+    },
+    {
+      "id": "wikidata-Q19879899",
+      "externalIds": {
+        "wikidata": "Q19879899"
+      },
+      "kind": "movie",
+      "title": "The Burns-Johnson Fight",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 Australian film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19879899"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028451",
+      "externalIds": {
+        "wikidata": "Q16028451"
+      },
+      "kind": "movie",
+      "title": "Seein' Things (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028451"
+      ]
+    },
+    {
+      "id": "wikidata-Q16676652",
+      "externalIds": {
+        "wikidata": "Q16676652"
+      },
+      "kind": "movie",
+      "title": "Sherlock Holmes in the Great Murder Mystery",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16676652"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986067",
+      "externalIds": {
+        "wikidata": "Q3986067"
+      },
+      "kind": "movie",
+      "title": "The Boston Tea Party (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986067"
+      ]
+    },
+    {
+      "id": "wikidata-Q11828098",
+      "externalIds": {
+        "wikidata": "Q11828098"
+      },
+      "kind": "movie",
+      "title": "Pruska kultura",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 Polish silent film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11828098"
+      ]
+    },
+    {
+      "id": "wikidata-Q4093019",
+      "externalIds": {
+        "wikidata": "Q4093019"
+      },
+      "kind": "movie",
+      "title": "The Big Man (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 Russian film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4093019"
+      ]
+    },
+    {
+      "id": "wikidata-Q18575391",
+      "externalIds": {
+        "wikidata": "Q18575391"
+      },
+      "kind": "movie",
+      "title": "Saved by Love (film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18575391"
+      ]
+    },
+    {
+      "id": "wikidata-Q58411789",
+      "externalIds": {
+        "wikidata": "Q58411789"
+      },
+      "kind": "movie",
+      "title": "Skinner's Finish",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q58411789"
+      ]
+    },
+    {
+      "id": "wikidata-Q21184066",
+      "externalIds": {
+        "wikidata": "Q21184066"
+      },
+      "kind": "movie",
+      "title": "The Airship, or 100 Years Hence",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21184066"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987793",
+      "externalIds": {
+        "wikidata": "Q3987793"
+      },
+      "kind": "movie",
+      "title": "The Kentuckian (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by Wallace McCutcheon, Sr.",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987793"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028307",
+      "externalIds": {
+        "wikidata": "Q16028307"
+      },
+      "kind": "movie",
+      "title": "The Good Shepherdess and the Evil Princess",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028307"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028879",
+      "externalIds": {
+        "wikidata": "Q16028879"
+      },
+      "kind": "movie",
+      "title": "The Dream of an Opium Fiend",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028879"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028519",
+      "externalIds": {
+        "wikidata": "Q16028519"
+      },
+      "kind": "movie",
+      "title": "Pharmaceutical Hallucinations",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 short film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028519"
+      ]
+    },
+    {
+      "id": "wikidata-Q15973186",
+      "externalIds": {
+        "wikidata": "Q15973186"
+      },
+      "kind": "movie",
+      "title": "The Frozen Policeman",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15973186"
+      ]
+    },
+    {
+      "id": "wikidata-Q15973210",
+      "externalIds": {
+        "wikidata": "Q15973210"
+      },
+      "kind": "movie",
+      "title": "Not Guilty (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15973210"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028438",
+      "externalIds": {
+        "wikidata": "Q16028438"
+      },
+      "kind": "movie",
+      "title": "The Indian Sorcerer",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028438"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028657",
+      "externalIds": {
+        "wikidata": "Q16028657"
+      },
+      "kind": "movie",
+      "title": "The Broken Violin (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028657"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028354",
+      "externalIds": {
+        "wikidata": "Q16028354"
+      },
+      "kind": "movie",
+      "title": "Sideshow Wrestlers",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028354"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028469",
+      "externalIds": {
+        "wikidata": "Q16028469"
+      },
+      "kind": "movie",
+      "title": "The Genii of Fire",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028469"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028444",
+      "externalIds": {
+        "wikidata": "Q16028444"
+      },
+      "kind": "movie",
+      "title": "The Fairy Dragonfly",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028444"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028809",
+      "externalIds": {
+        "wikidata": "Q16028809"
+      },
+      "kind": "movie",
+      "title": "The Duke's Good Joke",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028809"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028818",
+      "externalIds": {
+        "wikidata": "Q16028818"
+      },
+      "kind": "movie",
+      "title": "The Helping Hand (1908 French film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028818"
+      ]
+    },
+    {
+      "id": "wikidata-Q96738892",
+      "externalIds": {
+        "wikidata": "Q96738892"
+      },
+      "kind": "movie",
+      "title": "The Invisible Fluid",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Wallace McCutcheon, Sr.",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q96738892"
+      ]
+    },
+    {
+      "id": "wikidata-Q134524454",
+      "externalIds": {
+        "wikidata": "Q134524454"
+      },
+      "kind": "movie",
+      "title": "The Bank Robbery",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q134524454"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988980",
+      "externalIds": {
+        "wikidata": "Q3988980"
+      },
+      "kind": "movie",
+      "title": "The Reprieve: An Episode in the Life of Abraham Lincoln",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film about Abraham Lincoln",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988980"
+      ]
+    },
+    {
+      "id": "wikidata-Q526246",
+      "externalIds": {
+        "wikidata": "Q526246"
+      },
+      "kind": "movie",
+      "title": "The Taming of the Shrew (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 short movie by David W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q526246"
+      ]
+    },
+    {
+      "id": "wikidata-Q7768691",
+      "externalIds": {
+        "wikidata": "Q7768691"
+      },
+      "kind": "movie",
+      "title": "The Thieving Hand",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7768691"
+      ]
+    },
+    {
+      "id": "wikidata-Q3231041",
+      "externalIds": {
+        "wikidata": "Q3231041"
+      },
+      "kind": "movie",
+      "title": "The Stolen Jewels (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3231041"
+      ]
+    },
+    {
+      "id": "wikidata-Q1756994",
+      "externalIds": {
+        "wikidata": "Q1756994"
+      },
+      "kind": "movie",
+      "title": "The Tavern Keeper's Daughter",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1756994"
+      ]
+    },
+    {
+      "id": "wikidata-Q3203035",
+      "externalIds": {
+        "wikidata": "Q3203035"
+      },
+      "kind": "movie",
+      "title": "The Red Man and the Child",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3203035"
+      ]
+    },
+    {
+      "id": "wikidata-Q8030688",
+      "externalIds": {
+        "wikidata": "Q8030688"
+      },
+      "kind": "movie",
+      "title": "Woman Draped in Patterned Handkerchiefs",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 British film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8030688"
+      ]
+    },
+    {
+      "id": "wikidata-Q3521750",
+      "externalIds": {
+        "wikidata": "Q3521750"
+      },
+      "kind": "movie",
+      "title": "The Man and the Woman",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3521750"
+      ]
+    },
+    {
+      "id": "wikidata-Q3209845",
+      "externalIds": {
+        "wikidata": "Q3209845"
+      },
+      "kind": "movie",
+      "title": "The Red Girl",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3209845"
+      ]
+    },
+    {
+      "id": "wikidata-Q3567727",
+      "externalIds": {
+        "wikidata": "Q3567727"
+      },
+      "kind": "movie",
+      "title": "Where the Breakers Roar",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3567727"
+      ]
+    },
+    {
+      "id": "wikidata-Q3010806",
+      "externalIds": {
+        "wikidata": "Q3010806"
+      },
+      "kind": "movie",
+      "title": "The Zulu's Heart",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3010806"
+      ]
+    },
+    {
+      "id": "wikidata-Q3228342",
+      "externalIds": {
+        "wikidata": "Q3228342"
+      },
+      "kind": "movie",
+      "title": "The Vaquero's Vow",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3228342"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208716",
+      "externalIds": {
+        "wikidata": "Q3208716"
+      },
+      "kind": "movie",
+      "title": "The Planter's Wife (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208716"
+      ]
+    },
+    {
+      "id": "wikidata-Q3204615",
+      "externalIds": {
+        "wikidata": "Q3204615"
+      },
+      "kind": "movie",
+      "title": "The Pirate's Gold",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3204615"
+      ]
+    },
+    {
+      "id": "wikidata-Q3207201",
+      "externalIds": {
+        "wikidata": "Q3207201"
+      },
+      "kind": "movie",
+      "title": "The Song of the Shirt (film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3207201"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523190",
+      "externalIds": {
+        "wikidata": "Q3523190"
+      },
+      "kind": "movie",
+      "title": "The Valet's Wife",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523190"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522454",
+      "externalIds": {
+        "wikidata": "Q3522454"
+      },
+      "kind": "movie",
+      "title": "The Reckoning (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522454"
+      ]
+    },
+    {
+      "id": "wikidata-Q3223021",
+      "externalIds": {
+        "wikidata": "Q3223021"
+      },
+      "kind": "movie",
+      "title": "The Test of Friendship",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3223021"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989139",
+      "externalIds": {
+        "wikidata": "Q3989139"
+      },
+      "kind": "movie",
+      "title": "The Scarlet Letter (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989139"
+      ]
+    },
+    {
+      "id": "wikidata-Q7468028",
+      "externalIds": {
+        "wikidata": "Q7468028"
+      },
+      "kind": "movie",
+      "title": "Why That Actor Was Late",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7468028"
+      ]
+    },
+    {
+      "id": "wikidata-Q15973404",
+      "externalIds": {
+        "wikidata": "Q15973404"
+      },
+      "kind": "movie",
+      "title": "The Miser (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15973404"
+      ]
+    },
+    {
+      "id": "wikidata-Q16029061",
+      "externalIds": {
+        "wikidata": "Q16029061"
+      },
+      "kind": "movie",
+      "title": "The Woes of Roller Skaters",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16029061"
+      ]
+    },
+    {
+      "id": "wikidata-Q4409909",
+      "externalIds": {
+        "wikidata": "Q4409909"
+      },
+      "kind": "movie",
+      "title": "The Marriage of Krechinsky",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 Russian film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4409909"
+      ]
+    },
+    {
+      "id": "wikidata-Q97356635",
+      "externalIds": {
+        "wikidata": "Q97356635"
+      },
+      "kind": "movie",
+      "title": "The Tempest (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 British film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q97356635"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028669",
+      "externalIds": {
+        "wikidata": "Q16028669"
+      },
+      "kind": "movie",
+      "title": "The Mischances of a Photographer",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028669"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028815",
+      "externalIds": {
+        "wikidata": "Q16028815"
+      },
+      "kind": "movie",
+      "title": "The Living Doll",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028815"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245069",
+      "externalIds": {
+        "wikidata": "Q101245069"
+      },
+      "kind": "movie",
+      "title": "The Prophetess of Thebes",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245069"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245123",
+      "externalIds": {
+        "wikidata": "Q101245123"
+      },
+      "kind": "movie",
+      "title": "Tribulation or the Misfortunes of a Cobbler",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245123"
+      ]
+    },
+    {
+      "id": "wikidata-Q3225056",
+      "externalIds": {
+        "wikidata": "Q3225056"
+      },
+      "kind": "movie",
+      "title": "The New Lord of the Village",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film by Georges Méliès",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3225056"
+      ]
+    },
+    {
+      "id": "wikidata-Q16029013",
+      "externalIds": {
+        "wikidata": "Q16029013"
+      },
+      "kind": "movie",
+      "title": "The Old Footlight Favorite",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16029013"
+      ]
+    },
+    {
+      "id": "wikidata-Q105274700",
+      "externalIds": {
+        "wikidata": "Q105274700"
+      },
+      "kind": "movie",
+      "title": "The Music Master (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Film by Wallace McCutcheon Sr.",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q105274700"
+      ]
+    },
+    {
+      "id": "wikidata-Q109284258",
+      "externalIds": {
+        "wikidata": "Q109284258"
+      },
+      "kind": "movie",
+      "title": "When Knights Were Bold (1908 film)",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 American film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q109284258"
+      ]
+    },
+    {
+      "id": "wikidata-Q4477679",
+      "externalIds": {
+        "wikidata": "Q4477679"
+      },
+      "kind": "movie",
+      "title": "The Zealous Batman",
+      "year": 1908,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 Russian short silent comedy film",
+      "batchId": "wikidata-films-1908-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4477679"
+      ]
+    }
+  ]
+}

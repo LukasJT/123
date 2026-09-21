@@ -1,0 +1,3970 @@
+{
+  "id": "wikidata-films-1938-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1938,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q1040470",
+      "externalIds": {
+        "wikidata": "Q1040470"
+      },
+      "kind": "movie",
+      "title": "Three Comrades (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Frank Borzage",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1040470"
+      ]
+    },
+    {
+      "id": "wikidata-Q7767682",
+      "externalIds": {
+        "wikidata": "Q7767682"
+      },
+      "kind": "movie",
+      "title": "The Swing School",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Dave Fleischer",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7767682"
+      ]
+    },
+    {
+      "id": "wikidata-Q7768532",
+      "externalIds": {
+        "wikidata": "Q7768532"
+      },
+      "kind": "movie",
+      "title": "The Terror of Tiny Town",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American Western film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7768532"
+      ]
+    },
+    {
+      "id": "wikidata-Q1162433",
+      "externalIds": {
+        "wikidata": "Q1162433"
+      },
+      "kind": "movie",
+      "title": "The Young in Heart",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Richard Wallace",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1162433"
+      ]
+    },
+    {
+      "id": "wikidata-Q2547546",
+      "externalIds": {
+        "wikidata": "Q2547546"
+      },
+      "kind": "movie",
+      "title": "Three Loves Has Nancy",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Richard Thorpe",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2547546"
+      ]
+    },
+    {
+      "id": "wikidata-Q7153523",
+      "externalIds": {
+        "wikidata": "Q7153523"
+      },
+      "kind": "movie",
+      "title": "The Spider's Web (serial)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by James W. Horne, Ray Taylor",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7153523"
+      ]
+    },
+    {
+      "id": "wikidata-Q7783704",
+      "externalIds": {
+        "wikidata": "Q7783704"
+      },
+      "kind": "movie",
+      "title": "They Drive by Night (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Arthur B. Woods",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7783704"
+      ]
+    },
+    {
+      "id": "wikidata-Q3212557",
+      "externalIds": {
+        "wikidata": "Q3212557"
+      },
+      "kind": "movie",
+      "title": "The Texans",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by James P. Hogan",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3212557"
+      ]
+    },
+    {
+      "id": "wikidata-Q1128727",
+      "externalIds": {
+        "wikidata": "Q1128727"
+      },
+      "kind": "movie",
+      "title": "There's Always a Woman",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Alexander Hall",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1128727"
+      ]
+    },
+    {
+      "id": "wikidata-Q3089280",
+      "externalIds": {
+        "wikidata": "Q3089280"
+      },
+      "kind": "movie",
+      "title": "The Toy Wife",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Richard Thorpe",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3089280"
+      ]
+    },
+    {
+      "id": "wikidata-Q7768516",
+      "externalIds": {
+        "wikidata": "Q7768516"
+      },
+      "kind": "movie",
+      "title": "The Terror (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "British film by Richard Bird",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7768516"
+      ]
+    },
+    {
+      "id": "wikidata-Q7773536",
+      "externalIds": {
+        "wikidata": "Q7773536"
+      },
+      "kind": "movie",
+      "title": "The Ware Case (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7773536"
+      ]
+    },
+    {
+      "id": "wikidata-Q7786134",
+      "externalIds": {
+        "wikidata": "Q7786134"
+      },
+      "kind": "movie",
+      "title": "This Man Is News",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7786134"
+      ]
+    },
+    {
+      "id": "wikidata-Q7786492",
+      "externalIds": {
+        "wikidata": "Q7786492"
+      },
+      "kind": "movie",
+      "title": "Thistledown (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Arthur B. Woods",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7786492"
+      ]
+    },
+    {
+      "id": "wikidata-Q7782704",
+      "externalIds": {
+        "wikidata": "Q7782704"
+      },
+      "kind": "movie",
+      "title": "There Goes My Heart (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Norman Z. McLeod",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7782704"
+      ]
+    },
+    {
+      "id": "wikidata-Q7772767",
+      "externalIds": {
+        "wikidata": "Q7772767"
+      },
+      "kind": "movie",
+      "title": "The Viper (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7772767"
+      ]
+    },
+    {
+      "id": "wikidata-Q2420468",
+      "externalIds": {
+        "wikidata": "Q2420468"
+      },
+      "kind": "movie",
+      "title": "They're Always Caught",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2420468"
+      ]
+    },
+    {
+      "id": "wikidata-Q3236613",
+      "externalIds": {
+        "wikidata": "Q3236613"
+      },
+      "kind": "movie",
+      "title": "The Stars Shine",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3236613"
+      ]
+    },
+    {
+      "id": "wikidata-Q7771851",
+      "externalIds": {
+        "wikidata": "Q7771851"
+      },
+      "kind": "movie",
+      "title": "The Utah Trail",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7771851"
+      ]
+    },
+    {
+      "id": "wikidata-Q7769905",
+      "externalIds": {
+        "wikidata": "Q7769905"
+      },
+      "kind": "movie",
+      "title": "The Train for Venice (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7769905"
+      ]
+    },
+    {
+      "id": "wikidata-Q7772694",
+      "externalIds": {
+        "wikidata": "Q7772694"
+      },
+      "kind": "movie",
+      "title": "The Villiers Diamond",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7772694"
+      ]
+    },
+    {
+      "id": "wikidata-Q1197410",
+      "externalIds": {
+        "wikidata": "Q1197410"
+      },
+      "kind": "movie",
+      "title": "The Tiger of Eschnapur (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film directed by Richard Eichberg",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1197410"
+      ]
+    },
+    {
+      "id": "wikidata-Q2961440",
+      "externalIds": {
+        "wikidata": "Q2961440"
+      },
+      "kind": "movie",
+      "title": "The Whalers",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Mickey Mouse cartoon",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2961440"
+      ]
+    },
+    {
+      "id": "wikidata-Q18208317",
+      "externalIds": {
+        "wikidata": "Q18208317"
+      },
+      "kind": "movie",
+      "title": "The Woman at the Crossroads (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 German film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18208317"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155153",
+      "externalIds": {
+        "wikidata": "Q18155153"
+      },
+      "kind": "movie",
+      "title": "This Marriage Business",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film directed by Christy Cabanne",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155153"
+      ]
+    },
+    {
+      "id": "wikidata-Q3540051",
+      "externalIds": {
+        "wikidata": "Q3540051"
+      },
+      "kind": "movie",
+      "title": "Three Blind Mice (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by William A. Seiter",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3540051"
+      ]
+    },
+    {
+      "id": "wikidata-Q5476367",
+      "externalIds": {
+        "wikidata": "Q5476367"
+      },
+      "kind": "movie",
+      "title": "The Stolen Death",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Finnish film directed by Nyrki Tapiovaara",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5476367"
+      ]
+    },
+    {
+      "id": "wikidata-Q6152193",
+      "externalIds": {
+        "wikidata": "Q6152193"
+      },
+      "kind": "movie",
+      "title": "Three Argentines in Paris",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6152193"
+      ]
+    },
+    {
+      "id": "wikidata-Q3828705",
+      "externalIds": {
+        "wikidata": "Q3828705"
+      },
+      "kind": "movie",
+      "title": "The Two Mothers",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3828705"
+      ]
+    },
+    {
+      "id": "wikidata-Q28173117",
+      "externalIds": {
+        "wikidata": "Q28173117"
+      },
+      "kind": "movie",
+      "title": "The Wages of Sin (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28173117"
+      ]
+    },
+    {
+      "id": "wikidata-Q3228225",
+      "externalIds": {
+        "wikidata": "Q3228225"
+      },
+      "kind": "movie",
+      "title": "The Woman Thief",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3228225"
+      ]
+    },
+    {
+      "id": "wikidata-Q3227581",
+      "externalIds": {
+        "wikidata": "Q3227581"
+      },
+      "kind": "movie",
+      "title": "The Time of the Cherries (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3227581"
+      ]
+    },
+    {
+      "id": "wikidata-Q42048960",
+      "externalIds": {
+        "wikidata": "Q42048960"
+      },
+      "kind": "movie",
+      "title": "There's That Woman Again",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q42048960"
+      ]
+    },
+    {
+      "id": "wikidata-Q883429",
+      "externalIds": {
+        "wikidata": "Q883429"
+      },
+      "kind": "movie",
+      "title": "Thirteen Chairs (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q883429"
+      ]
+    },
+    {
+      "id": "wikidata-Q3205531",
+      "externalIds": {
+        "wikidata": "Q3205531"
+      },
+      "kind": "movie",
+      "title": "The Strange Monsieur Victor",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 French film directed by Jean Grémillon",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3205531"
+      ]
+    },
+    {
+      "id": "wikidata-Q48671879",
+      "externalIds": {
+        "wikidata": "Q48671879"
+      },
+      "kind": "movie",
+      "title": "The Woman of Monte Carlo",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48671879"
+      ]
+    },
+    {
+      "id": "wikidata-Q16681190",
+      "externalIds": {
+        "wikidata": "Q16681190"
+      },
+      "kind": "movie",
+      "title": "Three Artillerymen at the Opera",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 French film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16681190"
+      ]
+    },
+    {
+      "id": "wikidata-Q16651285",
+      "externalIds": {
+        "wikidata": "Q16651285"
+      },
+      "kind": "movie",
+      "title": "The West (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Henri Fescourt",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16651285"
+      ]
+    },
+    {
+      "id": "wikidata-Q3783094",
+      "externalIds": {
+        "wikidata": "Q3783094"
+      },
+      "kind": "movie",
+      "title": "They've Kidnapped a Man",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Italian film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3783094"
+      ]
+    },
+    {
+      "id": "wikidata-Q23368899",
+      "externalIds": {
+        "wikidata": "Q23368899"
+      },
+      "kind": "movie",
+      "title": "The Spy Ring",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Joseph H. Lewis",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23368899"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522860",
+      "externalIds": {
+        "wikidata": "Q3522860"
+      },
+      "kind": "movie",
+      "title": "The Storm (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Harold Young",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522860"
+      ]
+    },
+    {
+      "id": "wikidata-Q63119136",
+      "externalIds": {
+        "wikidata": "Q63119136"
+      },
+      "kind": "movie",
+      "title": "The Stranger from Arizona",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Elmer Clifton",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q63119136"
+      ]
+    },
+    {
+      "id": "wikidata-Q67171131",
+      "externalIds": {
+        "wikidata": "Q67171131"
+      },
+      "kind": "movie",
+      "title": "The Strange Case of Dr. Meade",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Lewis D. Collins",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q67171131"
+      ]
+    },
+    {
+      "id": "wikidata-Q24936453",
+      "externalIds": {
+        "wikidata": "Q24936453"
+      },
+      "kind": "movie",
+      "title": "The Two Schemers",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24936453"
+      ]
+    },
+    {
+      "id": "wikidata-Q21427176",
+      "externalIds": {
+        "wikidata": "Q21427176"
+      },
+      "kind": "movie",
+      "title": "The Tamer",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21427176"
+      ]
+    },
+    {
+      "id": "wikidata-Q123514838",
+      "externalIds": {
+        "wikidata": "Q123514838"
+      },
+      "kind": "movie",
+      "title": "The Village Rogue (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q123514838"
+      ]
+    },
+    {
+      "id": "wikidata-Q123584419",
+      "externalIds": {
+        "wikidata": "Q123584419"
+      },
+      "kind": "movie",
+      "title": "The Witch of Leányvár",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q123584419"
+      ]
+    },
+    {
+      "id": "wikidata-Q123813964",
+      "externalIds": {
+        "wikidata": "Q123813964"
+      },
+      "kind": "movie",
+      "title": "The Wrong Man (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q123813964"
+      ]
+    },
+    {
+      "id": "wikidata-Q12146072",
+      "externalIds": {
+        "wikidata": "Q12146072"
+      },
+      "kind": "movie",
+      "title": "The Woman from the End of the World",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film directed by Jean Epstein",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12146072"
+      ]
+    },
+    {
+      "id": "wikidata-Q134498533",
+      "externalIds": {
+        "wikidata": "Q134498533"
+      },
+      "kind": "movie",
+      "title": "The World's Largest Electrical Workshop",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q134498533"
+      ]
+    },
+    {
+      "id": "wikidata-Q3531961",
+      "externalIds": {
+        "wikidata": "Q3531961"
+      },
+      "kind": "movie",
+      "title": "Too Much Johnson (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Orson Welles",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3531961"
+      ]
+    },
+    {
+      "id": "wikidata-Q690783",
+      "externalIds": {
+        "wikidata": "Q690783"
+      },
+      "kind": "movie",
+      "title": "Topper Takes a Trip",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Norman Z. McLeod",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q690783"
+      ]
+    },
+    {
+      "id": "wikidata-Q7797648",
+      "externalIds": {
+        "wikidata": "Q7797648"
+      },
+      "kind": "movie",
+      "title": "Three Missing Links",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American short film by Jules White",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7797648"
+      ]
+    },
+    {
+      "id": "wikidata-Q7898121",
+      "externalIds": {
+        "wikidata": "Q7898121"
+      },
+      "kind": "movie",
+      "title": "Up the River (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7898121"
+      ]
+    },
+    {
+      "id": "wikidata-Q7844572",
+      "externalIds": {
+        "wikidata": "Q7844572"
+      },
+      "kind": "movie",
+      "title": "Triumph of Love (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7844572"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208680",
+      "externalIds": {
+        "wikidata": "Q3208680"
+      },
+      "kind": "movie",
+      "title": "Trade Winds (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Tay Garnett",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208680"
+      ]
+    },
+    {
+      "id": "wikidata-Q7797622",
+      "externalIds": {
+        "wikidata": "Q7797622"
+      },
+      "kind": "movie",
+      "title": "Three Men in a Tub",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7797622"
+      ]
+    },
+    {
+      "id": "wikidata-Q7809895",
+      "externalIds": {
+        "wikidata": "Q7809895"
+      },
+      "kind": "movie",
+      "title": "Titans of the Deep",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Les Adams",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7809895"
+      ]
+    },
+    {
+      "id": "wikidata-Q227461",
+      "externalIds": {
+        "wikidata": "Q227461"
+      },
+      "kind": "movie",
+      "title": "Too Hot to Handle (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Jack Conway",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q227461"
+      ]
+    },
+    {
+      "id": "wikidata-Q1230963",
+      "externalIds": {
+        "wikidata": "Q1230963"
+      },
+      "kind": "movie",
+      "title": "Under Western Stars",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Joseph Kane",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1230963"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883248",
+      "externalIds": {
+        "wikidata": "Q7883248"
+      },
+      "kind": "movie",
+      "title": "Under the Big Top",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Karl Brown",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883248"
+      ]
+    },
+    {
+      "id": "wikidata-Q7858665",
+      "externalIds": {
+        "wikidata": "Q7858665"
+      },
+      "kind": "movie",
+      "title": "Two Gun Man from Harlem",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7858665"
+      ]
+    },
+    {
+      "id": "wikidata-Q7798216",
+      "externalIds": {
+        "wikidata": "Q7798216"
+      },
+      "kind": "movie",
+      "title": "Thrills and Chills",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7798216"
+      ]
+    },
+    {
+      "id": "wikidata-Q7804664",
+      "externalIds": {
+        "wikidata": "Q7804664"
+      },
+      "kind": "movie",
+      "title": "Timber Toppers",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7804664"
+      ]
+    },
+    {
+      "id": "wikidata-Q2455551",
+      "externalIds": {
+        "wikidata": "Q2455551"
+      },
+      "kind": "movie",
+      "title": "Tropic Holiday",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Theodore Reed",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2455551"
+      ]
+    },
+    {
+      "id": "wikidata-Q7861333",
+      "externalIds": {
+        "wikidata": "Q7861333"
+      },
+      "kind": "movie",
+      "title": "Typhoon Treasure",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Australian film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7861333"
+      ]
+    },
+    {
+      "id": "wikidata-Q7900685",
+      "externalIds": {
+        "wikidata": "Q7900685"
+      },
+      "kind": "movie",
+      "title": "Urlaub auf Ehrenwort (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 German film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7900685"
+      ]
+    },
+    {
+      "id": "wikidata-Q7825587",
+      "externalIds": {
+        "wikidata": "Q7825587"
+      },
+      "kind": "movie",
+      "title": "Torchy Gets Her Man",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by William Beaudine",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7825587"
+      ]
+    },
+    {
+      "id": "wikidata-Q3548026",
+      "externalIds": {
+        "wikidata": "Q3548026"
+      },
+      "kind": "movie",
+      "title": "Ultimatum (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3548026"
+      ]
+    },
+    {
+      "id": "wikidata-Q3965240",
+      "externalIds": {
+        "wikidata": "Q3965240"
+      },
+      "kind": "movie",
+      "title": "Under the Southern Cross (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Italian film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3965240"
+      ]
+    },
+    {
+      "id": "wikidata-Q3742274",
+      "externalIds": {
+        "wikidata": "Q3742274"
+      },
+      "kind": "movie",
+      "title": "Triad (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3742274"
+      ]
+    },
+    {
+      "id": "wikidata-Q10431395",
+      "externalIds": {
+        "wikidata": "Q10431395"
+      },
+      "kind": "movie",
+      "title": "Thunder and Lightning (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10431395"
+      ]
+    },
+    {
+      "id": "wikidata-Q19600212",
+      "externalIds": {
+        "wikidata": "Q19600212"
+      },
+      "kind": "movie",
+      "title": "Vandiny trampoty",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Czech film by Miroslav Cikán",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19600212"
+      ]
+    },
+    {
+      "id": "wikidata-Q18636642",
+      "externalIds": {
+        "wikidata": "Q18636642"
+      },
+      "kind": "movie",
+      "title": "Vacation from Love",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by George Fitzmaurice",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18636642"
+      ]
+    },
+    {
+      "id": "wikidata-Q13512964",
+      "externalIds": {
+        "wikidata": "Q13512964"
+      },
+      "kind": "movie",
+      "title": "Valley of the Giants (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by William Keighley",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q13512964"
+      ]
+    },
+    {
+      "id": "wikidata-Q4338883",
+      "externalIds": {
+        "wikidata": "Q4338883"
+      },
+      "kind": "movie",
+      "title": "Treasure Island (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Soviet film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4338883"
+      ]
+    },
+    {
+      "id": "wikidata-Q19881435",
+      "externalIds": {
+        "wikidata": "Q19881435"
+      },
+      "kind": "movie",
+      "title": "Tom Sawyer, Detective (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Louis King",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19881435"
+      ]
+    },
+    {
+      "id": "wikidata-Q19881489",
+      "externalIds": {
+        "wikidata": "Q19881489"
+      },
+      "kind": "movie",
+      "title": "Touchdown, Army",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Kurt Neumann",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19881489"
+      ]
+    },
+    {
+      "id": "wikidata-Q19787101",
+      "externalIds": {
+        "wikidata": "Q19787101"
+      },
+      "kind": "movie",
+      "title": "Tip-Off Girls",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Louis King",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19787101"
+      ]
+    },
+    {
+      "id": "wikidata-Q3539049",
+      "externalIds": {
+        "wikidata": "Q3539049"
+      },
+      "kind": "movie",
+      "title": "Tricoche and Cacolet",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 French film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3539049"
+      ]
+    },
+    {
+      "id": "wikidata-Q12451959",
+      "externalIds": {
+        "wikidata": "Q12451959"
+      },
+      "kind": "movie",
+      "title": "Vachan (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British India film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12451959"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650008",
+      "externalIds": {
+        "wikidata": "Q20650008"
+      },
+      "kind": "movie",
+      "title": "Undercover Men",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1934 Canadian film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650008"
+      ]
+    },
+    {
+      "id": "wikidata-Q20949996",
+      "externalIds": {
+        "wikidata": "Q20949996"
+      },
+      "kind": "movie",
+      "title": "Torchy Blane in Panama",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by William Clemens",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20949996"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528162",
+      "externalIds": {
+        "wikidata": "Q21528162"
+      },
+      "kind": "movie",
+      "title": "Thunder in the Desert",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Sam Newfield",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528162"
+      ]
+    },
+    {
+      "id": "wikidata-Q3540057",
+      "externalIds": {
+        "wikidata": "Q3540057"
+      },
+      "kind": "movie",
+      "title": "Three Waltzes",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3540057"
+      ]
+    },
+    {
+      "id": "wikidata-Q12927188",
+      "externalIds": {
+        "wikidata": "Q12927188"
+      },
+      "kind": "movie",
+      "title": "Thukkaram",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Indian film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12927188"
+      ]
+    },
+    {
+      "id": "wikidata-Q16311515",
+      "externalIds": {
+        "wikidata": "Q16311515"
+      },
+      "kind": "movie",
+      "title": "Vanaraja Karzan",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film directed by Homi Wadia",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16311515"
+      ]
+    },
+    {
+      "id": "wikidata-Q51031341",
+      "externalIds": {
+        "wikidata": "Q51031341"
+      },
+      "kind": "movie",
+      "title": "Time Out for Murder",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by H. Bruce Humberstone",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q51031341"
+      ]
+    },
+    {
+      "id": "wikidata-Q3968436",
+      "externalIds": {
+        "wikidata": "Q3968436"
+      },
+      "kind": "movie",
+      "title": "Tonight at Eleven",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3968436"
+      ]
+    },
+    {
+      "id": "wikidata-Q12988955",
+      "externalIds": {
+        "wikidata": "Q12988955"
+      },
+      "kind": "movie",
+      "title": "Valibar Sangham",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Indian movie",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12988955"
+      ]
+    },
+    {
+      "id": "wikidata-Q85321355",
+      "externalIds": {
+        "wikidata": "Q85321355"
+      },
+      "kind": "movie",
+      "title": "Tough Kid",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85321355"
+      ]
+    },
+    {
+      "id": "wikidata-Q97516165",
+      "externalIds": {
+        "wikidata": "Q97516165"
+      },
+      "kind": "movie",
+      "title": "Three on a Rope",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q97516165"
+      ]
+    },
+    {
+      "id": "wikidata-Q12714630",
+      "externalIds": {
+        "wikidata": "Q12714630"
+      },
+      "kind": "movie",
+      "title": "Ungen",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Norwegian film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12714630"
+      ]
+    },
+    {
+      "id": "wikidata-Q104835691",
+      "externalIds": {
+        "wikidata": "Q104835691"
+      },
+      "kind": "movie",
+      "title": "Two Gun Justice",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film directed by Alan James",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104835691"
+      ]
+    },
+    {
+      "id": "wikidata-Q106739971",
+      "externalIds": {
+        "wikidata": "Q106739971"
+      },
+      "kind": "movie",
+      "title": "Topa Topa",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106739971"
+      ]
+    },
+    {
+      "id": "wikidata-Q105284457",
+      "externalIds": {
+        "wikidata": "Q105284457"
+      },
+      "kind": "movie",
+      "title": "Tsuruhachi and Tsurujiro",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Japanese film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q105284457"
+      ]
+    },
+    {
+      "id": "wikidata-Q22683772",
+      "externalIds": {
+        "wikidata": "Q22683772"
+      },
+      "kind": "movie",
+      "title": "Troubled Heart (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22683772"
+      ]
+    },
+    {
+      "id": "wikidata-Q93599852",
+      "externalIds": {
+        "wikidata": "Q93599852"
+      },
+      "kind": "movie",
+      "title": "Two Prisoners",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q93599852"
+      ]
+    },
+    {
+      "id": "wikidata-Q125169630",
+      "externalIds": {
+        "wikidata": "Q125169630"
+      },
+      "kind": "movie",
+      "title": "Too Many Husbands (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q125169630"
+      ]
+    },
+    {
+      "id": "wikidata-Q106719481",
+      "externalIds": {
+        "wikidata": "Q106719481"
+      },
+      "kind": "movie",
+      "title": "Two Women (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106719481"
+      ]
+    },
+    {
+      "id": "wikidata-Q931030",
+      "externalIds": {
+        "wikidata": "Q931030"
+      },
+      "kind": "movie",
+      "title": "White Banners",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Edmund Goulding",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q931030"
+      ]
+    },
+    {
+      "id": "wikidata-Q2622313",
+      "externalIds": {
+        "wikidata": "Q2622313"
+      },
+      "kind": "movie",
+      "title": "Volga-Volga",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Grigori Aleksandrov",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2622313"
+      ]
+    },
+    {
+      "id": "wikidata-Q1306800",
+      "externalIds": {
+        "wikidata": "Q1306800"
+      },
+      "kind": "movie",
+      "title": "Vivacious Lady",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by George Stevens",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1306800"
+      ]
+    },
+    {
+      "id": "wikidata-Q15627530",
+      "externalIds": {
+        "wikidata": "Q15627530"
+      },
+      "kind": "movie",
+      "title": "Wort und Tat",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 German film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15627530"
+      ]
+    },
+    {
+      "id": "wikidata-Q8051750",
+      "externalIds": {
+        "wikidata": "Q8051750"
+      },
+      "kind": "movie",
+      "title": "Yellow Jack",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by George B. Seitz",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8051750"
+      ]
+    },
+    {
+      "id": "wikidata-Q7933175",
+      "externalIds": {
+        "wikidata": "Q7933175"
+      },
+      "kind": "movie",
+      "title": "Violent Is the Word for Curly",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American short film by Charley Chase",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7933175"
+      ]
+    },
+    {
+      "id": "wikidata-Q7979308",
+      "externalIds": {
+        "wikidata": "Q7979308"
+      },
+      "kind": "movie",
+      "title": "Wee Wee Monsieur",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American short film by Del Lord",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7979308"
+      ]
+    },
+    {
+      "id": "wikidata-Q8028685",
+      "externalIds": {
+        "wikidata": "Q8028685"
+      },
+      "kind": "movie",
+      "title": "Wives Under Suspicion",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by James Whale",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8028685"
+      ]
+    },
+    {
+      "id": "wikidata-Q8027975",
+      "externalIds": {
+        "wikidata": "Q8027975"
+      },
+      "kind": "movie",
+      "title": "With Broken Wings",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Argentine film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8027975"
+      ]
+    },
+    {
+      "id": "wikidata-Q5494934",
+      "externalIds": {
+        "wikidata": "Q5494934"
+      },
+      "kind": "movie",
+      "title": "Women Who Work (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Argentine film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5494934"
+      ]
+    },
+    {
+      "id": "wikidata-Q7962449",
+      "externalIds": {
+        "wikidata": "Q7962449"
+      },
+      "kind": "movie",
+      "title": "Walking Down Broadway",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Norman Foster",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7962449"
+      ]
+    },
+    {
+      "id": "wikidata-Q7918133",
+      "externalIds": {
+        "wikidata": "Q7918133"
+      },
+      "kind": "movie",
+      "title": "Veera Jagathis",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Indian film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7918133"
+      ]
+    },
+    {
+      "id": "wikidata-Q12133113",
+      "externalIds": {
+        "wikidata": "Q12133113"
+      },
+      "kind": "movie",
+      "title": "Wholly Smoke",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Frank Tashlin",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12133113"
+      ]
+    },
+    {
+      "id": "wikidata-Q7991354",
+      "externalIds": {
+        "wikidata": "Q7991354"
+      },
+      "kind": "movie",
+      "title": "What Price Porky",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Robert Clampett",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7991354"
+      ]
+    },
+    {
+      "id": "wikidata-Q4366190",
+      "externalIds": {
+        "wikidata": "Q4366190"
+      },
+      "kind": "movie",
+      "title": "Victory (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Soviet film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4366190"
+      ]
+    },
+    {
+      "id": "wikidata-Q7923343",
+      "externalIds": {
+        "wikidata": "Q7923343"
+      },
+      "kind": "movie",
+      "title": "Vessel of Wrath",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7923343"
+      ]
+    },
+    {
+      "id": "wikidata-Q7992807",
+      "externalIds": {
+        "wikidata": "Q7992807"
+      },
+      "kind": "movie",
+      "title": "When Were You Born",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by William C. McGann",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7992807"
+      ]
+    },
+    {
+      "id": "wikidata-Q7997239",
+      "externalIds": {
+        "wikidata": "Q7997239"
+      },
+      "kind": "movie",
+      "title": "Who Goes Next?",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7997239"
+      ]
+    },
+    {
+      "id": "wikidata-Q7977103",
+      "externalIds": {
+        "wikidata": "Q7977103"
+      },
+      "kind": "movie",
+      "title": "We're Going to Be Rich",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7977103"
+      ]
+    },
+    {
+      "id": "wikidata-Q7993425",
+      "externalIds": {
+        "wikidata": "Q7993425"
+      },
+      "kind": "movie",
+      "title": "Where the Buffalo Roam (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Albert Herman (as Al Herman)",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7993425"
+      ]
+    },
+    {
+      "id": "wikidata-Q3964049",
+      "externalIds": {
+        "wikidata": "Q3964049"
+      },
+      "kind": "movie",
+      "title": "Wynken, Blynken and Nod (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3964049"
+      ]
+    },
+    {
+      "id": "wikidata-Q7993482",
+      "externalIds": {
+        "wikidata": "Q7993482"
+      },
+      "kind": "movie",
+      "title": "Where the West Begins (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7993482"
+      ]
+    },
+    {
+      "id": "wikidata-Q7987990",
+      "externalIds": {
+        "wikidata": "Q7987990"
+      },
+      "kind": "movie",
+      "title": "Western Jamboree",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Ralph Staub",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7987990"
+      ]
+    },
+    {
+      "id": "wikidata-Q4366127",
+      "externalIds": {
+        "wikidata": "Q4366127"
+      },
+      "kind": "movie",
+      "title": "Wish upon a Pike",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Soviet film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4366127"
+      ]
+    },
+    {
+      "id": "wikidata-Q18394573",
+      "externalIds": {
+        "wikidata": "Q18394573"
+      },
+      "kind": "movie",
+      "title": "Watan (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Indian film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18394573"
+      ]
+    },
+    {
+      "id": "wikidata-Q2567220",
+      "externalIds": {
+        "wikidata": "Q2567220"
+      },
+      "kind": "movie",
+      "title": "Who Killed Gail Preston?",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film directed by Leon Barsha",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2567220"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363979",
+      "externalIds": {
+        "wikidata": "Q19363979"
+      },
+      "kind": "movie",
+      "title": "When G-Men Step In",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Charles C. Coleman",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363979"
+      ]
+    },
+    {
+      "id": "wikidata-Q22350870",
+      "externalIds": {
+        "wikidata": "Q22350870"
+      },
+      "kind": "movie",
+      "title": "Woman Against Woman",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film directed by Robert B. Sinclair",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22350870"
+      ]
+    },
+    {
+      "id": "wikidata-Q19898263",
+      "externalIds": {
+        "wikidata": "Q19898263"
+      },
+      "kind": "movie",
+      "title": "Women for Golden Hill",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Erich Waschneck",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19898263"
+      ]
+    },
+    {
+      "id": "wikidata-Q19898227",
+      "externalIds": {
+        "wikidata": "Q19898227"
+      },
+      "kind": "movie",
+      "title": "While Mexico Sleeps",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19898227"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650044",
+      "externalIds": {
+        "wikidata": "Q20650044"
+      },
+      "kind": "movie",
+      "title": "Wide Open Faces",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Kurt Neumann",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650044"
+      ]
+    },
+    {
+      "id": "wikidata-Q14772334",
+      "externalIds": {
+        "wikidata": "Q14772334"
+      },
+      "kind": "movie",
+      "title": "Women Are Like That (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Stanley Logan",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q14772334"
+      ]
+    },
+    {
+      "id": "wikidata-Q18202463",
+      "externalIds": {
+        "wikidata": "Q18202463"
+      },
+      "kind": "movie",
+      "title": "What a Man! (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18202463"
+      ]
+    },
+    {
+      "id": "wikidata-Q28803256",
+      "externalIds": {
+        "wikidata": "Q28803256"
+      },
+      "kind": "movie",
+      "title": "Weddings Are Wonderful",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British film by Maclean Rogers",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28803256"
+      ]
+    },
+    {
+      "id": "wikidata-Q55637595",
+      "externalIds": {
+        "wikidata": "Q55637595"
+      },
+      "kind": "movie",
+      "title": "While New York Sleeps (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55637595"
+      ]
+    },
+    {
+      "id": "wikidata-Q12988241",
+      "externalIds": {
+        "wikidata": "Q12988241"
+      },
+      "kind": "movie",
+      "title": "Yayathi",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Indian film by M. L. Tandon",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12988241"
+      ]
+    },
+    {
+      "id": "wikidata-Q65032721",
+      "externalIds": {
+        "wikidata": "Q65032721"
+      },
+      "kind": "movie",
+      "title": "Western Trails",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 western film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65032721"
+      ]
+    },
+    {
+      "id": "wikidata-Q62018323",
+      "externalIds": {
+        "wikidata": "Q62018323"
+      },
+      "kind": "movie",
+      "title": "West of the Santa Fe",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Sam Nelson",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q62018323"
+      ]
+    },
+    {
+      "id": "wikidata-Q63951642",
+      "externalIds": {
+        "wikidata": "Q63951642"
+      },
+      "kind": "movie",
+      "title": "West of Rainbow's End",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film directed by Alan James",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q63951642"
+      ]
+    },
+    {
+      "id": "wikidata-Q64214351",
+      "externalIds": {
+        "wikidata": "Q64214351"
+      },
+      "kind": "movie",
+      "title": "West of Cheyenne (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Sam Nelson",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64214351"
+      ]
+    },
+    {
+      "id": "wikidata-Q65032659",
+      "externalIds": {
+        "wikidata": "Q65032659"
+      },
+      "kind": "movie",
+      "title": "Whirlwind Horseman",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65032659"
+      ]
+    },
+    {
+      "id": "wikidata-Q84011618",
+      "externalIds": {
+        "wikidata": "Q84011618"
+      },
+      "kind": "movie",
+      "title": "Wanted by the Police",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q84011618"
+      ]
+    },
+    {
+      "id": "wikidata-Q85815530",
+      "externalIds": {
+        "wikidata": "Q85815530"
+      },
+      "kind": "movie",
+      "title": "Wild Horse Canyon",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85815530"
+      ]
+    },
+    {
+      "id": "wikidata-Q3404019",
+      "externalIds": {
+        "wikidata": "Q3404019"
+      },
+      "kind": "movie",
+      "title": "Women's Prison (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3404019"
+      ]
+    },
+    {
+      "id": "wikidata-Q3234282",
+      "externalIds": {
+        "wikidata": "Q3234282"
+      },
+      "kind": "movie",
+      "title": "White Nights in Saint Petersburg",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3234282"
+      ]
+    },
+    {
+      "id": "wikidata-Q12251646",
+      "externalIds": {
+        "wikidata": "Q12251646"
+      },
+      "kind": "movie",
+      "title": "Yahya el hub",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12251646"
+      ]
+    },
+    {
+      "id": "wikidata-Q30731090",
+      "externalIds": {
+        "wikidata": "Q30731090"
+      },
+      "kind": "movie",
+      "title": "Véréna's Wedding",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30731090"
+      ]
+    },
+    {
+      "id": "wikidata-Q135902001",
+      "externalIds": {
+        "wikidata": "Q135902001"
+      },
+      "kind": "movie",
+      "title": "Women in Prison (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 American film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q135902001"
+      ]
+    },
+    {
+      "id": "wikidata-Q64761066",
+      "externalIds": {
+        "wikidata": "Q64761066"
+      },
+      "kind": "movie",
+      "title": "With the Abraham Lincoln Brigade in Spain",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 documentary film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64761066"
+      ]
+    },
+    {
+      "id": "wikidata-Q138718975",
+      "externalIds": {
+        "wikidata": "Q138718975"
+      },
+      "kind": "movie",
+      "title": "What Now, Sibylle?",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q138718975"
+      ]
+    },
+    {
+      "id": "wikidata-Q8058080",
+      "externalIds": {
+        "wikidata": "Q8058080"
+      },
+      "kind": "movie",
+      "title": "Young Dr. Kildare",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Harold S. Bucquet",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8058080"
+      ]
+    },
+    {
+      "id": "wikidata-Q8056626",
+      "externalIds": {
+        "wikidata": "Q8056626"
+      },
+      "kind": "movie",
+      "title": "You're an Education",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Frank Tashlin",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8056626"
+      ]
+    },
+    {
+      "id": "wikidata-Q2559432",
+      "externalIds": {
+        "wikidata": "Q2559432"
+      },
+      "kind": "movie",
+      "title": "Zangezur (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Soviet film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2559432"
+      ]
+    },
+    {
+      "id": "wikidata-Q2362272",
+      "externalIds": {
+        "wikidata": "Q2362272"
+      },
+      "kind": "movie",
+      "title": "You and Me (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Fritz Lang film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2362272"
+      ]
+    },
+    {
+      "id": "wikidata-Q4989319",
+      "externalIds": {
+        "wikidata": "Q4989319"
+      },
+      "kind": "movie",
+      "title": "Zaza (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by George Cukor",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4989319"
+      ]
+    },
+    {
+      "id": "wikidata-Q637835",
+      "externalIds": {
+        "wikidata": "Q637835"
+      },
+      "kind": "movie",
+      "title": "You Can't Take It with You (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Frank Capra",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q637835"
+      ]
+    },
+    {
+      "id": "wikidata-Q8051822",
+      "externalIds": {
+        "wikidata": "Q8051822"
+      },
+      "kind": "movie",
+      "title": "Yellow Sands (film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8051822"
+      ]
+    },
+    {
+      "id": "wikidata-Q8052717",
+      "externalIds": {
+        "wikidata": "Q8052717"
+      },
+      "kind": "movie",
+      "title": "Yes, Madam?",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8052717"
+      ]
+    },
+    {
+      "id": "wikidata-Q12135681",
+      "externalIds": {
+        "wikidata": "Q12135681"
+      },
+      "kind": "movie",
+      "title": "You're the Doctor",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 British film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12135681"
+      ]
+    },
+    {
+      "id": "wikidata-Q8059269",
+      "externalIds": {
+        "wikidata": "Q8059269"
+      },
+      "kind": "movie",
+      "title": "Youth Takes a Fling",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Archie Mayo",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8059269"
+      ]
+    },
+    {
+      "id": "wikidata-Q18208518",
+      "externalIds": {
+        "wikidata": "Q18208518"
+      },
+      "kind": "movie",
+      "title": "You and I (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18208518"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650070",
+      "externalIds": {
+        "wikidata": "Q20650070"
+      },
+      "kind": "movie",
+      "title": "Yvette (1938 film)",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Wolfgang Liebeneiner",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650070"
+      ]
+    },
+    {
+      "id": "wikidata-Q60738591",
+      "externalIds": {
+        "wikidata": "Q60738591"
+      },
+      "kind": "movie",
+      "title": "Young Fugitives",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Film directed by John Rawlins",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q60738591"
+      ]
+    },
+    {
+      "id": "wikidata-Q23751155",
+      "externalIds": {
+        "wikidata": "Q23751155"
+      },
+      "kind": "movie",
+      "title": "Young Noszty and Mary Toth",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23751155"
+      ]
+    },
+    {
+      "id": "wikidata-Q4182799",
+      "externalIds": {
+        "wikidata": "Q4182799"
+      },
+      "kind": "movie",
+      "title": "Zapomniana melodia",
+      "year": 1938,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 Polish film",
+      "batchId": "wikidata-films-1938-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4182799"
+      ]
+    }
+  ]
+}

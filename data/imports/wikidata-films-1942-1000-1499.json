@@ -1,0 +1,3466 @@
+{
+  "id": "wikidata-films-1942-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1942,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q704972",
+      "externalIds": {
+        "wikidata": "Q704972"
+      },
+      "kind": "movie",
+      "title": "To Be or Not to Be (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Ernst Lubitsch",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q704972"
+      ]
+    },
+    {
+      "id": "wikidata-Q377776",
+      "externalIds": {
+        "wikidata": "Q377776"
+      },
+      "kind": "movie",
+      "title": "Tortilla Flat (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Victor Fleming",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q377776"
+      ]
+    },
+    {
+      "id": "wikidata-Q1215110",
+      "externalIds": {
+        "wikidata": "Q1215110"
+      },
+      "kind": "movie",
+      "title": "This Gun for Hire",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Frank Tuttle",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1215110"
+      ]
+    },
+    {
+      "id": "wikidata-Q12129539",
+      "externalIds": {
+        "wikidata": "Q12129539"
+      },
+      "kind": "movie",
+      "title": "Tombstone, the Town Too Tough to Die",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12129539"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523253",
+      "externalIds": {
+        "wikidata": "Q3523253"
+      },
+      "kind": "movie",
+      "title": "The Wabbit Who Came to Supper",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Bugs Bunny cartoon by Friz Freleng",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523253"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523255",
+      "externalIds": {
+        "wikidata": "Q3523255"
+      },
+      "kind": "movie",
+      "title": "The Wacky Wabbit",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Bugs Bunny cartoon",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523255"
+      ]
+    },
+    {
+      "id": "wikidata-Q7776102",
+      "externalIds": {
+        "wikidata": "Q7776102"
+      },
+      "kind": "movie",
+      "title": "The World at War (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Lowell Mellett",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7776102"
+      ]
+    },
+    {
+      "id": "wikidata-Q4010265",
+      "externalIds": {
+        "wikidata": "Q4010265"
+      },
+      "kind": "movie",
+      "title": "To the Shores of Tripoli",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by H. Bruce Humberstone",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4010265"
+      ]
+    },
+    {
+      "id": "wikidata-Q904695",
+      "externalIds": {
+        "wikidata": "Q904695"
+      },
+      "kind": "movie",
+      "title": "They All Kissed the Bride",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Alexander Hall",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q904695"
+      ]
+    },
+    {
+      "id": "wikidata-Q7776785",
+      "externalIds": {
+        "wikidata": "Q7776785"
+      },
+      "kind": "movie",
+      "title": "The Young Mr. Pitt",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 British film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7776785"
+      ]
+    },
+    {
+      "id": "wikidata-Q7797825",
+      "externalIds": {
+        "wikidata": "Q7797825"
+      },
+      "kind": "movie",
+      "title": "Three Smart Saps",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 American short film by Jules White",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7797825"
+      ]
+    },
+    {
+      "id": "wikidata-Q2421441",
+      "externalIds": {
+        "wikidata": "Q2421441"
+      },
+      "kind": "movie",
+      "title": "This Above All (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Anatole Litvak",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2421441"
+      ]
+    },
+    {
+      "id": "wikidata-Q3532408",
+      "externalIds": {
+        "wikidata": "Q3532408"
+      },
+      "kind": "movie",
+      "title": "Torpedo Squadron 8 (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3532408"
+      ]
+    },
+    {
+      "id": "wikidata-Q3990018",
+      "externalIds": {
+        "wikidata": "Q3990018"
+      },
+      "kind": "movie",
+      "title": "The Wife Takes a Flyer",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Richard Wallace",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3990018"
+      ]
+    },
+    {
+      "id": "wikidata-Q7799025",
+      "externalIds": {
+        "wikidata": "Q7799025"
+      },
+      "kind": "movie",
+      "title": "Thunder Rock (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7799025"
+      ]
+    },
+    {
+      "id": "wikidata-Q7783708",
+      "externalIds": {
+        "wikidata": "Q7783708"
+      },
+      "kind": "movie",
+      "title": "They Flew Alone",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 British film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7783708"
+      ]
+    },
+    {
+      "id": "wikidata-Q1750424",
+      "externalIds": {
+        "wikidata": "Q1750424"
+      },
+      "kind": "movie",
+      "title": "Thunder Birds (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by William A. Wellman",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1750424"
+      ]
+    },
+    {
+      "id": "wikidata-Q10747813",
+      "externalIds": {
+        "wikidata": "Q10747813"
+      },
+      "kind": "movie",
+      "title": "The War at Sea from Hawaii to Malaya",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Japanese film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10747813"
+      ]
+    },
+    {
+      "id": "wikidata-Q12129428",
+      "externalIds": {
+        "wikidata": "Q12129428"
+      },
+      "kind": "movie",
+      "title": "Time to Kill (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American 1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12129428"
+      ]
+    },
+    {
+      "id": "wikidata-Q7776503",
+      "externalIds": {
+        "wikidata": "Q7776503"
+      },
+      "kind": "movie",
+      "title": "The Yanks Are Coming (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7776503"
+      ]
+    },
+    {
+      "id": "wikidata-Q7783751",
+      "externalIds": {
+        "wikidata": "Q7783751"
+      },
+      "kind": "movie",
+      "title": "They Raid by Night",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Spencer Gordon Bennet",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7783751"
+      ]
+    },
+    {
+      "id": "wikidata-Q2415066",
+      "externalIds": {
+        "wikidata": "Q2415066"
+      },
+      "kind": "movie",
+      "title": "The War Against Mrs. Hadley",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Harold S. Bucquet",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2415066"
+      ]
+    },
+    {
+      "id": "wikidata-Q1370348",
+      "externalIds": {
+        "wikidata": "Q1370348"
+      },
+      "kind": "movie",
+      "title": "There's One Born Every Minute",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Harold Young",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1370348"
+      ]
+    },
+    {
+      "id": "wikidata-Q7812194",
+      "externalIds": {
+        "wikidata": "Q7812194"
+      },
+      "kind": "movie",
+      "title": "Today I Hang",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Oliver Drake",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7812194"
+      ]
+    },
+    {
+      "id": "wikidata-Q6466397",
+      "externalIds": {
+        "wikidata": "Q6466397"
+      },
+      "kind": "movie",
+      "title": "The Wheel of Life (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Spanish film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6466397"
+      ]
+    },
+    {
+      "id": "wikidata-Q7786348",
+      "externalIds": {
+        "wikidata": "Q7786348"
+      },
+      "kind": "movie",
+      "title": "This Was Paris",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 British film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7786348"
+      ]
+    },
+    {
+      "id": "wikidata-Q7796826",
+      "externalIds": {
+        "wikidata": "Q7796826"
+      },
+      "kind": "movie",
+      "title": "Those Kids from Town",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Lance Comfort",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7796826"
+      ]
+    },
+    {
+      "id": "wikidata-Q1366562",
+      "externalIds": {
+        "wikidata": "Q1366562"
+      },
+      "kind": "movie",
+      "title": "There Was a Father",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Japanese film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1366562"
+      ]
+    },
+    {
+      "id": "wikidata-Q7820284",
+      "externalIds": {
+        "wikidata": "Q7820284"
+      },
+      "kind": "movie",
+      "title": "Tomorrow We Live (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Edgar George Ulmer",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7820284"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775550",
+      "externalIds": {
+        "wikidata": "Q7775550"
+      },
+      "kind": "movie",
+      "title": "The Woman in the House",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 American film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775550"
+      ]
+    },
+    {
+      "id": "wikidata-Q7823898",
+      "externalIds": {
+        "wikidata": "Q7823898"
+      },
+      "kind": "movie",
+      "title": "Too Many Women (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Bernard B. Ray",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7823898"
+      ]
+    },
+    {
+      "id": "wikidata-Q16269464",
+      "externalIds": {
+        "wikidata": "Q16269464"
+      },
+      "kind": "movie",
+      "title": "Thundering Hoofs (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Lesley Selander",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16269464"
+      ]
+    },
+    {
+      "id": "wikidata-Q16979636",
+      "externalIds": {
+        "wikidata": "Q16979636"
+      },
+      "kind": "movie",
+      "title": "This Time for Keeps (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Charles Reisner",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16979636"
+      ]
+    },
+    {
+      "id": "wikidata-Q16994344",
+      "externalIds": {
+        "wikidata": "Q16994344"
+      },
+      "kind": "movie",
+      "title": "Tish (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by S. Sylvan Simon",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16994344"
+      ]
+    },
+    {
+      "id": "wikidata-Q17509044",
+      "externalIds": {
+        "wikidata": "Q17509044"
+      },
+      "kind": "movie",
+      "title": "There's Room Up Ahead",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17509044"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814866",
+      "externalIds": {
+        "wikidata": "Q20814866"
+      },
+      "kind": "movie",
+      "title": "Torpedo Boat (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by John Rawlins",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814866"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814864",
+      "externalIds": {
+        "wikidata": "Q20814864"
+      },
+      "kind": "movie",
+      "title": "Top Sergeant (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Christy Cabanne",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814864"
+      ]
+    },
+    {
+      "id": "wikidata-Q23768063",
+      "externalIds": {
+        "wikidata": "Q23768063"
+      },
+      "kind": "movie",
+      "title": "Thru Different Eyes",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Thomas Z. Loring",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23768063"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528167",
+      "externalIds": {
+        "wikidata": "Q21528167"
+      },
+      "kind": "movie",
+      "title": "Timber (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Christy Cabanne",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528167"
+      ]
+    },
+    {
+      "id": "wikidata-Q23638590",
+      "externalIds": {
+        "wikidata": "Q23638590"
+      },
+      "kind": "movie",
+      "title": "The Voice of Action",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Canadian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23638590"
+      ]
+    },
+    {
+      "id": "wikidata-Q6007899",
+      "externalIds": {
+        "wikidata": "Q6007899"
+      },
+      "kind": "movie",
+      "title": "Tomorrow I'll Kill Myself",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Argentine film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6007899"
+      ]
+    },
+    {
+      "id": "wikidata-Q25208252",
+      "externalIds": {
+        "wikidata": "Q25208252"
+      },
+      "kind": "movie",
+      "title": "The White Dove (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Spanish film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25208252"
+      ]
+    },
+    {
+      "id": "wikidata-Q8834552",
+      "externalIds": {
+        "wikidata": "Q8834552"
+      },
+      "kind": "movie",
+      "title": "Thunder River Feud",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by S. Roy Luby",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8834552"
+      ]
+    },
+    {
+      "id": "wikidata-Q3604703",
+      "externalIds": {
+        "wikidata": "Q3604703"
+      },
+      "kind": "movie",
+      "title": "Torrents of Spring (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film directed by Nunzio Malasomma",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3604703"
+      ]
+    },
+    {
+      "id": "wikidata-Q10589091",
+      "externalIds": {
+        "wikidata": "Q10589091"
+      },
+      "kind": "movie",
+      "title": "Tomorrow's Melody",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10589091"
+      ]
+    },
+    {
+      "id": "wikidata-Q10510482",
+      "externalIds": {
+        "wikidata": "Q10510482"
+      },
+      "kind": "movie",
+      "title": "The Yellow Clinic",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Swedish drama film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10510482"
+      ]
+    },
+    {
+      "id": "wikidata-Q3822113",
+      "externalIds": {
+        "wikidata": "Q3822113"
+      },
+      "kind": "movie",
+      "title": "The Woman of Sin",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Italian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3822113"
+      ]
+    },
+    {
+      "id": "wikidata-Q124041400",
+      "externalIds": {
+        "wikidata": "Q124041400"
+      },
+      "kind": "movie",
+      "title": "Time of Trial (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124041400"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208753",
+      "externalIds": {
+        "wikidata": "Q3208753"
+      },
+      "kind": "movie",
+      "title": "The Woman I Loved Most",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208753"
+      ]
+    },
+    {
+      "id": "wikidata-Q106716743",
+      "externalIds": {
+        "wikidata": "Q106716743"
+      },
+      "kind": "movie",
+      "title": "To Be God One Time",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106716743"
+      ]
+    },
+    {
+      "id": "wikidata-Q691048",
+      "externalIds": {
+        "wikidata": "Q691048"
+      },
+      "kind": "movie",
+      "title": "Tulips Shall Grow",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 American animated short film directed by George Pal",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q691048"
+      ]
+    },
+    {
+      "id": "wikidata-Q1581633",
+      "externalIds": {
+        "wikidata": "Q1581633"
+      },
+      "kind": "movie",
+      "title": "Wake Island (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 action drama war film by John Farrow",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1581633"
+      ]
+    },
+    {
+      "id": "wikidata-Q7977378",
+      "externalIds": {
+        "wikidata": "Q7977378"
+      },
+      "kind": "movie",
+      "title": "We Are the Marines",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Louis de Rochemont",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7977378"
+      ]
+    },
+    {
+      "id": "wikidata-Q7836829",
+      "externalIds": {
+        "wikidata": "Q7836829"
+      },
+      "kind": "movie",
+      "title": "Treat 'Em Rough",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Ray Taylor",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7836829"
+      ]
+    },
+    {
+      "id": "wikidata-Q7897319",
+      "externalIds": {
+        "wikidata": "Q7897319"
+      },
+      "kind": "movie",
+      "title": "Unpublished Story",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 British film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7897319"
+      ]
+    },
+    {
+      "id": "wikidata-Q9093526",
+      "externalIds": {
+        "wikidata": "Q9093526"
+      },
+      "kind": "movie",
+      "title": "Vidas marcadas",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Argentine film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q9093526"
+      ]
+    },
+    {
+      "id": "wikidata-Q7919517",
+      "externalIds": {
+        "wikidata": "Q7919517"
+      },
+      "kind": "movie",
+      "title": "Ven mi corazón te llama",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Argentine film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7919517"
+      ]
+    },
+    {
+      "id": "wikidata-Q7907914",
+      "externalIds": {
+        "wikidata": "Q7907914"
+      },
+      "kind": "movie",
+      "title": "Vacations in the Other World",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Argentine film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7907914"
+      ]
+    },
+    {
+      "id": "wikidata-Q7940049",
+      "externalIds": {
+        "wikidata": "Q7940049"
+      },
+      "kind": "movie",
+      "title": "Volcano (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7940049"
+      ]
+    },
+    {
+      "id": "wikidata-Q7832960",
+      "externalIds": {
+        "wikidata": "Q7832960"
+      },
+      "kind": "movie",
+      "title": "Training Women for War Production",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 American film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7832960"
+      ]
+    },
+    {
+      "id": "wikidata-Q3831176",
+      "externalIds": {
+        "wikidata": "Q3831176"
+      },
+      "kind": "movie",
+      "title": "Twin Beds (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Tim Whelan",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3831176"
+      ]
+    },
+    {
+      "id": "wikidata-Q7861430",
+      "externalIds": {
+        "wikidata": "Q7861430"
+      },
+      "kind": "movie",
+      "title": "Tyrannens fald",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7861430"
+      ]
+    },
+    {
+      "id": "wikidata-Q7884256",
+      "externalIds": {
+        "wikidata": "Q7884256"
+      },
+      "kind": "movie",
+      "title": "Unexpected Riches",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 American film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7884256"
+      ]
+    },
+    {
+      "id": "wikidata-Q7968418",
+      "externalIds": {
+        "wikidata": "Q7968418"
+      },
+      "kind": "movie",
+      "title": "War Dogs (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7968418"
+      ]
+    },
+    {
+      "id": "wikidata-Q7832732",
+      "externalIds": {
+        "wikidata": "Q7832732"
+      },
+      "kind": "movie",
+      "title": "Trail Riders",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Robert Emmett Tansey",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7832732"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208645",
+      "externalIds": {
+        "wikidata": "Q3208645"
+      },
+      "kind": "movie",
+      "title": "Twisted Mistress",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 French film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208645"
+      ]
+    },
+    {
+      "id": "wikidata-Q7882485",
+      "externalIds": {
+        "wikidata": "Q7882485"
+      },
+      "kind": "movie",
+      "title": "Uncensored (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 British film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7882485"
+      ]
+    },
+    {
+      "id": "wikidata-Q7910840",
+      "externalIds": {
+        "wikidata": "Q7910840"
+      },
+      "kind": "movie",
+      "title": "Valentin the Good",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7910840"
+      ]
+    },
+    {
+      "id": "wikidata-Q7912370",
+      "externalIds": {
+        "wikidata": "Q7912370"
+      },
+      "kind": "movie",
+      "title": "Valley of the Sun (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by George Marshall",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7912370"
+      ]
+    },
+    {
+      "id": "wikidata-Q7977066",
+      "externalIds": {
+        "wikidata": "Q7977066"
+      },
+      "kind": "movie",
+      "title": "We'll Smile Again",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 British film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7977066"
+      ]
+    },
+    {
+      "id": "wikidata-Q7912328",
+      "externalIds": {
+        "wikidata": "Q7912328"
+      },
+      "kind": "movie",
+      "title": "Valley of Hunted Men",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7912328"
+      ]
+    },
+    {
+      "id": "wikidata-Q7958817",
+      "externalIds": {
+        "wikidata": "Q7958817"
+      },
+      "kind": "movie",
+      "title": "Wacky Blackout",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7958817"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883524",
+      "externalIds": {
+        "wikidata": "Q7883524"
+      },
+      "kind": "movie",
+      "title": "Undercover Man (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Lesley Selander",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883524"
+      ]
+    },
+    {
+      "id": "wikidata-Q7880086",
+      "externalIds": {
+        "wikidata": "Q7880086"
+      },
+      "kind": "movie",
+      "title": "Ulti Ganga",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Indian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7880086"
+      ]
+    },
+    {
+      "id": "wikidata-Q7916382",
+      "externalIds": {
+        "wikidata": "Q7916382"
+      },
+      "kind": "movie",
+      "title": "Vasantsena (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Indian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7916382"
+      ]
+    },
+    {
+      "id": "wikidata-Q7929082",
+      "externalIds": {
+        "wikidata": "Q7929082"
+      },
+      "kind": "movie",
+      "title": "Vijay (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7929082"
+      ]
+    },
+    {
+      "id": "wikidata-Q2414783",
+      "externalIds": {
+        "wikidata": "Q2414783"
+      },
+      "kind": "movie",
+      "title": "United States Marine Band (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2414783"
+      ]
+    },
+    {
+      "id": "wikidata-Q3344956",
+      "externalIds": {
+        "wikidata": "Q3344956"
+      },
+      "kind": "movie",
+      "title": "We the Living (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Italian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3344956"
+      ]
+    },
+    {
+      "id": "wikidata-Q4018688",
+      "externalIds": {
+        "wikidata": "Q4018688"
+      },
+      "kind": "movie",
+      "title": "We Were Dancing (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Robert Zigler Leonard",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4018688"
+      ]
+    },
+    {
+      "id": "wikidata-Q2568856",
+      "externalIds": {
+        "wikidata": "Q2568856"
+      },
+      "kind": "movie",
+      "title": "Vienna Blood (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 German film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2568856"
+      ]
+    },
+    {
+      "id": "wikidata-Q17056249",
+      "externalIds": {
+        "wikidata": "Q17056249"
+      },
+      "kind": "movie",
+      "title": "Tsubasa no gaika",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Japanese film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17056249"
+      ]
+    },
+    {
+      "id": "wikidata-Q14828332",
+      "externalIds": {
+        "wikidata": "Q14828332"
+      },
+      "kind": "movie",
+      "title": "Two Yanks in Trinidad",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Gregory Ratoff",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q14828332"
+      ]
+    },
+    {
+      "id": "wikidata-Q3997268",
+      "externalIds": {
+        "wikidata": "Q3997268"
+      },
+      "kind": "movie",
+      "title": "Tragic Night",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3997268"
+      ]
+    },
+    {
+      "id": "wikidata-Q1308019",
+      "externalIds": {
+        "wikidata": "Q1308019"
+      },
+      "kind": "movie",
+      "title": "We Make Music",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film directed by Helmut Käutner",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1308019"
+      ]
+    },
+    {
+      "id": "wikidata-Q6157256",
+      "externalIds": {
+        "wikidata": "Q6157256"
+      },
+      "kind": "movie",
+      "title": "Upa en apuros",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Argentine film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6157256"
+      ]
+    },
+    {
+      "id": "wikidata-Q18394695",
+      "externalIds": {
+        "wikidata": "Q18394695"
+      },
+      "kind": "movie",
+      "title": "We Thieves Are Honourable (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18394695"
+      ]
+    },
+    {
+      "id": "wikidata-Q19881553",
+      "externalIds": {
+        "wikidata": "Q19881553"
+      },
+      "kind": "movie",
+      "title": "True to the Army",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Albert S. Rogell",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19881553"
+      ]
+    },
+    {
+      "id": "wikidata-Q2605162",
+      "externalIds": {
+        "wikidata": "Q2605162"
+      },
+      "kind": "movie",
+      "title": "Two in a Big City",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2605162"
+      ]
+    },
+    {
+      "id": "wikidata-Q20950013",
+      "externalIds": {
+        "wikidata": "Q20950013"
+      },
+      "kind": "movie",
+      "title": "Unseen Enemy",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by John Rawlins",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20950013"
+      ]
+    },
+    {
+      "id": "wikidata-Q21647286",
+      "externalIds": {
+        "wikidata": "Q21647286"
+      },
+      "kind": "movie",
+      "title": "Violanta (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21647286"
+      ]
+    },
+    {
+      "id": "wikidata-Q10602158",
+      "externalIds": {
+        "wikidata": "Q10602158"
+      },
+      "kind": "movie",
+      "title": "Trysil-Knut",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10602158"
+      ]
+    },
+    {
+      "id": "wikidata-Q54020475",
+      "externalIds": {
+        "wikidata": "Q54020475"
+      },
+      "kind": "movie",
+      "title": "Tough as They Come",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by William Nigh",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54020475"
+      ]
+    },
+    {
+      "id": "wikidata-Q65032574",
+      "externalIds": {
+        "wikidata": "Q65032574"
+      },
+      "kind": "movie",
+      "title": "Vengeance of the West",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Lambert Hillyer",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65032574"
+      ]
+    },
+    {
+      "id": "wikidata-Q73536422",
+      "externalIds": {
+        "wikidata": "Q73536422"
+      },
+      "kind": "movie",
+      "title": "We Serve",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 British short film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q73536422"
+      ]
+    },
+    {
+      "id": "wikidata-Q76488870",
+      "externalIds": {
+        "wikidata": "Q76488870"
+      },
+      "kind": "movie",
+      "title": "Underground Agent",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Michael Gordon",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q76488870"
+      ]
+    },
+    {
+      "id": "wikidata-Q110643863",
+      "externalIds": {
+        "wikidata": "Q110643863"
+      },
+      "kind": "movie",
+      "title": "Tramp, Tramp, Tramp (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q110643863"
+      ]
+    },
+    {
+      "id": "wikidata-Q10714791",
+      "externalIds": {
+        "wikidata": "Q10714791"
+      },
+      "kind": "movie",
+      "title": "We House Slaves",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10714791"
+      ]
+    },
+    {
+      "id": "wikidata-Q20819883",
+      "externalIds": {
+        "wikidata": "Q20819883"
+      },
+      "kind": "movie",
+      "title": "We'll Know By Midnight",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20819883"
+      ]
+    },
+    {
+      "id": "wikidata-Q4013846",
+      "externalIds": {
+        "wikidata": "Q4013846"
+      },
+      "kind": "movie",
+      "title": "Violets in Their Hair",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4013846"
+      ]
+    },
+    {
+      "id": "wikidata-Q101242885",
+      "externalIds": {
+        "wikidata": "Q101242885"
+      },
+      "kind": "movie",
+      "title": "Voice of the Heart (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "(1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101242885"
+      ]
+    },
+    {
+      "id": "wikidata-Q1212587",
+      "externalIds": {
+        "wikidata": "Q1212587"
+      },
+      "kind": "movie",
+      "title": "Woman of the Year",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by George Stevens",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1212587"
+      ]
+    },
+    {
+      "id": "wikidata-Q1321622",
+      "externalIds": {
+        "wikidata": "Q1321622"
+      },
+      "kind": "movie",
+      "title": "Yankee Doodle Dandy",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Michael Curtiz",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1321622"
+      ]
+    },
+    {
+      "id": "wikidata-Q3567280",
+      "externalIds": {
+        "wikidata": "Q3567280"
+      },
+      "kind": "movie",
+      "title": "Went the Day Well?",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 British film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3567280"
+      ]
+    },
+    {
+      "id": "wikidata-Q1262492",
+      "externalIds": {
+        "wikidata": "Q1262492"
+      },
+      "kind": "movie",
+      "title": "You Were Never Lovelier",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 musical romantic comedy film by William A. Seiter",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1262492"
+      ]
+    },
+    {
+      "id": "wikidata-Q3543731",
+      "externalIds": {
+        "wikidata": "Q3543731"
+      },
+      "kind": "movie",
+      "title": "Who Done It? (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Erle C. Kenton",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3543731"
+      ]
+    },
+    {
+      "id": "wikidata-Q8032301",
+      "externalIds": {
+        "wikidata": "Q8032301"
+      },
+      "kind": "movie",
+      "title": "Wood for War",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8032301"
+      ]
+    },
+    {
+      "id": "wikidata-Q2584753",
+      "externalIds": {
+        "wikidata": "Q2584753"
+      },
+      "kind": "movie",
+      "title": "Winning Your Wings",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by John Huston",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2584753"
+      ]
+    },
+    {
+      "id": "wikidata-Q3531519",
+      "externalIds": {
+        "wikidata": "Q3531519"
+      },
+      "kind": "movie",
+      "title": "White Cargo",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 American drama film by Richard Thorpe",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3531519"
+      ]
+    },
+    {
+      "id": "wikidata-Q7990897",
+      "externalIds": {
+        "wikidata": "Q7990897"
+      },
+      "kind": "movie",
+      "title": "What's the Matador?",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 American short film by Jules White",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7990897"
+      ]
+    },
+    {
+      "id": "wikidata-Q7997081",
+      "externalIds": {
+        "wikidata": "Q7997081"
+      },
+      "kind": "movie",
+      "title": "Who's Who in the Zoo",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 American film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7997081"
+      ]
+    },
+    {
+      "id": "wikidata-Q7992635",
+      "externalIds": {
+        "wikidata": "Q7992635"
+      },
+      "kind": "movie",
+      "title": "When Johnny Comes Marching Home (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Charles Lamont",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7992635"
+      ]
+    },
+    {
+      "id": "wikidata-Q7990748",
+      "externalIds": {
+        "wikidata": "Q7990748"
+      },
+      "kind": "movie",
+      "title": "What's Cookin'?",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Edward F. Cline",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7990748"
+      ]
+    },
+    {
+      "id": "wikidata-Q2720629",
+      "externalIds": {
+        "wikidata": "Q2720629"
+      },
+      "kind": "movie",
+      "title": "Zeven jongens en een oude schuit",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Dutch film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2720629"
+      ]
+    },
+    {
+      "id": "wikidata-Q3734977",
+      "externalIds": {
+        "wikidata": "Q3734977"
+      },
+      "kind": "movie",
+      "title": "You're a Sap, Mr. Jap",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Dan Gordon",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3734977"
+      ]
+    },
+    {
+      "id": "wikidata-Q8042757",
+      "externalIds": {
+        "wikidata": "Q8042757"
+      },
+      "kind": "movie",
+      "title": "X Marks the Spot (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by George Sherman",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8042757"
+      ]
+    },
+    {
+      "id": "wikidata-Q12132406",
+      "externalIds": {
+        "wikidata": "Q12132406"
+      },
+      "kind": "movie",
+      "title": "Western Mail (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Robert Emmett Tansey",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12132406"
+      ]
+    },
+    {
+      "id": "wikidata-Q7994081",
+      "externalIds": {
+        "wikidata": "Q7994081"
+      },
+      "kind": "movie",
+      "title": "Whistling in Dixie",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by S. Sylvan Simon",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7994081"
+      ]
+    },
+    {
+      "id": "wikidata-Q8073044",
+      "externalIds": {
+        "wikidata": "Q8073044"
+      },
+      "kind": "movie",
+      "title": "Zlaté dno",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8073044"
+      ]
+    },
+    {
+      "id": "wikidata-Q8037700",
+      "externalIds": {
+        "wikidata": "Q8037700"
+      },
+      "kind": "movie",
+      "title": "Wrecking Crew (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 American film by Frank McDonald",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8037700"
+      ]
+    },
+    {
+      "id": "wikidata-Q7989805",
+      "externalIds": {
+        "wikidata": "Q7989805"
+      },
+      "kind": "movie",
+      "title": "Westward Ho (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7989805"
+      ]
+    },
+    {
+      "id": "wikidata-Q7993621",
+      "externalIds": {
+        "wikidata": "Q7993621"
+      },
+      "kind": "movie",
+      "title": "While There Is Still Time",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Australian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7993621"
+      ]
+    },
+    {
+      "id": "wikidata-Q8069859",
+      "externalIds": {
+        "wikidata": "Q8069859"
+      },
+      "kind": "movie",
+      "title": "Zevar",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Indian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8069859"
+      ]
+    },
+    {
+      "id": "wikidata-Q12135953",
+      "externalIds": {
+        "wikidata": "Q12135953"
+      },
+      "kind": "movie",
+      "title": "Youth on Parade",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Albert S. Rogell",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12135953"
+      ]
+    },
+    {
+      "id": "wikidata-Q3793382",
+      "externalIds": {
+        "wikidata": "Q3793382"
+      },
+      "kind": "movie",
+      "title": "Wild Bill Hickok Rides",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Ray Enright",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3793382"
+      ]
+    },
+    {
+      "id": "wikidata-Q2558829",
+      "externalIds": {
+        "wikidata": "Q2558829"
+      },
+      "kind": "movie",
+      "title": "Whom the Gods Love (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Austrian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2558829"
+      ]
+    },
+    {
+      "id": "wikidata-Q3358129",
+      "externalIds": {
+        "wikidata": "Q3358129"
+      },
+      "kind": "movie",
+      "title": "Yes, Madam (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3358129"
+      ]
+    },
+    {
+      "id": "wikidata-Q19881769",
+      "externalIds": {
+        "wikidata": "Q19881769"
+      },
+      "kind": "movie",
+      "title": "West of Tombstone",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Howard Bretherton",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19881769"
+      ]
+    },
+    {
+      "id": "wikidata-Q19881833",
+      "externalIds": {
+        "wikidata": "Q19881833"
+      },
+      "kind": "movie",
+      "title": "Wildcat (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Frank McDonald",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19881833"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814906",
+      "externalIds": {
+        "wikidata": "Q20814906"
+      },
+      "kind": "movie",
+      "title": "Wings for the Eagle",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Lloyd Bacon",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814906"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814902",
+      "externalIds": {
+        "wikidata": "Q20814902"
+      },
+      "kind": "movie",
+      "title": "Whispering Ghosts",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Alfred L. Werker",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814902"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814911",
+      "externalIds": {
+        "wikidata": "Q20814911"
+      },
+      "kind": "movie",
+      "title": "You Can't Escape Forever",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Jo Graham",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814911"
+      ]
+    },
+    {
+      "id": "wikidata-Q1622546",
+      "externalIds": {
+        "wikidata": "Q1622546"
+      },
+      "kind": "movie",
+      "title": "Wedding in Barenhof",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film directed by Carl Froelich",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1622546"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528233",
+      "externalIds": {
+        "wikidata": "Q21528233"
+      },
+      "kind": "movie",
+      "title": "Who Is Hope Schuyler?",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528233"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528258",
+      "externalIds": {
+        "wikidata": "Q21528258"
+      },
+      "kind": "movie",
+      "title": "Young America (1942 film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Louis King",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528258"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528257",
+      "externalIds": {
+        "wikidata": "Q21528257"
+      },
+      "kind": "movie",
+      "title": "Yokel Boy",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film by Joseph Santley",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528257"
+      ]
+    },
+    {
+      "id": "wikidata-Q22947845",
+      "externalIds": {
+        "wikidata": "Q22947845"
+      },
+      "kind": "movie",
+      "title": "Women Are Warriors",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Canadian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22947845"
+      ]
+    },
+    {
+      "id": "wikidata-Q112477",
+      "externalIds": {
+        "wikidata": "Q112477"
+      },
+      "kind": "movie",
+      "title": "Wedding Day (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Italian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q112477"
+      ]
+    },
+    {
+      "id": "wikidata-Q65087736",
+      "externalIds": {
+        "wikidata": "Q65087736"
+      },
+      "kind": "movie",
+      "title": "You're Telling Me (film)",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film directed by Charles Lamont",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65087736"
+      ]
+    },
+    {
+      "id": "wikidata-Q77890349",
+      "externalIds": {
+        "wikidata": "Q77890349"
+      },
+      "kind": "movie",
+      "title": "With the Eyes of a Woman",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q77890349"
+      ]
+    },
+    {
+      "id": "wikidata-Q3798546",
+      "externalIds": {
+        "wikidata": "Q3798546"
+      },
+      "kind": "movie",
+      "title": "Yellow Hell",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 Italian film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3798546"
+      ]
+    },
+    {
+      "id": "wikidata-Q76655593",
+      "externalIds": {
+        "wikidata": "Q76655593"
+      },
+      "kind": "movie",
+      "title": "Where Trails End",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q76655593"
+      ]
+    },
+    {
+      "id": "wikidata-Q83737367",
+      "externalIds": {
+        "wikidata": "Q83737367"
+      },
+      "kind": "movie",
+      "title": "West of the Law",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American Western film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q83737367"
+      ]
+    },
+    {
+      "id": "wikidata-Q21427761",
+      "externalIds": {
+        "wikidata": "Q21427761"
+      },
+      "kind": "movie",
+      "title": "White Patrol",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film directed by Christian Chamborant",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21427761"
+      ]
+    },
+    {
+      "id": "wikidata-Q22328644",
+      "externalIds": {
+        "wikidata": "Q22328644"
+      },
+      "kind": "movie",
+      "title": "When the Stars Travel",
+      "year": 1942,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1942 film",
+      "batchId": "wikidata-films-1942-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22328644"
+      ]
+    }
+  ]
+}

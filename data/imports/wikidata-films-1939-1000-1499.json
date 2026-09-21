@@ -1,0 +1,2554 @@
+{
+  "id": "wikidata-films-1939-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1939,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q2452669",
+      "externalIds": {
+        "wikidata": "Q2452669"
+      },
+      "kind": "movie",
+      "title": "Verbena Tragica",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2452669"
+      ]
+    },
+    {
+      "id": "wikidata-Q7846410",
+      "externalIds": {
+        "wikidata": "Q7846410"
+      },
+      "kind": "movie",
+      "title": "Trouble Brewing (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 British film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7846410"
+      ]
+    },
+    {
+      "id": "wikidata-Q1194224",
+      "externalIds": {
+        "wikidata": "Q1194224"
+      },
+      "kind": "movie",
+      "title": "Tower of London (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Rowland V. Lee",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1194224"
+      ]
+    },
+    {
+      "id": "wikidata-Q1930992",
+      "externalIds": {
+        "wikidata": "Q1930992"
+      },
+      "kind": "movie",
+      "title": "Union Pacific (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Cecil B. DeMille",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1930992"
+      ]
+    },
+    {
+      "id": "wikidata-Q611081",
+      "externalIds": {
+        "wikidata": "Q611081"
+      },
+      "kind": "movie",
+      "title": "Twelve Women",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Argentine film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q611081"
+      ]
+    },
+    {
+      "id": "wikidata-Q7857590",
+      "externalIds": {
+        "wikidata": "Q7857590"
+      },
+      "kind": "movie",
+      "title": "Twelve Crowded Hours",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Lew Landers",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7857590"
+      ]
+    },
+    {
+      "id": "wikidata-Q690783",
+      "externalIds": {
+        "wikidata": "Q690783"
+      },
+      "kind": "movie",
+      "title": "Topper Takes a Trip",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Norman Z. McLeod",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q690783"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208680",
+      "externalIds": {
+        "wikidata": "Q3208680"
+      },
+      "kind": "movie",
+      "title": "Trade Winds (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by Tay Garnett",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208680"
+      ]
+    },
+    {
+      "id": "wikidata-Q12129764",
+      "externalIds": {
+        "wikidata": "Q12129764"
+      },
+      "kind": "movie",
+      "title": "Trigger Pals",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12129764"
+      ]
+    },
+    {
+      "id": "wikidata-Q7827364",
+      "externalIds": {
+        "wikidata": "Q7827364"
+      },
+      "kind": "movie",
+      "title": "Torture Ship",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Victor Hugo Halperin",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7827364"
+      ]
+    },
+    {
+      "id": "wikidata-Q7833040",
+      "externalIds": {
+        "wikidata": "Q7833040"
+      },
+      "kind": "movie",
+      "title": "Traitor Spy",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Walter Summers",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7833040"
+      ]
+    },
+    {
+      "id": "wikidata-Q16255094",
+      "externalIds": {
+        "wikidata": "Q16255094"
+      },
+      "kind": "movie",
+      "title": "Vara Vikrayam (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Indian film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16255094"
+      ]
+    },
+    {
+      "id": "wikidata-Q7876303",
+      "externalIds": {
+        "wikidata": "Q7876303"
+      },
+      "kind": "movie",
+      "title": "U pokladny stál...",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Czechoslovak comedy film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7876303"
+      ]
+    },
+    {
+      "id": "wikidata-Q10935148",
+      "externalIds": {
+        "wikidata": "Q10935148"
+      },
+      "kind": "movie",
+      "title": "Ulice zpívá",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Czech comedy film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10935148"
+      ]
+    },
+    {
+      "id": "wikidata-Q7852439",
+      "externalIds": {
+        "wikidata": "Q7852439"
+      },
+      "kind": "movie",
+      "title": "Tulák Macoun",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7852439"
+      ]
+    },
+    {
+      "id": "wikidata-Q7823809",
+      "externalIds": {
+        "wikidata": "Q7823809"
+      },
+      "kind": "movie",
+      "title": "Too Dangerous to Live",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 British film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7823809"
+      ]
+    },
+    {
+      "id": "wikidata-Q7897103",
+      "externalIds": {
+        "wikidata": "Q7897103"
+      },
+      "kind": "movie",
+      "title": "Unmarried (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Kurt Neumann",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7897103"
+      ]
+    },
+    {
+      "id": "wikidata-Q7849914",
+      "externalIds": {
+        "wikidata": "Q7849914"
+      },
+      "kind": "movie",
+      "title": "Tsuchi (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Japanese film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7849914"
+      ]
+    },
+    {
+      "id": "wikidata-Q7899219",
+      "externalIds": {
+        "wikidata": "Q7899219"
+      },
+      "kind": "movie",
+      "title": "Uproar in Damascus",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 German film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7899219"
+      ]
+    },
+    {
+      "id": "wikidata-Q17026632",
+      "externalIds": {
+        "wikidata": "Q17026632"
+      },
+      "kind": "movie",
+      "title": "Torchy Blane in Chinatown",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by William Beaudine",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17026632"
+      ]
+    },
+    {
+      "id": "wikidata-Q3625584",
+      "externalIds": {
+        "wikidata": "Q3625584"
+      },
+      "kind": "movie",
+      "title": "Unjustified Absence",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film directed by Max Neufeld",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3625584"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155337",
+      "externalIds": {
+        "wikidata": "Q18155337"
+      },
+      "kind": "movie",
+      "title": "Trouble in Sundown",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 US film directed by David Howard",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155337"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155394",
+      "externalIds": {
+        "wikidata": "Q18155394"
+      },
+      "kind": "movie",
+      "title": "Two Thoroughbreds",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 American film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155394"
+      ]
+    },
+    {
+      "id": "wikidata-Q19600195",
+      "externalIds": {
+        "wikidata": "Q19600195"
+      },
+      "kind": "movie",
+      "title": "V pokušení",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Czech film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19600195"
+      ]
+    },
+    {
+      "id": "wikidata-Q19600257",
+      "externalIds": {
+        "wikidata": "Q19600257"
+      },
+      "kind": "movie",
+      "title": "Veselá bída",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Czech film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19600257"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363936",
+      "externalIds": {
+        "wikidata": "Q19363936"
+      },
+      "kind": "movie",
+      "title": "Too Busy to Work (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Otto Brower",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363936"
+      ]
+    },
+    {
+      "id": "wikidata-Q3557818",
+      "externalIds": {
+        "wikidata": "Q3557818"
+      },
+      "kind": "movie",
+      "title": "Vidocq (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 French historical crime film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3557818"
+      ]
+    },
+    {
+      "id": "wikidata-Q20002669",
+      "externalIds": {
+        "wikidata": "Q20002669"
+      },
+      "kind": "movie",
+      "title": "Una luz en mi camino",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Mexican film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20002669"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650009",
+      "externalIds": {
+        "wikidata": "Q20650009"
+      },
+      "kind": "movie",
+      "title": "Unexpected Father",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Charles Lamont",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650009"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650007",
+      "externalIds": {
+        "wikidata": "Q20650007"
+      },
+      "kind": "movie",
+      "title": "Undercover Doctor",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Louis King",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650007"
+      ]
+    },
+    {
+      "id": "wikidata-Q20949998",
+      "externalIds": {
+        "wikidata": "Q20949998"
+      },
+      "kind": "movie",
+      "title": "Torchy Runs for Mayor",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Ray McCarey",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20949998"
+      ]
+    },
+    {
+      "id": "wikidata-Q20949997",
+      "externalIds": {
+        "wikidata": "Q20949997"
+      },
+      "kind": "movie",
+      "title": "Torchy Blane... Playing with Dynamite",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Noel M. Smith",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20949997"
+      ]
+    },
+    {
+      "id": "wikidata-Q22909490",
+      "externalIds": {
+        "wikidata": "Q22909490"
+      },
+      "kind": "movie",
+      "title": "Tropic Fury",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Christy Cabanne",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22909490"
+      ]
+    },
+    {
+      "id": "wikidata-Q25136291",
+      "externalIds": {
+        "wikidata": "Q25136291"
+      },
+      "kind": "movie",
+      "title": "Trigger Fingers (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25136291"
+      ]
+    },
+    {
+      "id": "wikidata-Q27590338",
+      "externalIds": {
+        "wikidata": "Q27590338"
+      },
+      "kind": "movie",
+      "title": "Trunk Crime",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 British film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27590338"
+      ]
+    },
+    {
+      "id": "wikidata-Q10609553",
+      "externalIds": {
+        "wikidata": "Q10609553"
+      },
+      "kind": "movie",
+      "title": "Variety Is the Spice of Life",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Swedish film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10609553"
+      ]
+    },
+    {
+      "id": "wikidata-Q39049106",
+      "externalIds": {
+        "wikidata": "Q39049106"
+      },
+      "kind": "movie",
+      "title": "Twelve Minutes After Midnight",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film directed by Johannes Guter",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q39049106"
+      ]
+    },
+    {
+      "id": "wikidata-Q48674299",
+      "externalIds": {
+        "wikidata": "Q48674299"
+      },
+      "kind": "movie",
+      "title": "Undercover Agent",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film directed by Howard Bretherton",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48674299"
+      ]
+    },
+    {
+      "id": "wikidata-Q28493890",
+      "externalIds": {
+        "wikidata": "Q28493890"
+      },
+      "kind": "movie",
+      "title": "Unknown of Monte Carlo",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28493890"
+      ]
+    },
+    {
+      "id": "wikidata-Q4189193",
+      "externalIds": {
+        "wikidata": "Q4189193"
+      },
+      "kind": "movie",
+      "title": "Tractor Drivers",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Soviet film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4189193"
+      ]
+    },
+    {
+      "id": "wikidata-Q56241174",
+      "externalIds": {
+        "wikidata": "Q56241174"
+      },
+      "kind": "movie",
+      "title": "Two Bright Boys",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 American film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56241174"
+      ]
+    },
+    {
+      "id": "wikidata-Q65054531",
+      "externalIds": {
+        "wikidata": "Q65054531"
+      },
+      "kind": "movie",
+      "title": "Trapped in the Sky (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 American film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65054531"
+      ]
+    },
+    {
+      "id": "wikidata-Q3716004",
+      "externalIds": {
+        "wikidata": "Q3716004"
+      },
+      "kind": "movie",
+      "title": "Two Million for a Smile",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Italian film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3716004"
+      ]
+    },
+    {
+      "id": "wikidata-Q23368937",
+      "externalIds": {
+        "wikidata": "Q23368937"
+      },
+      "kind": "movie",
+      "title": "Two-Fisted Rangers",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Joseph H. Lewis",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23368937"
+      ]
+    },
+    {
+      "id": "wikidata-Q59280716",
+      "externalIds": {
+        "wikidata": "Q59280716"
+      },
+      "kind": "movie",
+      "title": "Veera Ramani",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Indian film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q59280716"
+      ]
+    },
+    {
+      "id": "wikidata-Q85811271",
+      "externalIds": {
+        "wikidata": "Q85811271"
+      },
+      "kind": "movie",
+      "title": "Two Gun Troubador",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 American film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85811271"
+      ]
+    },
+    {
+      "id": "wikidata-Q113800697",
+      "externalIds": {
+        "wikidata": "Q113800697"
+      },
+      "kind": "movie",
+      "title": "Two Girls on the Street",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by André de Toth",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q113800697"
+      ]
+    },
+    {
+      "id": "wikidata-Q13009061",
+      "externalIds": {
+        "wikidata": "Q13009061"
+      },
+      "kind": "movie",
+      "title": "Vande Mataram (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Indian film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q13009061"
+      ]
+    },
+    {
+      "id": "wikidata-Q137589966",
+      "externalIds": {
+        "wikidata": "Q137589966"
+      },
+      "kind": "movie",
+      "title": "Trigger Smith",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 American film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q137589966"
+      ]
+    },
+    {
+      "id": "wikidata-Q3965246",
+      "externalIds": {
+        "wikidata": "Q3965246"
+      },
+      "kind": "movie",
+      "title": "Ursula Under Suspicion",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film directed by Karlheinz Martin",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3965246"
+      ]
+    },
+    {
+      "id": "wikidata-Q1140611",
+      "externalIds": {
+        "wikidata": "Q1140611"
+      },
+      "kind": "movie",
+      "title": "Wuthering Heights (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by William Wyler",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1140611"
+      ]
+    },
+    {
+      "id": "wikidata-Q8057005",
+      "externalIds": {
+        "wikidata": "Q8057005"
+      },
+      "kind": "movie",
+      "title": "You Can't Cheat an Honest Man",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film directed by George Marshall",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8057005"
+      ]
+    },
+    {
+      "id": "wikidata-Q8053806",
+      "externalIds": {
+        "wikidata": "Q8053806"
+      },
+      "kind": "movie",
+      "title": "Yip Yip Yippy",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 American film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8053806"
+      ]
+    },
+    {
+      "id": "wikidata-Q12132396",
+      "externalIds": {
+        "wikidata": "Q12132396"
+      },
+      "kind": "movie",
+      "title": "We Want Our Mummy",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Del Lord",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12132396"
+      ]
+    },
+    {
+      "id": "wikidata-Q3784271",
+      "externalIds": {
+        "wikidata": "Q3784271"
+      },
+      "kind": "movie",
+      "title": "Wyoming Outlaw",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3784271"
+      ]
+    },
+    {
+      "id": "wikidata-Q8052726",
+      "externalIds": {
+        "wikidata": "Q8052726"
+      },
+      "kind": "movie",
+      "title": "Yes, We Have No Bonanza",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Del Lord",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8052726"
+      ]
+    },
+    {
+      "id": "wikidata-Q3878138",
+      "externalIds": {
+        "wikidata": "Q3878138"
+      },
+      "kind": "movie",
+      "title": "We Are Not Alone (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Edmund Goulding",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3878138"
+      ]
+    },
+    {
+      "id": "wikidata-Q3731107",
+      "externalIds": {
+        "wikidata": "Q3731107"
+      },
+      "kind": "movie",
+      "title": "We Were Seven Sisters",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3731107"
+      ]
+    },
+    {
+      "id": "wikidata-Q3731109",
+      "externalIds": {
+        "wikidata": "Q3731109"
+      },
+      "kind": "movie",
+      "title": "We Were Seven Widows",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3731109"
+      ]
+    },
+    {
+      "id": "wikidata-Q8027462",
+      "externalIds": {
+        "wikidata": "Q8027462"
+      },
+      "kind": "movie",
+      "title": "Wise Quacks",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Robert Clampett",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8027462"
+      ]
+    },
+    {
+      "id": "wikidata-Q7999453",
+      "externalIds": {
+        "wikidata": "Q7999453"
+      },
+      "kind": "movie",
+      "title": "Wife, Husband and Friend",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Gregory Ratoff",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7999453"
+      ]
+    },
+    {
+      "id": "wikidata-Q2321544",
+      "externalIds": {
+        "wikidata": "Q2321544"
+      },
+      "kind": "movie",
+      "title": "Wings of the Navy",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Lloyd Bacon",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2321544"
+      ]
+    },
+    {
+      "id": "wikidata-Q7962611",
+      "externalIds": {
+        "wikidata": "Q7962611"
+      },
+      "kind": "movie",
+      "title": "Wall Street Cowboy",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7962611"
+      ]
+    },
+    {
+      "id": "wikidata-Q7973362",
+      "externalIds": {
+        "wikidata": "Q7973362"
+      },
+      "kind": "movie",
+      "title": "Water Rustlers",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7973362"
+      ]
+    },
+    {
+      "id": "wikidata-Q7975772",
+      "externalIds": {
+        "wikidata": "Q7975772"
+      },
+      "kind": "movie",
+      "title": "Way Down South (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Leslie Goodwins, Bernard Vorhaus",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7975772"
+      ]
+    },
+    {
+      "id": "wikidata-Q7991451",
+      "externalIds": {
+        "wikidata": "Q7991451"
+      },
+      "kind": "movie",
+      "title": "What Would You Do, Chums?",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 British film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7991451"
+      ]
+    },
+    {
+      "id": "wikidata-Q666077",
+      "externalIds": {
+        "wikidata": "Q666077"
+      },
+      "kind": "movie",
+      "title": "When Tomorrow Comes (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 romantic drama film by John M. Stahl",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q666077"
+      ]
+    },
+    {
+      "id": "wikidata-Q15916442",
+      "externalIds": {
+        "wikidata": "Q15916442"
+      },
+      "kind": "movie",
+      "title": "Yes, My Darling Daughter (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by William Keighley",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15916442"
+      ]
+    },
+    {
+      "id": "wikidata-Q7993824",
+      "externalIds": {
+        "wikidata": "Q7993824"
+      },
+      "kind": "movie",
+      "title": "Whirlwind of Paris",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7993824"
+      ]
+    },
+    {
+      "id": "wikidata-Q1760041",
+      "externalIds": {
+        "wikidata": "Q1760041"
+      },
+      "kind": "movie",
+      "title": "Whalers (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1760041"
+      ]
+    },
+    {
+      "id": "wikidata-Q16250870",
+      "externalIds": {
+        "wikidata": "Q16250870"
+      },
+      "kind": "movie",
+      "title": "Walang Sugat",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1898 zarzuela play by Severino Reyes",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16250870"
+      ]
+    },
+    {
+      "id": "wikidata-Q1301617",
+      "externalIds": {
+        "wikidata": "Q1301617"
+      },
+      "kind": "movie",
+      "title": "Water for Canitoga",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1301617"
+      ]
+    },
+    {
+      "id": "wikidata-Q8031581",
+      "externalIds": {
+        "wikidata": "Q8031581"
+      },
+      "kind": "movie",
+      "title": "Women in the Wind",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film directed by John Farrow",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8031581"
+      ]
+    },
+    {
+      "id": "wikidata-Q8026205",
+      "externalIds": {
+        "wikidata": "Q8026205"
+      },
+      "kind": "movie",
+      "title": "Winter Carnival (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Charles Reisner",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8026205"
+      ]
+    },
+    {
+      "id": "wikidata-Q12132392",
+      "externalIds": {
+        "wikidata": "Q12132392"
+      },
+      "kind": "movie",
+      "title": "Waterfront (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Terry O. Morse",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12132392"
+      ]
+    },
+    {
+      "id": "wikidata-Q17039536",
+      "externalIds": {
+        "wikidata": "Q17039536"
+      },
+      "kind": "movie",
+      "title": "Woman at the Wheel",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17039536"
+      ]
+    },
+    {
+      "id": "wikidata-Q17065746",
+      "externalIds": {
+        "wikidata": "Q17065746"
+      },
+      "kind": "movie",
+      "title": "Wibbel the Tailor (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17065746"
+      ]
+    },
+    {
+      "id": "wikidata-Q3934666",
+      "externalIds": {
+        "wikidata": "Q3934666"
+      },
+      "kind": "movie",
+      "title": "Wealth Without a Future",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3934666"
+      ]
+    },
+    {
+      "id": "wikidata-Q18210220",
+      "externalIds": {
+        "wikidata": "Q18210220"
+      },
+      "kind": "movie",
+      "title": "Woman in the River",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 German film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18210220"
+      ]
+    },
+    {
+      "id": "wikidata-Q13423925",
+      "externalIds": {
+        "wikidata": "Q13423925"
+      },
+      "kind": "movie",
+      "title": "Within the Law (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Gustav Machatý",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q13423925"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363998",
+      "externalIds": {
+        "wikidata": "Q19363998"
+      },
+      "kind": "movie",
+      "title": "Winner Take All (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Otto Brower",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363998"
+      ]
+    },
+    {
+      "id": "wikidata-Q3567639",
+      "externalIds": {
+        "wikidata": "Q3567639"
+      },
+      "kind": "movie",
+      "title": "What a Life (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Theodore Reed",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3567639"
+      ]
+    },
+    {
+      "id": "wikidata-Q1520997",
+      "externalIds": {
+        "wikidata": "Q1520997"
+      },
+      "kind": "movie",
+      "title": "We Danced Around the World",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1520997"
+      ]
+    },
+    {
+      "id": "wikidata-Q27959479",
+      "externalIds": {
+        "wikidata": "Q27959479"
+      },
+      "kind": "movie",
+      "title": "Who Are You? (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Italian film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27959479"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528246",
+      "externalIds": {
+        "wikidata": "Q21528246"
+      },
+      "kind": "movie",
+      "title": "Woman Doctor",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 American film directed by Sidney Salkow",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528246"
+      ]
+    },
+    {
+      "id": "wikidata-Q47012698",
+      "externalIds": {
+        "wikidata": "Q47012698"
+      },
+      "kind": "movie",
+      "title": "Who's Kissing Madeleine?",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q47012698"
+      ]
+    },
+    {
+      "id": "wikidata-Q4367930",
+      "externalIds": {
+        "wikidata": "Q4367930"
+      },
+      "kind": "movie",
+      "title": "Virgin Soil Upturned (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 Soviet film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4367930"
+      ]
+    },
+    {
+      "id": "wikidata-Q3822112",
+      "externalIds": {
+        "wikidata": "Q3822112"
+      },
+      "kind": "movie",
+      "title": "Woman Without a Past (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film directed by Nunzio Malasomma",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3822112"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019495",
+      "externalIds": {
+        "wikidata": "Q4019495"
+      },
+      "kind": "movie",
+      "title": "Whispering Enemies",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019495"
+      ]
+    },
+    {
+      "id": "wikidata-Q83726637",
+      "externalIds": {
+        "wikidata": "Q83726637"
+      },
+      "kind": "movie",
+      "title": "Western Caravans",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Sam Nelson",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q83726637"
+      ]
+    },
+    {
+      "id": "wikidata-Q83699527",
+      "externalIds": {
+        "wikidata": "Q83699527"
+      },
+      "kind": "movie",
+      "title": "Westbound Stage",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 American film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q83699527"
+      ]
+    },
+    {
+      "id": "wikidata-Q4006139",
+      "externalIds": {
+        "wikidata": "Q4006139"
+      },
+      "kind": "movie",
+      "title": "Wolf Call (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 adventure film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4006139"
+      ]
+    },
+    {
+      "id": "wikidata-Q3560498",
+      "externalIds": {
+        "wikidata": "Q3560498"
+      },
+      "kind": "movie",
+      "title": "Violons d'Ingres",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 French film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3560498"
+      ]
+    },
+    {
+      "id": "wikidata-Q10480190",
+      "externalIds": {
+        "wikidata": "Q10480190"
+      },
+      "kind": "movie",
+      "title": "Wanted (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10480190"
+      ]
+    },
+    {
+      "id": "wikidata-Q10714812",
+      "externalIds": {
+        "wikidata": "Q10714812"
+      },
+      "kind": "movie",
+      "title": "We at Solglantan",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10714812"
+      ]
+    },
+    {
+      "id": "wikidata-Q113974736",
+      "externalIds": {
+        "wikidata": "Q113974736"
+      },
+      "kind": "movie",
+      "title": "Wedding in Toprin",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q113974736"
+      ]
+    },
+    {
+      "id": "wikidata-Q1029579",
+      "externalIds": {
+        "wikidata": "Q1029579"
+      },
+      "kind": "movie",
+      "title": "Wildflowers of Gyimes",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1029579"
+      ]
+    },
+    {
+      "id": "wikidata-Q123587131",
+      "externalIds": {
+        "wikidata": "Q123587131"
+      },
+      "kind": "movie",
+      "title": "Wild Rose (1939 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q123587131"
+      ]
+    },
+    {
+      "id": "wikidata-Q5474196",
+      "externalIds": {
+        "wikidata": "Q5474196"
+      },
+      "kind": "movie",
+      "title": "Vihtori ja Klaara",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Teuvo Tulio",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5474196"
+      ]
+    },
+    {
+      "id": "wikidata-Q130639286",
+      "externalIds": {
+        "wikidata": "Q130639286"
+      },
+      "kind": "movie",
+      "title": "With Villa's Veterans",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q130639286"
+      ]
+    },
+    {
+      "id": "wikidata-Q279284",
+      "externalIds": {
+        "wikidata": "Q279284"
+      },
+      "kind": "movie",
+      "title": "Young Mr. Lincoln",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by John Ford",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q279284"
+      ]
+    },
+    {
+      "id": "wikidata-Q189687",
+      "externalIds": {
+        "wikidata": "Q189687"
+      },
+      "kind": "movie",
+      "title": "Zenobia (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Gordon Douglas",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q189687"
+      ]
+    },
+    {
+      "id": "wikidata-Q2249192",
+      "externalIds": {
+        "wikidata": "Q2249192"
+      },
+      "kind": "movie",
+      "title": "Zorro's Fighting Legion",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by John English, William Witney",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2249192"
+      ]
+    },
+    {
+      "id": "wikidata-Q4989319",
+      "externalIds": {
+        "wikidata": "Q4989319"
+      },
+      "kind": "movie",
+      "title": "Zaza (1938 film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1938 film by George Cukor",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4989319"
+      ]
+    },
+    {
+      "id": "wikidata-Q8058267",
+      "externalIds": {
+        "wikidata": "Q8058267"
+      },
+      "kind": "movie",
+      "title": "Young Man's Fancy (film)",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Robert Stevenson",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8058267"
+      ]
+    },
+    {
+      "id": "wikidata-Q3221393",
+      "externalIds": {
+        "wikidata": "Q3221393"
+      },
+      "kind": "movie",
+      "title": "You Can't Get Away with Murder",
+      "year": 1939,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1939 film by Lewis Seiler",
+      "batchId": "wikidata-films-1939-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3221393"
+      ]
+    }
+  ]
+}

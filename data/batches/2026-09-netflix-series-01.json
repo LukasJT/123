@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-netflix-series-01",
+  "purpose": "Add missing recent Netflix series with first-party references and no unverified ratings, runtimes, or poster assets.",
+  "selectionCriteria": "Netflix series identified in first-party 2024 editorial, awards, or engagement reporting with no normalized title/year/type match in the catalog.",
+  "verifiedAt": "2026-09-20",
+  "records": [
+    {"id":842,"title":"3 Body Problem","kind":"tv","year":2024,"sources":["https://www.netflix.com/tudum/articles/most-visited-shows-2024"]},
+    {"id":843,"title":"Baby Reindeer","kind":"tv","year":2024,"sources":["https://www.netflix.com/tudum/articles/most-visited-shows-2024"]},
+    {"id":844,"title":"Griselda","kind":"tv","year":2024,"sources":["https://www.netflix.com/tudum/articles/most-visited-shows-2024"]},
+    {"id":845,"title":"The Gentlemen","kind":"tv","year":2024,"sources":["https://about.netflix.com/en/news/top-10-week-of-apr-8-3-body-problem-spends-third-week-at-1"]},
+    {"id":846,"title":"Ripley","kind":"tv","year":2024,"sources":["https://about.netflix.com/en/news/top-10-week-of-apr-8-3-body-problem-spends-third-week-at-1"]},
+    {"id":847,"title":"Avatar: The Last Airbender","kind":"tv","year":2024,"sources":["https://www.netflix.com/tudum/articles/emmy-nominations-2024"]},
+    {"id":848,"title":"Blue Eye Samurai","kind":"tv","year":2023,"sources":["https://www.netflix.com/tudum/articles/emmy-nominations-2024"]},
+    {"id":849,"title":"Fool Me Once","kind":"tv","year":2024,"sources":["https://www.netflix.com/tudum/articles/most-visited-shows-2024"]},
+    {"id":850,"title":"One Day","kind":"tv","year":2024,"sources":["https://about.netflix.com/en/news/what-we-watched-the-first-half-of-2024"]},
+    {"id":851,"title":"Scoop","kind":"movie","year":2024,"sources":["https://www.netflix.com/tudum/articles/emmy-nominations-2024"]}
+  ],
+  "validation": {"additions":10,"updates":0,"newDuplicateCandidates":0},
+  "limitations": ["No poster URLs, ratings, exact runtimes, episode counts, or availability claims were added."]
+}

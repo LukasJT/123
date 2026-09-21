@@ -2,6 +2,7 @@ const fs = require('fs');
 const vm = require('vm');
 
 const BASE_URL = 'https://123videos.net';
+const SITEMAP_URL_LIMIT = Math.max(1, Number(process.env.SITEMAP_URL_LIMIT || 45000));
 const sandbox = {
   window: {},
   localStorage: { getItem() { return null; }, setItem() {}, removeItem() {} }
@@ -10,12 +11,15 @@ const sandbox = {
 vm.createContext(sandbox);
 vm.runInContext(fs.readFileSync('catalog.js', 'utf8'), sandbox);
 
-const catalog = sandbox.window.catalog || [];
+const catalog = require('./scripts/catalog-loader')();
 const landingPages = fs.existsSync('landing-pages.json')
   ? JSON.parse(fs.readFileSync('landing-pages.json', 'utf8'))
   : [];
 const titlePages = fs.existsSync('title-pages.json')
   ? JSON.parse(fs.readFileSync('title-pages.json', 'utf8'))
+  : [];
+const editorialPages = fs.existsSync('editorial-pages.json')
+  ? JSON.parse(fs.readFileSync('editorial-pages.json', 'utf8'))
   : [];
 const genres = [...new Set(catalog.flatMap(item => item.genres))].sort();
 const years = [...new Set(catalog.map(item => item.year))].sort((a, b) => b - a).slice(0, 12);
@@ -266,6 +270,7 @@ const urls = [
   ...htmlSitemapPages.map(page => url('/' + page, page === 'sitemap.html' ? '0.8' : '0.7', 'weekly')),
   ...landingPages.map(page => url('/' + page.file, '0.9', 'weekly')),
   ...titlePages.map(page => url('/' + page.file, '0.8', 'monthly')),
+  ...editorialPages.map(page => url('/' + page.file, '0.7', 'monthly')),
   ...['action', 'comedy', 'horror', 'drama', 'sci-fi', 'trending', '2024'].map(q =>
     url('/search.html?q=' + encodeURIComponent(q), '0.8', 'daily')
   ),
@@ -275,13 +280,40 @@ const urls = [
 ];
 
 const unique = [...new Map(urls.map(entry => [entry.match(/<loc>(.*?)<\/loc>/)[1], entry])).values()];
-const sitemap = [
-  '<?xml version="1.0" encoding="UTF-8"?>',
-  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
-  ...unique,
-  '</urlset>',
-  ''
-].join('\n');
+for (const file of fs.readdirSync('.').filter(name => /^sitemap-pages-\d+\.xml$/.test(name))) {
+  fs.unlinkSync(file);
+}
 
-fs.writeFileSync('sitemap.xml', sitemap);
-console.log(`Generated sitemap.xml with ${unique.length} URLs.`);
+if (unique.length <= SITEMAP_URL_LIMIT) {
+  const sitemap = [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ...unique,
+    '</urlset>',
+    ''
+  ].join('\n');
+  fs.writeFileSync('sitemap.xml', sitemap);
+  console.log(`Generated sitemap.xml with ${unique.length} URLs.`);
+} else {
+  const sitemapFiles = [];
+  for (let offset = 0; offset < unique.length; offset += SITEMAP_URL_LIMIT) {
+    const file = `sitemap-pages-${Math.floor(offset / SITEMAP_URL_LIMIT) + 1}.xml`;
+    const entries = unique.slice(offset, offset + SITEMAP_URL_LIMIT);
+    fs.writeFileSync(file, [
+      '<?xml version="1.0" encoding="UTF-8"?>',
+      '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+      ...entries,
+      '</urlset>',
+      ''
+    ].join('\n'));
+    sitemapFiles.push(file);
+  }
+  fs.writeFileSync('sitemap.xml', [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ...sitemapFiles.map(file => `  <sitemap><loc>${esc(absolute(file))}</loc></sitemap>`),
+    '</sitemapindex>',
+    ''
+  ].join('\n'));
+  console.log(`Generated sitemap.xml index with ${sitemapFiles.length} files and ${unique.length} URLs.`);
+}

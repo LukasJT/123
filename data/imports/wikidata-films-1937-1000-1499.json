@@ -1,0 +1,6154 @@
+{
+  "id": "wikidata-films-1937-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1937,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q1217867",
+      "externalIds": {
+        "wikidata": "Q1217867"
+      },
+      "kind": "movie",
+      "title": "The Old Mill",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1217867"
+      ]
+    },
+    {
+      "id": "wikidata-Q452235",
+      "externalIds": {
+        "wikidata": "Q452235"
+      },
+      "kind": "movie",
+      "title": "The Man Who Could Work Miracles",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Lothar Mendes",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q452235"
+      ]
+    },
+    {
+      "id": "wikidata-Q2747910",
+      "externalIds": {
+        "wikidata": "Q2747910"
+      },
+      "kind": "movie",
+      "title": "The Painted Stallion",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by William Witney, Ray Taylor, Alan James",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2747910"
+      ]
+    },
+    {
+      "id": "wikidata-Q1193773",
+      "externalIds": {
+        "wikidata": "Q1193773"
+      },
+      "kind": "movie",
+      "title": "The Prisoner of Zenda (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by John Cromwell",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1193773"
+      ]
+    },
+    {
+      "id": "wikidata-Q2028464",
+      "externalIds": {
+        "wikidata": "Q2028464"
+      },
+      "kind": "movie",
+      "title": "The Mysterious Pilot",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Spencer Gordon Bennet",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2028464"
+      ]
+    },
+    {
+      "id": "wikidata-Q2628907",
+      "externalIds": {
+        "wikidata": "Q2628907"
+      },
+      "kind": "movie",
+      "title": "The Prince and the Pauper (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by William Dieterle, William Keighley",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2628907"
+      ]
+    },
+    {
+      "id": "wikidata-Q1591659",
+      "externalIds": {
+        "wikidata": "Q1591659"
+      },
+      "kind": "movie",
+      "title": "The Man Without a Country (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1591659"
+      ]
+    },
+    {
+      "id": "wikidata-Q7757100",
+      "externalIds": {
+        "wikidata": "Q7757100"
+      },
+      "kind": "movie",
+      "title": "The Pigskin Palooka",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7757100"
+      ]
+    },
+    {
+      "id": "wikidata-Q469480",
+      "externalIds": {
+        "wikidata": "Q469480"
+      },
+      "kind": "movie",
+      "title": "The Man Who Was Sherlock Holmes",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 German film directed by Karl Hartl",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q469480"
+      ]
+    },
+    {
+      "id": "wikidata-Q7754945",
+      "externalIds": {
+        "wikidata": "Q7754945"
+      },
+      "kind": "movie",
+      "title": "The Old Wyoming Trail",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Folmar Blangsted",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7754945"
+      ]
+    },
+    {
+      "id": "wikidata-Q7755990",
+      "externalIds": {
+        "wikidata": "Q7755990"
+      },
+      "kind": "movie",
+      "title": "The Paneless Window Washer",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7755990"
+      ]
+    },
+    {
+      "id": "wikidata-Q7755649",
+      "externalIds": {
+        "wikidata": "Q7755649"
+      },
+      "kind": "movie",
+      "title": "The Outer Gate",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Raymond Joseph Cannon",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7755649"
+      ]
+    },
+    {
+      "id": "wikidata-Q653733",
+      "externalIds": {
+        "wikidata": "Q653733"
+      },
+      "kind": "movie",
+      "title": "The Perfect Specimen",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Michael Curtiz",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q653733"
+      ]
+    },
+    {
+      "id": "wikidata-Q2076128",
+      "externalIds": {
+        "wikidata": "Q2076128"
+      },
+      "kind": "movie",
+      "title": "The Plough and the Stars (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2076128"
+      ]
+    },
+    {
+      "id": "wikidata-Q7758145",
+      "externalIds": {
+        "wikidata": "Q7758145"
+      },
+      "kind": "movie",
+      "title": "The Price of Folly",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by Walter Summers",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7758145"
+      ]
+    },
+    {
+      "id": "wikidata-Q7753570",
+      "externalIds": {
+        "wikidata": "Q7753570"
+      },
+      "kind": "movie",
+      "title": "The New Deal Show",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7753570"
+      ]
+    },
+    {
+      "id": "wikidata-Q7752913",
+      "externalIds": {
+        "wikidata": "Q7752913"
+      },
+      "kind": "movie",
+      "title": "The Mystery of the Hooded Horsemen",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7752913"
+      ]
+    },
+    {
+      "id": "wikidata-Q3234529",
+      "externalIds": {
+        "wikidata": "Q3234529"
+      },
+      "kind": "movie",
+      "title": "The Pearls of the Crown",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Christian-Jaque, Sacha Guitry",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3234529"
+      ]
+    },
+    {
+      "id": "wikidata-Q3612439",
+      "externalIds": {
+        "wikidata": "Q3612439"
+      },
+      "kind": "movie",
+      "title": "The Make Believe Pirates",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3612439"
+      ]
+    },
+    {
+      "id": "wikidata-Q7749961",
+      "externalIds": {
+        "wikidata": "Q7749961"
+      },
+      "kind": "movie",
+      "title": "The Man Who Made Diamonds",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7749961"
+      ]
+    },
+    {
+      "id": "wikidata-Q7752808",
+      "externalIds": {
+        "wikidata": "Q7752808"
+      },
+      "kind": "movie",
+      "title": "The Mutiny of the Elsinore (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7752808"
+      ]
+    },
+    {
+      "id": "wikidata-Q7747221",
+      "externalIds": {
+        "wikidata": "Q7747221"
+      },
+      "kind": "movie",
+      "title": "The Life of the Party (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by William A. Seiter",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7747221"
+      ]
+    },
+    {
+      "id": "wikidata-Q7749935",
+      "externalIds": {
+        "wikidata": "Q7749935"
+      },
+      "kind": "movie",
+      "title": "The Man Who Found Himself",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Lew Landers",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7749935"
+      ]
+    },
+    {
+      "id": "wikidata-Q17061064",
+      "externalIds": {
+        "wikidata": "Q17061064"
+      },
+      "kind": "movie",
+      "title": "The Lilac Domino (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17061064"
+      ]
+    },
+    {
+      "id": "wikidata-Q1195896",
+      "externalIds": {
+        "wikidata": "Q1195896"
+      },
+      "kind": "movie",
+      "title": "The Model Husband (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1195896"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155026",
+      "externalIds": {
+        "wikidata": "Q18155026"
+      },
+      "kind": "movie",
+      "title": "The Outcasts of Poker Flat (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Christy Cabanne",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155026"
+      ]
+    },
+    {
+      "id": "wikidata-Q19864424",
+      "externalIds": {
+        "wikidata": "Q19864424"
+      },
+      "kind": "movie",
+      "title": "The Lyin' Mouse",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Isadore Freleng",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19864424"
+      ]
+    },
+    {
+      "id": "wikidata-Q3203678",
+      "externalIds": {
+        "wikidata": "Q3203678"
+      },
+      "kind": "movie",
+      "title": "The Man of the Hour",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 French musical film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3203678"
+      ]
+    },
+    {
+      "id": "wikidata-Q1196194",
+      "externalIds": {
+        "wikidata": "Q1196194"
+      },
+      "kind": "movie",
+      "title": "The Priest from Kirchfeld (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1196194"
+      ]
+    },
+    {
+      "id": "wikidata-Q23999820",
+      "externalIds": {
+        "wikidata": "Q23999820"
+      },
+      "kind": "movie",
+      "title": "The Penny Pool",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23999820"
+      ]
+    },
+    {
+      "id": "wikidata-Q25208179",
+      "externalIds": {
+        "wikidata": "Q25208179"
+      },
+      "kind": "movie",
+      "title": "The Moorish Queen (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Spanish film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25208179"
+      ]
+    },
+    {
+      "id": "wikidata-Q27890517",
+      "externalIds": {
+        "wikidata": "Q27890517"
+      },
+      "kind": "movie",
+      "title": "The Man from Nowhere (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 French film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27890517"
+      ]
+    },
+    {
+      "id": "wikidata-Q27959229",
+      "externalIds": {
+        "wikidata": "Q27959229"
+      },
+      "kind": "movie",
+      "title": "The Minstrel Boy (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27959229"
+      ]
+    },
+    {
+      "id": "wikidata-Q3224518",
+      "externalIds": {
+        "wikidata": "Q3224518"
+      },
+      "kind": "movie",
+      "title": "The Messenger (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3224518"
+      ]
+    },
+    {
+      "id": "wikidata-Q41641808",
+      "externalIds": {
+        "wikidata": "Q41641808"
+      },
+      "kind": "movie",
+      "title": "The Lyin' Hunter",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q41641808"
+      ]
+    },
+    {
+      "id": "wikidata-Q39079137",
+      "externalIds": {
+        "wikidata": "Q39079137"
+      },
+      "kind": "movie",
+      "title": "The Man Who Cried Wolf (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Lewis R. Foster",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q39079137"
+      ]
+    },
+    {
+      "id": "wikidata-Q54622178",
+      "externalIds": {
+        "wikidata": "Q54622178"
+      },
+      "kind": "movie",
+      "title": "The Mighty Treve",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Film directed by Lewis D. Collins",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54622178"
+      ]
+    },
+    {
+      "id": "wikidata-Q4517618",
+      "externalIds": {
+        "wikidata": "Q4517618"
+      },
+      "kind": "movie",
+      "title": "The Miracle Worker (1936 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Soviet film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4517618"
+      ]
+    },
+    {
+      "id": "wikidata-Q4081784",
+      "externalIds": {
+        "wikidata": "Q4081784"
+      },
+      "kind": "movie",
+      "title": "The Lonely White Sail",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Vladimir Legoshin",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4081784"
+      ]
+    },
+    {
+      "id": "wikidata-Q4521475",
+      "externalIds": {
+        "wikidata": "Q4521475"
+      },
+      "kind": "movie",
+      "title": "The Miners",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Soviet film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4521475"
+      ]
+    },
+    {
+      "id": "wikidata-Q55635372",
+      "externalIds": {
+        "wikidata": "Q55635372"
+      },
+      "kind": "movie",
+      "title": "The Man in Blue (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55635372"
+      ]
+    },
+    {
+      "id": "wikidata-Q20001644",
+      "externalIds": {
+        "wikidata": "Q20001644"
+      },
+      "kind": "movie",
+      "title": "The Men Without Names",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 French film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20001644"
+      ]
+    },
+    {
+      "id": "wikidata-Q65062309",
+      "externalIds": {
+        "wikidata": "Q65062309"
+      },
+      "kind": "movie",
+      "title": "The Live Wire (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65062309"
+      ]
+    },
+    {
+      "id": "wikidata-Q83727413",
+      "externalIds": {
+        "wikidata": "Q83727413"
+      },
+      "kind": "movie",
+      "title": "The Rangers Step In",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Spencer Gordon Bennet",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q83727413"
+      ]
+    },
+    {
+      "id": "wikidata-Q10431210",
+      "externalIds": {
+        "wikidata": "Q10431210"
+      },
+      "kind": "movie",
+      "title": "The Pale Count",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10431210"
+      ]
+    },
+    {
+      "id": "wikidata-Q10428540",
+      "externalIds": {
+        "wikidata": "Q10428540"
+      },
+      "kind": "movie",
+      "title": "The People of Bergslagen",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10428540"
+      ]
+    },
+    {
+      "id": "wikidata-Q124041396",
+      "externalIds": {
+        "wikidata": "Q124041396"
+      },
+      "kind": "movie",
+      "title": "The Mysterious Stranger (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124041396"
+      ]
+    },
+    {
+      "id": "wikidata-Q5392422",
+      "externalIds": {
+        "wikidata": "Q5392422"
+      },
+      "kind": "movie",
+      "title": "The Rapids-Rider's Brides (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Finnish film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5392422"
+      ]
+    },
+    {
+      "id": "wikidata-Q1500215",
+      "externalIds": {
+        "wikidata": "Q1500215"
+      },
+      "kind": "movie",
+      "title": "The Little Match Girl (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1500215"
+      ]
+    },
+    {
+      "id": "wikidata-Q30014639",
+      "externalIds": {
+        "wikidata": "Q30014639"
+      },
+      "kind": "movie",
+      "title": "The Missing Wife (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30014639"
+      ]
+    },
+    {
+      "id": "wikidata-Q1433152",
+      "externalIds": {
+        "wikidata": "Q1433152"
+      },
+      "kind": "movie",
+      "title": "The Toast of New York",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Rowland V. Lee",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1433152"
+      ]
+    },
+    {
+      "id": "wikidata-Q1151164",
+      "externalIds": {
+        "wikidata": "Q1151164"
+      },
+      "kind": "movie",
+      "title": "The Tale of the Fox",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1930 film by Ladislas Starevich",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1151164"
+      ]
+    },
+    {
+      "id": "wikidata-Q3518630",
+      "externalIds": {
+        "wikidata": "Q3518630"
+      },
+      "kind": "movie",
+      "title": "The Spanish Earth",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3518630"
+      ]
+    },
+    {
+      "id": "wikidata-Q7763554",
+      "externalIds": {
+        "wikidata": "Q7763554"
+      },
+      "kind": "movie",
+      "title": "The Shadow Strikes",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7763554"
+      ]
+    },
+    {
+      "id": "wikidata-Q378615",
+      "externalIds": {
+        "wikidata": "Q378615"
+      },
+      "kind": "movie",
+      "title": "The Seven Ravens (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 German film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q378615"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764547",
+      "externalIds": {
+        "wikidata": "Q7764547"
+      },
+      "kind": "movie",
+      "title": "The Sitter Downers",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American short film by Del Lord",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764547"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523416",
+      "externalIds": {
+        "wikidata": "Q3523416"
+      },
+      "kind": "movie",
+      "title": "The Woman I Love (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Anatole Litvak",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523416"
+      ]
+    },
+    {
+      "id": "wikidata-Q17027934",
+      "externalIds": {
+        "wikidata": "Q17027934"
+      },
+      "kind": "movie",
+      "title": "The Road Back (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by James Whale",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17027934"
+      ]
+    },
+    {
+      "id": "wikidata-Q7317253",
+      "externalIds": {
+        "wikidata": "Q7317253"
+      },
+      "kind": "movie",
+      "title": "The Return of the Scarlet Pimpernel",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7317253"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764009",
+      "externalIds": {
+        "wikidata": "Q7764009"
+      },
+      "kind": "movie",
+      "title": "The Show Goes On (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film by Basil Dean",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764009"
+      ]
+    },
+    {
+      "id": "wikidata-Q7769112",
+      "externalIds": {
+        "wikidata": "Q7769112"
+      },
+      "kind": "movie",
+      "title": "The Three Wishes (1937 Dutch film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Dutch film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7769112"
+      ]
+    },
+    {
+      "id": "wikidata-Q4114650",
+      "externalIds": {
+        "wikidata": "Q4114650"
+      },
+      "kind": "movie",
+      "title": "The Return of Maxim",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Grigori Kozintsev and Leonid Trauberg",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4114650"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764320",
+      "externalIds": {
+        "wikidata": "Q7764320"
+      },
+      "kind": "movie",
+      "title": "The Silver Trail",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Bernard B. Ray",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764320"
+      ]
+    },
+    {
+      "id": "wikidata-Q7772502",
+      "externalIds": {
+        "wikidata": "Q7772502"
+      },
+      "kind": "movie",
+      "title": "The Vicar of Bray (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7772502"
+      ]
+    },
+    {
+      "id": "wikidata-Q7770222",
+      "externalIds": {
+        "wikidata": "Q7770222"
+      },
+      "kind": "movie",
+      "title": "The Trigger Trio",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by William Witney",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7770222"
+      ]
+    },
+    {
+      "id": "wikidata-Q7769205",
+      "externalIds": {
+        "wikidata": "Q7769205"
+      },
+      "kind": "movie",
+      "title": "The Ticket of Leave Man (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7769205"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775091",
+      "externalIds": {
+        "wikidata": "Q7775091"
+      },
+      "kind": "movie",
+      "title": "The Windmill (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Arthur B. Woods",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775091"
+      ]
+    },
+    {
+      "id": "wikidata-Q7766996",
+      "externalIds": {
+        "wikidata": "Q7766996"
+      },
+      "kind": "movie",
+      "title": "The Street Singer (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7766996"
+      ]
+    },
+    {
+      "id": "wikidata-Q12131894",
+      "externalIds": {
+        "wikidata": "Q12131894"
+      },
+      "kind": "movie",
+      "title": "The Vulture (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12131894"
+      ]
+    },
+    {
+      "id": "wikidata-Q117031",
+      "externalIds": {
+        "wikidata": "Q117031"
+      },
+      "kind": "movie",
+      "title": "The Ruler",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "German 1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q117031"
+      ]
+    },
+    {
+      "id": "wikidata-Q7766112",
+      "externalIds": {
+        "wikidata": "Q7766112"
+      },
+      "kind": "movie",
+      "title": "The Squeaker (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7766112"
+      ]
+    },
+    {
+      "id": "wikidata-Q7759462",
+      "externalIds": {
+        "wikidata": "Q7759462"
+      },
+      "kind": "movie",
+      "title": "The Rat (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by Jack Raymond",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7759462"
+      ]
+    },
+    {
+      "id": "wikidata-Q7760522",
+      "externalIds": {
+        "wikidata": "Q7760522"
+      },
+      "kind": "movie",
+      "title": "The Reverse Be My Lot",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Raymond Stross",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7760522"
+      ]
+    },
+    {
+      "id": "wikidata-Q7774801",
+      "externalIds": {
+        "wikidata": "Q7774801"
+      },
+      "kind": "movie",
+      "title": "The Wife of General Ling",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7774801"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764422",
+      "externalIds": {
+        "wikidata": "Q7764422"
+      },
+      "kind": "movie",
+      "title": "The Singing Marine",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Busby Berkeley, Ray Enright",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764422"
+      ]
+    },
+    {
+      "id": "wikidata-Q7765260",
+      "externalIds": {
+        "wikidata": "Q7765260"
+      },
+      "kind": "movie",
+      "title": "The Song of the Road",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by John Baxter",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7765260"
+      ]
+    },
+    {
+      "id": "wikidata-Q16920934",
+      "externalIds": {
+        "wikidata": "Q16920934"
+      },
+      "kind": "movie",
+      "title": "The Thirteenth Chair (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by George B. Seitz",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16920934"
+      ]
+    },
+    {
+      "id": "wikidata-Q3310904",
+      "externalIds": {
+        "wikidata": "Q3310904"
+      },
+      "kind": "movie",
+      "title": "The Soldier and the Lady",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by George Nicholls, Jr.",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3310904"
+      ]
+    },
+    {
+      "id": "wikidata-Q1294478",
+      "externalIds": {
+        "wikidata": "Q1294478"
+      },
+      "kind": "movie",
+      "title": "The Shadow (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Charles C. Coleman",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1294478"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528188",
+      "externalIds": {
+        "wikidata": "Q21528188"
+      },
+      "kind": "movie",
+      "title": "The Trusted Outlaw",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Robert N. Bradbury",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528188"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528138",
+      "externalIds": {
+        "wikidata": "Q21528138"
+      },
+      "kind": "movie",
+      "title": "The Red Rope",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by S. Roy Luby",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528138"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528037",
+      "externalIds": {
+        "wikidata": "Q21528037"
+      },
+      "kind": "movie",
+      "title": "The Sheik Steps Out",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Irving Pichel",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528037"
+      ]
+    },
+    {
+      "id": "wikidata-Q3235808",
+      "externalIds": {
+        "wikidata": "Q3235808"
+      },
+      "kind": "movie",
+      "title": "The Thirteen",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Soviet film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3235808"
+      ]
+    },
+    {
+      "id": "wikidata-Q16679823",
+      "externalIds": {
+        "wikidata": "Q16679823"
+      },
+      "kind": "movie",
+      "title": "The Three Garridebs",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 television film by Eustace Wyatt",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16679823"
+      ]
+    },
+    {
+      "id": "wikidata-Q50650214",
+      "externalIds": {
+        "wikidata": "Q50650214"
+      },
+      "kind": "movie",
+      "title": "The Westland Case",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film directed by Christy Cabanne",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q50650214"
+      ]
+    },
+    {
+      "id": "wikidata-Q4089019",
+      "externalIds": {
+        "wikidata": "Q4089019"
+      },
+      "kind": "movie",
+      "title": "The Rich Bride",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Ivan Pyryev",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4089019"
+      ]
+    },
+    {
+      "id": "wikidata-Q55762032",
+      "externalIds": {
+        "wikidata": "Q55762032"
+      },
+      "kind": "movie",
+      "title": "The Wildcatter",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Film directed by Lewis D. Collins",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55762032"
+      ]
+    },
+    {
+      "id": "wikidata-Q3821583",
+      "externalIds": {
+        "wikidata": "Q3821583"
+      },
+      "kind": "movie",
+      "title": "The Voice of the Heart (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by Karlheinz Martin",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3821583"
+      ]
+    },
+    {
+      "id": "wikidata-Q3790752",
+      "externalIds": {
+        "wikidata": "Q3790752"
+      },
+      "kind": "movie",
+      "title": "The Two Misanthropists",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Italian film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3790752"
+      ]
+    },
+    {
+      "id": "wikidata-Q3791354",
+      "externalIds": {
+        "wikidata": "Q3791354"
+      },
+      "kind": "movie",
+      "title": "The Three Wishes (1937 Italian film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3791354"
+      ]
+    },
+    {
+      "id": "wikidata-Q60738219",
+      "externalIds": {
+        "wikidata": "Q60738219"
+      },
+      "kind": "movie",
+      "title": "The Vagabonds (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 German film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q60738219"
+      ]
+    },
+    {
+      "id": "wikidata-Q3206523",
+      "externalIds": {
+        "wikidata": "Q3206523"
+      },
+      "kind": "movie",
+      "title": "The Silent Battle (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3206523"
+      ]
+    },
+    {
+      "id": "wikidata-Q3899733",
+      "externalIds": {
+        "wikidata": "Q3899733"
+      },
+      "kind": "movie",
+      "title": "The Red Dancer",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3899733"
+      ]
+    },
+    {
+      "id": "wikidata-Q85321096",
+      "externalIds": {
+        "wikidata": "Q85321096"
+      },
+      "kind": "movie",
+      "title": "The Roaming Cowboy",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85321096"
+      ]
+    },
+    {
+      "id": "wikidata-Q85808472",
+      "externalIds": {
+        "wikidata": "Q85808472"
+      },
+      "kind": "movie",
+      "title": "The Singing Buckaroo",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85808472"
+      ]
+    },
+    {
+      "id": "wikidata-Q89186592",
+      "externalIds": {
+        "wikidata": "Q89186592"
+      },
+      "kind": "movie",
+      "title": "The Schooner Gang",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q89186592"
+      ]
+    },
+    {
+      "id": "wikidata-Q18222213",
+      "externalIds": {
+        "wikidata": "Q18222213"
+      },
+      "kind": "movie",
+      "title": "The Secrets of the Red Sea",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18222213"
+      ]
+    },
+    {
+      "id": "wikidata-Q125592568",
+      "externalIds": {
+        "wikidata": "Q125592568"
+      },
+      "kind": "movie",
+      "title": "The Unexcused Hour (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q125592568"
+      ]
+    },
+    {
+      "id": "wikidata-Q138683719",
+      "externalIds": {
+        "wikidata": "Q138683719"
+      },
+      "kind": "movie",
+      "title": "The Ways of Love Are Strange (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q138683719"
+      ]
+    },
+    {
+      "id": "wikidata-Q9395443",
+      "externalIds": {
+        "wikidata": "Q9395443"
+      },
+      "kind": "movie",
+      "title": "The Vow (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q9395443"
+      ]
+    },
+    {
+      "id": "wikidata-Q1285408",
+      "externalIds": {
+        "wikidata": "Q1285408"
+      },
+      "kind": "movie",
+      "title": "Topper (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Norman Z. McLeod",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1285408"
+      ]
+    },
+    {
+      "id": "wikidata-Q1144211",
+      "externalIds": {
+        "wikidata": "Q1144211"
+      },
+      "kind": "movie",
+      "title": "Thin Ice (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Sidney Lanfield",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1144211"
+      ]
+    },
+    {
+      "id": "wikidata-Q1058071",
+      "externalIds": {
+        "wikidata": "Q1058071"
+      },
+      "kind": "movie",
+      "title": "They Won't Forget",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1058071"
+      ]
+    },
+    {
+      "id": "wikidata-Q2377198",
+      "externalIds": {
+        "wikidata": "Q2377198"
+      },
+      "kind": "movie",
+      "title": "Tovarich (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2377198"
+      ]
+    },
+    {
+      "id": "wikidata-Q2489647",
+      "externalIds": {
+        "wikidata": "Q2489647"
+      },
+      "kind": "movie",
+      "title": "Thoroughbreds Don't Cry",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Alfred E. Green",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2489647"
+      ]
+    },
+    {
+      "id": "wikidata-Q7804412",
+      "externalIds": {
+        "wikidata": "Q7804412"
+      },
+      "kind": "movie",
+      "title": "Tim Tyler's Luck (serial)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7804412"
+      ]
+    },
+    {
+      "id": "wikidata-Q7786360",
+      "externalIds": {
+        "wikidata": "Q7786360"
+      },
+      "kind": "movie",
+      "title": "This Way Please",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Robert Florey",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7786360"
+      ]
+    },
+    {
+      "id": "wikidata-Q1362559",
+      "externalIds": {
+        "wikidata": "Q1362559"
+      },
+      "kind": "movie",
+      "title": "Think Fast, Mr. Moto",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Norman Foster",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1362559"
+      ]
+    },
+    {
+      "id": "wikidata-Q3927750",
+      "externalIds": {
+        "wikidata": "Q3927750"
+      },
+      "kind": "movie",
+      "title": "These Children",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Italian film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3927750"
+      ]
+    },
+    {
+      "id": "wikidata-Q3701001",
+      "externalIds": {
+        "wikidata": "Q3701001"
+      },
+      "kind": "movie",
+      "title": "Torture Money",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3701001"
+      ]
+    },
+    {
+      "id": "wikidata-Q7797823",
+      "externalIds": {
+        "wikidata": "Q7797823"
+      },
+      "kind": "movie",
+      "title": "Three Smart Boys",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7797823"
+      ]
+    },
+    {
+      "id": "wikidata-Q7776361",
+      "externalIds": {
+        "wikidata": "Q7776361"
+      },
+      "kind": "movie",
+      "title": "The Wrong Road",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by James Cruze",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7776361"
+      ]
+    },
+    {
+      "id": "wikidata-Q7828819",
+      "externalIds": {
+        "wikidata": "Q7828819"
+      },
+      "kind": "movie",
+      "title": "Tough to Handle",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by S. Roy Luby",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7828819"
+      ]
+    },
+    {
+      "id": "wikidata-Q3460360",
+      "externalIds": {
+        "wikidata": "Q3460360"
+      },
+      "kind": "movie",
+      "title": "This Is My Affair",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by William A. Seiter",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3460360"
+      ]
+    },
+    {
+      "id": "wikidata-Q7846457",
+      "externalIds": {
+        "wikidata": "Q7846457"
+      },
+      "kind": "movie",
+      "title": "Trouble in Morocco",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Ernest B. Schoedsack",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7846457"
+      ]
+    },
+    {
+      "id": "wikidata-Q1043752",
+      "externalIds": {
+        "wikidata": "Q1043752"
+      },
+      "kind": "movie",
+      "title": "Trouble in Texas",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Robert N. Bradbury (as R.N. Bradbury)",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1043752"
+      ]
+    },
+    {
+      "id": "wikidata-Q7799053",
+      "externalIds": {
+        "wikidata": "Q7799053"
+      },
+      "kind": "movie",
+      "title": "Thunder in the City",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7799053"
+      ]
+    },
+    {
+      "id": "wikidata-Q3563622",
+      "externalIds": {
+        "wikidata": "Q3563622"
+      },
+      "kind": "movie",
+      "title": "Tři vejce do skla",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Czech film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3563622"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775996",
+      "externalIds": {
+        "wikidata": "Q7775996"
+      },
+      "kind": "movie",
+      "title": "The World Is Ours (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775996"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775751",
+      "externalIds": {
+        "wikidata": "Q7775751"
+      },
+      "kind": "movie",
+      "title": "The Woods Are Full of Cuckoos",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Frank Tashlin",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775751"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775600",
+      "externalIds": {
+        "wikidata": "Q7775600"
+      },
+      "kind": "movie",
+      "title": "The Women Men Marry",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Errol Taggart",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775600"
+      ]
+    },
+    {
+      "id": "wikidata-Q7783714",
+      "externalIds": {
+        "wikidata": "Q7783714"
+      },
+      "kind": "movie",
+      "title": "They Gave Him a Gun",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by W. S. Van Dyke",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7783714"
+      ]
+    },
+    {
+      "id": "wikidata-Q4566213",
+      "externalIds": {
+        "wikidata": "Q4566213"
+      },
+      "kind": "movie",
+      "title": "To levende og en død (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Norwegian film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4566213"
+      ]
+    },
+    {
+      "id": "wikidata-Q7823895",
+      "externalIds": {
+        "wikidata": "Q7823895"
+      },
+      "kind": "movie",
+      "title": "Too Many Wives",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Ben Holmes",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7823895"
+      ]
+    },
+    {
+      "id": "wikidata-Q227464",
+      "externalIds": {
+        "wikidata": "Q227464"
+      },
+      "kind": "movie",
+      "title": "To New Shores",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q227464"
+      ]
+    },
+    {
+      "id": "wikidata-Q17113208",
+      "externalIds": {
+        "wikidata": "Q17113208"
+      },
+      "kind": "movie",
+      "title": "There Goes the Groom (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Joseph Santley",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17113208"
+      ]
+    },
+    {
+      "id": "wikidata-Q4015669",
+      "externalIds": {
+        "wikidata": "Q4015669"
+      },
+      "kind": "movie",
+      "title": "To Live (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Italian film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4015669"
+      ]
+    },
+    {
+      "id": "wikidata-Q2438772",
+      "externalIds": {
+        "wikidata": "Q2438772"
+      },
+      "kind": "movie",
+      "title": "Togger (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2438772"
+      ]
+    },
+    {
+      "id": "wikidata-Q10382009",
+      "externalIds": {
+        "wikidata": "Q10382009"
+      },
+      "kind": "movie",
+      "title": "There Goes My Girl",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Edward Killy, Ben Holmes",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10382009"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155138",
+      "externalIds": {
+        "wikidata": "Q18155138"
+      },
+      "kind": "movie",
+      "title": "They Wanted to Marry",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film directed by Lew Landers",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155138"
+      ]
+    },
+    {
+      "id": "wikidata-Q18210042",
+      "externalIds": {
+        "wikidata": "Q18210042"
+      },
+      "kind": "movie",
+      "title": "Toofani Tarzan",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Indian film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18210042"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363942",
+      "externalIds": {
+        "wikidata": "Q19363942"
+      },
+      "kind": "movie",
+      "title": "Top of the Town (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363942"
+      ]
+    },
+    {
+      "id": "wikidata-Q3634025",
+      "externalIds": {
+        "wikidata": "Q3634025"
+      },
+      "kind": "movie",
+      "title": "The Yellow Flag",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 German drama film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3634025"
+      ]
+    },
+    {
+      "id": "wikidata-Q3440977",
+      "externalIds": {
+        "wikidata": "Q3440977"
+      },
+      "kind": "movie",
+      "title": "Thrill of a Lifetime (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by George Archainbaud",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3440977"
+      ]
+    },
+    {
+      "id": "wikidata-Q20949993",
+      "externalIds": {
+        "wikidata": "Q20949993"
+      },
+      "kind": "movie",
+      "title": "Thunder Trail",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20949993"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528168",
+      "externalIds": {
+        "wikidata": "Q21528168"
+      },
+      "kind": "movie",
+      "title": "Time Out for Romance",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Malcolm St. Clair",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528168"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528178",
+      "externalIds": {
+        "wikidata": "Q21528178"
+      },
+      "kind": "movie",
+      "title": "Trail of Vengeance",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528178"
+      ]
+    },
+    {
+      "id": "wikidata-Q25206927",
+      "externalIds": {
+        "wikidata": "Q25206927"
+      },
+      "kind": "movie",
+      "title": "These Men (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Mexican film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25206927"
+      ]
+    },
+    {
+      "id": "wikidata-Q27590431",
+      "externalIds": {
+        "wikidata": "Q27590431"
+      },
+      "kind": "movie",
+      "title": "There Was a Young Man",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27590431"
+      ]
+    },
+    {
+      "id": "wikidata-Q3228490",
+      "externalIds": {
+        "wikidata": "Q3228490"
+      },
+      "kind": "movie",
+      "title": "The Worm Turns",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "The Worm Turns is a 1937 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3228490"
+      ]
+    },
+    {
+      "id": "wikidata-Q47500736",
+      "externalIds": {
+        "wikidata": "Q47500736"
+      },
+      "kind": "movie",
+      "title": "Trailin' Trouble",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 US film directed by Arthur Rosson",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q47500736"
+      ]
+    },
+    {
+      "id": "wikidata-Q56651766",
+      "externalIds": {
+        "wikidata": "Q56651766"
+      },
+      "kind": "movie",
+      "title": "Trapped by G-Men",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Lewis D. Collins",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56651766"
+      ]
+    },
+    {
+      "id": "wikidata-Q56886869",
+      "externalIds": {
+        "wikidata": "Q56886869"
+      },
+      "kind": "movie",
+      "title": "Trouble at Midnight",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by Ford Beebe",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56886869"
+      ]
+    },
+    {
+      "id": "wikidata-Q3822465",
+      "externalIds": {
+        "wikidata": "Q3822465"
+      },
+      "kind": "movie",
+      "title": "Tomb of the Angels",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3822465"
+      ]
+    },
+    {
+      "id": "wikidata-Q108809332",
+      "externalIds": {
+        "wikidata": "Q108809332"
+      },
+      "kind": "movie",
+      "title": "Tiniente Rosario",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Filipino film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q108809332"
+      ]
+    },
+    {
+      "id": "wikidata-Q121741528",
+      "externalIds": {
+        "wikidata": "Q121741528"
+      },
+      "kind": "movie",
+      "title": "Trapped (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q121741528"
+      ]
+    },
+    {
+      "id": "wikidata-Q124041395",
+      "externalIds": {
+        "wikidata": "Q124041395"
+      },
+      "kind": "movie",
+      "title": "Tokay Rhapsody",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124041395"
+      ]
+    },
+    {
+      "id": "wikidata-Q124080290",
+      "externalIds": {
+        "wikidata": "Q124080290"
+      },
+      "kind": "movie",
+      "title": "There Are Exceptions",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124080290"
+      ]
+    },
+    {
+      "id": "wikidata-Q9362444",
+      "externalIds": {
+        "wikidata": "Q9362444"
+      },
+      "kind": "movie",
+      "title": "Three Troublemakers",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q9362444"
+      ]
+    },
+    {
+      "id": "wikidata-Q140836372",
+      "externalIds": {
+        "wikidata": "Q140836372"
+      },
+      "kind": "movie",
+      "title": "Three Legionnaires",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q140836372"
+      ]
+    },
+    {
+      "id": "wikidata-Q232227",
+      "externalIds": {
+        "wikidata": "Q232227"
+      },
+      "kind": "movie",
+      "title": "Way Out West (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by James W. Horne",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q232227"
+      ]
+    },
+    {
+      "id": "wikidata-Q7882817",
+      "externalIds": {
+        "wikidata": "Q7882817"
+      },
+      "kind": "movie",
+      "title": "Uncle Tom's Bungalow",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Fred Avery",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7882817"
+      ]
+    },
+    {
+      "id": "wikidata-Q328558",
+      "externalIds": {
+        "wikidata": "Q328558"
+      },
+      "kind": "movie",
+      "title": "Victims of the Past",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Nazi propaganda film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q328558"
+      ]
+    },
+    {
+      "id": "wikidata-Q3800996",
+      "externalIds": {
+        "wikidata": "Q3800996"
+      },
+      "kind": "movie",
+      "title": "Varsity Show (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by William Keighley",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3800996"
+      ]
+    },
+    {
+      "id": "wikidata-Q1333346",
+      "externalIds": {
+        "wikidata": "Q1333346"
+      },
+      "kind": "movie",
+      "title": "Waikiki Wedding",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Frank Tuttle",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1333346"
+      ]
+    },
+    {
+      "id": "wikidata-Q7928267",
+      "externalIds": {
+        "wikidata": "Q7928267"
+      },
+      "kind": "movie",
+      "title": "Viejo barrio",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Argentine film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7928267"
+      ]
+    },
+    {
+      "id": "wikidata-Q3285366",
+      "externalIds": {
+        "wikidata": "Q3285366"
+      },
+      "kind": "movie",
+      "title": "Victoria the Great",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3285366"
+      ]
+    },
+    {
+      "id": "wikidata-Q1631795",
+      "externalIds": {
+        "wikidata": "Q1631795"
+      },
+      "kind": "movie",
+      "title": "Wee Willie Winkie (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by John Ford",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1631795"
+      ]
+    },
+    {
+      "id": "wikidata-Q12132403",
+      "externalIds": {
+        "wikidata": "Q12132403"
+      },
+      "kind": "movie",
+      "title": "West of Shanghai",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12132403"
+      ]
+    },
+    {
+      "id": "wikidata-Q7960990",
+      "externalIds": {
+        "wikidata": "Q7960990"
+      },
+      "kind": "movie",
+      "title": "Wake Up and Live",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7960990"
+      ]
+    },
+    {
+      "id": "wikidata-Q2249058",
+      "externalIds": {
+        "wikidata": "Q2249058"
+      },
+      "kind": "movie",
+      "title": "True Confession",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by Wesley Ruggles",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2249058"
+      ]
+    },
+    {
+      "id": "wikidata-Q3859808",
+      "externalIds": {
+        "wikidata": "Q3859808"
+      },
+      "kind": "movie",
+      "title": "Walter Wanger's Vogues of 1938",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3859808"
+      ]
+    },
+    {
+      "id": "wikidata-Q12132397",
+      "externalIds": {
+        "wikidata": "Q12132397"
+      },
+      "kind": "movie",
+      "title": "We Work Again",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American sponsored film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12132397"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883206",
+      "externalIds": {
+        "wikidata": "Q7883206"
+      },
+      "kind": "movie",
+      "title": "Under a Cloud (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883206"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883736",
+      "externalIds": {
+        "wikidata": "Q7883736"
+      },
+      "kind": "movie",
+      "title": "Underneath the Arches (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883736"
+      ]
+    },
+    {
+      "id": "wikidata-Q3419356",
+      "externalIds": {
+        "wikidata": "Q3419356"
+      },
+      "kind": "movie",
+      "title": "Under the Red Robe (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Victor Sjöström",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3419356"
+      ]
+    },
+    {
+      "id": "wikidata-Q7899233",
+      "externalIds": {
+        "wikidata": "Q7899233"
+      },
+      "kind": "movie",
+      "title": "Ups and Downs (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7899233"
+      ]
+    },
+    {
+      "id": "wikidata-Q7897590",
+      "externalIds": {
+        "wikidata": "Q7897590"
+      },
+      "kind": "movie",
+      "title": "Unternehmen Michael",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 German film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7897590"
+      ]
+    },
+    {
+      "id": "wikidata-Q3285133",
+      "externalIds": {
+        "wikidata": "Q3285133"
+      },
+      "kind": "movie",
+      "title": "Wells Fargo (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Frank Lloyd",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3285133"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883145",
+      "externalIds": {
+        "wikidata": "Q7883145"
+      },
+      "kind": "movie",
+      "title": "Under Secret Orders",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883145"
+      ]
+    },
+    {
+      "id": "wikidata-Q4470848",
+      "externalIds": {
+        "wikidata": "Q4470848"
+      },
+      "kind": "movie",
+      "title": "Ułan Księcia Józefa",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Polish film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4470848"
+      ]
+    },
+    {
+      "id": "wikidata-Q7920596",
+      "externalIds": {
+        "wikidata": "Q7920596"
+      },
+      "kind": "movie",
+      "title": "Venus Makes Trouble",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Gordon Wiles",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7920596"
+      ]
+    },
+    {
+      "id": "wikidata-Q17119473",
+      "externalIds": {
+        "wikidata": "Q17119473"
+      },
+      "kind": "movie",
+      "title": "We Who Are About to Die",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Christy Cabanne",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17119473"
+      ]
+    },
+    {
+      "id": "wikidata-Q1361369",
+      "externalIds": {
+        "wikidata": "Q1361369"
+      },
+      "kind": "movie",
+      "title": "Tsar to Lenin",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1361369"
+      ]
+    },
+    {
+      "id": "wikidata-Q1625367",
+      "externalIds": {
+        "wikidata": "Q1625367"
+      },
+      "kind": "movie",
+      "title": "Truxa",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1625367"
+      ]
+    },
+    {
+      "id": "wikidata-Q17426207",
+      "externalIds": {
+        "wikidata": "Q17426207"
+      },
+      "kind": "movie",
+      "title": "Twin Faces",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17426207"
+      ]
+    },
+    {
+      "id": "wikidata-Q12523677",
+      "externalIds": {
+        "wikidata": "Q12523677"
+      },
+      "kind": "movie",
+      "title": "Vidyapati (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Bengali language film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12523677"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155708",
+      "externalIds": {
+        "wikidata": "Q18155708"
+      },
+      "kind": "movie",
+      "title": "We're on the Jury",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film directed by Ben Holmes",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155708"
+      ]
+    },
+    {
+      "id": "wikidata-Q19600333",
+      "externalIds": {
+        "wikidata": "Q19600333"
+      },
+      "kind": "movie",
+      "title": "Vzdušné torpédo 48",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Czech film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19600333"
+      ]
+    },
+    {
+      "id": "wikidata-Q12043707",
+      "externalIds": {
+        "wikidata": "Q12043707"
+      },
+      "kind": "movie",
+      "title": "Virginity (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12043707"
+      ]
+    },
+    {
+      "id": "wikidata-Q18636640",
+      "externalIds": {
+        "wikidata": "Q18636640"
+      },
+      "kind": "movie",
+      "title": "Under Cover of Night",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18636640"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649998",
+      "externalIds": {
+        "wikidata": "Q20649998"
+      },
+      "kind": "movie",
+      "title": "Turn Off the Moon",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Lewis Seiler",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649998"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650037",
+      "externalIds": {
+        "wikidata": "Q20650037"
+      },
+      "kind": "movie",
+      "title": "Westbound Mail",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Folmar Blangsted",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650037"
+      ]
+    },
+    {
+      "id": "wikidata-Q21647296",
+      "externalIds": {
+        "wikidata": "Q21647296"
+      },
+      "kind": "movie",
+      "title": "Wells in Flames",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by Viktor Tourjansky",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21647296"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528225",
+      "externalIds": {
+        "wikidata": "Q21528225"
+      },
+      "kind": "movie",
+      "title": "Western Gold",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Howard Bretherton",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528225"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528198",
+      "externalIds": {
+        "wikidata": "Q21528198"
+      },
+      "kind": "movie",
+      "title": "Two Wise Maids",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Phil Rosen",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528198"
+      ]
+    },
+    {
+      "id": "wikidata-Q20004180",
+      "externalIds": {
+        "wikidata": "Q20004180"
+      },
+      "kind": "movie",
+      "title": "We Have Our Moments",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Alfred L. Werker",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20004180"
+      ]
+    },
+    {
+      "id": "wikidata-Q23999697",
+      "externalIds": {
+        "wikidata": "Q23999697"
+      },
+      "kind": "movie",
+      "title": "Wake Up Famous",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23999697"
+      ]
+    },
+    {
+      "id": "wikidata-Q27959521",
+      "externalIds": {
+        "wikidata": "Q27959521"
+      },
+      "kind": "movie",
+      "title": "Wanted!",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27959521"
+      ]
+    },
+    {
+      "id": "wikidata-Q27996704",
+      "externalIds": {
+        "wikidata": "Q27996704"
+      },
+      "kind": "movie",
+      "title": "We Live in Two Worlds",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27996704"
+      ]
+    },
+    {
+      "id": "wikidata-Q20092105",
+      "externalIds": {
+        "wikidata": "Q20092105"
+      },
+      "kind": "movie",
+      "title": "Under Strange Flags",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 US film directed by I. V. Willat",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20092105"
+      ]
+    },
+    {
+      "id": "wikidata-Q56045037",
+      "externalIds": {
+        "wikidata": "Q56045037"
+      },
+      "kind": "movie",
+      "title": "West Bound Limited",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American action film directed by Ford Beebe",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56045037"
+      ]
+    },
+    {
+      "id": "wikidata-Q65074269",
+      "externalIds": {
+        "wikidata": "Q65074269"
+      },
+      "kind": "movie",
+      "title": "Underworld (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Oscar Micheaux",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65074269"
+      ]
+    },
+    {
+      "id": "wikidata-Q64221089",
+      "externalIds": {
+        "wikidata": "Q64221089"
+      },
+      "kind": "movie",
+      "title": "Wallaby Jim of the Islands",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64221089"
+      ]
+    },
+    {
+      "id": "wikidata-Q65054670",
+      "externalIds": {
+        "wikidata": "Q65054670"
+      },
+      "kind": "movie",
+      "title": "Under Suspicion (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65054670"
+      ]
+    },
+    {
+      "id": "wikidata-Q76488957",
+      "externalIds": {
+        "wikidata": "Q76488957"
+      },
+      "kind": "movie",
+      "title": "Two-Fisted Sheriff",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Leon Barsha",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q76488957"
+      ]
+    },
+    {
+      "id": "wikidata-Q76488963",
+      "externalIds": {
+        "wikidata": "Q76488963"
+      },
+      "kind": "movie",
+      "title": "Two Gun Law",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Leon Barsha",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q76488963"
+      ]
+    },
+    {
+      "id": "wikidata-Q89013735",
+      "externalIds": {
+        "wikidata": "Q89013735"
+      },
+      "kind": "movie",
+      "title": "Valley of Terror",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by Albert Herman",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q89013735"
+      ]
+    },
+    {
+      "id": "wikidata-Q89026119",
+      "externalIds": {
+        "wikidata": "Q89026119"
+      },
+      "kind": "movie",
+      "title": "Variety Hour",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q89026119"
+      ]
+    },
+    {
+      "id": "wikidata-Q42305328",
+      "externalIds": {
+        "wikidata": "Q42305328"
+      },
+      "kind": "movie",
+      "title": "Viki (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q42305328"
+      ]
+    },
+    {
+      "id": "wikidata-Q498983",
+      "externalIds": {
+        "wikidata": "Q498983"
+      },
+      "kind": "movie",
+      "title": "Young and Innocent",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Alfred Hitchcock",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q498983"
+      ]
+    },
+    {
+      "id": "wikidata-Q2345379",
+      "externalIds": {
+        "wikidata": "Q2345379"
+      },
+      "kind": "movie",
+      "title": "You Only Live Once (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Fritz Lang",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2345379"
+      ]
+    },
+    {
+      "id": "wikidata-Q7997629",
+      "externalIds": {
+        "wikidata": "Q7997629"
+      },
+      "kind": "movie",
+      "title": "Whoops! I'm a Cowboy",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7997629"
+      ]
+    },
+    {
+      "id": "wikidata-Q8000848",
+      "externalIds": {
+        "wikidata": "Q8000848"
+      },
+      "kind": "movie",
+      "title": "Wild West Days",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8000848"
+      ]
+    },
+    {
+      "id": "wikidata-Q8056581",
+      "externalIds": {
+        "wikidata": "Q8056581"
+      },
+      "kind": "movie",
+      "title": "You're Only Young Once",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by George B. Seitz",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8056581"
+      ]
+    },
+    {
+      "id": "wikidata-Q3283781",
+      "externalIds": {
+        "wikidata": "Q3283781"
+      },
+      "kind": "movie",
+      "title": "When You're in Love (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Robert Riskin, Harry Lachman",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3283781"
+      ]
+    },
+    {
+      "id": "wikidata-Q3280639",
+      "externalIds": {
+        "wikidata": "Q3280639"
+      },
+      "kind": "movie",
+      "title": "You're a Sweetheart",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3280639"
+      ]
+    },
+    {
+      "id": "wikidata-Q8057021",
+      "externalIds": {
+        "wikidata": "Q8057021"
+      },
+      "kind": "movie",
+      "title": "You Can't Have Everything",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Norman Taurog",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8057021"
+      ]
+    },
+    {
+      "id": "wikidata-Q7997296",
+      "externalIds": {
+        "wikidata": "Q7997296"
+      },
+      "kind": "movie",
+      "title": "Who Killed John Savage?",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7997296"
+      ]
+    },
+    {
+      "id": "wikidata-Q8000677",
+      "externalIds": {
+        "wikidata": "Q8000677"
+      },
+      "kind": "movie",
+      "title": "Wild Horse Rodeo",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by George Sherman",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8000677"
+      ]
+    },
+    {
+      "id": "wikidata-Q4085749",
+      "externalIds": {
+        "wikidata": "Q4085749"
+      },
+      "kind": "movie",
+      "title": "Without a Dowry (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Soviet film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4085749"
+      ]
+    },
+    {
+      "id": "wikidata-Q8024253",
+      "externalIds": {
+        "wikidata": "Q8024253"
+      },
+      "kind": "movie",
+      "title": "Windjammer (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Ewing Scott",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8024253"
+      ]
+    },
+    {
+      "id": "wikidata-Q3276982",
+      "externalIds": {
+        "wikidata": "Q3276982"
+      },
+      "kind": "movie",
+      "title": "What Did the Lady Forget?",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Japanese film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3276982"
+      ]
+    },
+    {
+      "id": "wikidata-Q4454590",
+      "externalIds": {
+        "wikidata": "Q4454590"
+      },
+      "kind": "movie",
+      "title": "Wings over Honolulu",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by H. C. Potter",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4454590"
+      ]
+    },
+    {
+      "id": "wikidata-Q8030684",
+      "externalIds": {
+        "wikidata": "Q8030684"
+      },
+      "kind": "movie",
+      "title": "Woman Chases Man",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by John G. Blystone",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8030684"
+      ]
+    },
+    {
+      "id": "wikidata-Q1674134",
+      "externalIds": {
+        "wikidata": "Q1674134"
+      },
+      "kind": "movie",
+      "title": "White Slaves (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 German film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1674134"
+      ]
+    },
+    {
+      "id": "wikidata-Q7997096",
+      "externalIds": {
+        "wikidata": "Q7997096"
+      },
+      "kind": "movie",
+      "title": "Who's Your Lady Friend?",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7997096"
+      ]
+    },
+    {
+      "id": "wikidata-Q8057352",
+      "externalIds": {
+        "wikidata": "Q8057352"
+      },
+      "kind": "movie",
+      "title": "You Live and Learn",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Arthur B. Woods",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8057352"
+      ]
+    },
+    {
+      "id": "wikidata-Q7992407",
+      "externalIds": {
+        "wikidata": "Q7992407"
+      },
+      "kind": "movie",
+      "title": "When's Your Birthday?",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Harry Beaumont",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7992407"
+      ]
+    },
+    {
+      "id": "wikidata-Q3206341",
+      "externalIds": {
+        "wikidata": "Q3206341"
+      },
+      "kind": "movie",
+      "title": "Wings of the Morning (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3206341"
+      ]
+    },
+    {
+      "id": "wikidata-Q8027449",
+      "externalIds": {
+        "wikidata": "Q8027449"
+      },
+      "kind": "movie",
+      "title": "Wise Girl (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Leigh Jason",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8027449"
+      ]
+    },
+    {
+      "id": "wikidata-Q7991355",
+      "externalIds": {
+        "wikidata": "Q7991355"
+      },
+      "kind": "movie",
+      "title": "What Price Vengeance",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Del Lord",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7991355"
+      ]
+    },
+    {
+      "id": "wikidata-Q3572696",
+      "externalIds": {
+        "wikidata": "Q3572696"
+      },
+      "kind": "movie",
+      "title": "Yoshiwara (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3572696"
+      ]
+    },
+    {
+      "id": "wikidata-Q8054271",
+      "externalIds": {
+        "wikidata": "Q8054271"
+      },
+      "kind": "movie",
+      "title": "Yodelin' Kid from Pine Ridge",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Joseph Kane",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8054271"
+      ]
+    },
+    {
+      "id": "wikidata-Q2932282",
+      "externalIds": {
+        "wikidata": "Q2932282"
+      },
+      "kind": "movie",
+      "title": "Woodland Café",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2932282"
+      ]
+    },
+    {
+      "id": "wikidata-Q8056999",
+      "externalIds": {
+        "wikidata": "Q8056999"
+      },
+      "kind": "movie",
+      "title": "You Can't Buy Luck",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Lew Landers",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8056999"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208088",
+      "externalIds": {
+        "wikidata": "Q3208088"
+      },
+      "kind": "movie",
+      "title": "Woman of Malacca",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208088"
+      ]
+    },
+    {
+      "id": "wikidata-Q18210233",
+      "externalIds": {
+        "wikidata": "Q18210233"
+      },
+      "kind": "movie",
+      "title": "Woman's Love—Woman's Suffering",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by Augusto Genina",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18210233"
+      ]
+    },
+    {
+      "id": "wikidata-Q18157116",
+      "externalIds": {
+        "wikidata": "Q18157116"
+      },
+      "kind": "movie",
+      "title": "You Can't Beat Love",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Christy Cabanne",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18157116"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028583",
+      "externalIds": {
+        "wikidata": "Q16028583"
+      },
+      "kind": "movie",
+      "title": "Wife, Doctor and Nurse",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028583"
+      ]
+    },
+    {
+      "id": "wikidata-Q3221140",
+      "externalIds": {
+        "wikidata": "Q3221140"
+      },
+      "kind": "movie",
+      "title": "White Cargo (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Robert Siodmak",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3221140"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650039",
+      "externalIds": {
+        "wikidata": "Q20650039"
+      },
+      "kind": "movie",
+      "title": "When Women Keep Silent",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 German film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650039"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650054",
+      "externalIds": {
+        "wikidata": "Q20650054"
+      },
+      "kind": "movie",
+      "title": "Women of Glamour",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Gordon Wiles",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650054"
+      ]
+    },
+    {
+      "id": "wikidata-Q20650047",
+      "externalIds": {
+        "wikidata": "Q20650047"
+      },
+      "kind": "movie",
+      "title": "Wild Money",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Louis King",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20650047"
+      ]
+    },
+    {
+      "id": "wikidata-Q4534640",
+      "externalIds": {
+        "wikidata": "Q4534640"
+      },
+      "kind": "movie",
+      "title": "Young Pushkin",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Soviet film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4534640"
+      ]
+    },
+    {
+      "id": "wikidata-Q20950018",
+      "externalIds": {
+        "wikidata": "Q20950018"
+      },
+      "kind": "movie",
+      "title": "White Bondage",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American drama film directed by Nick Grinde",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20950018"
+      ]
+    },
+    {
+      "id": "wikidata-Q20950019",
+      "externalIds": {
+        "wikidata": "Q20950019"
+      },
+      "kind": "movie",
+      "title": "Wine, Women and Horses",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Louis King",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20950019"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528248",
+      "externalIds": {
+        "wikidata": "Q21528248"
+      },
+      "kind": "movie",
+      "title": "Woman-Wise",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Allan Dwan",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528248"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528237",
+      "externalIds": {
+        "wikidata": "Q21528237"
+      },
+      "kind": "movie",
+      "title": "Wild and Woolly (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528237"
+      ]
+    },
+    {
+      "id": "wikidata-Q24360101",
+      "externalIds": {
+        "wikidata": "Q24360101"
+      },
+      "kind": "movie",
+      "title": "Why Pick on Me? (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 British film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24360101"
+      ]
+    },
+    {
+      "id": "wikidata-Q42048248",
+      "externalIds": {
+        "wikidata": "Q42048248"
+      },
+      "kind": "movie",
+      "title": "Woman Against the World",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film directed by David Selman",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q42048248"
+      ]
+    },
+    {
+      "id": "wikidata-Q55099304",
+      "externalIds": {
+        "wikidata": "Q55099304"
+      },
+      "kind": "movie",
+      "title": "When Love Is Young",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Hal Mohr",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55099304"
+      ]
+    },
+    {
+      "id": "wikidata-Q60197060",
+      "externalIds": {
+        "wikidata": "Q60197060"
+      },
+      "kind": "movie",
+      "title": "Woman in Distress",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Lynn Shores",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q60197060"
+      ]
+    },
+    {
+      "id": "wikidata-Q89018980",
+      "externalIds": {
+        "wikidata": "Q89018980"
+      },
+      "kind": "movie",
+      "title": "Whistling Bullets",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by John English",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q89018980"
+      ]
+    },
+    {
+      "id": "wikidata-Q104835723",
+      "externalIds": {
+        "wikidata": "Q104835723"
+      },
+      "kind": "movie",
+      "title": "Young Dynamite",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film directed by Leslie Goodwins",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104835723"
+      ]
+    },
+    {
+      "id": "wikidata-Q106866616",
+      "externalIds": {
+        "wikidata": "Q106866616"
+      },
+      "kind": "movie",
+      "title": "Where Trails Divide",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106866616"
+      ]
+    },
+    {
+      "id": "wikidata-Q11616145",
+      "externalIds": {
+        "wikidata": "Q11616145"
+      },
+      "kind": "movie",
+      "title": "Young People (1937 Japanese film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Japanese film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q11616145"
+      ]
+    },
+    {
+      "id": "wikidata-Q10531925",
+      "externalIds": {
+        "wikidata": "Q10531925"
+      },
+      "kind": "movie",
+      "title": "Witches' Night (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10531925"
+      ]
+    },
+    {
+      "id": "wikidata-Q12147765",
+      "externalIds": {
+        "wikidata": "Q12147765"
+      },
+      "kind": "movie",
+      "title": "Widow's Island",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12147765"
+      ]
+    },
+    {
+      "id": "wikidata-Q124209571",
+      "externalIds": {
+        "wikidata": "Q124209571"
+      },
+      "kind": "movie",
+      "title": "Where Do We Sleep on Sunday?",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124209571"
+      ]
+    },
+    {
+      "id": "wikidata-Q8075099",
+      "externalIds": {
+        "wikidata": "Q8075099"
+      },
+      "kind": "movie",
+      "title": "Zula Hula",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 American film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8075099"
+      ]
+    },
+    {
+      "id": "wikidata-Q2249223",
+      "externalIds": {
+        "wikidata": "Q2249223"
+      },
+      "kind": "movie",
+      "title": "Zorro Rides Again",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by John English, William Witney",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2249223"
+      ]
+    },
+    {
+      "id": "wikidata-Q8073125",
+      "externalIds": {
+        "wikidata": "Q8073125"
+      },
+      "kind": "movie",
+      "title": "Znachor (1937 film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Polish film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8073125"
+      ]
+    },
+    {
+      "id": "wikidata-Q8059335",
+      "externalIds": {
+        "wikidata": "Q8059335"
+      },
+      "kind": "movie",
+      "title": "Youth on Parole",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 film by Phil Rosen",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8059335"
+      ]
+    },
+    {
+      "id": "wikidata-Q48970655",
+      "externalIds": {
+        "wikidata": "Q48970655"
+      },
+      "kind": "movie",
+      "title": "Youth of China (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Hong Kong film by Wong Tat-Tsoi",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48970655"
+      ]
+    },
+    {
+      "id": "wikidata-Q102701454",
+      "externalIds": {
+        "wikidata": "Q102701454"
+      },
+      "kind": "movie",
+      "title": "Zamboanga (film)",
+      "year": 1937,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1937 Filipino film",
+      "batchId": "wikidata-films-1937-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q102701454"
+      ]
+    }
+  ]
+}

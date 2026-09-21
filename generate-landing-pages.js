@@ -13,7 +13,7 @@ const sandbox = {
 vm.createContext(sandbox);
 vm.runInContext(fs.readFileSync('catalog.js', 'utf8'), sandbox);
 
-const catalog = sandbox.window.catalog || [];
+const catalog = require('./scripts/catalog-loader')();
 
 function esc(value) {
   return String(value)
@@ -54,7 +54,7 @@ function card(item) {
     <img src="${attr(posterFor(item))}" alt="${attr(item.title)} poster" loading="lazy">
     <span class="card-body">
       <span class="card-title">${esc(item.title)}</span>
-      <span class="meta"><span>${esc(item.year)}</span><span>Rating ${esc(item.rating)}</span><span>${esc(item.kind === 'tv' ? 'TV' : 'Movie')}</span></span>
+      <span class="meta"><span>${esc(item.year)}</span>${item.rating ? `<span>Rating ${esc(item.rating)}</span>` : ''}<span>${esc(item.kind === 'tv' ? 'TV' : 'Movie')}</span></span>
     </span>
   </a>`;
 }
