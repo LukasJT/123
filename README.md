@@ -21,7 +21,7 @@ A static movie and TV catalog site for GitHub Pages.
 - About page with AboutPage structured data for site trust signals
 - Advertising disclosure page for sponsored links and third-party ad transparency
 - Cross-links from title pages into matching genre, year, type, and ranked catalog pages
-- 838-title catalog across Movies + TV Shows
+- 841-title catalog across Movies + TV Shows
 - Responsive grid layout
 
 ## Run locally
@@ -48,3 +48,12 @@ TMDB_BEARER_TOKEN=... npm run import:tmdb -- --kind=tv --date=2026-09-19 --offse
 ```
 
 Advance `offset` by `limit` and commit each generated file under `data/imports/` after review. The build merges imports deterministically into `catalog-imports.js`. TMDB attribution and API terms apply. “Every title ever released” cannot be guaranteed by any single database; the practical target is every eligible record in the selected dated export, with future exports used for additions and corrections.
+
+For a long-running import, use the checkpointed series command. Each run continues from the saved offset in `data/import-state/`; `max-batches` bounds the work so imports can be reviewed and committed in manageable groups:
+
+```sh
+TMDB_BEARER_TOKEN=... npm run import:tmdb:series -- --kind=movie --date=2026-09-19 --batch-size=1000 --max-batches=10
+TMDB_BEARER_TOKEN=... npm run import:tmdb:series -- --kind=tv --date=2026-09-19 --batch-size=1000 --max-batches=10
+```
+
+The importer retries temporary rate-limit and server failures and skips title/year/type matches already present in the catalog, preventing overlapping batches from creating duplicate pages.

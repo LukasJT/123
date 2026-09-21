@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const zlib = require('zlib');
 const readline = require('readline');
+const loadCatalog = require('./catalog-loader');
 
 const token = process.env.TMDB_BEARER_TOKEN;
 if (!token) throw new Error('Set TMDB_BEARER_TOKEN to an authorized TMDB API Read Access Token.');
@@ -18,7 +19,21 @@ const exportUrl = `https://files.tmdb.org/p/exports/${kind === 'tv' ? 'tv_series
 const checked = new Date().toISOString().slice(0, 10);
 const batchId = `tmdb-${kind}-${date}-${offset}-${offset + limit - 1}`;
 
-const response = await fetch(exportUrl);
+const sleep = milliseconds => new Promise(resolve => setTimeout(resolve, milliseconds));
+async function fetchWithRetry(url, options = {}, attempts = 6) {
+  for (let attempt = 0; attempt < attempts; attempt += 1) {
+    const response = await fetch(url, options);
+    if (response.ok || (response.status < 500 && response.status !== 429)) return response;
+    const retryAfter = Number(response.headers.get('retry-after')) * 1000;
+    await sleep(Number.isFinite(retryAfter) && retryAfter > 0 ? retryAfter : 500 * (2 ** attempt));
+  }
+  return fetch(url, options);
+}
+
+const normalizedKey = item => `${String(item.title).toLowerCase().replace(/[^a-z0-9]/g, '')}|${item.year}|${item.kind}`;
+const knownKeys = new Set(loadCatalog().map(normalizedKey));
+
+const response = await fetchWithRetry(exportUrl);
 if (!response.ok) throw new Error(`TMDB export failed: ${response.status} ${exportUrl}`);
 const ids = [];
 const input = readline.createInterface({ input: require('stream').Readable.fromWeb(response.body).pipe(zlib.createGunzip()), crlfDelay: Infinity });
@@ -29,14 +44,14 @@ for await (const line of input) {
   if (ids.length === limit) break;
 }
 
-const genreResponse = await fetch(`https://api.themoviedb.org/3/genre/${kind}/list?language=en`, { headers: { Authorization: `Bearer ${token}` } });
+const genreResponse = await fetchWithRetry(`https://api.themoviedb.org/3/genre/${kind}/list?language=en`, { headers: { Authorization: `Bearer ${token}` } });
 if (!genreResponse.ok) throw new Error(`TMDB genre request failed: ${genreResponse.status}`);
 const genreMap = new Map((await genreResponse.json()).genres.map(item => [item.id, item.name]));
 const records = [];
 for (let cursor = 0; cursor < ids.length; cursor += 10) {
   const group = ids.slice(cursor, cursor + 10);
   const results = await Promise.all(group.map(async id => {
-    const result = await fetch(`https://api.themoviedb.org/3/${kind}/${id}?language=en`, { headers: { Authorization: `Bearer ${token}` } });
+    const result = await fetchWithRetry(`https://api.themoviedb.org/3/${kind}/${id}?language=en`, { headers: { Authorization: `Bearer ${token}` } });
     if (result.status === 404) return null;
     if (!result.ok) throw new Error(`TMDB ${kind}/${id} failed: ${result.status}`);
     return result.json();
@@ -45,7 +60,7 @@ for (let cursor = 0; cursor < ids.length; cursor += 10) {
     const release = kind === 'tv' ? item.first_air_date : item.release_date;
     const title = kind === 'tv' ? item.name : item.title;
     if (!title || !release) continue;
-    records.push({
+    const record = {
       id: `tmdb-${kind}-${item.id}`,
       externalIds: { tmdb: item.id },
       kind,
@@ -65,7 +80,11 @@ for (let cursor = 0; cursor < ids.length; cursor += 10) {
       updatedAt: checked,
       verifiedAt: checked,
       sources: [`https://www.themoviedb.org/${kind === 'tv' ? 'tv' : 'movie'}/${item.id}`]
-    });
+    };
+    const key = normalizedKey(record);
+    if (knownKeys.has(key)) continue;
+    knownKeys.add(key);
+    records.push(record);
   }
   process.stdout.write(`\rFetched ${Math.min(cursor + 10, ids.length)}/${ids.length}`);
 }
