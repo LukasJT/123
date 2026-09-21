@@ -1,0 +1,20 @@
+{
+  "id": "2026-09-studio-films-01",
+  "purpose": "Add ten missing 2024 studio films using first-party distributor references.",
+  "selectionCriteria": "Released 2024 films listed by their distributor with no normalized title/year/type match in the catalog.",
+  "verifiedAt": "2026-09-20",
+  "records": [
+    {"id":852,"title":"Kingdom of the Planet of the Apes","kind":"movie","year":2024,"sources":["https://www.20thcenturystudios.com/movies/kingdom-of-the-planet-of-the-apes"]},
+    {"id":853,"title":"Alien: Romulus","kind":"movie","year":2024,"sources":["https://www.20thcenturystudios.com/movies/alien-romulus"]},
+    {"id":854,"title":"A Quiet Place: Day One","kind":"movie","year":2024,"sources":["https://music.paramount.com/film/"]},
+    {"id":855,"title":"Sonic the Hedgehog 3","kind":"movie","year":2024,"sources":["https://music.paramount.com/film/"]},
+    {"id":856,"title":"Smile 2","kind":"movie","year":2024,"sources":["https://music.paramount.com/film/"]},
+    {"id":857,"title":"Transformers One","kind":"movie","year":2024,"sources":["https://music.paramount.com/film/"]},
+    {"id":858,"title":"IF","kind":"movie","year":2024,"sources":["https://music.paramount.com/film/"]},
+    {"id":859,"title":"Mean Girls","kind":"movie","year":2024,"sources":["https://music.paramount.com/film/"]},
+    {"id":860,"title":"Bob Marley: One Love","kind":"movie","year":2024,"sources":["https://ir.paramount.com/node/71011/html"]},
+    {"id":861,"title":"The Tiger's Apprentice","kind":"movie","year":2024,"sources":["https://music.paramount.com/film/"]}
+  ],
+  "validation": {"additions":10,"updates":0,"newDuplicateCandidates":0},
+  "limitations": ["No poster URLs, user ratings, playback quality, or availability claims were added."]
+}
