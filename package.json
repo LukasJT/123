@@ -5,6 +5,7 @@
     "build": "node scripts/build-catalog-imports.js && node generate-landing-pages.js && node generate-title-pages.js && node scripts/generate-editorial.js && node generate-seo-assets.js",
     "import:tmdb": "node scripts/import-tmdb-export.js",
     "import:tmdb:series": "node scripts/import-tmdb-series.js",
+    "import:wikidata:year": "node scripts/import-wikidata-year.js",
     "check": "node scripts/check-site.js",
     "test": "node --test test/*.test.js"
   }

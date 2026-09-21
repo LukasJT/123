@@ -1,0 +1,1426 @@
+{
+  "id": "wikidata-films-1900-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1900,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q1236304",
+      "externalIds": {
+        "wikidata": "Q1236304"
+      },
+      "kind": "movie",
+      "title": "Joan of Arc (1900 film)",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1236304"
+      ]
+    },
+    {
+      "id": "wikidata-Q2350737",
+      "externalIds": {
+        "wikidata": "Q2350737"
+      },
+      "kind": "movie",
+      "title": "Cinéorama",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Early film experiment",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2350737"
+      ]
+    },
+    {
+      "id": "wikidata-Q1638927",
+      "externalIds": {
+        "wikidata": "Q1638927"
+      },
+      "kind": "movie",
+      "title": "Sherlock Holmes Baffled",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 film by Arthur Marvin",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1638927"
+      ]
+    },
+    {
+      "id": "wikidata-Q992394",
+      "externalIds": {
+        "wikidata": "Q992394"
+      },
+      "kind": "movie",
+      "title": "Grandma's Reading Glass",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q992394"
+      ]
+    },
+    {
+      "id": "wikidata-Q719959",
+      "externalIds": {
+        "wikidata": "Q719959"
+      },
+      "kind": "movie",
+      "title": "As Seen Through a Telescope",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British silent short film by George Albert Smith",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q719959"
+      ]
+    },
+    {
+      "id": "wikidata-Q2937693",
+      "externalIds": {
+        "wikidata": "Q2937693"
+      },
+      "kind": "movie",
+      "title": "Capture of Boer Battery by British",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 American film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2937693"
+      ]
+    },
+    {
+      "id": "wikidata-Q1544152",
+      "externalIds": {
+        "wikidata": "Q1544152"
+      },
+      "kind": "movie",
+      "title": "Searching Ruins on Broadway, Galveston, for Dead Bodies",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 American film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1544152"
+      ]
+    },
+    {
+      "id": "wikidata-Q1102863",
+      "externalIds": {
+        "wikidata": "Q1102863"
+      },
+      "kind": "movie",
+      "title": "Clowns Spinning Hats",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 American film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1102863"
+      ]
+    },
+    {
+      "id": "wikidata-Q3067980",
+      "externalIds": {
+        "wikidata": "Q3067980"
+      },
+      "kind": "movie",
+      "title": "Feeding Sea Lions",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 American film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3067980"
+      ]
+    },
+    {
+      "id": "wikidata-Q957473",
+      "externalIds": {
+        "wikidata": "Q957473"
+      },
+      "kind": "movie",
+      "title": "The Enchanted Drawing",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 film directed by J. Stuart Blackton",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q957473"
+      ]
+    },
+    {
+      "id": "wikidata-Q7747169",
+      "externalIds": {
+        "wikidata": "Q7747169"
+      },
+      "kind": "movie",
+      "title": "The Life of Bakuvians and Their Movement Along the Velikokniaz Avenue",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 Russian film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7747169"
+      ]
+    },
+    {
+      "id": "wikidata-Q4849612",
+      "externalIds": {
+        "wikidata": "Q4849612"
+      },
+      "kind": "movie",
+      "title": "Bakuvians Walk in the City Park",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 Russian film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4849612"
+      ]
+    },
+    {
+      "id": "wikidata-Q7363126",
+      "externalIds": {
+        "wikidata": "Q7363126"
+      },
+      "kind": "movie",
+      "title": "Romeo and Juliet (1900 film)",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 film by Clément Maurice",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7363126"
+      ]
+    },
+    {
+      "id": "wikidata-Q5645442",
+      "externalIds": {
+        "wikidata": "Q5645442"
+      },
+      "kind": "movie",
+      "title": "Hamlet (1900 film)",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 short film by Clément Maurice",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5645442"
+      ]
+    },
+    {
+      "id": "wikidata-Q323174",
+      "externalIds": {
+        "wikidata": "Q323174"
+      },
+      "kind": "movie",
+      "title": "Chimmie Hicks at the Races",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 American short film directed by Frederick S. Armitage",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q323174"
+      ]
+    },
+    {
+      "id": "wikidata-Q814456",
+      "externalIds": {
+        "wikidata": "Q814456"
+      },
+      "kind": "movie",
+      "title": "Beheading the Chinese Prisoner",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 American film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q814456"
+      ]
+    },
+    {
+      "id": "wikidata-Q5595470",
+      "externalIds": {
+        "wikidata": "Q5595470"
+      },
+      "kind": "movie",
+      "title": "Grandma Threading her Needle",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5595470"
+      ]
+    },
+    {
+      "id": "wikidata-Q4165170",
+      "externalIds": {
+        "wikidata": "Q4165170"
+      },
+      "kind": "movie",
+      "title": "The House That Jack Built (1900 film)",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4165170"
+      ]
+    },
+    {
+      "id": "wikidata-Q2412650",
+      "externalIds": {
+        "wikidata": "Q2412650"
+      },
+      "kind": "movie",
+      "title": "The Magician (1900 film)",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 American film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2412650"
+      ]
+    },
+    {
+      "id": "wikidata-Q5421423",
+      "externalIds": {
+        "wikidata": "Q5421423"
+      },
+      "kind": "movie",
+      "title": "Explosion of a Motor Car",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British short comedy film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5421423"
+      ]
+    },
+    {
+      "id": "wikidata-Q7716306",
+      "externalIds": {
+        "wikidata": "Q7716306"
+      },
+      "kind": "movie",
+      "title": "The Beggar's Deceit",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film by Cecil Hepworth",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7716306"
+      ]
+    },
+    {
+      "id": "wikidata-Q7577085",
+      "externalIds": {
+        "wikidata": "Q7577085"
+      },
+      "kind": "movie",
+      "title": "Spiders on a Web",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7577085"
+      ]
+    },
+    {
+      "id": "wikidata-Q4312953",
+      "externalIds": {
+        "wikidata": "Q4312953"
+      },
+      "kind": "movie",
+      "title": "Attack on a China Mission",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film by James Williamson",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4312953"
+      ]
+    },
+    {
+      "id": "wikidata-Q3216392",
+      "externalIds": {
+        "wikidata": "Q3216392"
+      },
+      "kind": "movie",
+      "title": "Let Me Dream Again",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3216392"
+      ]
+    },
+    {
+      "id": "wikidata-Q4659132",
+      "externalIds": {
+        "wikidata": "Q4659132"
+      },
+      "kind": "movie",
+      "title": "A Railway Collision",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British silent film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4659132"
+      ]
+    },
+    {
+      "id": "wikidata-Q4794167",
+      "externalIds": {
+        "wikidata": "Q4794167"
+      },
+      "kind": "movie",
+      "title": "Army Life; or, How Soldiers Are Made: Mounted Infantry",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British silent short film by Robert W. Paul",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4794167"
+      ]
+    },
+    {
+      "id": "wikidata-Q5917877",
+      "externalIds": {
+        "wikidata": "Q5917877"
+      },
+      "kind": "movie",
+      "title": "How It Feels to Be Run Over",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5917877"
+      ]
+    },
+    {
+      "id": "wikidata-Q7558868",
+      "externalIds": {
+        "wikidata": "Q7558868"
+      },
+      "kind": "movie",
+      "title": "Solser en Hesse",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 Dutch film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7558868"
+      ]
+    },
+    {
+      "id": "wikidata-Q2370688",
+      "externalIds": {
+        "wikidata": "Q2370688"
+      },
+      "kind": "movie",
+      "title": "Addition and Subtraction",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2370688"
+      ]
+    },
+    {
+      "id": "wikidata-Q3520391",
+      "externalIds": {
+        "wikidata": "Q3520391"
+      },
+      "kind": "movie",
+      "title": "The Cook's Revenge",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3520391"
+      ]
+    },
+    {
+      "id": "wikidata-Q1029583",
+      "externalIds": {
+        "wikidata": "Q1029583"
+      },
+      "kind": "movie",
+      "title": "Faust and Marguerite (1900 film)",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 American film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1029583"
+      ]
+    },
+    {
+      "id": "wikidata-Q17013517",
+      "externalIds": {
+        "wikidata": "Q17013517"
+      },
+      "kind": "movie",
+      "title": "Paris Exposition, 1900 (film series)",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17013517"
+      ]
+    },
+    {
+      "id": "wikidata-Q3563744",
+      "externalIds": {
+        "wikidata": "Q3563744"
+      },
+      "kind": "movie",
+      "title": "Thanking the Audience",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3563744"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226354",
+      "externalIds": {
+        "wikidata": "Q3226354"
+      },
+      "kind": "movie",
+      "title": "A Fantastical Meal",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226354"
+      ]
+    },
+    {
+      "id": "wikidata-Q3008914",
+      "externalIds": {
+        "wikidata": "Q3008914"
+      },
+      "kind": "movie",
+      "title": "Cyrano de Bergerac (1900 film)",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3008914"
+      ]
+    },
+    {
+      "id": "wikidata-Q3232790",
+      "externalIds": {
+        "wikidata": "Q3232790"
+      },
+      "kind": "movie",
+      "title": "Les Fredaines de Pierrette",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3232790"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226945",
+      "externalIds": {
+        "wikidata": "Q3226945"
+      },
+      "kind": "movie",
+      "title": "The Doctor and the Monkey",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226945"
+      ]
+    },
+    {
+      "id": "wikidata-Q3222583",
+      "externalIds": {
+        "wikidata": "Q3222583"
+      },
+      "kind": "movie",
+      "title": "Going to Bed Under Difficulties",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3222583"
+      ]
+    },
+    {
+      "id": "wikidata-Q2993119",
+      "externalIds": {
+        "wikidata": "Q2993119"
+      },
+      "kind": "movie",
+      "title": "China Versus Allied Powers",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2993119"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649328",
+      "externalIds": {
+        "wikidata": "Q20649328"
+      },
+      "kind": "movie",
+      "title": "Soldiers of the Cross (film)",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 Australian film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649328"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649709",
+      "externalIds": {
+        "wikidata": "Q20649709"
+      },
+      "kind": "movie",
+      "title": "The Early Day Christian Martyrs",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 Australian film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649709"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226806",
+      "externalIds": {
+        "wikidata": "Q3226806"
+      },
+      "kind": "movie",
+      "title": "The Christmas Dream",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226806"
+      ]
+    },
+    {
+      "id": "wikidata-Q3345272",
+      "externalIds": {
+        "wikidata": "Q3345272"
+      },
+      "kind": "movie",
+      "title": "Fat and Lean Wrestling Match",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 film by Georges Méliès",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3345272"
+      ]
+    },
+    {
+      "id": "wikidata-Q2996833",
+      "externalIds": {
+        "wikidata": "Q2996833"
+      },
+      "kind": "movie",
+      "title": "Coppelia, the Animated Doll",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 film by Georges Méliès",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2996833"
+      ]
+    },
+    {
+      "id": "wikidata-Q3202410",
+      "externalIds": {
+        "wikidata": "Q3202410"
+      },
+      "kind": "movie",
+      "title": "The Artist and the Mannikin",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3202410"
+      ]
+    },
+    {
+      "id": "wikidata-Q102036271",
+      "externalIds": {
+        "wikidata": "Q102036271"
+      },
+      "kind": "movie",
+      "title": "The Departure of the Second Contingent for the Boer War",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 New Zealand film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q102036271"
+      ]
+    },
+    {
+      "id": "wikidata-Q3100828",
+      "externalIds": {
+        "wikidata": "Q3100828"
+      },
+      "kind": "movie",
+      "title": "Crying and Laughing",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3100828"
+      ]
+    },
+    {
+      "id": "wikidata-Q300510",
+      "externalIds": {
+        "wikidata": "Q300510"
+      },
+      "kind": "movie",
+      "title": "A Nymph of the Waves",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 film by Frederick S. Armitage",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q300510"
+      ]
+    },
+    {
+      "id": "wikidata-Q127255946",
+      "externalIds": {
+        "wikidata": "Q127255946"
+      },
+      "kind": "movie",
+      "title": "A Career of Crime",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American film series",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q127255946"
+      ]
+    },
+    {
+      "id": "wikidata-Q125658678",
+      "externalIds": {
+        "wikidata": "Q125658678"
+      },
+      "kind": "movie",
+      "title": "Panorama of the Paris Exhibition No. 3",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q125658678"
+      ]
+    },
+    {
+      "id": "wikidata-Q3231990",
+      "externalIds": {
+        "wikidata": "Q3231990"
+      },
+      "kind": "movie",
+      "title": "The Two Blind Men",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3231990"
+      ]
+    },
+    {
+      "id": "wikidata-Q2413197",
+      "externalIds": {
+        "wikidata": "Q2413197"
+      },
+      "kind": "movie",
+      "title": "The Old Maid's Valentine",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 British film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2413197"
+      ]
+    },
+    {
+      "id": "wikidata-Q7769927",
+      "externalIds": {
+        "wikidata": "Q7769927"
+      },
+      "kind": "movie",
+      "title": "The Tramp and the Crap Game",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 American film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7769927"
+      ]
+    },
+    {
+      "id": "wikidata-Q3233342",
+      "externalIds": {
+        "wikidata": "Q3233342"
+      },
+      "kind": "movie",
+      "title": "The Misfortunes of an Explorer",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3233342"
+      ]
+    },
+    {
+      "id": "wikidata-Q1748635",
+      "externalIds": {
+        "wikidata": "Q1748635"
+      },
+      "kind": "movie",
+      "title": "The One-Man Band",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1748635"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226817",
+      "externalIds": {
+        "wikidata": "Q3226817"
+      },
+      "kind": "movie",
+      "title": "The Rajah's Dream",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226817"
+      ]
+    },
+    {
+      "id": "wikidata-Q3233867",
+      "externalIds": {
+        "wikidata": "Q3233867"
+      },
+      "kind": "movie",
+      "title": "The Miracles of the Brahmin",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 French film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3233867"
+      ]
+    },
+    {
+      "id": "wikidata-Q3210445",
+      "externalIds": {
+        "wikidata": "Q3210445"
+      },
+      "kind": "movie",
+      "title": "What Is Home Without the Boarder",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1901 film by Georges Méliès",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3210445"
+      ]
+    },
+    {
+      "id": "wikidata-Q102036272",
+      "externalIds": {
+        "wikidata": "Q102036272"
+      },
+      "kind": "movie",
+      "title": "The World's First Lady Mayor",
+      "year": 1900,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1900 New Zealand film",
+      "batchId": "wikidata-films-1900-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q102036272"
+      ]
+    }
+  ]
+}

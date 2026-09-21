@@ -202,9 +202,10 @@ function renderTitlePage(item) {
     .sort((a, b) => Number.parseFloat(b.rating) - Number.parseFloat(a.rating))
     .slice(0, 12);
   const title = `${item.title} (${item.year}) ${kindLabel} Details - ${SITE_NAME}`;
+  const genreText = item.genres.length ? `${item.genres.join(', ')} ` : '';
   const description = item.rating
-    ? `${item.title} (${item.year}) is a ${item.genres.join(', ')} ${kindLabel.toLowerCase()} rated ${item.rating}. Browse synopsis, poster, duration, genres, and related recommendations on ${SITE_NAME}.`
-    : `${item.title} (${item.year}) is a ${item.genres.join(', ')} ${kindLabel.toLowerCase()}. Browse synopsis, release details, genres, and related recommendations on ${SITE_NAME}.`;
+    ? `${item.title} (${item.year}) is a ${genreText}${kindLabel.toLowerCase()} rated ${item.rating}. Browse synopsis, poster, duration, genres, and related recommendations on ${SITE_NAME}.`
+    : `${item.title} (${item.year}) is a ${genreText}${kindLabel.toLowerCase()}. Browse synopsis, release details, genres, and related recommendations on ${SITE_NAME}.`;
   const html = `<!DOCTYPE html>
 <html lang="en">
 <head>

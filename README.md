@@ -23,7 +23,7 @@ A static movie and TV catalog site for GitHub Pages.
 - About page with AboutPage structured data for site trust signals
 - Advertising disclosure page for sponsored links and third-party ad transparency
 - Cross-links from title pages into matching genre, year, type, and ranked catalog pages
-- 861-title catalog across Movies + TV Shows
+- 920-title catalog across Movies + TV Shows
 - Responsive grid layout
 
 ## Run locally
@@ -59,3 +59,14 @@ TMDB_BEARER_TOKEN=... npm run import:tmdb:series -- --kind=tv --date=2026-09-19 
 ```
 
 The importer retries temporary rate-limit and server failures and skips title/year/type matches already present in the catalog, preventing overlapping batches from creating duplicate pages.
+
+## Chronological film indexing
+
+Wikidata year batches provide a no-key path for historical coverage beginning in 1900. Each record keeps its Wikidata QID and source URL, skips an existing title/year/type match, and leaves unavailable facts empty:
+
+```sh
+npm run import:wikidata:year -- --year=1900 --offset=0 --limit=500
+npm run build && npm test && npm run check
+```
+
+Advance the offset when a year returns the full requested row limit. Because films can have multiple dates and genres, the importer consolidates repeated result rows by Wikidata identity before writing the batch.
