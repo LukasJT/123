@@ -3,7 +3,7 @@ const vm = require('vm');
 
 const BASE_URL = 'https://123videos.net';
 const SITE_NAME = '123Videos';
-const SPONSOR_URL = 'https://www.effectivecpmnetwork.com/juxu9sau?key=b98baa5570f162d9918462f7df0dd586';
+const SPONSOR_URL = 'https://directyp.org/4/b98baa5570f162d9918462f7df0dd586';
 
 const sandbox = {
   window: {},
