@@ -1,0 +1,658 @@
+{
+  "id": "wikidata-films-1926-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1926,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q1702648",
+      "externalIds": {
+        "wikidata": "Q1702648"
+      },
+      "kind": "movie",
+      "title": "You'd Be Surprised (film)",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film by Arthur Rosson",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1702648"
+      ]
+    },
+    {
+      "id": "wikidata-Q4023004",
+      "externalIds": {
+        "wikidata": "Q4023004"
+      },
+      "kind": "movie",
+      "title": "You Never Know Women",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film by William A. Wellman",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4023004"
+      ]
+    },
+    {
+      "id": "wikidata-Q8057926",
+      "externalIds": {
+        "wikidata": "Q8057926"
+      },
+      "kind": "movie",
+      "title": "Young April",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8057926"
+      ]
+    },
+    {
+      "id": "wikidata-Q8030766",
+      "externalIds": {
+        "wikidata": "Q8030766"
+      },
+      "kind": "movie",
+      "title": "Womanhandled",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1925 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8030766"
+      ]
+    },
+    {
+      "id": "wikidata-Q7995403",
+      "externalIds": {
+        "wikidata": "Q7995403"
+      },
+      "kind": "movie",
+      "title": "White Slave Traffic",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7995403"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019645",
+      "externalIds": {
+        "wikidata": "Q4019645"
+      },
+      "kind": "movie",
+      "title": "Why Girls Go Back Home",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019645"
+      ]
+    },
+    {
+      "id": "wikidata-Q17113398",
+      "externalIds": {
+        "wikidata": "Q17113398"
+      },
+      "kind": "movie",
+      "title": "Wood Love",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1925 film by Hans Neumann",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17113398"
+      ]
+    },
+    {
+      "id": "wikidata-Q14949943",
+      "externalIds": {
+        "wikidata": "Q14949943"
+      },
+      "kind": "movie",
+      "title": "Young Blood (1926 film)",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film directed by Manfred Noa",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q14949943"
+      ]
+    },
+    {
+      "id": "wikidata-Q17065657",
+      "externalIds": {
+        "wikidata": "Q17065657"
+      },
+      "kind": "movie",
+      "title": "Why Get a Divorce?",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film directed by Manfred Noa",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17065657"
+      ]
+    },
+    {
+      "id": "wikidata-Q17184091",
+      "externalIds": {
+        "wikidata": "Q17184091"
+      },
+      "kind": "movie",
+      "title": "With Buffalo Bill on the U. P. Trail",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17184091"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528255",
+      "externalIds": {
+        "wikidata": "Q21528255"
+      },
+      "kind": "movie",
+      "title": "Yellow Fingers",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528255"
+      ]
+    },
+    {
+      "id": "wikidata-Q1771649",
+      "externalIds": {
+        "wikidata": "Q1771649"
+      },
+      "kind": "movie",
+      "title": "Zare (film)",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1771649"
+      ]
+    },
+    {
+      "id": "wikidata-Q21870014",
+      "externalIds": {
+        "wikidata": "Q21870014"
+      },
+      "kind": "movie",
+      "title": "Women of Luxury",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1925 film by Erich Schönfelder",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21870014"
+      ]
+    },
+    {
+      "id": "wikidata-Q21870020",
+      "externalIds": {
+        "wikidata": "Q21870020"
+      },
+      "kind": "movie",
+      "title": "Wrath of the Seas",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 German silent film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21870020"
+      ]
+    },
+    {
+      "id": "wikidata-Q22001183",
+      "externalIds": {
+        "wikidata": "Q22001183"
+      },
+      "kind": "movie",
+      "title": "Women and Banknotes",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22001183"
+      ]
+    },
+    {
+      "id": "wikidata-Q27590394",
+      "externalIds": {
+        "wikidata": "Q27590394"
+      },
+      "kind": "movie",
+      "title": "Wife Tamers",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27590394"
+      ]
+    },
+    {
+      "id": "wikidata-Q28130333",
+      "externalIds": {
+        "wikidata": "Q28130333"
+      },
+      "kind": "movie",
+      "title": "Women of Passion",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28130333"
+      ]
+    },
+    {
+      "id": "wikidata-Q55637612",
+      "externalIds": {
+        "wikidata": "Q55637612"
+      },
+      "kind": "movie",
+      "title": "White Mice (film)",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55637612"
+      ]
+    },
+    {
+      "id": "wikidata-Q56279776",
+      "externalIds": {
+        "wikidata": "Q56279776"
+      },
+      "kind": "movie",
+      "title": "Wings of the Storm",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56279776"
+      ]
+    },
+    {
+      "id": "wikidata-Q56596717",
+      "externalIds": {
+        "wikidata": "Q56596717"
+      },
+      "kind": "movie",
+      "title": "Womanpower",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56596717"
+      ]
+    },
+    {
+      "id": "wikidata-Q56736607",
+      "externalIds": {
+        "wikidata": "Q56736607"
+      },
+      "kind": "movie",
+      "title": "Wild Oats Lane",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56736607"
+      ]
+    },
+    {
+      "id": "wikidata-Q5242188",
+      "externalIds": {
+        "wikidata": "Q5242188"
+      },
+      "kind": "movie",
+      "title": "With Davy Crockett at the Fall of the Alamo",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5242188"
+      ]
+    },
+    {
+      "id": "wikidata-Q56816889",
+      "externalIds": {
+        "wikidata": "Q56816889"
+      },
+      "kind": "movie",
+      "title": "Winning the Futurity",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56816889"
+      ]
+    },
+    {
+      "id": "wikidata-Q56886902",
+      "externalIds": {
+        "wikidata": "Q56886902"
+      },
+      "kind": "movie",
+      "title": "Wives at Auction",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56886902"
+      ]
+    },
+    {
+      "id": "wikidata-Q57524479",
+      "externalIds": {
+        "wikidata": "Q57524479"
+      },
+      "kind": "movie",
+      "title": "Wild to Go",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q57524479"
+      ]
+    },
+    {
+      "id": "wikidata-Q106630012",
+      "externalIds": {
+        "wikidata": "Q106630012"
+      },
+      "kind": "movie",
+      "title": "Wolves of the Desert",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106630012"
+      ]
+    },
+    {
+      "id": "wikidata-Q110130715",
+      "externalIds": {
+        "wikidata": "Q110130715"
+      },
+      "kind": "movie",
+      "title": "Wise Guys Prefer Brunettes",
+      "year": 1926,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1926 film",
+      "batchId": "wikidata-films-1926-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q110130715"
+      ]
+    }
+  ]
+}

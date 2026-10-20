@@ -1,0 +1,7066 @@
+{
+  "id": "wikidata-films-1911-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1911,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q3602780",
+      "externalIds": {
+        "wikidata": "Q3602780"
+      },
+      "kind": "movie",
+      "title": "A Tale of Two Cities (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film produced by Vitagraph Studios",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3602780"
+      ]
+    },
+    {
+      "id": "wikidata-Q31172",
+      "externalIds": {
+        "wikidata": "Q31172"
+      },
+      "kind": "movie",
+      "title": "Baseball and Bloomers",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q31172"
+      ]
+    },
+    {
+      "id": "wikidata-Q3230864",
+      "externalIds": {
+        "wikidata": "Q3230864"
+      },
+      "kind": "movie",
+      "title": "Baron Munchausen's Dream",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 French film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3230864"
+      ]
+    },
+    {
+      "id": "wikidata-Q4727634",
+      "externalIds": {
+        "wikidata": "Q4727634"
+      },
+      "kind": "movie",
+      "title": "Alkali Ike's Auto",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4727634"
+      ]
+    },
+    {
+      "id": "wikidata-Q3602434",
+      "externalIds": {
+        "wikidata": "Q3602434"
+      },
+      "kind": "movie",
+      "title": "A Decree of Destiny",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3602434"
+      ]
+    },
+    {
+      "id": "wikidata-Q15465739",
+      "externalIds": {
+        "wikidata": "Q15465739"
+      },
+      "kind": "movie",
+      "title": "A Country Cupid",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15465739"
+      ]
+    },
+    {
+      "id": "wikidata-Q4660739",
+      "externalIds": {
+        "wikidata": "Q4660739"
+      },
+      "kind": "movie",
+      "title": "A Woman Scorned (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4660739"
+      ]
+    },
+    {
+      "id": "wikidata-Q3574048",
+      "externalIds": {
+        "wikidata": "Q3574048"
+      },
+      "kind": "movie",
+      "title": "A Victim of the Mormons",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Danish film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3574048"
+      ]
+    },
+    {
+      "id": "wikidata-Q2926340",
+      "externalIds": {
+        "wikidata": "Q2926340"
+      },
+      "kind": "movie",
+      "title": "Brown of Harvard (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2926340"
+      ]
+    },
+    {
+      "id": "wikidata-Q4885775",
+      "externalIds": {
+        "wikidata": "Q4885775"
+      },
+      "kind": "movie",
+      "title": "Ben Hall and His Gang",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4885775"
+      ]
+    },
+    {
+      "id": "wikidata-Q4808851",
+      "externalIds": {
+        "wikidata": "Q4808851"
+      },
+      "kind": "movie",
+      "title": "Assigned to His Wife",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4808851"
+      ]
+    },
+    {
+      "id": "wikidata-Q5021873",
+      "externalIds": {
+        "wikidata": "Q5021873"
+      },
+      "kind": "movie",
+      "title": "Called Back (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5021873"
+      ]
+    },
+    {
+      "id": "wikidata-Q4729949",
+      "externalIds": {
+        "wikidata": "Q4729949"
+      },
+      "kind": "movie",
+      "title": "All for Gold, or Jumping the Claim",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4729949"
+      ]
+    },
+    {
+      "id": "wikidata-Q3602796",
+      "externalIds": {
+        "wikidata": "Q3602796"
+      },
+      "kind": "movie",
+      "title": "A Ticket in Tatts (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3602796"
+      ]
+    },
+    {
+      "id": "wikidata-Q3602786",
+      "externalIds": {
+        "wikidata": "Q3602786"
+      },
+      "kind": "movie",
+      "title": "A Tale of the Australian Bush",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3602786"
+      ]
+    },
+    {
+      "id": "wikidata-Q5001566",
+      "externalIds": {
+        "wikidata": "Q5001566"
+      },
+      "kind": "movie",
+      "title": "Bushranger's Ransom, or A Ride for Life",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian silent film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5001566"
+      ]
+    },
+    {
+      "id": "wikidata-Q4690575",
+      "externalIds": {
+        "wikidata": "Q4690575"
+      },
+      "kind": "movie",
+      "title": "After Sundown (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4690575"
+      ]
+    },
+    {
+      "id": "wikidata-Q2864892",
+      "externalIds": {
+        "wikidata": "Q2864892"
+      },
+      "kind": "movie",
+      "title": "Artful Kate",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2864892"
+      ]
+    },
+    {
+      "id": "wikidata-Q2823510",
+      "externalIds": {
+        "wikidata": "Q2823510"
+      },
+      "kind": "movie",
+      "title": "Across the Plains (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2823510"
+      ]
+    },
+    {
+      "id": "wikidata-Q4658622",
+      "externalIds": {
+        "wikidata": "Q4658622"
+      },
+      "kind": "movie",
+      "title": "A Night of Terror (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4658622"
+      ]
+    },
+    {
+      "id": "wikidata-Q5003867",
+      "externalIds": {
+        "wikidata": "Q5003867"
+      },
+      "kind": "movie",
+      "title": "By the Light of the Moon (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5003867"
+      ]
+    },
+    {
+      "id": "wikidata-Q16248277",
+      "externalIds": {
+        "wikidata": "Q16248277"
+      },
+      "kind": "movie",
+      "title": "A Brass Button",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16248277"
+      ]
+    },
+    {
+      "id": "wikidata-Q17512481",
+      "externalIds": {
+        "wikidata": "Q17512481"
+      },
+      "kind": "movie",
+      "title": "Brutus (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Italian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17512481"
+      ]
+    },
+    {
+      "id": "wikidata-Q3606882",
+      "externalIds": {
+        "wikidata": "Q3606882"
+      },
+      "kind": "movie",
+      "title": "Agrippina (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Italian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3606882"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946804",
+      "externalIds": {
+        "wikidata": "Q19946804"
+      },
+      "kind": "movie",
+      "title": "Arrah-na-Pogue (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946804"
+      ]
+    },
+    {
+      "id": "wikidata-Q3144655",
+      "externalIds": {
+        "wikidata": "Q3144655"
+      },
+      "kind": "movie",
+      "title": "A Roman Orgy",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 French film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3144655"
+      ]
+    },
+    {
+      "id": "wikidata-Q18589303",
+      "externalIds": {
+        "wikidata": "Q18589303"
+      },
+      "kind": "movie",
+      "title": "A Miner's Luck",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18589303"
+      ]
+    },
+    {
+      "id": "wikidata-Q18612252",
+      "externalIds": {
+        "wikidata": "Q18612252"
+      },
+      "kind": "movie",
+      "title": "Among the Irish Fisher Folk",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Sidney Olcott",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18612252"
+      ]
+    },
+    {
+      "id": "wikidata-Q18708895",
+      "externalIds": {
+        "wikidata": "Q18708895"
+      },
+      "kind": "movie",
+      "title": "Attack on the Gold Escort",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18708895"
+      ]
+    },
+    {
+      "id": "wikidata-Q3605822",
+      "externalIds": {
+        "wikidata": "Q3605822"
+      },
+      "kind": "movie",
+      "title": "Adrift (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3605822"
+      ]
+    },
+    {
+      "id": "wikidata-Q20313260",
+      "externalIds": {
+        "wikidata": "Q20313260"
+      },
+      "kind": "movie",
+      "title": "Bertie's Brainstorm",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20313260"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814420",
+      "externalIds": {
+        "wikidata": "Q20814420"
+      },
+      "kind": "movie",
+      "title": "A Newsboy Hero",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814420"
+      ]
+    },
+    {
+      "id": "wikidata-Q20005173",
+      "externalIds": {
+        "wikidata": "Q20005173"
+      },
+      "kind": "movie",
+      "title": "An Indian Love Story",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20005173"
+      ]
+    },
+    {
+      "id": "wikidata-Q3637485",
+      "externalIds": {
+        "wikidata": "Q3637485"
+      },
+      "kind": "movie",
+      "title": "Behind the Stockade",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3637485"
+      ]
+    },
+    {
+      "id": "wikidata-Q3647824",
+      "externalIds": {
+        "wikidata": "Q3647824"
+      },
+      "kind": "movie",
+      "title": "By a Woman's Wit",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3647824"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946814",
+      "externalIds": {
+        "wikidata": "Q19946814"
+      },
+      "kind": "movie",
+      "title": "A War Time Escape",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946814"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946810",
+      "externalIds": {
+        "wikidata": "Q19946810"
+      },
+      "kind": "movie",
+      "title": "A Sawmill Hero",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946810"
+      ]
+    },
+    {
+      "id": "wikidata-Q16524711",
+      "externalIds": {
+        "wikidata": "Q16524711"
+      },
+      "kind": "movie",
+      "title": "Aida (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16524711"
+      ]
+    },
+    {
+      "id": "wikidata-Q3640068",
+      "externalIds": {
+        "wikidata": "Q3640068"
+      },
+      "kind": "movie",
+      "title": "Billy the Kid (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3640068"
+      ]
+    },
+    {
+      "id": "wikidata-Q3637487",
+      "externalIds": {
+        "wikidata": "Q3637487"
+      },
+      "kind": "movie",
+      "title": "Behind the Times (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Thomas H. Ince",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3637487"
+      ]
+    },
+    {
+      "id": "wikidata-Q771014",
+      "externalIds": {
+        "wikidata": "Q771014"
+      },
+      "kind": "movie",
+      "title": "Anna Karenina (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Russian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q771014"
+      ]
+    },
+    {
+      "id": "wikidata-Q17558692",
+      "externalIds": {
+        "wikidata": "Q17558692"
+      },
+      "kind": "movie",
+      "title": "A Reformed Santa Claus",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American silent film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17558692"
+      ]
+    },
+    {
+      "id": "wikidata-Q3602458",
+      "externalIds": {
+        "wikidata": "Q3602458"
+      },
+      "kind": "movie",
+      "title": "A False Suspicion",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3602458"
+      ]
+    },
+    {
+      "id": "wikidata-Q13099512",
+      "externalIds": {
+        "wikidata": "Q13099512"
+      },
+      "kind": "movie",
+      "title": "An Island Comedy",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q13099512"
+      ]
+    },
+    {
+      "id": "wikidata-Q89785309",
+      "externalIds": {
+        "wikidata": "Q89785309"
+      },
+      "kind": "movie",
+      "title": "A Redskin's Bravery",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q89785309"
+      ]
+    },
+    {
+      "id": "wikidata-Q96417661",
+      "externalIds": {
+        "wikidata": "Q96417661"
+      },
+      "kind": "movie",
+      "title": "An Old-Time Nightmare",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film by Fred Walton",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q96417661"
+      ]
+    },
+    {
+      "id": "wikidata-Q7583984",
+      "externalIds": {
+        "wikidata": "Q7583984"
+      },
+      "kind": "movie",
+      "title": "Bondefangeri i Vaterland",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7583984"
+      ]
+    },
+    {
+      "id": "wikidata-Q2819849",
+      "externalIds": {
+        "wikidata": "Q2819849"
+      },
+      "kind": "movie",
+      "title": "A Painter's Idyl",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Hobart Bosworth",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2819849"
+      ]
+    },
+    {
+      "id": "wikidata-Q2819808",
+      "externalIds": {
+        "wikidata": "Q2819808"
+      },
+      "kind": "movie",
+      "title": "A Manly Man",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2819808"
+      ]
+    },
+    {
+      "id": "wikidata-Q124658845",
+      "externalIds": {
+        "wikidata": "Q124658845"
+      },
+      "kind": "movie",
+      "title": "Black Talbot",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124658845"
+      ]
+    },
+    {
+      "id": "wikidata-Q5466746",
+      "externalIds": {
+        "wikidata": "Q5466746"
+      },
+      "kind": "movie",
+      "title": "For Her Sake (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5466746"
+      ]
+    },
+    {
+      "id": "wikidata-Q5023006",
+      "externalIds": {
+        "wikidata": "Q5023006"
+      },
+      "kind": "movie",
+      "title": "Cally's Comet",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5023006"
+      ]
+    },
+    {
+      "id": "wikidata-Q5457207",
+      "externalIds": {
+        "wikidata": "Q5457207"
+      },
+      "kind": "movie",
+      "title": "Flames and Fortune",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5457207"
+      ]
+    },
+    {
+      "id": "wikidata-Q5178537",
+      "externalIds": {
+        "wikidata": "Q5178537"
+      },
+      "kind": "movie",
+      "title": "Courting Across the Court",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5178537"
+      ]
+    },
+    {
+      "id": "wikidata-Q876759",
+      "externalIds": {
+        "wikidata": "Q876759"
+      },
+      "kind": "movie",
+      "title": "Der Müller und sein Kind",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by Walter Friedmann",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q876759"
+      ]
+    },
+    {
+      "id": "wikidata-Q2386718",
+      "externalIds": {
+        "wikidata": "Q2386718"
+      },
+      "kind": "movie",
+      "title": "Defence of Sevastopol",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Russian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2386718"
+      ]
+    },
+    {
+      "id": "wikidata-Q5732167",
+      "externalIds": {
+        "wikidata": "Q5732167"
+      },
+      "kind": "movie",
+      "title": "Her Awakening",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5732167"
+      ]
+    },
+    {
+      "id": "wikidata-Q5274368",
+      "externalIds": {
+        "wikidata": "Q5274368"
+      },
+      "kind": "movie",
+      "title": "Die Glückspuppe",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Austrian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5274368"
+      ]
+    },
+    {
+      "id": "wikidata-Q16251229",
+      "externalIds": {
+        "wikidata": "Q16251229"
+      },
+      "kind": "movie",
+      "title": "Her Crowning Glory",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16251229"
+      ]
+    },
+    {
+      "id": "wikidata-Q590197",
+      "externalIds": {
+        "wikidata": "Q590197"
+      },
+      "kind": "movie",
+      "title": "His Trust Fulfilled",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q590197"
+      ]
+    },
+    {
+      "id": "wikidata-Q3785833",
+      "externalIds": {
+        "wikidata": "Q3785833"
+      },
+      "kind": "movie",
+      "title": "His Trust",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3785833"
+      ]
+    },
+    {
+      "id": "wikidata-Q3783922",
+      "externalIds": {
+        "wikidata": "Q3783922"
+      },
+      "kind": "movie",
+      "title": "Heart Beats of Long Ago",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3783922"
+      ]
+    },
+    {
+      "id": "wikidata-Q3785797",
+      "externalIds": {
+        "wikidata": "Q3785797"
+      },
+      "kind": "movie",
+      "title": "His Daughter",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3785797"
+      ]
+    },
+    {
+      "id": "wikidata-Q3787193",
+      "externalIds": {
+        "wikidata": "Q3787193"
+      },
+      "kind": "movie",
+      "title": "How She Triumphed",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3787193"
+      ]
+    },
+    {
+      "id": "wikidata-Q629580",
+      "externalIds": {
+        "wikidata": "Q629580"
+      },
+      "kind": "movie",
+      "title": "Enoch Arden (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q629580"
+      ]
+    },
+    {
+      "id": "wikidata-Q3744724",
+      "externalIds": {
+        "wikidata": "Q3744724"
+      },
+      "kind": "movie",
+      "title": "Fighting Blood (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3744724"
+      ]
+    },
+    {
+      "id": "wikidata-Q1760129",
+      "externalIds": {
+        "wikidata": "Q1760129"
+      },
+      "kind": "movie",
+      "title": "Den farlige alder",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1760129"
+      ]
+    },
+    {
+      "id": "wikidata-Q2796724",
+      "externalIds": {
+        "wikidata": "Q2796724"
+      },
+      "kind": "movie",
+      "title": "De bannelingen",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2796724"
+      ]
+    },
+    {
+      "id": "wikidata-Q3740066",
+      "externalIds": {
+        "wikidata": "Q3740066"
+      },
+      "kind": "movie",
+      "title": "Fate's Turning",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent drama film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3740066"
+      ]
+    },
+    {
+      "id": "wikidata-Q3785802",
+      "externalIds": {
+        "wikidata": "Q3785802"
+      },
+      "kind": "movie",
+      "title": "His Friend's Wife",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3785802"
+      ]
+    },
+    {
+      "id": "wikidata-Q745283",
+      "externalIds": {
+        "wikidata": "Q745283"
+      },
+      "kind": "movie",
+      "title": "David Copperfield (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q745283"
+      ]
+    },
+    {
+      "id": "wikidata-Q5486791",
+      "externalIds": {
+        "wikidata": "Q5486791"
+      },
+      "kind": "movie",
+      "title": "Frank Gardiner, the King of the Road",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5486791"
+      ]
+    },
+    {
+      "id": "wikidata-Q5036733",
+      "externalIds": {
+        "wikidata": "Q5036733"
+      },
+      "kind": "movie",
+      "title": "Captain Midnight, the Bush King",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5036733"
+      ]
+    },
+    {
+      "id": "wikidata-Q5036807",
+      "externalIds": {
+        "wikidata": "Q5036807"
+      },
+      "kind": "movie",
+      "title": "Captain Starlight, or Gentleman of the Road",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5036807"
+      ]
+    },
+    {
+      "id": "wikidata-Q5023176",
+      "externalIds": {
+        "wikidata": "Q5023176"
+      },
+      "kind": "movie",
+      "title": "Caloola, or The Adventures of a Jackeroo",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5023176"
+      ]
+    },
+    {
+      "id": "wikidata-Q5519668",
+      "externalIds": {
+        "wikidata": "Q5519668"
+      },
+      "kind": "movie",
+      "title": "Gambler's Gold",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5519668"
+      ]
+    },
+    {
+      "id": "wikidata-Q5214050",
+      "externalIds": {
+        "wikidata": "Q5214050"
+      },
+      "kind": "movie",
+      "title": "Dan Morgan (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5214050"
+      ]
+    },
+    {
+      "id": "wikidata-Q5308076",
+      "externalIds": {
+        "wikidata": "Q5308076"
+      },
+      "kind": "movie",
+      "title": "Driving a Girl to Destruction",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5308076"
+      ]
+    },
+    {
+      "id": "wikidata-Q18708954",
+      "externalIds": {
+        "wikidata": "Q18708954"
+      },
+      "kind": "movie",
+      "title": "From Bondage to Freedom",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18708954"
+      ]
+    },
+    {
+      "id": "wikidata-Q19605848",
+      "externalIds": {
+        "wikidata": "Q19605848"
+      },
+      "kind": "movie",
+      "title": "Henry VIII (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Will Barker",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19605848"
+      ]
+    },
+    {
+      "id": "wikidata-Q19865063",
+      "externalIds": {
+        "wikidata": "Q19865063"
+      },
+      "kind": "movie",
+      "title": "Everybody Saves Father and The Only Girl in Camp",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19865063"
+      ]
+    },
+    {
+      "id": "wikidata-Q3747879",
+      "externalIds": {
+        "wikidata": "Q3747879"
+      },
+      "kind": "movie",
+      "title": "For the Love of an Enemy",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3747879"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814476",
+      "externalIds": {
+        "wikidata": "Q20814476"
+      },
+      "kind": "movie",
+      "title": "Checkmate (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814476"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814528",
+      "externalIds": {
+        "wikidata": "Q20814528"
+      },
+      "kind": "movie",
+      "title": "For Washington",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814528"
+      ]
+    },
+    {
+      "id": "wikidata-Q21184601",
+      "externalIds": {
+        "wikidata": "Q21184601"
+      },
+      "kind": "movie",
+      "title": "Greater Love Hath No Man",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21184601"
+      ]
+    },
+    {
+      "id": "wikidata-Q3785068",
+      "externalIds": {
+        "wikidata": "Q3785068"
+      },
+      "kind": "movie",
+      "title": "Her Humble Ministry",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3785068"
+      ]
+    },
+    {
+      "id": "wikidata-Q26720507",
+      "externalIds": {
+        "wikidata": "Q26720507"
+      },
+      "kind": "movie",
+      "title": "Grandmother's War Story",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1910 American silent film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q26720507"
+      ]
+    },
+    {
+      "id": "wikidata-Q26720520",
+      "externalIds": {
+        "wikidata": "Q26720520"
+      },
+      "kind": "movie",
+      "title": "Hubby's Day at Home",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q26720520"
+      ]
+    },
+    {
+      "id": "wikidata-Q50962",
+      "externalIds": {
+        "wikidata": "Q50962"
+      },
+      "kind": "movie",
+      "title": "Eugene Onegin (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Russian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q50962"
+      ]
+    },
+    {
+      "id": "wikidata-Q18517193",
+      "externalIds": {
+        "wikidata": "Q18517193"
+      },
+      "kind": "movie",
+      "title": "How Spriggins Took Lodgers",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18517193"
+      ]
+    },
+    {
+      "id": "wikidata-Q3719497",
+      "externalIds": {
+        "wikidata": "Q3719497"
+      },
+      "kind": "movie",
+      "title": "Edna's Imprisonment",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3719497"
+      ]
+    },
+    {
+      "id": "wikidata-Q15103507",
+      "externalIds": {
+        "wikidata": "Q15103507"
+      },
+      "kind": "movie",
+      "title": "God's Inn by the Sea",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15103507"
+      ]
+    },
+    {
+      "id": "wikidata-Q3785048",
+      "externalIds": {
+        "wikidata": "Q3785048"
+      },
+      "kind": "movie",
+      "title": "Her Dad the Constable",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3785048"
+      ]
+    },
+    {
+      "id": "wikidata-Q17558599",
+      "externalIds": {
+        "wikidata": "Q17558599"
+      },
+      "kind": "movie",
+      "title": "His Sister's Children",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American silent film short",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17558599"
+      ]
+    },
+    {
+      "id": "wikidata-Q3740064",
+      "externalIds": {
+        "wikidata": "Q3740064"
+      },
+      "kind": "movie",
+      "title": "Fate's Funny Frolic",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3740064"
+      ]
+    },
+    {
+      "id": "wikidata-Q3783846",
+      "externalIds": {
+        "wikidata": "Q3783846"
+      },
+      "kind": "movie",
+      "title": "He Fought for the U.S.A.",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3783846"
+      ]
+    },
+    {
+      "id": "wikidata-Q3746130",
+      "externalIds": {
+        "wikidata": "Q3746130"
+      },
+      "kind": "movie",
+      "title": "Fisher Folks",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent drama film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3746130"
+      ]
+    },
+    {
+      "id": "wikidata-Q3658035",
+      "externalIds": {
+        "wikidata": "Q3658035"
+      },
+      "kind": "movie",
+      "title": "Captain Nell",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3658035"
+      ]
+    },
+    {
+      "id": "wikidata-Q7585509",
+      "externalIds": {
+        "wikidata": "Q7585509"
+      },
+      "kind": "movie",
+      "title": "Fattigdommens forbandelse",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7585509"
+      ]
+    },
+    {
+      "id": "wikidata-Q1601574",
+      "externalIds": {
+        "wikidata": "Q1601574"
+      },
+      "kind": "movie",
+      "title": "Gipsy Blood (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by Urban Gad",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1601574"
+      ]
+    },
+    {
+      "id": "wikidata-Q1755660",
+      "externalIds": {
+        "wikidata": "Q1755660"
+      },
+      "kind": "movie",
+      "title": "L'Inferno",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Francesco Bertolini, Giuseppe de Liguoro and Adolfo Padovan",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1755660"
+      ]
+    },
+    {
+      "id": "wikidata-Q7244587",
+      "externalIds": {
+        "wikidata": "Q7244587"
+      },
+      "kind": "movie",
+      "title": "Princess Clementina",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 British film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7244587"
+      ]
+    },
+    {
+      "id": "wikidata-Q16161062",
+      "externalIds": {
+        "wikidata": "Q16161062"
+      },
+      "kind": "movie",
+      "title": "Macbeth (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by William Barker",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16161062"
+      ]
+    },
+    {
+      "id": "wikidata-Q7245568",
+      "externalIds": {
+        "wikidata": "Q7245568"
+      },
+      "kind": "movie",
+      "title": "Priscilla's April Fool Joke",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7245568"
+      ]
+    },
+    {
+      "id": "wikidata-Q7245635",
+      "externalIds": {
+        "wikidata": "Q7245635"
+      },
+      "kind": "movie",
+      "title": "Priscilla and the Umbrella",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7245635"
+      ]
+    },
+    {
+      "id": "wikidata-Q7111498",
+      "externalIds": {
+        "wikidata": "Q7111498"
+      },
+      "kind": "movie",
+      "title": "Out from the Shadow",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7111498"
+      ]
+    },
+    {
+      "id": "wikidata-Q3837823",
+      "externalIds": {
+        "wikidata": "Q3837823"
+      },
+      "kind": "movie",
+      "title": "Love in the Hills",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3837823"
+      ]
+    },
+    {
+      "id": "wikidata-Q6462224",
+      "externalIds": {
+        "wikidata": "Q6462224"
+      },
+      "kind": "movie",
+      "title": "La Digue (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6462224"
+      ]
+    },
+    {
+      "id": "wikidata-Q1972775",
+      "externalIds": {
+        "wikidata": "Q1972775"
+      },
+      "kind": "movie",
+      "title": "Ontrouw",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1972775"
+      ]
+    },
+    {
+      "id": "wikidata-Q3302409",
+      "externalIds": {
+        "wikidata": "Q3302409"
+      },
+      "kind": "movie",
+      "title": "Max Takes Tonics",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 French film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3302409"
+      ]
+    },
+    {
+      "id": "wikidata-Q3302397",
+      "externalIds": {
+        "wikidata": "Q3302397"
+      },
+      "kind": "movie",
+      "title": "Max and His Mother-in-Law",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1914 French film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3302397"
+      ]
+    },
+    {
+      "id": "wikidata-Q5927803",
+      "externalIds": {
+        "wikidata": "Q5927803"
+      },
+      "kind": "movie",
+      "title": "Hubička (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Czech film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5927803"
+      ]
+    },
+    {
+      "id": "wikidata-Q7376973",
+      "externalIds": {
+        "wikidata": "Q7376973"
+      },
+      "kind": "movie",
+      "title": "Rudi na křtinách",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Austria-Hungary film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7376973"
+      ]
+    },
+    {
+      "id": "wikidata-Q12050095",
+      "externalIds": {
+        "wikidata": "Q12050095"
+      },
+      "kind": "movie",
+      "title": "Rudi na záletech",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Austria-Hungary film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12050095"
+      ]
+    },
+    {
+      "id": "wikidata-Q7376975",
+      "externalIds": {
+        "wikidata": "Q7376975"
+      },
+      "kind": "movie",
+      "title": "Rudi se žení",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7376975"
+      ]
+    },
+    {
+      "id": "wikidata-Q7376976",
+      "externalIds": {
+        "wikidata": "Q7376976"
+      },
+      "kind": "movie",
+      "title": "Rudi sportsman",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Austria-Hungary film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7376976"
+      ]
+    },
+    {
+      "id": "wikidata-Q15039601",
+      "externalIds": {
+        "wikidata": "Q15039601"
+      },
+      "kind": "movie",
+      "title": "Moonlite",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1910 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15039601"
+      ]
+    },
+    {
+      "id": "wikidata-Q15039593",
+      "externalIds": {
+        "wikidata": "Q15039593"
+      },
+      "kind": "movie",
+      "title": "Keane of Kalgoorlie",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15039593"
+      ]
+    },
+    {
+      "id": "wikidata-Q6091844",
+      "externalIds": {
+        "wikidata": "Q6091844"
+      },
+      "kind": "movie",
+      "title": "It Is Never Too Late to Mend (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6091844"
+      ]
+    },
+    {
+      "id": "wikidata-Q15039592",
+      "externalIds": {
+        "wikidata": "Q15039592"
+      },
+      "kind": "movie",
+      "title": "In the Nick of Time (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15039592"
+      ]
+    },
+    {
+      "id": "wikidata-Q3882498",
+      "externalIds": {
+        "wikidata": "Q3882498"
+      },
+      "kind": "movie",
+      "title": "One Hundred Years Ago",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3882498"
+      ]
+    },
+    {
+      "id": "wikidata-Q7451202",
+      "externalIds": {
+        "wikidata": "Q7451202"
+      },
+      "kind": "movie",
+      "title": "Sentenced for Life (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7451202"
+      ]
+    },
+    {
+      "id": "wikidata-Q6121719",
+      "externalIds": {
+        "wikidata": "Q6121719"
+      },
+      "kind": "movie",
+      "title": "Jael and Sisera (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 French film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6121719"
+      ]
+    },
+    {
+      "id": "wikidata-Q4397058",
+      "externalIds": {
+        "wikidata": "Q4397058"
+      },
+      "kind": "movie",
+      "title": "Romance with Double-Bass (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Russian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4397058"
+      ]
+    },
+    {
+      "id": "wikidata-Q7516456",
+      "externalIds": {
+        "wikidata": "Q7516456"
+      },
+      "kind": "movie",
+      "title": "Silver Threads Among the Gold (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7516456"
+      ]
+    },
+    {
+      "id": "wikidata-Q4020439",
+      "externalIds": {
+        "wikidata": "Q4020439"
+      },
+      "kind": "movie",
+      "title": "Little Nemo (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Silent animated short film by Winsor McCay",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4020439"
+      ]
+    },
+    {
+      "id": "wikidata-Q17183251",
+      "externalIds": {
+        "wikidata": "Q17183251"
+      },
+      "kind": "movie",
+      "title": "Saved by the Pony Express",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17183251"
+      ]
+    },
+    {
+      "id": "wikidata-Q16997406",
+      "externalIds": {
+        "wikidata": "Q16997406"
+      },
+      "kind": "movie",
+      "title": "Mary Tudor (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Italian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16997406"
+      ]
+    },
+    {
+      "id": "wikidata-Q6786661",
+      "externalIds": {
+        "wikidata": "Q6786661"
+      },
+      "kind": "movie",
+      "title": "Mates from the Murrumbidgee",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6786661"
+      ]
+    },
+    {
+      "id": "wikidata-Q3941227",
+      "externalIds": {
+        "wikidata": "Q3941227"
+      },
+      "kind": "movie",
+      "title": "Rory O'More (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3941227"
+      ]
+    },
+    {
+      "id": "wikidata-Q18612333",
+      "externalIds": {
+        "wikidata": "Q18612333"
+      },
+      "kind": "movie",
+      "title": "Losing to Win",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18612333"
+      ]
+    },
+    {
+      "id": "wikidata-Q20002334",
+      "externalIds": {
+        "wikidata": "Q20002334"
+      },
+      "kind": "movie",
+      "title": "Only a Factory Girl",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20002334"
+      ]
+    },
+    {
+      "id": "wikidata-Q3902700",
+      "externalIds": {
+        "wikidata": "Q3902700"
+      },
+      "kind": "movie",
+      "title": "Pictureland",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3902700"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814701",
+      "externalIds": {
+        "wikidata": "Q20814701"
+      },
+      "kind": "movie",
+      "title": "Prompt Payment and Stealing a Ride",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814701"
+      ]
+    },
+    {
+      "id": "wikidata-Q8841371",
+      "externalIds": {
+        "wikidata": "Q8841371"
+      },
+      "kind": "movie",
+      "title": "Only in the Way",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8841371"
+      ]
+    },
+    {
+      "id": "wikidata-Q3818097",
+      "externalIds": {
+        "wikidata": "Q3818097"
+      },
+      "kind": "movie",
+      "title": "L'Odissea (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Italian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3818097"
+      ]
+    },
+    {
+      "id": "wikidata-Q3797149",
+      "externalIds": {
+        "wikidata": "Q3797149"
+      },
+      "kind": "movie",
+      "title": "In Old Florida",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3797149"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946813",
+      "externalIds": {
+        "wikidata": "Q19946813"
+      },
+      "kind": "movie",
+      "title": "Sailor Jack's Reformation",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946813"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946805",
+      "externalIds": {
+        "wikidata": "Q19946805"
+      },
+      "kind": "movie",
+      "title": "In Blossom Time",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946805"
+      ]
+    },
+    {
+      "id": "wikidata-Q3275317",
+      "externalIds": {
+        "wikidata": "Q3275317"
+      },
+      "kind": "movie",
+      "title": "Madame Sans-Gêne (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 French film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3275317"
+      ]
+    },
+    {
+      "id": "wikidata-Q18517198",
+      "externalIds": {
+        "wikidata": "Q18517198"
+      },
+      "kind": "movie",
+      "title": "Monsieur (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18517198"
+      ]
+    },
+    {
+      "id": "wikidata-Q3835117",
+      "externalIds": {
+        "wikidata": "Q3835117"
+      },
+      "kind": "movie",
+      "title": "Live, Love and Believe",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3835117"
+      ]
+    },
+    {
+      "id": "wikidata-Q3951013",
+      "externalIds": {
+        "wikidata": "Q3951013"
+      },
+      "kind": "movie",
+      "title": "Saved from the Torrents",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3951013"
+      ]
+    },
+    {
+      "id": "wikidata-Q3837453",
+      "externalIds": {
+        "wikidata": "Q3837453"
+      },
+      "kind": "movie",
+      "title": "Lost Years (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Richard Foster Baker",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3837453"
+      ]
+    },
+    {
+      "id": "wikidata-Q84467702",
+      "externalIds": {
+        "wikidata": "Q84467702"
+      },
+      "kind": "movie",
+      "title": "She (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by George Nichols",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q84467702"
+      ]
+    },
+    {
+      "id": "wikidata-Q17499229",
+      "externalIds": {
+        "wikidata": "Q17499229"
+      },
+      "kind": "movie",
+      "title": "Jean Rescues",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17499229"
+      ]
+    },
+    {
+      "id": "wikidata-Q3259853",
+      "externalIds": {
+        "wikidata": "Q3259853"
+      },
+      "kind": "movie",
+      "title": "Lost in the Arctic",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3259853"
+      ]
+    },
+    {
+      "id": "wikidata-Q96418846",
+      "externalIds": {
+        "wikidata": "Q96418846"
+      },
+      "kind": "movie",
+      "title": "Lost in a Hotel",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q96418846"
+      ]
+    },
+    {
+      "id": "wikidata-Q17558631",
+      "externalIds": {
+        "wikidata": "Q17558631"
+      },
+      "kind": "movie",
+      "title": "Lady Godiva (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17558631"
+      ]
+    },
+    {
+      "id": "wikidata-Q16672750",
+      "externalIds": {
+        "wikidata": "Q16672750"
+      },
+      "kind": "movie",
+      "title": "Richard III (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Very early British Shakespeare film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16672750"
+      ]
+    },
+    {
+      "id": "wikidata-Q7726808",
+      "externalIds": {
+        "wikidata": "Q7726808"
+      },
+      "kind": "movie",
+      "title": "The Colonel and the King",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7726808"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986136",
+      "externalIds": {
+        "wikidata": "Q3986136"
+      },
+      "kind": "movie",
+      "title": "The Buddhist Priestess",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986136"
+      ]
+    },
+    {
+      "id": "wikidata-Q7726615",
+      "externalIds": {
+        "wikidata": "Q7726615"
+      },
+      "kind": "movie",
+      "title": "The Coffin Ship",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7726615"
+      ]
+    },
+    {
+      "id": "wikidata-Q7710913",
+      "externalIds": {
+        "wikidata": "Q7710913"
+      },
+      "kind": "movie",
+      "title": "That's Happiness",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent film by George Nichols",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7710913"
+      ]
+    },
+    {
+      "id": "wikidata-Q3978783",
+      "externalIds": {
+        "wikidata": "Q3978783"
+      },
+      "kind": "movie",
+      "title": "Sweet Memories (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3978783"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986440",
+      "externalIds": {
+        "wikidata": "Q3986440"
+      },
+      "kind": "movie",
+      "title": "The Cowboy and the Lady (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986440"
+      ]
+    },
+    {
+      "id": "wikidata-Q1985718",
+      "externalIds": {
+        "wikidata": "Q1985718"
+      },
+      "kind": "movie",
+      "title": "The Battle (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1985718"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986119",
+      "externalIds": {
+        "wikidata": "Q3986119"
+      },
+      "kind": "movie",
+      "title": "The Broken Cross (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986119"
+      ]
+    },
+    {
+      "id": "wikidata-Q7727795",
+      "externalIds": {
+        "wikidata": "Q7727795"
+      },
+      "kind": "movie",
+      "title": "The Country Lovers",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7727795"
+      ]
+    },
+    {
+      "id": "wikidata-Q967520",
+      "externalIds": {
+        "wikidata": "Q967520"
+      },
+      "kind": "movie",
+      "title": "The Blind Princess and the Poet",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q967520"
+      ]
+    },
+    {
+      "id": "wikidata-Q3978981",
+      "externalIds": {
+        "wikidata": "Q3978981"
+      },
+      "kind": "movie",
+      "title": "Swords and Hearts",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3978981"
+      ]
+    },
+    {
+      "id": "wikidata-Q16962580",
+      "externalIds": {
+        "wikidata": "Q16962580"
+      },
+      "kind": "movie",
+      "title": "The Automatic Motorist",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 British film by Walter R. Booth",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16962580"
+      ]
+    },
+    {
+      "id": "wikidata-Q7714712",
+      "externalIds": {
+        "wikidata": "Q7714712"
+      },
+      "kind": "movie",
+      "title": "The Assigned Servant",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7714712"
+      ]
+    },
+    {
+      "id": "wikidata-Q7731061",
+      "externalIds": {
+        "wikidata": "Q7731061"
+      },
+      "kind": "movie",
+      "title": "The Drover's Sweetheart",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7731061"
+      ]
+    },
+    {
+      "id": "wikidata-Q7733529",
+      "externalIds": {
+        "wikidata": "Q7733529"
+      },
+      "kind": "movie",
+      "title": "The Fatal Wedding",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Raymond Longford",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7733529"
+      ]
+    },
+    {
+      "id": "wikidata-Q7655431",
+      "externalIds": {
+        "wikidata": "Q7655431"
+      },
+      "kind": "movie",
+      "title": "Sweet Nell of Old Drury",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7655431"
+      ]
+    },
+    {
+      "id": "wikidata-Q7716442",
+      "externalIds": {
+        "wikidata": "Q7716442"
+      },
+      "kind": "movie",
+      "title": "The Bells (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7716442"
+      ]
+    },
+    {
+      "id": "wikidata-Q7730734",
+      "externalIds": {
+        "wikidata": "Q7730734"
+      },
+      "kind": "movie",
+      "title": "The Double Event (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7730734"
+      ]
+    },
+    {
+      "id": "wikidata-Q7728410",
+      "externalIds": {
+        "wikidata": "Q7728410"
+      },
+      "kind": "movie",
+      "title": "The Cup Winner",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7728410"
+      ]
+    },
+    {
+      "id": "wikidata-Q7722714",
+      "externalIds": {
+        "wikidata": "Q7722714"
+      },
+      "kind": "movie",
+      "title": "The Christian (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7722714"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986351",
+      "externalIds": {
+        "wikidata": "Q3986351"
+      },
+      "kind": "movie",
+      "title": "The Colleen Bawn (1911 Australian film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986351"
+      ]
+    },
+    {
+      "id": "wikidata-Q7734297",
+      "externalIds": {
+        "wikidata": "Q7734297"
+      },
+      "kind": "movie",
+      "title": "The Five of Hearts",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7734297"
+      ]
+    },
+    {
+      "id": "wikidata-Q3520669",
+      "externalIds": {
+        "wikidata": "Q3520669"
+      },
+      "kind": "movie",
+      "title": "The Dream (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3520669"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986349",
+      "externalIds": {
+        "wikidata": "Q3986349"
+      },
+      "kind": "movie",
+      "title": "The Colleen Bawn (1911 American film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986349"
+      ]
+    },
+    {
+      "id": "wikidata-Q15865075",
+      "externalIds": {
+        "wikidata": "Q15865075"
+      },
+      "kind": "movie",
+      "title": "The Adventures of Billy",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15865075"
+      ]
+    },
+    {
+      "id": "wikidata-Q18612294",
+      "externalIds": {
+        "wikidata": "Q18612294"
+      },
+      "kind": "movie",
+      "title": "The Fishermaid of Ballydavid",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18612294"
+      ]
+    },
+    {
+      "id": "wikidata-Q20001645",
+      "externalIds": {
+        "wikidata": "Q20001645"
+      },
+      "kind": "movie",
+      "title": "The Diver (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "The Diver (1911 film) is a 1911 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20001645"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946782",
+      "externalIds": {
+        "wikidata": "Q19946782"
+      },
+      "kind": "movie",
+      "title": "Special Messenger",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946782"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649281",
+      "externalIds": {
+        "wikidata": "Q20649281"
+      },
+      "kind": "movie",
+      "title": "Snake Catching in Queensland",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian documentary",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649281"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814774",
+      "externalIds": {
+        "wikidata": "Q20814774"
+      },
+      "kind": "movie",
+      "title": "Stage Struck (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814774"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986466",
+      "externalIds": {
+        "wikidata": "Q3986466"
+      },
+      "kind": "movie",
+      "title": "The Crooked Road (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986466"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987019",
+      "externalIds": {
+        "wikidata": "Q3987019"
+      },
+      "kind": "movie",
+      "title": "The Fiddle's Requiem",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987019"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946806",
+      "externalIds": {
+        "wikidata": "Q19946806"
+      },
+      "kind": "movie",
+      "title": "The Carnival (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946806"
+      ]
+    },
+    {
+      "id": "wikidata-Q3980823",
+      "externalIds": {
+        "wikidata": "Q3980823"
+      },
+      "kind": "movie",
+      "title": "Tangled Lives (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3980823"
+      ]
+    },
+    {
+      "id": "wikidata-Q27958286",
+      "externalIds": {
+        "wikidata": "Q27958286"
+      },
+      "kind": "movie",
+      "title": "The Colonel's Son",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27958286"
+      ]
+    },
+    {
+      "id": "wikidata-Q3821535",
+      "externalIds": {
+        "wikidata": "Q3821535"
+      },
+      "kind": "movie",
+      "title": "The Fall of Troy (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Italian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3821535"
+      ]
+    },
+    {
+      "id": "enwiki-55030045",
+      "externalIds": {
+        "enwiki": 55030045
+      },
+      "kind": "movie",
+      "title": "The Flash in the Night (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "The Flash in the Night (1911 film) is a 1911 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://en.wikipedia.org/?curid=55030045"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986259",
+      "externalIds": {
+        "wikidata": "Q3986259"
+      },
+      "kind": "movie",
+      "title": "The Child and the Tramp",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986259"
+      ]
+    },
+    {
+      "id": "wikidata-Q59725845",
+      "externalIds": {
+        "wikidata": "Q59725845"
+      },
+      "kind": "movie",
+      "title": "The Baseball Bug",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent comedy film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q59725845"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986520",
+      "externalIds": {
+        "wikidata": "Q3986520"
+      },
+      "kind": "movie",
+      "title": "The Dark Romance of a Tobacco Tin",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986520"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986256",
+      "externalIds": {
+        "wikidata": "Q3986256"
+      },
+      "kind": "movie",
+      "title": "The Child Crusoes",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American silent film short",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986256"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986144",
+      "externalIds": {
+        "wikidata": "Q3986144"
+      },
+      "kind": "movie",
+      "title": "The Burglarized Burglar",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986144"
+      ]
+    },
+    {
+      "id": "wikidata-Q4687971",
+      "externalIds": {
+        "wikidata": "Q4687971"
+      },
+      "kind": "movie",
+      "title": "The Aerial Anarchists",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 British science fiction silent film by Walter R. Booth",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4687971"
+      ]
+    },
+    {
+      "id": "wikidata-Q17558706",
+      "externalIds": {
+        "wikidata": "Q17558706"
+      },
+      "kind": "movie",
+      "title": "Some Good in All",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17558706"
+      ]
+    },
+    {
+      "id": "wikidata-Q20802168",
+      "externalIds": {
+        "wikidata": "Q20802168"
+      },
+      "kind": "movie",
+      "title": "The Battle of Trafalgar (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20802168"
+      ]
+    },
+    {
+      "id": "wikidata-Q16029048",
+      "externalIds": {
+        "wikidata": "Q16029048"
+      },
+      "kind": "movie",
+      "title": "The Diabolical Church Window",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1910 film by Georges Méliès",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16029048"
+      ]
+    },
+    {
+      "id": "wikidata-Q3905309",
+      "externalIds": {
+        "wikidata": "Q3905309"
+      },
+      "kind": "movie",
+      "title": "The Adventures of Pinocchio (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Italian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3905309"
+      ]
+    },
+    {
+      "id": "wikidata-Q12406831",
+      "externalIds": {
+        "wikidata": "Q12406831"
+      },
+      "kind": "movie",
+      "title": "The First Film of Palestine",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12406831"
+      ]
+    },
+    {
+      "id": "wikidata-Q124658842",
+      "externalIds": {
+        "wikidata": "Q124658842"
+      },
+      "kind": "movie",
+      "title": "The Diamond Cross",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124658842"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986429",
+      "externalIds": {
+        "wikidata": "Q3986429"
+      },
+      "kind": "movie",
+      "title": "The Courting of Mary",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986429"
+      ]
+    },
+    {
+      "id": "wikidata-Q7756230",
+      "externalIds": {
+        "wikidata": "Q7756230"
+      },
+      "kind": "movie",
+      "title": "The Pasha's Daughter",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by the Thanhouser Company",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7756230"
+      ]
+    },
+    {
+      "id": "wikidata-Q7759288",
+      "externalIds": {
+        "wikidata": "Q7759288"
+      },
+      "kind": "movie",
+      "title": "The Railroad Builder",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7759288"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987543",
+      "externalIds": {
+        "wikidata": "Q3987543"
+      },
+      "kind": "movie",
+      "title": "The Higher Law (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987543"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988072",
+      "externalIds": {
+        "wikidata": "Q3988072"
+      },
+      "kind": "movie",
+      "title": "The Lonedale Operator",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988072"
+      ]
+    },
+    {
+      "id": "wikidata-Q4846689",
+      "externalIds": {
+        "wikidata": "Q4846689"
+      },
+      "kind": "movie",
+      "title": "The Life and Deeds of the Immortal Leader Karađorđe",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Ilija Stanojević",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4846689"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522010",
+      "externalIds": {
+        "wikidata": "Q3522010"
+      },
+      "kind": "movie",
+      "title": "The New Superintendent",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522010"
+      ]
+    },
+    {
+      "id": "wikidata-Q2482699",
+      "externalIds": {
+        "wikidata": "Q2482699"
+      },
+      "kind": "movie",
+      "title": "The Immortal Alamo",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2482699"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988015",
+      "externalIds": {
+        "wikidata": "Q3988015"
+      },
+      "kind": "movie",
+      "title": "The Lily of the Tenements",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988015"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988465",
+      "externalIds": {
+        "wikidata": "Q3988465"
+      },
+      "kind": "movie",
+      "title": "The New Dress (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988465"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988835",
+      "externalIds": {
+        "wikidata": "Q3988835"
+      },
+      "kind": "movie",
+      "title": "The Primal Call",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent film by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988835"
+      ]
+    },
+    {
+      "id": "wikidata-Q7741850",
+      "externalIds": {
+        "wikidata": "Q7741850"
+      },
+      "kind": "movie",
+      "title": "The Indian Brothers",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7741850"
+      ]
+    },
+    {
+      "id": "wikidata-Q7745725",
+      "externalIds": {
+        "wikidata": "Q7745725"
+      },
+      "kind": "movie",
+      "title": "The Last Drop of Water",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7745725"
+      ]
+    },
+    {
+      "id": "wikidata-Q7389977",
+      "externalIds": {
+        "wikidata": "Q7389977"
+      },
+      "kind": "movie",
+      "title": "The Making of a Man",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7389977"
+      ]
+    },
+    {
+      "id": "wikidata-Q7748253",
+      "externalIds": {
+        "wikidata": "Q7748253"
+      },
+      "kind": "movie",
+      "title": "The Long Road (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7748253"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988339",
+      "externalIds": {
+        "wikidata": "Q3988339"
+      },
+      "kind": "movie",
+      "title": "The Miser's Heart",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988339"
+      ]
+    },
+    {
+      "id": "wikidata-Q7740945",
+      "externalIds": {
+        "wikidata": "Q7740945"
+      },
+      "kind": "movie",
+      "title": "The Hunchback of Notre Dame (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 French film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7740945"
+      ]
+    },
+    {
+      "id": "wikidata-Q928669",
+      "externalIds": {
+        "wikidata": "Q928669"
+      },
+      "kind": "movie",
+      "title": "The Italian Barber",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q928669"
+      ]
+    },
+    {
+      "id": "wikidata-Q7750366",
+      "externalIds": {
+        "wikidata": "Q7750366"
+      },
+      "kind": "movie",
+      "title": "The Mark of the Lash",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7750366"
+      ]
+    },
+    {
+      "id": "wikidata-Q15039603",
+      "externalIds": {
+        "wikidata": "Q15039603"
+      },
+      "kind": "movie",
+      "title": "The Mystery of a Hansom Cab (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15039603"
+      ]
+    },
+    {
+      "id": "wikidata-Q7748580",
+      "externalIds": {
+        "wikidata": "Q7748580"
+      },
+      "kind": "movie",
+      "title": "The Lost Chord (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7748580"
+      ]
+    },
+    {
+      "id": "wikidata-Q15039597",
+      "externalIds": {
+        "wikidata": "Q15039597"
+      },
+      "kind": "movie",
+      "title": "The Luck of Roaring Camp (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15039597"
+      ]
+    },
+    {
+      "id": "wikidata-Q15039595",
+      "externalIds": {
+        "wikidata": "Q15039595"
+      },
+      "kind": "movie",
+      "title": "The Life of Rufus Dawes",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15039595"
+      ]
+    },
+    {
+      "id": "wikidata-Q7745142",
+      "externalIds": {
+        "wikidata": "Q7745142"
+      },
+      "kind": "movie",
+      "title": "The Lady Outlaw",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7745142"
+      ]
+    },
+    {
+      "id": "wikidata-Q7751549",
+      "externalIds": {
+        "wikidata": "Q7751549"
+      },
+      "kind": "movie",
+      "title": "The Miner's Curse",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7751549"
+      ]
+    },
+    {
+      "id": "wikidata-Q7737123",
+      "externalIds": {
+        "wikidata": "Q7737123"
+      },
+      "kind": "movie",
+      "title": "The Golden West (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7737123"
+      ]
+    },
+    {
+      "id": "wikidata-Q7754682",
+      "externalIds": {
+        "wikidata": "Q7754682"
+      },
+      "kind": "movie",
+      "title": "The Octoroon (1912 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7754682"
+      ]
+    },
+    {
+      "id": "wikidata-Q7747316",
+      "externalIds": {
+        "wikidata": "Q7747316"
+      },
+      "kind": "movie",
+      "title": "The Lighthouse by the Sea (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7747316"
+      ]
+    },
+    {
+      "id": "wikidata-Q17056382",
+      "externalIds": {
+        "wikidata": "Q17056382"
+      },
+      "kind": "movie",
+      "title": "The Girl from Outback",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17056382"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709025",
+      "externalIds": {
+        "wikidata": "Q18709025"
+      },
+      "kind": "movie",
+      "title": "The Mummy (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709025"
+      ]
+    },
+    {
+      "id": "wikidata-Q18708982",
+      "externalIds": {
+        "wikidata": "Q18708982"
+      },
+      "kind": "movie",
+      "title": "The Irish Honeymoon",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18708982"
+      ]
+    },
+    {
+      "id": "wikidata-Q18612237",
+      "externalIds": {
+        "wikidata": "Q18612237"
+      },
+      "kind": "movie",
+      "title": "The Franciscan Friars of Killarney",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Sidney Olcott",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18612237"
+      ]
+    },
+    {
+      "id": "wikidata-Q20487064",
+      "externalIds": {
+        "wikidata": "Q20487064"
+      },
+      "kind": "movie",
+      "title": "The Old Curiosity Shop (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20487064"
+      ]
+    },
+    {
+      "id": "wikidata-Q20727361",
+      "externalIds": {
+        "wikidata": "Q20727361"
+      },
+      "kind": "movie",
+      "title": "The Norwood Necklace",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20727361"
+      ]
+    },
+    {
+      "id": "wikidata-Q17558655",
+      "externalIds": {
+        "wikidata": "Q17558655"
+      },
+      "kind": "movie",
+      "title": "The Military Air-Scout",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17558655"
+      ]
+    },
+    {
+      "id": "wikidata-Q20988840",
+      "externalIds": {
+        "wikidata": "Q20988840"
+      },
+      "kind": "movie",
+      "title": "The Little Mother",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20988840"
+      ]
+    },
+    {
+      "id": "wikidata-Q9339473",
+      "externalIds": {
+        "wikidata": "Q9339473"
+      },
+      "kind": "movie",
+      "title": "The Kreutzer Sonata (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q9339473"
+      ]
+    },
+    {
+      "id": "wikidata-Q27958261",
+      "externalIds": {
+        "wikidata": "Q27958261"
+      },
+      "kind": "movie",
+      "title": "The Little Sister (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27958261"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946811",
+      "externalIds": {
+        "wikidata": "Q19946811"
+      },
+      "kind": "movie",
+      "title": "The Open Road (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American silent film by Sidney Olcott",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946811"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946809",
+      "externalIds": {
+        "wikidata": "Q19946809"
+      },
+      "kind": "movie",
+      "title": "The Lass Who Couldn't Forget",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946809"
+      ]
+    },
+    {
+      "id": "wikidata-Q3929549",
+      "externalIds": {
+        "wikidata": "Q3929549"
+      },
+      "kind": "movie",
+      "title": "The Railroad Raiders of '62",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3929549"
+      ]
+    },
+    {
+      "id": "wikidata-Q26720518",
+      "externalIds": {
+        "wikidata": "Q26720518"
+      },
+      "kind": "movie",
+      "title": "The Little Soldier of '64",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q26720518"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988769",
+      "externalIds": {
+        "wikidata": "Q3988769"
+      },
+      "kind": "movie",
+      "title": "The Playwright",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988769"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988149",
+      "externalIds": {
+        "wikidata": "Q3988149"
+      },
+      "kind": "movie",
+      "title": "The Madman (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988149"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987322",
+      "externalIds": {
+        "wikidata": "Q3987322"
+      },
+      "kind": "movie",
+      "title": "The Goodfellow's Christmas Eve",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987322"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988074",
+      "externalIds": {
+        "wikidata": "Q3988074"
+      },
+      "kind": "movie",
+      "title": "The Long Strike",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988074"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987332",
+      "externalIds": {
+        "wikidata": "Q3987332"
+      },
+      "kind": "movie",
+      "title": "The Gordian Knot (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987332"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987925",
+      "externalIds": {
+        "wikidata": "Q3987925"
+      },
+      "kind": "movie",
+      "title": "The Last of the Mohicans (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Theodore Marston",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987925"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245316",
+      "externalIds": {
+        "wikidata": "Q101245316"
+      },
+      "kind": "movie",
+      "title": "The Great Kimberley Diamond Robbery",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 South African first film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245316"
+      ]
+    },
+    {
+      "id": "wikidata-Q1962695",
+      "externalIds": {
+        "wikidata": "Q1962695"
+      },
+      "kind": "movie",
+      "title": "The Moth (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by Urban Gad",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1962695"
+      ]
+    },
+    {
+      "id": "wikidata-Q131267189",
+      "externalIds": {
+        "wikidata": "Q131267189"
+      },
+      "kind": "movie",
+      "title": "The Newsy and the Tramp",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Silent short film of 1911",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q131267189"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764948",
+      "externalIds": {
+        "wikidata": "Q7764948"
+      },
+      "kind": "movie",
+      "title": "The Smuggler (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764948"
+      ]
+    },
+    {
+      "id": "wikidata-Q8031691",
+      "externalIds": {
+        "wikidata": "Q8031691"
+      },
+      "kind": "movie",
+      "title": "Won by Wireless",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8031691"
+      ]
+    },
+    {
+      "id": "wikidata-Q2042558",
+      "externalIds": {
+        "wikidata": "Q2042558"
+      },
+      "kind": "movie",
+      "title": "What Shall We Do with Our Old?",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2042558"
+      ]
+    },
+    {
+      "id": "wikidata-Q7773046",
+      "externalIds": {
+        "wikidata": "Q7773046"
+      },
+      "kind": "movie",
+      "title": "The Voice of the Child",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7773046"
+      ]
+    },
+    {
+      "id": "wikidata-Q7997795",
+      "externalIds": {
+        "wikidata": "Q7997795"
+      },
+      "kind": "movie",
+      "title": "Why He Gave Up",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7997795"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989595",
+      "externalIds": {
+        "wikidata": "Q3989595"
+      },
+      "kind": "movie",
+      "title": "The Tempest (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American one-reel silent film directed by Edwin Thanhouser",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989595"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989742",
+      "externalIds": {
+        "wikidata": "Q3989742"
+      },
+      "kind": "movie",
+      "title": "The Two Paths (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989742"
+      ]
+    },
+    {
+      "id": "wikidata-Q4018338",
+      "externalIds": {
+        "wikidata": "Q4018338"
+      },
+      "kind": "movie",
+      "title": "Was He a Coward?",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4018338"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989411",
+      "externalIds": {
+        "wikidata": "Q3989411"
+      },
+      "kind": "movie",
+      "title": "The Spanish Gypsy (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989411"
+      ]
+    },
+    {
+      "id": "wikidata-Q3990004",
+      "externalIds": {
+        "wikidata": "Q3990004"
+      },
+      "kind": "movie",
+      "title": "The White Rose of the Wilds",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3990004"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989346",
+      "externalIds": {
+        "wikidata": "Q3989346"
+      },
+      "kind": "movie",
+      "title": "The Smile of a Child",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989346"
+      ]
+    },
+    {
+      "id": "wikidata-Q7767120",
+      "externalIds": {
+        "wikidata": "Q7767120"
+      },
+      "kind": "movie",
+      "title": "The Stuff Heroes Are Made Of",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7767120"
+      ]
+    },
+    {
+      "id": "wikidata-Q3990896",
+      "externalIds": {
+        "wikidata": "Q3990896"
+      },
+      "kind": "movie",
+      "title": "Through Darkened Vales",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3990896"
+      ]
+    },
+    {
+      "id": "wikidata-Q7930139",
+      "externalIds": {
+        "wikidata": "Q7930139"
+      },
+      "kind": "movie",
+      "title": "Vildledt Elskov",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Danish film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7930139"
+      ]
+    },
+    {
+      "id": "wikidata-Q520744",
+      "externalIds": {
+        "wikidata": "Q520744"
+      },
+      "kind": "movie",
+      "title": "The Scarlet Letter (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q520744"
+      ]
+    },
+    {
+      "id": "wikidata-Q7767016",
+      "externalIds": {
+        "wikidata": "Q7767016"
+      },
+      "kind": "movie",
+      "title": "The Strength and Agility of Insects",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 British film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7767016"
+      ]
+    },
+    {
+      "id": "wikidata-Q7761427",
+      "externalIds": {
+        "wikidata": "Q7761427"
+      },
+      "kind": "movie",
+      "title": "The Romantic Story of Margaret Catchpole",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7761427"
+      ]
+    },
+    {
+      "id": "wikidata-Q7975793",
+      "externalIds": {
+        "wikidata": "Q7975793"
+      },
+      "kind": "movie",
+      "title": "Way Outback",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7975793"
+      ]
+    },
+    {
+      "id": "wikidata-Q7991439",
+      "externalIds": {
+        "wikidata": "Q7991439"
+      },
+      "kind": "movie",
+      "title": "What Women Suffer",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7991439"
+      ]
+    },
+    {
+      "id": "wikidata-Q7766108",
+      "externalIds": {
+        "wikidata": "Q7766108"
+      },
+      "kind": "movie",
+      "title": "The Squatter's Son",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7766108"
+      ]
+    },
+    {
+      "id": "wikidata-Q7767404",
+      "externalIds": {
+        "wikidata": "Q7767404"
+      },
+      "kind": "movie",
+      "title": "The Sundowner (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7767404"
+      ]
+    },
+    {
+      "id": "wikidata-Q7797855",
+      "externalIds": {
+        "wikidata": "Q7797855"
+      },
+      "kind": "movie",
+      "title": "Three Strings to Her Bow",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7797855"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522852",
+      "externalIds": {
+        "wikidata": "Q3522852"
+      },
+      "kind": "movie",
+      "title": "The Still Alarm",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Play by Joseph Arthur",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522852"
+      ]
+    },
+    {
+      "id": "wikidata-Q12131575",
+      "externalIds": {
+        "wikidata": "Q12131575"
+      },
+      "kind": "movie",
+      "title": "The Villain Foiled",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12131575"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523512",
+      "externalIds": {
+        "wikidata": "Q3523512"
+      },
+      "kind": "movie",
+      "title": "Their First Misunderstanding",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523512"
+      ]
+    },
+    {
+      "id": "wikidata-Q17512845",
+      "externalIds": {
+        "wikidata": "Q17512845"
+      },
+      "kind": "movie",
+      "title": "The Story of John M'Neil",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film by Halliday Sutherland",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17512845"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709080",
+      "externalIds": {
+        "wikidata": "Q18709080"
+      },
+      "kind": "movie",
+      "title": "The Squatter and the Clown",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 Australian film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709080"
+      ]
+    },
+    {
+      "id": "wikidata-Q19720610",
+      "externalIds": {
+        "wikidata": "Q19720610"
+      },
+      "kind": "movie",
+      "title": "The Vote That Counted",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19720610"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946787",
+      "externalIds": {
+        "wikidata": "Q19946787"
+      },
+      "kind": "movie",
+      "title": "The Romance of a Dixie Belle",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946787"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019353",
+      "externalIds": {
+        "wikidata": "Q4019353"
+      },
+      "kind": "movie",
+      "title": "When Love Was Blind (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019353"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814843",
+      "externalIds": {
+        "wikidata": "Q20814843"
+      },
+      "kind": "movie",
+      "title": "The Westerner and the Earl",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814843"
+      ]
+    },
+    {
+      "id": "wikidata-Q26720506",
+      "externalIds": {
+        "wikidata": "Q26720506"
+      },
+      "kind": "movie",
+      "title": "The Secret of the Still",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "The Secret of the Still is a 1911 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q26720506"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946808",
+      "externalIds": {
+        "wikidata": "Q19946808"
+      },
+      "kind": "movie",
+      "title": "When the Dead Return",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946808"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946789",
+      "externalIds": {
+        "wikidata": "Q19946789"
+      },
+      "kind": "movie",
+      "title": "To the Aid of Stonewall Jackson",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946789"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946730",
+      "externalIds": {
+        "wikidata": "Q19946730"
+      },
+      "kind": "movie",
+      "title": "The Sacred Turquoise of the Zuni",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "The Sacred Turquoise of the Zuni is a 1911 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946730"
+      ]
+    },
+    {
+      "id": "wikidata-Q17558728",
+      "externalIds": {
+        "wikidata": "Q17558728"
+      },
+      "kind": "movie",
+      "title": "Vanity Fair (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film produced by Vitagraph Studios",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17558728"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988917",
+      "externalIds": {
+        "wikidata": "Q3988917"
+      },
+      "kind": "movie",
+      "title": "The Rajah (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 American film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988917"
+      ]
+    },
+    {
+      "id": "wikidata-Q58411770",
+      "externalIds": {
+        "wikidata": "Q58411770"
+      },
+      "kind": "movie",
+      "title": "Turned to the Wall",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 silent short film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q58411770"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989075",
+      "externalIds": {
+        "wikidata": "Q3989075"
+      },
+      "kind": "movie",
+      "title": "The Rosary (1911 film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989075"
+      ]
+    },
+    {
+      "id": "wikidata-Q64768595",
+      "externalIds": {
+        "wikidata": "Q64768595"
+      },
+      "kind": "movie",
+      "title": "The Reformation of the Suffragettes",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Silent comedy film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64768595"
+      ]
+    },
+    {
+      "id": "wikidata-Q1217200",
+      "externalIds": {
+        "wikidata": "Q1217200"
+      },
+      "kind": "movie",
+      "title": "The Traitress",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film directed by Urban Gad",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1217200"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523312",
+      "externalIds": {
+        "wikidata": "Q3523312"
+      },
+      "kind": "movie",
+      "title": "The Way of the Eskimo",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523312"
+      ]
+    },
+    {
+      "id": "wikidata-Q4191775",
+      "externalIds": {
+        "wikidata": "Q4191775"
+      },
+      "kind": "movie",
+      "title": "Zigomar (film)",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 French silent film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4191775"
+      ]
+    },
+    {
+      "id": "wikidata-Q10729020",
+      "externalIds": {
+        "wikidata": "Q10729020"
+      },
+      "kind": "movie",
+      "title": "Under forvandlingens lov",
+      "year": 1911,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1911 film",
+      "batchId": "wikidata-films-1911-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10729020"
+      ]
+    }
+  ]
+}

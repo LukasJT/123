@@ -1,0 +1,1114 @@
+{
+  "id": "wikidata-films-1905-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1905,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q1550554",
+      "externalIds": {
+        "wikidata": "Q1550554"
+      },
+      "kind": "movie",
+      "title": "Esmeralda (1905 film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1550554"
+      ]
+    },
+    {
+      "id": "wikidata-Q1899476",
+      "externalIds": {
+        "wikidata": "Q1899476"
+      },
+      "kind": "movie",
+      "title": "The Misadventure of a French Gentleman Without Pants at the Zandvoort Beach",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 Dutch film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1899476"
+      ]
+    },
+    {
+      "id": "wikidata-Q601760",
+      "externalIds": {
+        "wikidata": "Q601760"
+      },
+      "kind": "movie",
+      "title": "Dingjun Mountain (film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 Chinese silent film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q601760"
+      ]
+    },
+    {
+      "id": "wikidata-Q1333248",
+      "externalIds": {
+        "wikidata": "Q1333248"
+      },
+      "kind": "movie",
+      "title": "Rescued by Rover",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 British film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1333248"
+      ]
+    },
+    {
+      "id": "wikidata-Q1904503",
+      "externalIds": {
+        "wikidata": "Q1904503"
+      },
+      "kind": "movie",
+      "title": "The Night Before Christmas (1905 film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 American film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1904503"
+      ]
+    },
+    {
+      "id": "wikidata-Q2632413",
+      "externalIds": {
+        "wikidata": "Q2632413"
+      },
+      "kind": "movie",
+      "title": "Adventures of Sherlock Holmes; or, Held for Ransom",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by J. Stuart Blackton",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2632413"
+      ]
+    },
+    {
+      "id": "wikidata-Q3006368",
+      "externalIds": {
+        "wikidata": "Q3006368"
+      },
+      "kind": "movie",
+      "title": "The Little Train Robbery",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3006368"
+      ]
+    },
+    {
+      "id": "wikidata-Q4247400",
+      "externalIds": {
+        "wikidata": "Q4247400"
+      },
+      "kind": "movie",
+      "title": "Baby's Toilet",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 British film by Cecil Hepworth",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4247400"
+      ]
+    },
+    {
+      "id": "wikidata-Q4633290",
+      "externalIds": {
+        "wikidata": "Q4633290"
+      },
+      "kind": "movie",
+      "title": "2 A. M. in the Subway",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 American film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4633290"
+      ]
+    },
+    {
+      "id": "wikidata-Q7111114",
+      "externalIds": {
+        "wikidata": "Q7111114"
+      },
+      "kind": "movie",
+      "title": "Our New Errand Boy",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 British film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7111114"
+      ]
+    },
+    {
+      "id": "wikidata-Q7771473",
+      "externalIds": {
+        "wikidata": "Q7771473"
+      },
+      "kind": "movie",
+      "title": "The Unfortunate Policeman",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 British film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7771473"
+      ]
+    },
+    {
+      "id": "wikidata-Q20563606",
+      "externalIds": {
+        "wikidata": "Q20563606"
+      },
+      "kind": "movie",
+      "title": "The Weavers (1905 film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Short silent documentary film from the Balkans, 1905",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20563606"
+      ]
+    },
+    {
+      "id": "wikidata-Q7751454",
+      "externalIds": {
+        "wikidata": "Q7751454"
+      },
+      "kind": "movie",
+      "title": "The Miller's Daughter (1905 film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 American silent film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7751454"
+      ]
+    },
+    {
+      "id": "wikidata-Q3225159",
+      "externalIds": {
+        "wikidata": "Q3225159"
+      },
+      "kind": "movie",
+      "title": "The Palace of the Arabian Nights",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3225159"
+      ]
+    },
+    {
+      "id": "wikidata-Q17182775",
+      "externalIds": {
+        "wikidata": "Q17182775"
+      },
+      "kind": "movie",
+      "title": "The Nihilist (film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 American film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17182775"
+      ]
+    },
+    {
+      "id": "wikidata-Q3210180",
+      "externalIds": {
+        "wikidata": "Q3210180"
+      },
+      "kind": "movie",
+      "title": "Rip's Dream",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3210180"
+      ]
+    },
+    {
+      "id": "wikidata-Q21646056",
+      "externalIds": {
+        "wikidata": "Q21646056"
+      },
+      "kind": "movie",
+      "title": "Ah! La Barbe",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by Segundo de Chomón",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21646056"
+      ]
+    },
+    {
+      "id": "wikidata-Q3231298",
+      "externalIds": {
+        "wikidata": "Q3231298"
+      },
+      "kind": "movie",
+      "title": "The Living Playing Cards",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3231298"
+      ]
+    },
+    {
+      "id": "wikidata-Q3222336",
+      "externalIds": {
+        "wikidata": "Q3222336"
+      },
+      "kind": "movie",
+      "title": "The Inventor Crazybrains and His Wonderful Airship",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3222336"
+      ]
+    },
+    {
+      "id": "wikidata-Q58411768",
+      "externalIds": {
+        "wikidata": "Q58411768"
+      },
+      "kind": "movie",
+      "title": "In the Swimming Pool, Palm Beach, Florida",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 American film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q58411768"
+      ]
+    },
+    {
+      "id": "wikidata-Q3220284",
+      "externalIds": {
+        "wikidata": "Q3220284"
+      },
+      "kind": "movie",
+      "title": "A Mesmerian Experiment",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3220284"
+      ]
+    },
+    {
+      "id": "wikidata-Q3225589",
+      "externalIds": {
+        "wikidata": "Q3225589"
+      },
+      "kind": "movie",
+      "title": "The Crystal Casket",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3225589"
+      ]
+    },
+    {
+      "id": "wikidata-Q3222282",
+      "externalIds": {
+        "wikidata": "Q3222282"
+      },
+      "kind": "movie",
+      "title": "The Black Imp",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by Georges Méliès",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3222282"
+      ]
+    },
+    {
+      "id": "wikidata-Q3205699",
+      "externalIds": {
+        "wikidata": "Q3205699"
+      },
+      "kind": "movie",
+      "title": "The Mysterious Island (1905 film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3205699"
+      ]
+    },
+    {
+      "id": "wikidata-Q3548589",
+      "externalIds": {
+        "wikidata": "Q3548589"
+      },
+      "kind": "movie",
+      "title": "Unexpected Fireworks",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by Georges Méliès",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3548589"
+      ]
+    },
+    {
+      "id": "wikidata-Q3227845",
+      "externalIds": {
+        "wikidata": "Q3227845"
+      },
+      "kind": "movie",
+      "title": "The Scheming Gambler's Paradise",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by Georges Méliès",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3227845"
+      ]
+    },
+    {
+      "id": "wikidata-Q3207152",
+      "externalIds": {
+        "wikidata": "Q3207152"
+      },
+      "kind": "movie",
+      "title": "The Enchanted Sedan Chair",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by Georges Méliès",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3207152"
+      ]
+    },
+    {
+      "id": "wikidata-Q3224498",
+      "externalIds": {
+        "wikidata": "Q3224498"
+      },
+      "kind": "movie",
+      "title": "The Lilliputian Minuet",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by Georges Méliès",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3224498"
+      ]
+    },
+    {
+      "id": "wikidata-Q3549633",
+      "externalIds": {
+        "wikidata": "Q3549633"
+      },
+      "kind": "movie",
+      "title": "The Venetian Looking-Glass",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3549633"
+      ]
+    },
+    {
+      "id": "wikidata-Q3231956",
+      "externalIds": {
+        "wikidata": "Q3231956"
+      },
+      "kind": "movie",
+      "title": "The Tower of London (1905 film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3231956"
+      ]
+    },
+    {
+      "id": "wikidata-Q6144712",
+      "externalIds": {
+        "wikidata": "Q6144712"
+      },
+      "kind": "movie",
+      "title": "The Kleptomaniac",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American silent drama film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6144712"
+      ]
+    },
+    {
+      "id": "wikidata-Q4292423",
+      "externalIds": {
+        "wikidata": "Q4292423"
+      },
+      "kind": "movie",
+      "title": "Rêve à la lune",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French silent short film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4292423"
+      ]
+    },
+    {
+      "id": "wikidata-Q4101841",
+      "externalIds": {
+        "wikidata": "Q4101841"
+      },
+      "kind": "movie",
+      "title": "Au Pays Noir",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French silent short film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4101841"
+      ]
+    },
+    {
+      "id": "wikidata-Q47498374",
+      "externalIds": {
+        "wikidata": "Q47498374"
+      },
+      "kind": "movie",
+      "title": "Revolution in Russia",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French silent short film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q47498374"
+      ]
+    },
+    {
+      "id": "wikidata-Q106867472",
+      "externalIds": {
+        "wikidata": "Q106867472"
+      },
+      "kind": "movie",
+      "title": "Willie and Tim in the Motor Car",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 short film by Percy Stow",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106867472"
+      ]
+    },
+    {
+      "id": "wikidata-Q3823660",
+      "externalIds": {
+        "wikidata": "Q3823660"
+      },
+      "kind": "movie",
+      "title": "La presa di Roma",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 Italian film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3823660"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989991",
+      "externalIds": {
+        "wikidata": "Q3989991"
+      },
+      "kind": "movie",
+      "title": "The White Caps",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 American silent drama film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989991"
+      ]
+    },
+    {
+      "id": "wikidata-Q47462294",
+      "externalIds": {
+        "wikidata": "Q47462294"
+      },
+      "kind": "movie",
+      "title": "Assassination of the Grand Duke Serge",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French silent short film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q47462294"
+      ]
+    },
+    {
+      "id": "wikidata-Q15051522",
+      "externalIds": {
+        "wikidata": "Q15051522"
+      },
+      "kind": "movie",
+      "title": "The Train Wreckers",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15051522"
+      ]
+    },
+    {
+      "id": "wikidata-Q16679772",
+      "externalIds": {
+        "wikidata": "Q16679772"
+      },
+      "kind": "movie",
+      "title": "The Seven Ages (film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 American silent comedy film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16679772"
+      ]
+    },
+    {
+      "id": "wikidata-Q107751065",
+      "externalIds": {
+        "wikidata": "Q107751065"
+      },
+      "kind": "movie",
+      "title": "The Hen That Laid the Golden Eggs",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French silent short film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q107751065"
+      ]
+    },
+    {
+      "id": "wikidata-Q3233777",
+      "externalIds": {
+        "wikidata": "Q3233777"
+      },
+      "kind": "movie",
+      "title": "The Bricklayers (1905 film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 French film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3233777"
+      ]
+    },
+    {
+      "id": "wikidata-Q18574886",
+      "externalIds": {
+        "wikidata": "Q18574886"
+      },
+      "kind": "movie",
+      "title": "The Whole Dam Family and the Dam Dog",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18574886"
+      ]
+    },
+    {
+      "id": "wikidata-Q16642438",
+      "externalIds": {
+        "wikidata": "Q16642438"
+      },
+      "kind": "movie",
+      "title": "How Jones Lost His Roll",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16642438"
+      ]
+    },
+    {
+      "id": "wikidata-Q124797713",
+      "externalIds": {
+        "wikidata": "Q124797713"
+      },
+      "kind": "movie",
+      "title": "Prehistoric Peeps (film)",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 British one-reeler film",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124797713"
+      ]
+    },
+    {
+      "id": "wikidata-Q133500234",
+      "externalIds": {
+        "wikidata": "Q133500234"
+      },
+      "kind": "movie",
+      "title": "Housework - Women Spinning Wool",
+      "year": 1905,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Documentary film of the 1900s",
+      "batchId": "wikidata-films-1905-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q133500234"
+      ]
+    }
+  ]
+}

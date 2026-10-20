@@ -1,0 +1,4906 @@
+{
+  "id": "wikidata-films-1935-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1935,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q7756830",
+      "externalIds": {
+        "wikidata": "Q7756830"
+      },
+      "kind": "movie",
+      "title": "The Phantom Empire",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 serial film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7756830"
+      ]
+    },
+    {
+      "id": "wikidata-Q1196346",
+      "externalIds": {
+        "wikidata": "Q1196346"
+      },
+      "kind": "movie",
+      "title": "The Raven (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Lew Landers",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1196346"
+      ]
+    },
+    {
+      "id": "wikidata-Q1305415",
+      "externalIds": {
+        "wikidata": "Q1305415"
+      },
+      "kind": "movie",
+      "title": "The Scoundrel (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Ben Hecht, Charles MacArthur",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1305415"
+      ]
+    },
+    {
+      "id": "wikidata-Q7761183",
+      "externalIds": {
+        "wikidata": "Q7761183"
+      },
+      "kind": "movie",
+      "title": "The Roaring West",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7761183"
+      ]
+    },
+    {
+      "id": "wikidata-Q7755843",
+      "externalIds": {
+        "wikidata": "Q7755843"
+      },
+      "kind": "movie",
+      "title": "The Pace That Kills (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American exploitation film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7755843"
+      ]
+    },
+    {
+      "id": "wikidata-Q7754852",
+      "externalIds": {
+        "wikidata": "Q7754852"
+      },
+      "kind": "movie",
+      "title": "The Old Homestead (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7754852"
+      ]
+    },
+    {
+      "id": "wikidata-Q7756838",
+      "externalIds": {
+        "wikidata": "Q7756838"
+      },
+      "kind": "movie",
+      "title": "The Phantom Light",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7756838"
+      ]
+    },
+    {
+      "id": "wikidata-Q7756457",
+      "externalIds": {
+        "wikidata": "Q7756457"
+      },
+      "kind": "movie",
+      "title": "The Pecos Kid",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7756457"
+      ]
+    },
+    {
+      "id": "wikidata-Q7756825",
+      "externalIds": {
+        "wikidata": "Q7756825"
+      },
+      "kind": "movie",
+      "title": "The Phantom Cowboy (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7756825"
+      ]
+    },
+    {
+      "id": "wikidata-Q325758",
+      "externalIds": {
+        "wikidata": "Q325758"
+      },
+      "kind": "movie",
+      "title": "The Old and the Young King",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 German film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q325758"
+      ]
+    },
+    {
+      "id": "wikidata-Q12126890",
+      "externalIds": {
+        "wikidata": "Q12126890"
+      },
+      "kind": "movie",
+      "title": "The Passing of the Third Floor Back (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12126890"
+      ]
+    },
+    {
+      "id": "wikidata-Q7761042",
+      "externalIds": {
+        "wikidata": "Q7761042"
+      },
+      "kind": "movie",
+      "title": "The Riverside Murder",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7761042"
+      ]
+    },
+    {
+      "id": "wikidata-Q7758413",
+      "externalIds": {
+        "wikidata": "Q7758413"
+      },
+      "kind": "movie",
+      "title": "The Private Secretary (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7758413"
+      ]
+    },
+    {
+      "id": "wikidata-Q7761313",
+      "externalIds": {
+        "wikidata": "Q7761313"
+      },
+      "kind": "movie",
+      "title": "The Rocks of Valpre (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Henry Edwards",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7761313"
+      ]
+    },
+    {
+      "id": "wikidata-Q7758168",
+      "externalIds": {
+        "wikidata": "Q7758168"
+      },
+      "kind": "movie",
+      "title": "The Price of a Song",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7758168"
+      ]
+    },
+    {
+      "id": "wikidata-Q4000925",
+      "externalIds": {
+        "wikidata": "Q4000925"
+      },
+      "kind": "movie",
+      "title": "The Royal Waltz (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 German musical film by Herbert Maisch",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4000925"
+      ]
+    },
+    {
+      "id": "wikidata-Q576588",
+      "externalIds": {
+        "wikidata": "Q576588"
+      },
+      "kind": "movie",
+      "title": "The Paul Street Boys (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q576588"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522352",
+      "externalIds": {
+        "wikidata": "Q3522352"
+      },
+      "kind": "movie",
+      "title": "The Public Life of Henry the Ninth",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522352"
+      ]
+    },
+    {
+      "id": "wikidata-Q7763567",
+      "externalIds": {
+        "wikidata": "Q7763567"
+      },
+      "kind": "movie",
+      "title": "The Shadow of Silk Lennox",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Jack Nelson",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7763567"
+      ]
+    },
+    {
+      "id": "wikidata-Q12126673",
+      "externalIds": {
+        "wikidata": "Q12126673"
+      },
+      "kind": "movie",
+      "title": "The Nut Farm",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Melville W. Brown",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12126673"
+      ]
+    },
+    {
+      "id": "wikidata-Q7760711",
+      "externalIds": {
+        "wikidata": "Q7760711"
+      },
+      "kind": "movie",
+      "title": "The Rider of the Law",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7760711"
+      ]
+    },
+    {
+      "id": "wikidata-Q3225424",
+      "externalIds": {
+        "wikidata": "Q3225424"
+      },
+      "kind": "movie",
+      "title": "The Robber Kitten",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3225424"
+      ]
+    },
+    {
+      "id": "wikidata-Q7756411",
+      "externalIds": {
+        "wikidata": "Q7756411"
+      },
+      "kind": "movie",
+      "title": "The Payoff (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American dramatic film directed by Robert Florey",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7756411"
+      ]
+    },
+    {
+      "id": "wikidata-Q7741527",
+      "externalIds": {
+        "wikidata": "Q7741527"
+      },
+      "kind": "movie",
+      "title": "The Perfect Gentleman (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Tim Whelan",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7741527"
+      ]
+    },
+    {
+      "id": "wikidata-Q7758697",
+      "externalIds": {
+        "wikidata": "Q7758697"
+      },
+      "kind": "movie",
+      "title": "The Public Menace",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Erle C. Kenton",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7758697"
+      ]
+    },
+    {
+      "id": "wikidata-Q7762031",
+      "externalIds": {
+        "wikidata": "Q7762031"
+      },
+      "kind": "movie",
+      "title": "The Sagebrush Troubadour",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Joseph Kane",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7762031"
+      ]
+    },
+    {
+      "id": "wikidata-Q7760998",
+      "externalIds": {
+        "wikidata": "Q7760998"
+      },
+      "kind": "movie",
+      "title": "The River House Mystery",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Fraser Foulsham",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7760998"
+      ]
+    },
+    {
+      "id": "wikidata-Q17027700",
+      "externalIds": {
+        "wikidata": "Q17027700"
+      },
+      "kind": "movie",
+      "title": "The Quail Hunt",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17027700"
+      ]
+    },
+    {
+      "id": "wikidata-Q16254033",
+      "externalIds": {
+        "wikidata": "Q16254033"
+      },
+      "kind": "movie",
+      "title": "The Peace Conference",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16254033"
+      ]
+    },
+    {
+      "id": "wikidata-Q17183424",
+      "externalIds": {
+        "wikidata": "Q17183424"
+      },
+      "kind": "movie",
+      "title": "The Shoemaker and the Elves (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17183424"
+      ]
+    },
+    {
+      "id": "wikidata-Q3733144",
+      "externalIds": {
+        "wikidata": "Q3733144"
+      },
+      "kind": "movie",
+      "title": "The People's Enemy",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Crane Wilbur",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3733144"
+      ]
+    },
+    {
+      "id": "wikidata-Q18085709",
+      "externalIds": {
+        "wikidata": "Q18085709"
+      },
+      "kind": "movie",
+      "title": "The Nitwits",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by George Stevens",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18085709"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226404",
+      "externalIds": {
+        "wikidata": "Q3226404"
+      },
+      "kind": "movie",
+      "title": "The Return of Peter Grimm (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by George Nicholls, Jr.",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226404"
+      ]
+    },
+    {
+      "id": "wikidata-Q18085622",
+      "externalIds": {
+        "wikidata": "Q18085622"
+      },
+      "kind": "movie",
+      "title": "The Rainmakers (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Fred Guiol",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18085622"
+      ]
+    },
+    {
+      "id": "wikidata-Q18655704",
+      "externalIds": {
+        "wikidata": "Q18655704"
+      },
+      "kind": "movie",
+      "title": "The Outlaw Deputy",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18655704"
+      ]
+    },
+    {
+      "id": "wikidata-Q3694802",
+      "externalIds": {
+        "wikidata": "Q3694802"
+      },
+      "kind": "movie",
+      "title": "The Private Life of Louis XIV",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 German film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3694802"
+      ]
+    },
+    {
+      "id": "wikidata-Q20949953",
+      "externalIds": {
+        "wikidata": "Q20949953"
+      },
+      "kind": "movie",
+      "title": "The Right to Live (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by William Keighley",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20949953"
+      ]
+    },
+    {
+      "id": "wikidata-Q21527969",
+      "externalIds": {
+        "wikidata": "Q21527969"
+      },
+      "kind": "movie",
+      "title": "The Price of Wisdom",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21527969"
+      ]
+    },
+    {
+      "id": "wikidata-Q27679718",
+      "externalIds": {
+        "wikidata": "Q27679718"
+      },
+      "kind": "movie",
+      "title": "The Right Age to Marry",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Maclean Rogers",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27679718"
+      ]
+    },
+    {
+      "id": "wikidata-Q39074042",
+      "externalIds": {
+        "wikidata": "Q39074042"
+      },
+      "kind": "movie",
+      "title": "The Saint and Her Fool (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 German film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q39074042"
+      ]
+    },
+    {
+      "id": "wikidata-Q38005333",
+      "externalIds": {
+        "wikidata": "Q38005333"
+      },
+      "kind": "movie",
+      "title": "The Revenge Rider",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by David Selman",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q38005333"
+      ]
+    },
+    {
+      "id": "wikidata-Q48671878",
+      "externalIds": {
+        "wikidata": "Q48671878"
+      },
+      "kind": "movie",
+      "title": "The Secret of Woronzeff",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48671878"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988680",
+      "externalIds": {
+        "wikidata": "Q3988680"
+      },
+      "kind": "movie",
+      "title": "The Perfect Clue",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Robert G. Vignola",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988680"
+      ]
+    },
+    {
+      "id": "wikidata-Q85321467",
+      "externalIds": {
+        "wikidata": "Q85321467"
+      },
+      "kind": "movie",
+      "title": "The Reckless Buckaroo",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85321467"
+      ]
+    },
+    {
+      "id": "wikidata-Q89080890",
+      "externalIds": {
+        "wikidata": "Q89080890"
+      },
+      "kind": "movie",
+      "title": "The Red Rider (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 German film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q89080890"
+      ]
+    },
+    {
+      "id": "wikidata-Q111914177",
+      "externalIds": {
+        "wikidata": "Q111914177"
+      },
+      "kind": "movie",
+      "title": "The Outlaw Tamer",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q111914177"
+      ]
+    },
+    {
+      "id": "wikidata-Q10672536",
+      "externalIds": {
+        "wikidata": "Q10672536"
+      },
+      "kind": "movie",
+      "title": "The People of Småland",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10672536"
+      ]
+    },
+    {
+      "id": "wikidata-Q30901567",
+      "externalIds": {
+        "wikidata": "Q30901567"
+      },
+      "kind": "movie",
+      "title": "The Schimeck Family (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 German film by E.W. Emo",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30901567"
+      ]
+    },
+    {
+      "id": "wikidata-Q3236553",
+      "externalIds": {
+        "wikidata": "Q3236553"
+      },
+      "kind": "movie",
+      "title": "The Scandalous Couple",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3236553"
+      ]
+    },
+    {
+      "id": "wikidata-Q28494185",
+      "externalIds": {
+        "wikidata": "Q28494185"
+      },
+      "kind": "movie",
+      "title": "The Pont-Biquet Family",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28494185"
+      ]
+    },
+    {
+      "id": "wikidata-Q2740107",
+      "externalIds": {
+        "wikidata": "Q2740107"
+      },
+      "kind": "movie",
+      "title": "Thicker than Water (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by James W. Horne",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2740107"
+      ]
+    },
+    {
+      "id": "wikidata-Q7765375",
+      "externalIds": {
+        "wikidata": "Q7765375"
+      },
+      "kind": "movie",
+      "title": "The Soul of the Bandoneon",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Argentine film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7765375"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208119",
+      "externalIds": {
+        "wikidata": "Q3208119"
+      },
+      "kind": "movie",
+      "title": "The Woman in Red (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American drama film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208119"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523025",
+      "externalIds": {
+        "wikidata": "Q3523025"
+      },
+      "kind": "movie",
+      "title": "The Timid Young Man",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523025"
+      ]
+    },
+    {
+      "id": "wikidata-Q1271895",
+      "externalIds": {
+        "wikidata": "Q1271895"
+      },
+      "kind": "movie",
+      "title": "The Whole Town's Talking",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by John Ford",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1271895"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764229",
+      "externalIds": {
+        "wikidata": "Q7764229"
+      },
+      "kind": "movie",
+      "title": "The Silent Passenger",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764229"
+      ]
+    },
+    {
+      "id": "wikidata-Q7833578",
+      "externalIds": {
+        "wikidata": "Q7833578"
+      },
+      "kind": "movie",
+      "title": "The Tunnel (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film by Maurice Elvey",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7833578"
+      ]
+    },
+    {
+      "id": "wikidata-Q634942",
+      "externalIds": {
+        "wikidata": "Q634942"
+      },
+      "kind": "movie",
+      "title": "The Wedding Night",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American romantic film by King Vidor",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q634942"
+      ]
+    },
+    {
+      "id": "wikidata-Q1215996",
+      "externalIds": {
+        "wikidata": "Q1215996"
+      },
+      "kind": "movie",
+      "title": "The Tortoise and the Hare (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1215996"
+      ]
+    },
+    {
+      "id": "wikidata-Q7766787",
+      "externalIds": {
+        "wikidata": "Q7766787"
+      },
+      "kind": "movie",
+      "title": "The Story of Papworth",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Anthony Asquith",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7766787"
+      ]
+    },
+    {
+      "id": "wikidata-Q388339",
+      "externalIds": {
+        "wikidata": "Q388339"
+      },
+      "kind": "movie",
+      "title": "The Youth of Maxim",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Grigori Kozintsev and Leonid Trauberg",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q388339"
+      ]
+    },
+    {
+      "id": "wikidata-Q7770293",
+      "externalIds": {
+        "wikidata": "Q7770293"
+      },
+      "kind": "movie",
+      "title": "The Triumph of Sherlock Holmes",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British mystery film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7770293"
+      ]
+    },
+    {
+      "id": "wikidata-Q7769568",
+      "externalIds": {
+        "wikidata": "Q7769568"
+      },
+      "kind": "movie",
+      "title": "The Tonto Kid",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7769568"
+      ]
+    },
+    {
+      "id": "wikidata-Q12131139",
+      "externalIds": {
+        "wikidata": "Q12131139"
+      },
+      "kind": "movie",
+      "title": "The Vanishing Riders",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12131139"
+      ]
+    },
+    {
+      "id": "wikidata-Q2248179",
+      "externalIds": {
+        "wikidata": "Q2248179"
+      },
+      "kind": "movie",
+      "title": "The Three Musketeers (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Otto Brower, Rowland V. Lee",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2248179"
+      ]
+    },
+    {
+      "id": "wikidata-Q7768781",
+      "externalIds": {
+        "wikidata": "Q7768781"
+      },
+      "kind": "movie",
+      "title": "The Third Clue",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1934 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7768781"
+      ]
+    },
+    {
+      "id": "wikidata-Q4229315",
+      "externalIds": {
+        "wikidata": "Q4229315"
+      },
+      "kind": "movie",
+      "title": "The Village Squire",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4229315"
+      ]
+    },
+    {
+      "id": "wikidata-Q7766560",
+      "externalIds": {
+        "wikidata": "Q7766560"
+      },
+      "kind": "movie",
+      "title": "The Stoker (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Leslie Pearce",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7766560"
+      ]
+    },
+    {
+      "id": "wikidata-Q7768548",
+      "externalIds": {
+        "wikidata": "Q7768548"
+      },
+      "kind": "movie",
+      "title": "The Test (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7768548"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775170",
+      "externalIds": {
+        "wikidata": "Q7775170"
+      },
+      "kind": "movie",
+      "title": "The Winning Ticket",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Charles Reisner",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775170"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764433",
+      "externalIds": {
+        "wikidata": "Q7764433"
+      },
+      "kind": "movie",
+      "title": "The Singing Vagabond",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American Western film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764433"
+      ]
+    },
+    {
+      "id": "wikidata-Q17028463",
+      "externalIds": {
+        "wikidata": "Q17028463"
+      },
+      "kind": "movie",
+      "title": "The Singer of Naples",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17028463"
+      ]
+    },
+    {
+      "id": "wikidata-Q3927563",
+      "externalIds": {
+        "wikidata": "Q3927563"
+      },
+      "kind": "movie",
+      "title": "Those Two",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Italian film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3927563"
+      ]
+    },
+    {
+      "id": "wikidata-Q19059445",
+      "externalIds": {
+        "wikidata": "Q19059445"
+      },
+      "kind": "movie",
+      "title": "The Sunshine Makers (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19059445"
+      ]
+    },
+    {
+      "id": "wikidata-Q3490812",
+      "externalIds": {
+        "wikidata": "Q3490812"
+      },
+      "kind": "movie",
+      "title": "Things Are Looking Up (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3490812"
+      ]
+    },
+    {
+      "id": "wikidata-Q19898244",
+      "externalIds": {
+        "wikidata": "Q19898244"
+      },
+      "kind": "movie",
+      "title": "The Wicked Carabel",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19898244"
+      ]
+    },
+    {
+      "id": "wikidata-Q19898294",
+      "externalIds": {
+        "wikidata": "Q19898294"
+      },
+      "kind": "movie",
+      "title": "The Young Count",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19898294"
+      ]
+    },
+    {
+      "id": "wikidata-Q21999312",
+      "externalIds": {
+        "wikidata": "Q21999312"
+      },
+      "kind": "movie",
+      "title": "The White Cockatoo",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American mystery film directed by Alan Crosland",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21999312"
+      ]
+    },
+    {
+      "id": "wikidata-Q18373793",
+      "externalIds": {
+        "wikidata": "Q18373793"
+      },
+      "kind": "movie",
+      "title": "The Spanish Cape Mystery (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Lewis D. Collins",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18373793"
+      ]
+    },
+    {
+      "id": "wikidata-Q16679925",
+      "externalIds": {
+        "wikidata": "Q16679925"
+      },
+      "kind": "movie",
+      "title": "This Is the Life (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Marshall Neilan",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16679925"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528209",
+      "externalIds": {
+        "wikidata": "Q21528209"
+      },
+      "kind": "movie",
+      "title": "The Virginia Judge (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Edward Sedgwick",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528209"
+      ]
+    },
+    {
+      "id": "wikidata-Q22350850",
+      "externalIds": {
+        "wikidata": "Q22350850"
+      },
+      "kind": "movie",
+      "title": "The Throwback (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Ray Taylor",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22350850"
+      ]
+    },
+    {
+      "id": "wikidata-Q23038373",
+      "externalIds": {
+        "wikidata": "Q23038373"
+      },
+      "kind": "movie",
+      "title": "The White Horse Inn (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Carl Lamac",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23038373"
+      ]
+    },
+    {
+      "id": "wikidata-Q23755572",
+      "externalIds": {
+        "wikidata": "Q23755572"
+      },
+      "kind": "movie",
+      "title": "The Student's Romance",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23755572"
+      ]
+    },
+    {
+      "id": "wikidata-Q3793290",
+      "externalIds": {
+        "wikidata": "Q3793290"
+      },
+      "kind": "movie",
+      "title": "The Three-Cornered Hat (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3793290"
+      ]
+    },
+    {
+      "id": "wikidata-Q65148791",
+      "externalIds": {
+        "wikidata": "Q65148791"
+      },
+      "kind": "movie",
+      "title": "The World's in Love",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Austrian film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65148791"
+      ]
+    },
+    {
+      "id": "wikidata-Q27962145",
+      "externalIds": {
+        "wikidata": "Q27962145"
+      },
+      "kind": "movie",
+      "title": "The Song of the Birds",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27962145"
+      ]
+    },
+    {
+      "id": "wikidata-Q39049176",
+      "externalIds": {
+        "wikidata": "Q39049176"
+      },
+      "kind": "movie",
+      "title": "The Valiant Navigator",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q39049176"
+      ]
+    },
+    {
+      "id": "wikidata-Q4376297",
+      "externalIds": {
+        "wikidata": "Q4376297"
+      },
+      "kind": "movie",
+      "title": "The Student of Prague (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Arthur Robison",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4376297"
+      ]
+    },
+    {
+      "id": "wikidata-Q55635544",
+      "externalIds": {
+        "wikidata": "Q55635544"
+      },
+      "kind": "movie",
+      "title": "The Silver Bullet (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Bernard B. Ray",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55635544"
+      ]
+    },
+    {
+      "id": "wikidata-Q54868305",
+      "externalIds": {
+        "wikidata": "Q54868305"
+      },
+      "kind": "movie",
+      "title": "The Unwelcome Stranger",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 US film directed by Phil Rosen",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54868305"
+      ]
+    },
+    {
+      "id": "wikidata-Q85321452",
+      "externalIds": {
+        "wikidata": "Q85321452"
+      },
+      "kind": "movie",
+      "title": "The Texas Rambler",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85321452"
+      ]
+    },
+    {
+      "id": "wikidata-Q108542278",
+      "externalIds": {
+        "wikidata": "Q108542278"
+      },
+      "kind": "movie",
+      "title": "The Silent Code",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q108542278"
+      ]
+    },
+    {
+      "id": "wikidata-Q110350792",
+      "externalIds": {
+        "wikidata": "Q110350792"
+      },
+      "kind": "movie",
+      "title": "The Tin Man (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q110350792"
+      ]
+    },
+    {
+      "id": "wikidata-Q21035755",
+      "externalIds": {
+        "wikidata": "Q21035755"
+      },
+      "kind": "movie",
+      "title": "The Valley of Love (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21035755"
+      ]
+    },
+    {
+      "id": "wikidata-Q25397538",
+      "externalIds": {
+        "wikidata": "Q25397538"
+      },
+      "kind": "movie",
+      "title": "Thirteen Days of Love",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25397538"
+      ]
+    },
+    {
+      "id": "wikidata-Q3220686",
+      "externalIds": {
+        "wikidata": "Q3220686"
+      },
+      "kind": "movie",
+      "title": "The Squadron's Baby",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3220686"
+      ]
+    },
+    {
+      "id": "wikidata-Q16107941",
+      "externalIds": {
+        "wikidata": "Q16107941"
+      },
+      "kind": "movie",
+      "title": "The Slipper Episode",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16107941"
+      ]
+    },
+    {
+      "id": "wikidata-Q785436",
+      "externalIds": {
+        "wikidata": "Q785436"
+      },
+      "kind": "movie",
+      "title": "The Students of Igló",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q785436"
+      ]
+    },
+    {
+      "id": "wikidata-Q123505040",
+      "externalIds": {
+        "wikidata": "Q123505040"
+      },
+      "kind": "movie",
+      "title": "The Wise Mother",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Hungarian film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q123505040"
+      ]
+    },
+    {
+      "id": "wikidata-Q156497",
+      "externalIds": {
+        "wikidata": "Q156497"
+      },
+      "kind": "movie",
+      "title": "Triumph of the Will",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 German Nazi propaganda film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q156497"
+      ]
+    },
+    {
+      "id": "wikidata-Q1139031",
+      "externalIds": {
+        "wikidata": "Q1139031"
+      },
+      "kind": "movie",
+      "title": "Top Hat",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Mark Sandrich",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1139031"
+      ]
+    },
+    {
+      "id": "wikidata-Q7855753",
+      "externalIds": {
+        "wikidata": "Q7855753"
+      },
+      "kind": "movie",
+      "title": "Turn of the Tide (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7855753"
+      ]
+    },
+    {
+      "id": "wikidata-Q1217943",
+      "externalIds": {
+        "wikidata": "Q1217943"
+      },
+      "kind": "movie",
+      "title": "Tit for Tat (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American short film by Charley Rogers",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1217943"
+      ]
+    },
+    {
+      "id": "wikidata-Q7882672",
+      "externalIds": {
+        "wikidata": "Q7882672"
+      },
+      "kind": "movie",
+      "title": "Uncivil Warriors",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American short film by Del Lord",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7882672"
+      ]
+    },
+    {
+      "id": "wikidata-Q639795",
+      "externalIds": {
+        "wikidata": "Q639795"
+      },
+      "kind": "movie",
+      "title": "Toni (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 French film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q639795"
+      ]
+    },
+    {
+      "id": "wikidata-Q7797578",
+      "externalIds": {
+        "wikidata": "Q7797578"
+      },
+      "kind": "movie",
+      "title": "Three Little Beers",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American short film by Del Lord",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7797578"
+      ]
+    },
+    {
+      "id": "wikidata-Q3542005",
+      "externalIds": {
+        "wikidata": "Q3542005"
+      },
+      "kind": "movie",
+      "title": "Tumbling Tumbleweeds (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Joseph Kane, Nat Levine",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3542005"
+      ]
+    },
+    {
+      "id": "wikidata-Q7859375",
+      "externalIds": {
+        "wikidata": "Q7859375"
+      },
+      "kind": "movie",
+      "title": "Two for Tonight",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Frank Tuttle",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7859375"
+      ]
+    },
+    {
+      "id": "wikidata-Q1143107",
+      "externalIds": {
+        "wikidata": "Q1143107"
+      },
+      "kind": "movie",
+      "title": "Three Orphan Kittens",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1143107"
+      ]
+    },
+    {
+      "id": "wikidata-Q7859011",
+      "externalIds": {
+        "wikidata": "Q7859011"
+      },
+      "kind": "movie",
+      "title": "Two Hearts in Harmony",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by William Beaudine",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7859011"
+      ]
+    },
+    {
+      "id": "wikidata-Q3535913",
+      "externalIds": {
+        "wikidata": "Q3535913"
+      },
+      "kind": "movie",
+      "title": "Tovaritch (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3535913"
+      ]
+    },
+    {
+      "id": "wikidata-Q7912340",
+      "externalIds": {
+        "wikidata": "Q7912340"
+      },
+      "kind": "movie",
+      "title": "Valley of Wanted Men",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Alan James",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7912340"
+      ]
+    },
+    {
+      "id": "wikidata-Q16918175",
+      "externalIds": {
+        "wikidata": "Q16918175"
+      },
+      "kind": "movie",
+      "title": "Traveling Saleslady",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Ray Enright",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16918175"
+      ]
+    },
+    {
+      "id": "wikidata-Q16944514",
+      "externalIds": {
+        "wikidata": "Q16944514"
+      },
+      "kind": "movie",
+      "title": "Two Sinners",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Arthur Lubin",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16944514"
+      ]
+    },
+    {
+      "id": "wikidata-Q17029602",
+      "externalIds": {
+        "wikidata": "Q17029602"
+      },
+      "kind": "movie",
+      "title": "Vanessa: Her Love Story",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by William K. Howard",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17029602"
+      ]
+    },
+    {
+      "id": "wikidata-Q16979208",
+      "externalIds": {
+        "wikidata": "Q16979208"
+      },
+      "kind": "movie",
+      "title": "Times Square Lady",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by George B. Seitz",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16979208"
+      ]
+    },
+    {
+      "id": "wikidata-Q1215346",
+      "externalIds": {
+        "wikidata": "Q1215346"
+      },
+      "kind": "movie",
+      "title": "Under the Pampas Moon",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1215346"
+      ]
+    },
+    {
+      "id": "wikidata-Q16216429",
+      "externalIds": {
+        "wikidata": "Q16216429"
+      },
+      "kind": "movie",
+      "title": "Trouble Backstairs (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 German film directed by Veit Harlan",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16216429"
+      ]
+    },
+    {
+      "id": "wikidata-Q18394434",
+      "externalIds": {
+        "wikidata": "Q18394434"
+      },
+      "kind": "movie",
+      "title": "Time for Love (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18394434"
+      ]
+    },
+    {
+      "id": "wikidata-Q18085615",
+      "externalIds": {
+        "wikidata": "Q18085615"
+      },
+      "kind": "movie",
+      "title": "To Beat the Band",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 US film directed by Benjamin Stoloff",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18085615"
+      ]
+    },
+    {
+      "id": "wikidata-Q18636644",
+      "externalIds": {
+        "wikidata": "Q18636644"
+      },
+      "kind": "movie",
+      "title": "Vagabond Lady",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American comedy film directed by Sam Taylor",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18636644"
+      ]
+    },
+    {
+      "id": "wikidata-Q18612475",
+      "externalIds": {
+        "wikidata": "Q18612475"
+      },
+      "kind": "movie",
+      "title": "Too Tough to Kill",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18612475"
+      ]
+    },
+    {
+      "id": "wikidata-Q19818492",
+      "externalIds": {
+        "wikidata": "Q19818492"
+      },
+      "kind": "movie",
+      "title": "Trust the Navy",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19818492"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814873",
+      "externalIds": {
+        "wikidata": "Q20814873"
+      },
+      "kind": "movie",
+      "title": "Two-Fisted",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by James Cruze",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814873"
+      ]
+    },
+    {
+      "id": "wikidata-Q10709340",
+      "externalIds": {
+        "wikidata": "Q10709340"
+      },
+      "kind": "movie",
+      "title": "Under False Flag (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10709340"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528172",
+      "externalIds": {
+        "wikidata": "Q21528172"
+      },
+      "kind": "movie",
+      "title": "Toll of the Desert",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528172"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528159",
+      "externalIds": {
+        "wikidata": "Q21528159"
+      },
+      "kind": "movie",
+      "title": "Three Witnesses (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528159"
+      ]
+    },
+    {
+      "id": "wikidata-Q23796986",
+      "externalIds": {
+        "wikidata": "Q23796986"
+      },
+      "kind": "movie",
+      "title": "Thunder in the Night",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by George Archainbaud",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23796986"
+      ]
+    },
+    {
+      "id": "wikidata-Q2592150",
+      "externalIds": {
+        "wikidata": "Q2592150"
+      },
+      "kind": "movie",
+      "title": "Under Pressure (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Raoul Walsh, Irving Cummings",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2592150"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528164",
+      "externalIds": {
+        "wikidata": "Q21528164"
+      },
+      "kind": "movie",
+      "title": "Thunder Mountain (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by David Howard",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528164"
+      ]
+    },
+    {
+      "id": "wikidata-Q21869941",
+      "externalIds": {
+        "wikidata": "Q21869941"
+      },
+      "kind": "movie",
+      "title": "Turandot, Princess of China",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21869941"
+      ]
+    },
+    {
+      "id": "wikidata-Q22350852",
+      "externalIds": {
+        "wikidata": "Q22350852"
+      },
+      "kind": "movie",
+      "title": "Transient Lady",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Edward Buzzell",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22350852"
+      ]
+    },
+    {
+      "id": "wikidata-Q22350849",
+      "externalIds": {
+        "wikidata": "Q22350849"
+      },
+      "kind": "movie",
+      "title": "Three Kids and a Queen",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Edward Ludwig",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q22350849"
+      ]
+    },
+    {
+      "id": "wikidata-Q23035944",
+      "externalIds": {
+        "wikidata": "Q23035944"
+      },
+      "kind": "movie",
+      "title": "Tombstone Terror",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23035944"
+      ]
+    },
+    {
+      "id": "wikidata-Q54020958",
+      "externalIds": {
+        "wikidata": "Q54020958"
+      },
+      "kind": "movie",
+      "title": "Unconquered Bandit",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Harry S. Webb",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54020958"
+      ]
+    },
+    {
+      "id": "wikidata-Q54021017",
+      "externalIds": {
+        "wikidata": "Q54021017"
+      },
+      "kind": "movie",
+      "title": "Tracy Rides",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54021017"
+      ]
+    },
+    {
+      "id": "wikidata-Q54868287",
+      "externalIds": {
+        "wikidata": "Q54868287"
+      },
+      "kind": "movie",
+      "title": "Trigger Tom",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54868287"
+      ]
+    },
+    {
+      "id": "wikidata-Q4462907",
+      "externalIds": {
+        "wikidata": "Q4462907"
+      },
+      "kind": "movie",
+      "title": "Three Comrades (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Soviet film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4462907"
+      ]
+    },
+    {
+      "id": "wikidata-Q85810390",
+      "externalIds": {
+        "wikidata": "Q85810390"
+      },
+      "kind": "movie",
+      "title": "Trail of Terror (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American Western film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85810390"
+      ]
+    },
+    {
+      "id": "wikidata-Q89024262",
+      "externalIds": {
+        "wikidata": "Q89024262"
+      },
+      "kind": "movie",
+      "title": "Trails of the Wild",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q89024262"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245226",
+      "externalIds": {
+        "wikidata": "Q101245226"
+      },
+      "kind": "movie",
+      "title": "Timber War",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Sam Newfield",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245226"
+      ]
+    },
+    {
+      "id": "wikidata-Q104008801",
+      "externalIds": {
+        "wikidata": "Q104008801"
+      },
+      "kind": "movie",
+      "title": "Unknown Woman (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104008801"
+      ]
+    },
+    {
+      "id": "wikidata-Q104880642",
+      "externalIds": {
+        "wikidata": "Q104880642"
+      },
+      "kind": "movie",
+      "title": "Timber Terrors",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Western film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104880642"
+      ]
+    },
+    {
+      "id": "wikidata-Q105085901",
+      "externalIds": {
+        "wikidata": "Q105085901"
+      },
+      "kind": "movie",
+      "title": "Trails End (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 western film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q105085901"
+      ]
+    },
+    {
+      "id": "wikidata-Q19814187",
+      "externalIds": {
+        "wikidata": "Q19814187"
+      },
+      "kind": "movie",
+      "title": "Three Sisters with Maiden Hearts",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Japanese film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19814187"
+      ]
+    },
+    {
+      "id": "wikidata-Q108236739",
+      "externalIds": {
+        "wikidata": "Q108236739"
+      },
+      "kind": "movie",
+      "title": "Together We Live",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q108236739"
+      ]
+    },
+    {
+      "id": "wikidata-Q110236285",
+      "externalIds": {
+        "wikidata": "Q110236285"
+      },
+      "kind": "movie",
+      "title": "Twin Triplets",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q110236285"
+      ]
+    },
+    {
+      "id": "wikidata-Q137205420",
+      "externalIds": {
+        "wikidata": "Q137205420"
+      },
+      "kind": "movie",
+      "title": "Tu hijo (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Mexican film by José Bohr",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q137205420"
+      ]
+    },
+    {
+      "id": "wikidata-Q4155627",
+      "externalIds": {
+        "wikidata": "Q4155627"
+      },
+      "kind": "movie",
+      "title": "Two Joasias",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4155627"
+      ]
+    },
+    {
+      "id": "wikidata-Q933339",
+      "externalIds": {
+        "wikidata": "Q933339"
+      },
+      "kind": "movie",
+      "title": "Werewolf of London",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Stuart Walker",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q933339"
+      ]
+    },
+    {
+      "id": "wikidata-Q2193683",
+      "externalIds": {
+        "wikidata": "Q2193683"
+      },
+      "kind": "movie",
+      "title": "West Point of the Air",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Richard Rosson",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2193683"
+      ]
+    },
+    {
+      "id": "wikidata-Q4010250",
+      "externalIds": {
+        "wikidata": "Q4010250"
+      },
+      "kind": "movie",
+      "title": "Westward Ho (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4010250"
+      ]
+    },
+    {
+      "id": "wikidata-Q8024144",
+      "externalIds": {
+        "wikidata": "Q8024144"
+      },
+      "kind": "movie",
+      "title": "Windfall (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8024144"
+      ]
+    },
+    {
+      "id": "wikidata-Q7958883",
+      "externalIds": {
+        "wikidata": "Q7958883"
+      },
+      "kind": "movie",
+      "title": "Wacuś",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Polish film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7958883"
+      ]
+    },
+    {
+      "id": "wikidata-Q7979390",
+      "externalIds": {
+        "wikidata": "Q7979390"
+      },
+      "kind": "movie",
+      "title": "Week-end (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7979390"
+      ]
+    },
+    {
+      "id": "wikidata-Q7975802",
+      "externalIds": {
+        "wikidata": "Q7975802"
+      },
+      "kind": "movie",
+      "title": "Way Up Thar",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7975802"
+      ]
+    },
+    {
+      "id": "wikidata-Q7974084",
+      "externalIds": {
+        "wikidata": "Q7974084"
+      },
+      "kind": "movie",
+      "title": "Waterfront Lady",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Joseph Santley",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7974084"
+      ]
+    },
+    {
+      "id": "wikidata-Q859801",
+      "externalIds": {
+        "wikidata": "Q859801"
+      },
+      "kind": "movie",
+      "title": "We're in the Money (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Ray Enright",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q859801"
+      ]
+    },
+    {
+      "id": "wikidata-Q7774525",
+      "externalIds": {
+        "wikidata": "Q7774525"
+      },
+      "kind": "movie",
+      "title": "White Lilac",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7774525"
+      ]
+    },
+    {
+      "id": "wikidata-Q7932858",
+      "externalIds": {
+        "wikidata": "Q7932858"
+      },
+      "kind": "movie",
+      "title": "Vintage Wine",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7932858"
+      ]
+    },
+    {
+      "id": "wikidata-Q12131146",
+      "externalIds": {
+        "wikidata": "Q12131146"
+      },
+      "kind": "movie",
+      "title": "Vanity (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12131146"
+      ]
+    },
+    {
+      "id": "wikidata-Q7993617",
+      "externalIds": {
+        "wikidata": "Q7993617"
+      },
+      "kind": "movie",
+      "title": "While Parents Sleep (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7993617"
+      ]
+    },
+    {
+      "id": "wikidata-Q7998783",
+      "externalIds": {
+        "wikidata": "Q7998783"
+      },
+      "kind": "movie",
+      "title": "Widow's Might",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7998783"
+      ]
+    },
+    {
+      "id": "wikidata-Q3352186",
+      "externalIds": {
+        "wikidata": "Q3352186"
+      },
+      "kind": "movie",
+      "title": "Whipsaw (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Sam Wood",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3352186"
+      ]
+    },
+    {
+      "id": "wikidata-Q3230421",
+      "externalIds": {
+        "wikidata": "Q3230421"
+      },
+      "kind": "movie",
+      "title": "Wings in the Dark",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by James Flood",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3230421"
+      ]
+    },
+    {
+      "id": "wikidata-Q385167",
+      "externalIds": {
+        "wikidata": "Q385167"
+      },
+      "kind": "movie",
+      "title": "Villa for Sale",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q385167"
+      ]
+    },
+    {
+      "id": "wikidata-Q2559943",
+      "externalIds": {
+        "wikidata": "Q2559943"
+      },
+      "kind": "movie",
+      "title": "Who Killed Cock Robin? (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2559943"
+      ]
+    },
+    {
+      "id": "wikidata-Q7915873",
+      "externalIds": {
+        "wikidata": "Q7915873"
+      },
+      "kind": "movie",
+      "title": "Variety (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7915873"
+      ]
+    },
+    {
+      "id": "wikidata-Q17066595",
+      "externalIds": {
+        "wikidata": "Q17066595"
+      },
+      "kind": "movie",
+      "title": "Where's George? (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17066595"
+      ]
+    },
+    {
+      "id": "wikidata-Q17119493",
+      "externalIds": {
+        "wikidata": "Q17119493"
+      },
+      "kind": "movie",
+      "title": "Woman Wanted (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by George B. Seitz",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17119493"
+      ]
+    },
+    {
+      "id": "wikidata-Q16993556",
+      "externalIds": {
+        "wikidata": "Q16993556"
+      },
+      "kind": "movie",
+      "title": "Water Babies (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16993556"
+      ]
+    },
+    {
+      "id": "wikidata-Q18379319",
+      "externalIds": {
+        "wikidata": "Q18379319"
+      },
+      "kind": "movie",
+      "title": "Whirlpool of Desire",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 French film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18379319"
+      ]
+    },
+    {
+      "id": "wikidata-Q3558959",
+      "externalIds": {
+        "wikidata": "Q3558959"
+      },
+      "kind": "movie",
+      "title": "Village Tale",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 US film directed by John Cromwell",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3558959"
+      ]
+    },
+    {
+      "id": "wikidata-Q15728077",
+      "externalIds": {
+        "wikidata": "Q15728077"
+      },
+      "kind": "movie",
+      "title": "We're Only Human (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film directed by James Flood",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15728077"
+      ]
+    },
+    {
+      "id": "wikidata-Q18358689",
+      "externalIds": {
+        "wikidata": "Q18358689"
+      },
+      "kind": "movie",
+      "title": "Vengeance Is Mine (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Indian film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18358689"
+      ]
+    },
+    {
+      "id": "wikidata-Q3576915",
+      "externalIds": {
+        "wikidata": "Q3576915"
+      },
+      "kind": "movie",
+      "title": "Way Down East (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Henry King",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3576915"
+      ]
+    },
+    {
+      "id": "wikidata-Q16683288",
+      "externalIds": {
+        "wikidata": "Q16683288"
+      },
+      "kind": "movie",
+      "title": "While the Patient Slept (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Ray Enright",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16683288"
+      ]
+    },
+    {
+      "id": "wikidata-Q19544515",
+      "externalIds": {
+        "wikidata": "Q19544515"
+      },
+      "kind": "movie",
+      "title": "Without Regret (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Harold Young",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19544515"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528229",
+      "externalIds": {
+        "wikidata": "Q21528229"
+      },
+      "kind": "movie",
+      "title": "When a Man's a Man (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Edward F. Cline",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528229"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528221",
+      "externalIds": {
+        "wikidata": "Q21528221"
+      },
+      "kind": "movie",
+      "title": "Welcome Home (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by James Tinling",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528221"
+      ]
+    },
+    {
+      "id": "wikidata-Q30637081",
+      "externalIds": {
+        "wikidata": "Q30637081"
+      },
+      "kind": "movie",
+      "title": "Winter Night's Dream",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Géza von Bolváry",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30637081"
+      ]
+    },
+    {
+      "id": "wikidata-Q48672594",
+      "externalIds": {
+        "wikidata": "Q48672594"
+      },
+      "kind": "movie",
+      "title": "Wanderer of the Wasteland (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "A 1935 film directed by Otho Lovering",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q48672594"
+      ]
+    },
+    {
+      "id": "wikidata-Q50649636",
+      "externalIds": {
+        "wikidata": "Q50649636"
+      },
+      "kind": "movie",
+      "title": "Whispering Smith Speaks",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by David Howard",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q50649636"
+      ]
+    },
+    {
+      "id": "wikidata-Q54020567",
+      "externalIds": {
+        "wikidata": "Q54020567"
+      },
+      "kind": "movie",
+      "title": "What Price Crime",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Albert Herman",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54020567"
+      ]
+    },
+    {
+      "id": "wikidata-Q54020653",
+      "externalIds": {
+        "wikidata": "Q54020653"
+      },
+      "kind": "movie",
+      "title": "Without Children",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by William Nigh",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54020653"
+      ]
+    },
+    {
+      "id": "wikidata-Q54020796",
+      "externalIds": {
+        "wikidata": "Q54020796"
+      },
+      "kind": "movie",
+      "title": "Wolf Riders",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Harry S. Webb",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54020796"
+      ]
+    },
+    {
+      "id": "wikidata-Q23710681",
+      "externalIds": {
+        "wikidata": "Q23710681"
+      },
+      "kind": "movie",
+      "title": "Victoria (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 German film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23710681"
+      ]
+    },
+    {
+      "id": "wikidata-Q20804275",
+      "externalIds": {
+        "wikidata": "Q20804275"
+      },
+      "kind": "movie",
+      "title": "Who's Your Father",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 British film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20804275"
+      ]
+    },
+    {
+      "id": "wikidata-Q20077091",
+      "externalIds": {
+        "wikidata": "Q20077091"
+      },
+      "kind": "movie",
+      "title": "Western Frontier (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Albert Herman",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20077091"
+      ]
+    },
+    {
+      "id": "wikidata-Q18471858",
+      "externalIds": {
+        "wikidata": "Q18471858"
+      },
+      "kind": "movie",
+      "title": "Wild Mustang (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18471858"
+      ]
+    },
+    {
+      "id": "wikidata-Q89018984",
+      "externalIds": {
+        "wikidata": "Q89018984"
+      },
+      "kind": "movie",
+      "title": "Wilderness Mail",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Forrest Sheldon",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q89018984"
+      ]
+    },
+    {
+      "id": "wikidata-Q3554826",
+      "externalIds": {
+        "wikidata": "Q3554826"
+      },
+      "kind": "movie",
+      "title": "Variety (1935 German film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3554826"
+      ]
+    },
+    {
+      "id": "wikidata-Q3555237",
+      "externalIds": {
+        "wikidata": "Q3555237"
+      },
+      "kind": "movie",
+      "title": "Veille d'armes",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film directed by Marcel L'Herbier",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3555237"
+      ]
+    },
+    {
+      "id": "wikidata-Q104008770",
+      "externalIds": {
+        "wikidata": "Q104008770"
+      },
+      "kind": "movie",
+      "title": "Western Courage (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104008770"
+      ]
+    },
+    {
+      "id": "wikidata-Q17223849",
+      "externalIds": {
+        "wikidata": "Q17223849"
+      },
+      "kind": "movie",
+      "title": "Wife! Be Like a Rose!",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 Japanese film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17223849"
+      ]
+    },
+    {
+      "id": "wikidata-Q18471661",
+      "externalIds": {
+        "wikidata": "Q18471661"
+      },
+      "kind": "movie",
+      "title": "Wagon Trail",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18471661"
+      ]
+    },
+    {
+      "id": "wikidata-Q10712156",
+      "externalIds": {
+        "wikidata": "Q10712156"
+      },
+      "kind": "movie",
+      "title": "Walpurgis Night (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q10712156"
+      ]
+    },
+    {
+      "id": "wikidata-Q3228075",
+      "externalIds": {
+        "wikidata": "Q3228075"
+      },
+      "kind": "movie",
+      "title": "Vertigo (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3228075"
+      ]
+    },
+    {
+      "id": "wikidata-Q55600101",
+      "externalIds": {
+        "wikidata": "Q55600101"
+      },
+      "kind": "movie",
+      "title": "Wedding Night (1935 film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55600101"
+      ]
+    },
+    {
+      "id": "wikidata-Q12134947",
+      "externalIds": {
+        "wikidata": "Q12134947"
+      },
+      "kind": "movie",
+      "title": "Wreckless (film)",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 American film",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12134947"
+      ]
+    },
+    {
+      "id": "wikidata-Q8031330",
+      "externalIds": {
+        "wikidata": "Q8031330"
+      },
+      "kind": "movie",
+      "title": "Women Must Dress",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by Reginald Barker",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8031330"
+      ]
+    },
+    {
+      "id": "wikidata-Q4023084",
+      "externalIds": {
+        "wikidata": "Q4023084"
+      },
+      "kind": "movie",
+      "title": "Your Uncle Dudley",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1935 film by James Tinling, Eugene Forde",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4023084"
+      ]
+    },
+    {
+      "id": "wikidata-Q29097971",
+      "externalIds": {
+        "wikidata": "Q29097971"
+      },
+      "kind": "movie",
+      "title": "Youth of the World",
+      "year": 1935,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Film of the 1936 Winter Olympics",
+      "batchId": "wikidata-films-1935-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q29097971"
+      ]
+    }
+  ]
+}

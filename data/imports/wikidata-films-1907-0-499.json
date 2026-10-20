@@ -1,0 +1,1234 @@
+{
+  "id": "wikidata-films-1907-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1907,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q816522",
+      "externalIds": {
+        "wikidata": "Q816522"
+      },
+      "kind": "movie",
+      "title": "Ben Hur (1907 film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 American film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q816522"
+      ]
+    },
+    {
+      "id": "wikidata-Q3203051",
+      "externalIds": {
+        "wikidata": "Q3203051"
+      },
+      "kind": "movie",
+      "title": "L'Enfant prodigue (1907 film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3203051"
+      ]
+    },
+    {
+      "id": "wikidata-Q679179",
+      "externalIds": {
+        "wikidata": "Q679179"
+      },
+      "kind": "movie",
+      "title": "Under the Seas",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q679179"
+      ]
+    },
+    {
+      "id": "wikidata-Q7403726",
+      "externalIds": {
+        "wikidata": "Q7403726"
+      },
+      "kind": "movie",
+      "title": "Salaviinanpolttajat",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Finnish film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7403726"
+      ]
+    },
+    {
+      "id": "wikidata-Q153168",
+      "externalIds": {
+        "wikidata": "Q153168"
+      },
+      "kind": "movie",
+      "title": "Am Sklavenmarkt",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Austro-Hungarian pornographic film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q153168"
+      ]
+    },
+    {
+      "id": "wikidata-Q2225872",
+      "externalIds": {
+        "wikidata": "Q2225872"
+      },
+      "kind": "movie",
+      "title": "Satan s'amuse",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2225872"
+      ]
+    },
+    {
+      "id": "wikidata-Q3992524",
+      "externalIds": {
+        "wikidata": "Q3992524"
+      },
+      "kind": "movie",
+      "title": "Tom Sawyer (1907 film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film produced by Kalem Studios",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3992524"
+      ]
+    },
+    {
+      "id": "wikidata-Q7835295",
+      "externalIds": {
+        "wikidata": "Q7835295"
+      },
+      "kind": "movie",
+      "title": "Transportation of Coal",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Russian film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7835295"
+      ]
+    },
+    {
+      "id": "wikidata-Q7081341",
+      "externalIds": {
+        "wikidata": "Q7081341"
+      },
+      "kind": "movie",
+      "title": "Oil Extraction (film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Azerbaijani film by Vasil Amashukeli",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7081341"
+      ]
+    },
+    {
+      "id": "wikidata-Q7860936",
+      "externalIds": {
+        "wikidata": "Q7860936"
+      },
+      "kind": "movie",
+      "title": "Types of Bakuvian Bazaars",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film by Vasil Amashukeli",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7860936"
+      ]
+    },
+    {
+      "id": "wikidata-Q1140961",
+      "externalIds": {
+        "wikidata": "Q1140961"
+      },
+      "kind": "movie",
+      "title": "The Eclipse, or the Courtship of the Sun and Moon",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1140961"
+      ]
+    },
+    {
+      "id": "wikidata-Q1758461",
+      "externalIds": {
+        "wikidata": "Q1758461"
+      },
+      "kind": "movie",
+      "title": "Løvejagten",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Danish silent film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1758461"
+      ]
+    },
+    {
+      "id": "wikidata-Q2993187",
+      "externalIds": {
+        "wikidata": "Q2993187"
+      },
+      "kind": "movie",
+      "title": "Tunnelling the English Channel",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2993187"
+      ]
+    },
+    {
+      "id": "wikidata-Q2062920",
+      "externalIds": {
+        "wikidata": "Q2062920"
+      },
+      "kind": "movie",
+      "title": "Een Jongmensch...",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Dutch film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2062920"
+      ]
+    },
+    {
+      "id": "wikidata-Q5453727",
+      "externalIds": {
+        "wikidata": "Q5453727"
+      },
+      "kind": "movie",
+      "title": "First Prize for the Cello",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5453727"
+      ]
+    },
+    {
+      "id": "wikidata-Q546713",
+      "externalIds": {
+        "wikidata": "Q546713"
+      },
+      "kind": "movie",
+      "title": "Katsudō Shashin",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 fragment of animated film speculated to be the oldest work of animation in Japan",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q546713"
+      ]
+    },
+    {
+      "id": "wikidata-Q8021352",
+      "externalIds": {
+        "wikidata": "Q8021352"
+      },
+      "kind": "movie",
+      "title": "Willie's Magic Wand",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 British film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8021352"
+      ]
+    },
+    {
+      "id": "wikidata-Q5411237",
+      "externalIds": {
+        "wikidata": "Q5411237"
+      },
+      "kind": "movie",
+      "title": "Eureka Stockade (1907 film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Australian film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5411237"
+      ]
+    },
+    {
+      "id": "wikidata-Q7340830",
+      "externalIds": {
+        "wikidata": "Q7340830"
+      },
+      "kind": "movie",
+      "title": "Robbery Under Arms (1907 MacMahon film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7340830"
+      ]
+    },
+    {
+      "id": "wikidata-Q1757864",
+      "externalIds": {
+        "wikidata": "Q1757864"
+      },
+      "kind": "movie",
+      "title": "Fiskerlivets farer",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Norwegian film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1757864"
+      ]
+    },
+    {
+      "id": "wikidata-Q3602412",
+      "externalIds": {
+        "wikidata": "Q3602412"
+      },
+      "kind": "movie",
+      "title": "A Curious Dream",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 American film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3602412"
+      ]
+    },
+    {
+      "id": "wikidata-Q2409224",
+      "externalIds": {
+        "wikidata": "Q2409224"
+      },
+      "kind": "movie",
+      "title": "Le Cochon Danseur",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 silent French burlesque film by French company Pathé",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2409224"
+      ]
+    },
+    {
+      "id": "wikidata-Q3013770",
+      "externalIds": {
+        "wikidata": "Q3013770"
+      },
+      "kind": "movie",
+      "title": "Daniel Boone (1907 film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 American silent film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3013770"
+      ]
+    },
+    {
+      "id": "wikidata-Q15614017",
+      "externalIds": {
+        "wikidata": "Q15614017"
+      },
+      "kind": "movie",
+      "title": "That Fatal Sneeze",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15614017"
+      ]
+    },
+    {
+      "id": "wikidata-Q16251591",
+      "externalIds": {
+        "wikidata": "Q16251591"
+      },
+      "kind": "movie",
+      "title": "How Brown Saw the Baseball Game",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 silent short film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16251591"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028911",
+      "externalIds": {
+        "wikidata": "Q16028911"
+      },
+      "kind": "movie",
+      "title": "Satan in Prison",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028911"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649664",
+      "externalIds": {
+        "wikidata": "Q20649664"
+      },
+      "kind": "movie",
+      "title": "Robbery Under Arms (1907 Tait film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649664"
+      ]
+    },
+    {
+      "id": "wikidata-Q3126475",
+      "externalIds": {
+        "wikidata": "Q3126475"
+      },
+      "kind": "movie",
+      "title": "Hamlet (1907 film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film by Georges Méliès",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3126475"
+      ]
+    },
+    {
+      "id": "wikidata-Q3210831",
+      "externalIds": {
+        "wikidata": "Q3210831"
+      },
+      "kind": "movie",
+      "title": "Shakespeare Writing \"Julius Caesar\"",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3210831"
+      ]
+    },
+    {
+      "id": "wikidata-Q3224302",
+      "externalIds": {
+        "wikidata": "Q3224302"
+      },
+      "kind": "movie",
+      "title": "How Bridget's Lover Escaped",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3224302"
+      ]
+    },
+    {
+      "id": "wikidata-Q5966079",
+      "externalIds": {
+        "wikidata": "Q5966079"
+      },
+      "kind": "movie",
+      "title": "The House of Ghosts",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5966079"
+      ]
+    },
+    {
+      "id": "wikidata-Q27958327",
+      "externalIds": {
+        "wikidata": "Q27958327"
+      },
+      "kind": "movie",
+      "title": "The Pony Express (1907 film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 American film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27958327"
+      ]
+    },
+    {
+      "id": "wikidata-Q28452491",
+      "externalIds": {
+        "wikidata": "Q28452491"
+      },
+      "kind": "movie",
+      "title": "The Unwritten Law (1907 film)",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28452491"
+      ]
+    },
+    {
+      "id": "wikidata-Q85741411",
+      "externalIds": {
+        "wikidata": "Q85741411"
+      },
+      "kind": "movie",
+      "title": "An Introduction to the Actual Condition of Taiwan",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Japan, Taiwan film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85741411"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987473",
+      "externalIds": {
+        "wikidata": "Q3987473"
+      },
+      "kind": "movie",
+      "title": "The Haunted Hotel",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 American film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987473"
+      ]
+    },
+    {
+      "id": "wikidata-Q96377079",
+      "externalIds": {
+        "wikidata": "Q96377079"
+      },
+      "kind": "movie",
+      "title": "El ciego de la aldea",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Spanish film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q96377079"
+      ]
+    },
+    {
+      "id": "wikidata-Q2836116",
+      "externalIds": {
+        "wikidata": "Q2836116"
+      },
+      "kind": "movie",
+      "title": "Delirium in a Studio",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film by Georges Méliès",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2836116"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028564",
+      "externalIds": {
+        "wikidata": "Q16028564"
+      },
+      "kind": "movie",
+      "title": "The Good Luck of a \"Souse\"",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 film by Georges Méliès",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028564"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028969",
+      "externalIds": {
+        "wikidata": "Q16028969"
+      },
+      "kind": "movie",
+      "title": "The Knight of Black Art",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028969"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028786",
+      "externalIds": {
+        "wikidata": "Q16028786"
+      },
+      "kind": "movie",
+      "title": "Sightseeing Through Whisky",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film by Georges Méliès",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028786"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208363",
+      "externalIds": {
+        "wikidata": "Q3208363"
+      },
+      "kind": "movie",
+      "title": "Rogues' Tricks",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 film by Georges Méliès",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208363"
+      ]
+    },
+    {
+      "id": "wikidata-Q1799257",
+      "externalIds": {
+        "wikidata": "Q1799257"
+      },
+      "kind": "movie",
+      "title": "Good Glue Sticks",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1799257"
+      ]
+    },
+    {
+      "id": "wikidata-Q18577489",
+      "externalIds": {
+        "wikidata": "Q18577489"
+      },
+      "kind": "movie",
+      "title": "The \"Teddy\" Bears",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 American film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18577489"
+      ]
+    },
+    {
+      "id": "wikidata-Q110588888",
+      "externalIds": {
+        "wikidata": "Q110588888"
+      },
+      "kind": "movie",
+      "title": "Children's Reformatory",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French silent short film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q110588888"
+      ]
+    },
+    {
+      "id": "wikidata-Q1116960",
+      "externalIds": {
+        "wikidata": "Q1116960"
+      },
+      "kind": "movie",
+      "title": "The Trainer's Daughter; or, A Race for Love",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 American film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1116960"
+      ]
+    },
+    {
+      "id": "wikidata-Q16265806",
+      "externalIds": {
+        "wikidata": "Q16265806"
+      },
+      "kind": "movie",
+      "title": "College Chums",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 American film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16265806"
+      ]
+    },
+    {
+      "id": "wikidata-Q16654396",
+      "externalIds": {
+        "wikidata": "Q16654396"
+      },
+      "kind": "movie",
+      "title": "Le spectre rouge",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French silent film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16654396"
+      ]
+    },
+    {
+      "id": "wikidata-Q132745849",
+      "externalIds": {
+        "wikidata": "Q132745849"
+      },
+      "kind": "movie",
+      "title": "The Wooing and Wedding of a Coon",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 comedy film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q132745849"
+      ]
+    },
+    {
+      "id": "wikidata-Q133500234",
+      "externalIds": {
+        "wikidata": "Q133500234"
+      },
+      "kind": "movie",
+      "title": "Housework - Women Spinning Wool",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Documentary film of the 1900s",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q133500234"
+      ]
+    },
+    {
+      "id": "wikidata-Q60586352",
+      "externalIds": {
+        "wikidata": "Q60586352"
+      },
+      "kind": "movie",
+      "title": "Fights of Nations",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 comedy film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q60586352"
+      ]
+    },
+    {
+      "id": "wikidata-Q8034610",
+      "externalIds": {
+        "wikidata": "Q8034610"
+      },
+      "kind": "movie",
+      "title": "Work at Oil Derricks",
+      "year": 1907,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 Russian film",
+      "batchId": "wikidata-films-1907-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8034610"
+      ]
+    }
+  ]
+}

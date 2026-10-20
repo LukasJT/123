@@ -1,0 +1,37 @@
+[
+  {
+    "file": "guides/",
+    "title": "Movie and TV Editorial Guides",
+    "description": "Spoiler-light movie and TV recommendation guides organized by viewing intent."
+  },
+  {
+    "file": "guides/movies-like-inception.html",
+    "title": "Movies Like Inception: Dream Worlds, Puzzles, and Heists",
+    "description": "Choose a movie like Inception by the part you enjoyed most: layered reality, puzzle-box structure, emotional science fiction, or a tightly planned heist."
+  },
+  {
+    "file": "guides/movies-like-knives-out.html",
+    "title": "Movies Like Knives Out: Whodunits, Ensembles, and Darker Mysteries",
+    "description": "Find witty ensemble whodunits, clue-driven mysteries, and darker investigations for viewers looking for movies like Knives Out."
+  },
+  {
+    "file": "guides/completed-mystery-miniseries.html",
+    "title": "Completed Mystery Miniseries for a Finished Story",
+    "description": "A spoiler-light starting list of mystery limited series and completed short runs for viewers who want a story with an ending."
+  },
+  {
+    "file": "guides/science-fiction-movies-under-two-hours.html",
+    "title": "Science-Fiction Movies Under Two Hours",
+    "description": "Shorter science-fiction picks organized by tone, from contained thrillers and time loops to animation and action."
+  },
+  {
+    "file": "guides/animated-films-for-adults.html",
+    "title": "Animated Films for Adults: Drama, Science Fiction, and Mature Themes",
+    "description": "Explore animation centered on adult characters, difficult themes, formal experimentation, or mature science fiction."
+  },
+  {
+    "file": "guides/korean-crime-dramas-for-beginners.html",
+    "title": "Korean Crime Dramas for New Viewers",
+    "description": "A beginner's route through Korean crime stories, from procedural mystery and legal drama to darker revenge thrillers."
+  }
+]

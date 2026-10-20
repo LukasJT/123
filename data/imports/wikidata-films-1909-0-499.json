@@ -1,0 +1,3514 @@
+{
+  "id": "wikidata-films-1909-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1909,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q1984935",
+      "externalIds": {
+        "wikidata": "Q1984935"
+      },
+      "kind": "movie",
+      "title": "A Corner in Wheat",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1984935"
+      ]
+    },
+    {
+      "id": "wikidata-Q3602807",
+      "externalIds": {
+        "wikidata": "Q3602807"
+      },
+      "kind": "movie",
+      "title": "A Trap for Santa Claus",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3602807"
+      ]
+    },
+    {
+      "id": "wikidata-Q3602592",
+      "externalIds": {
+        "wikidata": "Q3602592"
+      },
+      "kind": "movie",
+      "title": "A Midsummer Night's Dream (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film directed by Charles Kent and J. Stuart Blackton",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3602592"
+      ]
+    },
+    {
+      "id": "wikidata-Q966746",
+      "externalIds": {
+        "wikidata": "Q966746"
+      },
+      "kind": "movie",
+      "title": "At the Altar",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q966746"
+      ]
+    },
+    {
+      "id": "wikidata-Q3639998",
+      "externalIds": {
+        "wikidata": "Q3639998"
+      },
+      "kind": "movie",
+      "title": "Bill Sharkey's Last Game",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3639998"
+      ]
+    },
+    {
+      "id": "wikidata-Q3235125",
+      "externalIds": {
+        "wikidata": "Q3235125"
+      },
+      "kind": "movie",
+      "title": "A Drunkard's Reformation",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3235125"
+      ]
+    },
+    {
+      "id": "wikidata-Q3747542",
+      "externalIds": {
+        "wikidata": "Q3747542"
+      },
+      "kind": "movie",
+      "title": "Fools of Fate",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3747542"
+      ]
+    },
+    {
+      "id": "wikidata-Q2895276",
+      "externalIds": {
+        "wikidata": "Q2895276"
+      },
+      "kind": "movie",
+      "title": "Ben's Kid",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2895276"
+      ]
+    },
+    {
+      "id": "wikidata-Q3797127",
+      "externalIds": {
+        "wikidata": "Q3797127"
+      },
+      "kind": "movie",
+      "title": "In Little Italy",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3797127"
+      ]
+    },
+    {
+      "id": "wikidata-Q3675403",
+      "externalIds": {
+        "wikidata": "Q3675403"
+      },
+      "kind": "movie",
+      "title": "Choosing a Husband",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3675403"
+      ]
+    },
+    {
+      "id": "wikidata-Q2728495",
+      "externalIds": {
+        "wikidata": "Q2728495"
+      },
+      "kind": "movie",
+      "title": "De Greep",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Dutch film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2728495"
+      ]
+    },
+    {
+      "id": "wikidata-Q2925766",
+      "externalIds": {
+        "wikidata": "Q2925766"
+      },
+      "kind": "movie",
+      "title": "Briton and Boer",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by Francis Boggs",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2925766"
+      ]
+    },
+    {
+      "id": "wikidata-Q3703773",
+      "externalIds": {
+        "wikidata": "Q3703773"
+      },
+      "kind": "movie",
+      "title": "Davy Crockett – In Hearts United",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3703773"
+      ]
+    },
+    {
+      "id": "wikidata-Q16247492",
+      "externalIds": {
+        "wikidata": "Q16247492"
+      },
+      "kind": "movie",
+      "title": "Charmed, I'm Sure",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by Charles K. French",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16247492"
+      ]
+    },
+    {
+      "id": "wikidata-Q925215",
+      "externalIds": {
+        "wikidata": "Q925215"
+      },
+      "kind": "movie",
+      "title": "A Rural Elopement",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q925215"
+      ]
+    },
+    {
+      "id": "wikidata-Q691055",
+      "externalIds": {
+        "wikidata": "Q691055"
+      },
+      "kind": "movie",
+      "title": "Edgar Allen Poe (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q691055"
+      ]
+    },
+    {
+      "id": "wikidata-Q2819970",
+      "externalIds": {
+        "wikidata": "Q2819970"
+      },
+      "kind": "movie",
+      "title": "A Wreath in Time",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2819970"
+      ]
+    },
+    {
+      "id": "wikidata-Q15885473",
+      "externalIds": {
+        "wikidata": "Q15885473"
+      },
+      "kind": "movie",
+      "title": "Jephtah's Daughter: A Biblical Tragedy",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15885473"
+      ]
+    },
+    {
+      "id": "wikidata-Q1857205",
+      "externalIds": {
+        "wikidata": "Q1857205"
+      },
+      "kind": "movie",
+      "title": "His Lost Love",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1857205"
+      ]
+    },
+    {
+      "id": "wikidata-Q1881171",
+      "externalIds": {
+        "wikidata": "Q1881171"
+      },
+      "kind": "movie",
+      "title": "Her First Biscuits",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 silent short film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1881171"
+      ]
+    },
+    {
+      "id": "wikidata-Q2291798",
+      "externalIds": {
+        "wikidata": "Q2291798"
+      },
+      "kind": "movie",
+      "title": "In Old Kentucky (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2291798"
+      ]
+    },
+    {
+      "id": "wikidata-Q2564816",
+      "externalIds": {
+        "wikidata": "Q2564816"
+      },
+      "kind": "movie",
+      "title": "Getting Even (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2564816"
+      ]
+    },
+    {
+      "id": "wikidata-Q3136460",
+      "externalIds": {
+        "wikidata": "Q3136460"
+      },
+      "kind": "movie",
+      "title": "His Ward's Love",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3136460"
+      ]
+    },
+    {
+      "id": "wikidata-Q3136465",
+      "externalIds": {
+        "wikidata": "Q3136465"
+      },
+      "kind": "movie",
+      "title": "His Wife's Mother (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3136465"
+      ]
+    },
+    {
+      "id": "wikidata-Q2819744",
+      "externalIds": {
+        "wikidata": "Q2819744"
+      },
+      "kind": "movie",
+      "title": "A Fool's Revenge",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2819744"
+      ]
+    },
+    {
+      "id": "wikidata-Q3147065",
+      "externalIds": {
+        "wikidata": "Q3147065"
+      },
+      "kind": "movie",
+      "title": "I Did It (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3147065"
+      ]
+    },
+    {
+      "id": "wikidata-Q2846035",
+      "externalIds": {
+        "wikidata": "Q2846035"
+      },
+      "kind": "movie",
+      "title": "And a Little Child Shall Lead Them",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2846035"
+      ]
+    },
+    {
+      "id": "wikidata-Q2819663",
+      "externalIds": {
+        "wikidata": "Q2819663"
+      },
+      "kind": "movie",
+      "title": "A Burglar's Mistake",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2819663"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649578",
+      "externalIds": {
+        "wikidata": "Q20649578"
+      },
+      "kind": "movie",
+      "title": "Heroes of the Cross",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Australian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649578"
+      ]
+    },
+    {
+      "id": "wikidata-Q3637235",
+      "externalIds": {
+        "wikidata": "Q3637235"
+      },
+      "kind": "movie",
+      "title": "Beatrice Cenci (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 silent Italian film by Mario Caserini",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3637235"
+      ]
+    },
+    {
+      "id": "wikidata-Q45233994",
+      "externalIds": {
+        "wikidata": "Q45233994"
+      },
+      "kind": "movie",
+      "title": "A Slave to Drink",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q45233994"
+      ]
+    },
+    {
+      "id": "wikidata-Q4167642",
+      "externalIds": {
+        "wikidata": "Q4167642"
+      },
+      "kind": "movie",
+      "title": "Drama in Moscow",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Russian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4167642"
+      ]
+    },
+    {
+      "id": "wikidata-Q4095474",
+      "externalIds": {
+        "wikidata": "Q4095474"
+      },
+      "kind": "movie",
+      "title": "Boyarin Orsha (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Russian drama film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4095474"
+      ]
+    },
+    {
+      "id": "wikidata-Q4167645",
+      "externalIds": {
+        "wikidata": "Q4167645"
+      },
+      "kind": "movie",
+      "title": "Drama in a Gypsy Camp near Moscow",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Russian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4167645"
+      ]
+    },
+    {
+      "id": "wikidata-Q4310512",
+      "externalIds": {
+        "wikidata": "Q4310512"
+      },
+      "kind": "movie",
+      "title": "Dead Souls (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by Pyotr Chardynin",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4310512"
+      ]
+    },
+    {
+      "id": "wikidata-Q4400544",
+      "externalIds": {
+        "wikidata": "Q4400544"
+      },
+      "kind": "movie",
+      "title": "16th Century Russian Wedding",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4400544"
+      ]
+    },
+    {
+      "id": "wikidata-Q4532208",
+      "externalIds": {
+        "wikidata": "Q4532208"
+      },
+      "kind": "movie",
+      "title": "Dimitri Donskoj (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by Kai Hansen",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4532208"
+      ]
+    },
+    {
+      "id": "wikidata-Q16636453",
+      "externalIds": {
+        "wikidata": "Q16636453"
+      },
+      "kind": "movie",
+      "title": "A Florida Feud",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by Sidney Olcott",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16636453"
+      ]
+    },
+    {
+      "id": "wikidata-Q60738374",
+      "externalIds": {
+        "wikidata": "Q60738374"
+      },
+      "kind": "movie",
+      "title": "A Poor Wife's Devotion",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by Sidney Olcott",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q60738374"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028461",
+      "externalIds": {
+        "wikidata": "Q16028461"
+      },
+      "kind": "movie",
+      "title": "For the Cause of Suffrage",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028461"
+      ]
+    },
+    {
+      "id": "wikidata-Q3683971",
+      "externalIds": {
+        "wikidata": "Q3683971"
+      },
+      "kind": "movie",
+      "title": "Comata, the Sioux",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3683971"
+      ]
+    },
+    {
+      "id": "wikidata-Q15973261",
+      "externalIds": {
+        "wikidata": "Q15973261"
+      },
+      "kind": "movie",
+      "title": "King of the Mediums",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1910 film by Georges Méliès",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15973261"
+      ]
+    },
+    {
+      "id": "wikidata-Q107481411",
+      "externalIds": {
+        "wikidata": "Q107481411"
+      },
+      "kind": "movie",
+      "title": "A Trip to Tuskegee",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q107481411"
+      ]
+    },
+    {
+      "id": "wikidata-Q548833",
+      "externalIds": {
+        "wikidata": "Q548833"
+      },
+      "kind": "movie",
+      "title": "A Sound Sleeper",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q548833"
+      ]
+    },
+    {
+      "id": "wikidata-Q2819882",
+      "externalIds": {
+        "wikidata": "Q2819882"
+      },
+      "kind": "movie",
+      "title": "A Rude Hostess",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2819882"
+      ]
+    },
+    {
+      "id": "wikidata-Q3183556",
+      "externalIds": {
+        "wikidata": "Q3183556"
+      },
+      "kind": "movie",
+      "title": "Jones and His New Neighbors",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3183556"
+      ]
+    },
+    {
+      "id": "wikidata-Q3809974",
+      "externalIds": {
+        "wikidata": "Q3809974"
+      },
+      "kind": "movie",
+      "title": "Jones and the Lady Book Agent",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 comedy film by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3809974"
+      ]
+    },
+    {
+      "id": "wikidata-Q3602624",
+      "externalIds": {
+        "wikidata": "Q3602624"
+      },
+      "kind": "movie",
+      "title": "A New Trick",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3602624"
+      ]
+    },
+    {
+      "id": "wikidata-Q3785449",
+      "externalIds": {
+        "wikidata": "Q3785449"
+      },
+      "kind": "movie",
+      "title": "Hiawatha (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American silent short film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3785449"
+      ]
+    },
+    {
+      "id": "wikidata-Q3149749",
+      "externalIds": {
+        "wikidata": "Q3149749"
+      },
+      "kind": "movie",
+      "title": "In the Sultan's Power",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American silent film directed by Francis Boggs",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3149749"
+      ]
+    },
+    {
+      "id": "wikidata-Q3921962",
+      "externalIds": {
+        "wikidata": "Q3921962"
+      },
+      "kind": "movie",
+      "title": "Princess Nicotine; or, The Smoke Fairy",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3921962"
+      ]
+    },
+    {
+      "id": "wikidata-Q1985289",
+      "externalIds": {
+        "wikidata": "Q1985289"
+      },
+      "kind": "movie",
+      "title": "Lady Helen's Escapade",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1985289"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986553",
+      "externalIds": {
+        "wikidata": "Q3986553"
+      },
+      "kind": "movie",
+      "title": "The Death Disc: A Story of the Cromwellian Period",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986553"
+      ]
+    },
+    {
+      "id": "wikidata-Q2082264",
+      "externalIds": {
+        "wikidata": "Q2082264"
+      },
+      "kind": "movie",
+      "title": "The Cowboy Millionaire (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2082264"
+      ]
+    },
+    {
+      "id": "wikidata-Q3933553",
+      "externalIds": {
+        "wikidata": "Q3933553"
+      },
+      "kind": "movie",
+      "title": "Resurrection (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3933553"
+      ]
+    },
+    {
+      "id": "wikidata-Q2102194",
+      "externalIds": {
+        "wikidata": "Q2102194"
+      },
+      "kind": "movie",
+      "title": "The Country Doctor (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2102194"
+      ]
+    },
+    {
+      "id": "wikidata-Q1983212",
+      "externalIds": {
+        "wikidata": "Q1983212"
+      },
+      "kind": "movie",
+      "title": "The Curtain Pole",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1983212"
+      ]
+    },
+    {
+      "id": "wikidata-Q151629",
+      "externalIds": {
+        "wikidata": "Q151629"
+      },
+      "kind": "movie",
+      "title": "Mr. Flip",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 comedy film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q151629"
+      ]
+    },
+    {
+      "id": "wikidata-Q6929795",
+      "externalIds": {
+        "wikidata": "Q6929795"
+      },
+      "kind": "movie",
+      "title": "Mrs. Jones' Birthday",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6929795"
+      ]
+    },
+    {
+      "id": "wikidata-Q6739600",
+      "externalIds": {
+        "wikidata": "Q6739600"
+      },
+      "kind": "movie",
+      "title": "Making It Pleasant for Him",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6739600"
+      ]
+    },
+    {
+      "id": "wikidata-Q6722790",
+      "externalIds": {
+        "wikidata": "Q6722790"
+      },
+      "kind": "movie",
+      "title": "Macbeth (1909 French film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 French film directed by André Calmettes",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6722790"
+      ]
+    },
+    {
+      "id": "wikidata-Q6722791",
+      "externalIds": {
+        "wikidata": "Q6722791"
+      },
+      "kind": "movie",
+      "title": "Macbeth (1909 Italian film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Italian film directed by Mario Caserini",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6722791"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986534",
+      "externalIds": {
+        "wikidata": "Q3986534"
+      },
+      "kind": "movie",
+      "title": "The Day After (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986534"
+      ]
+    },
+    {
+      "id": "wikidata-Q3783832",
+      "externalIds": {
+        "wikidata": "Q3783832"
+      },
+      "kind": "movie",
+      "title": "Song About the Merchant Kalashnikov",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Russian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3783832"
+      ]
+    },
+    {
+      "id": "wikidata-Q3655089",
+      "externalIds": {
+        "wikidata": "Q3655089"
+      },
+      "kind": "movie",
+      "title": "Les Misérables (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3655089"
+      ]
+    },
+    {
+      "id": "wikidata-Q4890733",
+      "externalIds": {
+        "wikidata": "Q4890733"
+      },
+      "kind": "movie",
+      "title": "Oliver Twist (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by J. Stuart Blackton",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4890733"
+      ]
+    },
+    {
+      "id": "wikidata-Q3324719",
+      "externalIds": {
+        "wikidata": "Q3324719"
+      },
+      "kind": "movie",
+      "title": "Moscow Clad in Snow",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 silent film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3324719"
+      ]
+    },
+    {
+      "id": "wikidata-Q3879912",
+      "externalIds": {
+        "wikidata": "Q3879912"
+      },
+      "kind": "movie",
+      "title": "Nursing a Viper",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3879912"
+      ]
+    },
+    {
+      "id": "wikidata-Q3449470",
+      "externalIds": {
+        "wikidata": "Q3449470"
+      },
+      "kind": "movie",
+      "title": "The Airship Destroyer",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 British silent film by Walter R. Booth",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3449470"
+      ]
+    },
+    {
+      "id": "wikidata-Q7073249",
+      "externalIds": {
+        "wikidata": "Q7073249"
+      },
+      "kind": "movie",
+      "title": "O Fósforo Eleitoral",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by Antônio Serra",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7073249"
+      ]
+    },
+    {
+      "id": "wikidata-Q3352660",
+      "externalIds": {
+        "wikidata": "Q3352660"
+      },
+      "kind": "movie",
+      "title": "One Touch of Nature (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3352660"
+      ]
+    },
+    {
+      "id": "wikidata-Q3327259",
+      "externalIds": {
+        "wikidata": "Q3327259"
+      },
+      "kind": "movie",
+      "title": "Mrs. Jones Entertains",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3327259"
+      ]
+    },
+    {
+      "id": "wikidata-Q3264157",
+      "externalIds": {
+        "wikidata": "Q3264157"
+      },
+      "kind": "movie",
+      "title": "Love Finds a Way",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3264157"
+      ]
+    },
+    {
+      "id": "wikidata-Q3520451",
+      "externalIds": {
+        "wikidata": "Q3520451"
+      },
+      "kind": "movie",
+      "title": "The Criminal Hypnotist",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3520451"
+      ]
+    },
+    {
+      "id": "wikidata-Q3203424",
+      "externalIds": {
+        "wikidata": "Q3203424"
+      },
+      "kind": "movie",
+      "title": "The Fascinating Mrs. Francis",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3203424"
+      ]
+    },
+    {
+      "id": "wikidata-Q8838253",
+      "externalIds": {
+        "wikidata": "Q8838253"
+      },
+      "kind": "movie",
+      "title": "Mr. Jones Has a Card Party",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8838253"
+      ]
+    },
+    {
+      "id": "wikidata-Q3520396",
+      "externalIds": {
+        "wikidata": "Q3520396"
+      },
+      "kind": "movie",
+      "title": "The Cord of Life (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3520396"
+      ]
+    },
+    {
+      "id": "wikidata-Q3521051",
+      "externalIds": {
+        "wikidata": "Q3521051"
+      },
+      "kind": "movie",
+      "title": "The Girls and Daddy",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3521051"
+      ]
+    },
+    {
+      "id": "wikidata-Q542216",
+      "externalIds": {
+        "wikidata": "Q542216"
+      },
+      "kind": "movie",
+      "title": "The Brahma Diamond",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q542216"
+      ]
+    },
+    {
+      "id": "wikidata-Q3213179",
+      "externalIds": {
+        "wikidata": "Q3213179"
+      },
+      "kind": "movie",
+      "title": "La Tosca (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 French film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3213179"
+      ]
+    },
+    {
+      "id": "wikidata-Q3838995",
+      "externalIds": {
+        "wikidata": "Q3838995"
+      },
+      "kind": "movie",
+      "title": "Lucky Jim (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 silent short film by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3838995"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986454",
+      "externalIds": {
+        "wikidata": "Q3986454"
+      },
+      "kind": "movie",
+      "title": "The Cricket on the Hearth (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986454"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987223",
+      "externalIds": {
+        "wikidata": "Q3987223"
+      },
+      "kind": "movie",
+      "title": "The Gibson Goddess",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987223"
+      ]
+    },
+    {
+      "id": "wikidata-Q3520549",
+      "externalIds": {
+        "wikidata": "Q3520549"
+      },
+      "kind": "movie",
+      "title": "The Deception (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3520549"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028645",
+      "externalIds": {
+        "wikidata": "Q16028645"
+      },
+      "kind": "movie",
+      "title": "The Diabolic Tenant",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 French film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028645"
+      ]
+    },
+    {
+      "id": "wikidata-Q3905519",
+      "externalIds": {
+        "wikidata": "Q3905519"
+      },
+      "kind": "movie",
+      "title": "Pippa Passes (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3905519"
+      ]
+    },
+    {
+      "id": "wikidata-Q39048976",
+      "externalIds": {
+        "wikidata": "Q39048976"
+      },
+      "kind": "movie",
+      "title": "Stealing a Roast Duck",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Hong Kong film by Liang Shaobo",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q39048976"
+      ]
+    },
+    {
+      "id": "wikidata-Q3829295",
+      "externalIds": {
+        "wikidata": "Q3829295"
+      },
+      "kind": "movie",
+      "title": "Leather Stocking",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3829295"
+      ]
+    },
+    {
+      "id": "wikidata-Q4079986",
+      "externalIds": {
+        "wikidata": "Q4079986"
+      },
+      "kind": "movie",
+      "title": "The Fountain of Bakhchisaray (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Russian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4079986"
+      ]
+    },
+    {
+      "id": "wikidata-Q4424381",
+      "externalIds": {
+        "wikidata": "Q4424381"
+      },
+      "kind": "movie",
+      "title": "The Death of Ivan the Terrible (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by Vasily Goncharov",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4424381"
+      ]
+    },
+    {
+      "id": "wikidata-Q4451599",
+      "externalIds": {
+        "wikidata": "Q4451599"
+      },
+      "kind": "movie",
+      "title": "Taras Bulba (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Russian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4451599"
+      ]
+    },
+    {
+      "id": "wikidata-Q19946737",
+      "externalIds": {
+        "wikidata": "Q19946737"
+      },
+      "kind": "movie",
+      "title": "The Girl Spy: An Incident of the Civil War",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by Sidney Olcott",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19946737"
+      ]
+    },
+    {
+      "id": "wikidata-Q1986925",
+      "externalIds": {
+        "wikidata": "Q1986925"
+      },
+      "kind": "movie",
+      "title": "Mazeppa (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1986925"
+      ]
+    },
+    {
+      "id": "wikidata-Q85807176",
+      "externalIds": {
+        "wikidata": "Q85807176"
+      },
+      "kind": "movie",
+      "title": "The Fisherman's Bride",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85807176"
+      ]
+    },
+    {
+      "id": "wikidata-Q3874819",
+      "externalIds": {
+        "wikidata": "Q3874819"
+      },
+      "kind": "movie",
+      "title": "Nero (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by Luigi Maggi",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3874819"
+      ]
+    },
+    {
+      "id": "wikidata-Q3202475",
+      "externalIds": {
+        "wikidata": "Q3202475"
+      },
+      "kind": "movie",
+      "title": "L'Assommoir (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1908 French film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3202475"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028560",
+      "externalIds": {
+        "wikidata": "Q16028560"
+      },
+      "kind": "movie",
+      "title": "The Doctor's Secret (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1910 film by Georges Méliès",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028560"
+      ]
+    },
+    {
+      "id": "wikidata-Q3207949",
+      "externalIds": {
+        "wikidata": "Q3207949"
+      },
+      "kind": "movie",
+      "title": "Schneider's Anti-Noise Crusade",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3207949"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986105",
+      "externalIds": {
+        "wikidata": "Q3986105"
+      },
+      "kind": "movie",
+      "title": "The Bride of Lammermoor (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Lost silent film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986105"
+      ]
+    },
+    {
+      "id": "wikidata-Q123574429",
+      "externalIds": {
+        "wikidata": "Q123574429"
+      },
+      "kind": "movie",
+      "title": "Slippery Jim",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 French silent trick film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q123574429"
+      ]
+    },
+    {
+      "id": "wikidata-Q2441475",
+      "externalIds": {
+        "wikidata": "Q2441475"
+      },
+      "kind": "movie",
+      "title": "The Golden Louis",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2441475"
+      ]
+    },
+    {
+      "id": "wikidata-Q733615",
+      "externalIds": {
+        "wikidata": "Q733615"
+      },
+      "kind": "movie",
+      "title": "The Sealed Room (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q733615"
+      ]
+    },
+    {
+      "id": "wikidata-Q1985551",
+      "externalIds": {
+        "wikidata": "Q1985551"
+      },
+      "kind": "movie",
+      "title": "The Hessian Renegades",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1985551"
+      ]
+    },
+    {
+      "id": "wikidata-Q966923",
+      "externalIds": {
+        "wikidata": "Q966923"
+      },
+      "kind": "movie",
+      "title": "The Lonely Villa",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q966923"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988955",
+      "externalIds": {
+        "wikidata": "Q3988955"
+      },
+      "kind": "movie",
+      "title": "The Red Man's View",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988955"
+      ]
+    },
+    {
+      "id": "wikidata-Q1136736",
+      "externalIds": {
+        "wikidata": "Q1136736"
+      },
+      "kind": "movie",
+      "title": "Those Awful Hats",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1136736"
+      ]
+    },
+    {
+      "id": "wikidata-Q7977684",
+      "externalIds": {
+        "wikidata": "Q7977684"
+      },
+      "kind": "movie",
+      "title": "We Must Do Our Best",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7977684"
+      ]
+    },
+    {
+      "id": "wikidata-Q2390516",
+      "externalIds": {
+        "wikidata": "Q2390516"
+      },
+      "kind": "movie",
+      "title": "To Save Her Soul",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2390516"
+      ]
+    },
+    {
+      "id": "wikidata-Q1747495",
+      "externalIds": {
+        "wikidata": "Q1747495"
+      },
+      "kind": "movie",
+      "title": "Wilbur Wright und seine Flugmaschine",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1747495"
+      ]
+    },
+    {
+      "id": "wikidata-Q7810895",
+      "externalIds": {
+        "wikidata": "Q7810895"
+      },
+      "kind": "movie",
+      "title": "To Demonstrate How Spiders Fly",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by F. Percy Smith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7810895"
+      ]
+    },
+    {
+      "id": "wikidata-Q7752193",
+      "externalIds": {
+        "wikidata": "Q7752193"
+      },
+      "kind": "movie",
+      "title": "The Moonstone (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 silent short film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7752193"
+      ]
+    },
+    {
+      "id": "wikidata-Q3521768",
+      "externalIds": {
+        "wikidata": "Q3521768"
+      },
+      "kind": "movie",
+      "title": "The Maniac Cook",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3521768"
+      ]
+    },
+    {
+      "id": "wikidata-Q3521294",
+      "externalIds": {
+        "wikidata": "Q3521294"
+      },
+      "kind": "movie",
+      "title": "The Honor of Thieves",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3521294"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522582",
+      "externalIds": {
+        "wikidata": "Q3522582"
+      },
+      "kind": "movie",
+      "title": "The Sacrifice (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522582"
+      ]
+    },
+    {
+      "id": "wikidata-Q3525869",
+      "externalIds": {
+        "wikidata": "Q3525869"
+      },
+      "kind": "movie",
+      "title": "Those Boys!",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3525869"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523340",
+      "externalIds": {
+        "wikidata": "Q3523340"
+      },
+      "kind": "movie",
+      "title": "The Welcome Burglar",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523340"
+      ]
+    },
+    {
+      "id": "wikidata-Q3536467",
+      "externalIds": {
+        "wikidata": "Q3536467"
+      },
+      "kind": "movie",
+      "title": "Tragic Love",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3536467"
+      ]
+    },
+    {
+      "id": "wikidata-Q2843993",
+      "externalIds": {
+        "wikidata": "Q2843993"
+      },
+      "kind": "movie",
+      "title": "The Politician's Love Story",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2843993"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988282",
+      "externalIds": {
+        "wikidata": "Q3988282"
+      },
+      "kind": "movie",
+      "title": "The Mended Lute",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988282"
+      ]
+    },
+    {
+      "id": "wikidata-Q20803556",
+      "externalIds": {
+        "wikidata": "Q20803556"
+      },
+      "kind": "movie",
+      "title": "The Yiddisher Boy",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by Siegmund Lubin",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20803556"
+      ]
+    },
+    {
+      "id": "wikidata-Q2219596",
+      "externalIds": {
+        "wikidata": "Q2219596"
+      },
+      "kind": "movie",
+      "title": "The Little Darling",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2219596"
+      ]
+    },
+    {
+      "id": "wikidata-Q3205079",
+      "externalIds": {
+        "wikidata": "Q3205079"
+      },
+      "kind": "movie",
+      "title": "The Voice of the Violin (film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3205079"
+      ]
+    },
+    {
+      "id": "wikidata-Q3521436",
+      "externalIds": {
+        "wikidata": "Q3521436"
+      },
+      "kind": "movie",
+      "title": "The Joneses Have Amateur Theatricals",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3521436"
+      ]
+    },
+    {
+      "id": "wikidata-Q1993201",
+      "externalIds": {
+        "wikidata": "Q1993201"
+      },
+      "kind": "movie",
+      "title": "The Renunciation",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1993201"
+      ]
+    },
+    {
+      "id": "wikidata-Q772069",
+      "externalIds": {
+        "wikidata": "Q772069"
+      },
+      "kind": "movie",
+      "title": "The Hindoo Dagger",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q772069"
+      ]
+    },
+    {
+      "id": "wikidata-Q3203248",
+      "externalIds": {
+        "wikidata": "Q3203248"
+      },
+      "kind": "movie",
+      "title": "The Prussian Spy",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3203248"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523423",
+      "externalIds": {
+        "wikidata": "Q3523423"
+      },
+      "kind": "movie",
+      "title": "The Wooden Leg",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523423"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522553",
+      "externalIds": {
+        "wikidata": "Q3522553"
+      },
+      "kind": "movie",
+      "title": "The Roue's Heart",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522553"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522593",
+      "externalIds": {
+        "wikidata": "Q3522593"
+      },
+      "kind": "movie",
+      "title": "The Salvation Army Lass",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522593"
+      ]
+    },
+    {
+      "id": "wikidata-Q3521706",
+      "externalIds": {
+        "wikidata": "Q3521706"
+      },
+      "kind": "movie",
+      "title": "The Lure of the Gown",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3521706"
+      ]
+    },
+    {
+      "id": "wikidata-Q4001088",
+      "externalIds": {
+        "wikidata": "Q4001088"
+      },
+      "kind": "movie",
+      "title": "Two Memories",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4001088"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649838",
+      "externalIds": {
+        "wikidata": "Q20649838"
+      },
+      "kind": "movie",
+      "title": "The Scottish Covenanters",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Australian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649838"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028565",
+      "externalIds": {
+        "wikidata": "Q16028565"
+      },
+      "kind": "movie",
+      "title": "Whimsical Illusions",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 French film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028565"
+      ]
+    },
+    {
+      "id": "wikidata-Q3225189",
+      "externalIds": {
+        "wikidata": "Q3225189"
+      },
+      "kind": "movie",
+      "title": "The Spider and the Butterfly",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 French film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3225189"
+      ]
+    },
+    {
+      "id": "wikidata-Q4103483",
+      "externalIds": {
+        "wikidata": "Q4103483"
+      },
+      "kind": "movie",
+      "title": "Vanka the Steward",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Russian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4103483"
+      ]
+    },
+    {
+      "id": "wikidata-Q4113585",
+      "externalIds": {
+        "wikidata": "Q4113585"
+      },
+      "kind": "movie",
+      "title": "The Power of Darkness (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Russian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4113585"
+      ]
+    },
+    {
+      "id": "wikidata-Q4110930",
+      "externalIds": {
+        "wikidata": "Q4110930"
+      },
+      "kind": "movie",
+      "title": "Viy (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 Russian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4110930"
+      ]
+    },
+    {
+      "id": "wikidata-Q60738236",
+      "externalIds": {
+        "wikidata": "Q60738236"
+      },
+      "kind": "movie",
+      "title": "The Octoroon (1909 film)",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film by Sidney Olcott",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q60738236"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987999",
+      "externalIds": {
+        "wikidata": "Q3987999"
+      },
+      "kind": "movie",
+      "title": "The Life of Moses",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987999"
+      ]
+    },
+    {
+      "id": "wikidata-Q64768596",
+      "externalIds": {
+        "wikidata": "Q64768596"
+      },
+      "kind": "movie",
+      "title": "The Suffragette's Dream",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Silent comedy film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q64768596"
+      ]
+    },
+    {
+      "id": "wikidata-Q2534299",
+      "externalIds": {
+        "wikidata": "Q2534299"
+      },
+      "kind": "movie",
+      "title": "The Violin Maker of Cremona",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American silent film by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2534299"
+      ]
+    },
+    {
+      "id": "wikidata-Q3541205",
+      "externalIds": {
+        "wikidata": "Q3541205"
+      },
+      "kind": "movie",
+      "title": "Trying to Get Arrested",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 American comedy short film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3541205"
+      ]
+    },
+    {
+      "id": "wikidata-Q657416",
+      "externalIds": {
+        "wikidata": "Q657416"
+      },
+      "kind": "movie",
+      "title": "The Road to the Heart",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q657416"
+      ]
+    },
+    {
+      "id": "wikidata-Q921203",
+      "externalIds": {
+        "wikidata": "Q921203"
+      },
+      "kind": "movie",
+      "title": "The Medicine Bottle",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 film directed by D. W. Griffith",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q921203"
+      ]
+    },
+    {
+      "id": "wikidata-Q4479159",
+      "externalIds": {
+        "wikidata": "Q4479159"
+      },
+      "kind": "movie",
+      "title": "Ukhar Kupets",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1909 silent Russian film",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4479159"
+      ]
+    },
+    {
+      "id": "wikidata-Q131438096",
+      "externalIds": {
+        "wikidata": "Q131438096"
+      },
+      "kind": "movie",
+      "title": "Uncle Tom Wins",
+      "year": 1909,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Short film released in 1909",
+      "batchId": "wikidata-films-1909-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q131438096"
+      ]
+    }
+  ]
+}

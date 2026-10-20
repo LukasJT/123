@@ -1,0 +1,7282 @@
+{
+  "id": "wikidata-films-1915-500-999",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1915,
+  "offset": 500,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q1622001",
+      "externalIds": {
+        "wikidata": "Q1622001"
+      },
+      "kind": "movie",
+      "title": "The Golem (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1622001"
+      ]
+    },
+    {
+      "id": "wikidata-Q7737611",
+      "externalIds": {
+        "wikidata": "Q7737611"
+      },
+      "kind": "movie",
+      "title": "The Gray Nun of Belgium",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7737611"
+      ]
+    },
+    {
+      "id": "wikidata-Q7737899",
+      "externalIds": {
+        "wikidata": "Q7737899"
+      },
+      "kind": "movie",
+      "title": "The Great Question",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7737899"
+      ]
+    },
+    {
+      "id": "wikidata-Q7739005",
+      "externalIds": {
+        "wikidata": "Q7739005"
+      },
+      "kind": "movie",
+      "title": "The Haunted Hat",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7739005"
+      ]
+    },
+    {
+      "id": "wikidata-Q7739191",
+      "externalIds": {
+        "wikidata": "Q7739191"
+      },
+      "kind": "movie",
+      "title": "The Heart of a Bandit",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7739191"
+      ]
+    },
+    {
+      "id": "wikidata-Q7735670",
+      "externalIds": {
+        "wikidata": "Q7735670"
+      },
+      "kind": "movie",
+      "title": "The Gambler's I.O.U.",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7735670"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208893",
+      "externalIds": {
+        "wikidata": "Q3208893"
+      },
+      "kind": "movie",
+      "title": "The Girl of the Golden West (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208893"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987309",
+      "externalIds": {
+        "wikidata": "Q3987309"
+      },
+      "kind": "movie",
+      "title": "The Golden Chance",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987309"
+      ]
+    },
+    {
+      "id": "wikidata-Q652527",
+      "externalIds": {
+        "wikidata": "Q652527"
+      },
+      "kind": "movie",
+      "title": "The Highbinders",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q652527"
+      ]
+    },
+    {
+      "id": "wikidata-Q7738306",
+      "externalIds": {
+        "wikidata": "Q7738306"
+      },
+      "kind": "movie",
+      "title": "The Grind (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7738306"
+      ]
+    },
+    {
+      "id": "wikidata-Q7736605",
+      "externalIds": {
+        "wikidata": "Q7736605"
+      },
+      "kind": "movie",
+      "title": "The Girl of the Night",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7736605"
+      ]
+    },
+    {
+      "id": "wikidata-Q7733479",
+      "externalIds": {
+        "wikidata": "Q7733479"
+      },
+      "kind": "movie",
+      "title": "The Fascination of the Fleur de Lis",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7733479"
+      ]
+    },
+    {
+      "id": "wikidata-Q7735643",
+      "externalIds": {
+        "wikidata": "Q7735643"
+      },
+      "kind": "movie",
+      "title": "The Galley Slave (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by J. Gordon Edwards",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7735643"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987128",
+      "externalIds": {
+        "wikidata": "Q3987128"
+      },
+      "kind": "movie",
+      "title": "The Foundling (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Allan Dwan, John B. O'Brien",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987128"
+      ]
+    },
+    {
+      "id": "wikidata-Q7733132",
+      "externalIds": {
+        "wikidata": "Q7733132"
+      },
+      "kind": "movie",
+      "title": "The Fairy and the Waif",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7733132"
+      ]
+    },
+    {
+      "id": "wikidata-Q7739495",
+      "externalIds": {
+        "wikidata": "Q7739495"
+      },
+      "kind": "movie",
+      "title": "The Hero of the Dardanelles",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Australian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7739495"
+      ]
+    },
+    {
+      "id": "wikidata-Q302773",
+      "externalIds": {
+        "wikidata": "Q302773"
+      },
+      "kind": "movie",
+      "title": "The Fatal Woman",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Dutch film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q302773"
+      ]
+    },
+    {
+      "id": "wikidata-Q7739183",
+      "externalIds": {
+        "wikidata": "Q7739183"
+      },
+      "kind": "movie",
+      "title": "The Heart of Sister Ann",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Harold M. Shaw",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7739183"
+      ]
+    },
+    {
+      "id": "wikidata-Q2782407",
+      "externalIds": {
+        "wikidata": "Q2782407"
+      },
+      "kind": "movie",
+      "title": "The Golden Claw",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Reginald Barker",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2782407"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987055",
+      "externalIds": {
+        "wikidata": "Q3987055"
+      },
+      "kind": "movie",
+      "title": "The Firm of Girdlestone (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1916 silent film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987055"
+      ]
+    },
+    {
+      "id": "wikidata-Q7739192",
+      "externalIds": {
+        "wikidata": "Q7739192"
+      },
+      "kind": "movie",
+      "title": "The Heart of a Child",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Harold M. Shaw",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7739192"
+      ]
+    },
+    {
+      "id": "wikidata-Q16250760",
+      "externalIds": {
+        "wikidata": "Q16250760"
+      },
+      "kind": "movie",
+      "title": "The Girl of the Gypsy Camp",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16250760"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987331",
+      "externalIds": {
+        "wikidata": "Q3987331"
+      },
+      "kind": "movie",
+      "title": "The Goose Girl (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Frederick A. Thomson",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987331"
+      ]
+    },
+    {
+      "id": "wikidata-Q7733920",
+      "externalIds": {
+        "wikidata": "Q7733920"
+      },
+      "kind": "movie",
+      "title": "The Final Judgment",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Edwin Carewe",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7733920"
+      ]
+    },
+    {
+      "id": "wikidata-Q18150415",
+      "externalIds": {
+        "wikidata": "Q18150415"
+      },
+      "kind": "movie",
+      "title": "The Great Divide (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 silent film drama directed by Edgar Lewis",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18150415"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987027",
+      "externalIds": {
+        "wikidata": "Q3987027"
+      },
+      "kind": "movie",
+      "title": "The Fighting Hope",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by George Melford",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987027"
+      ]
+    },
+    {
+      "id": "wikidata-Q18150008",
+      "externalIds": {
+        "wikidata": "Q18150008"
+      },
+      "kind": "movie",
+      "title": "The Flying Twins",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18150008"
+      ]
+    },
+    {
+      "id": "wikidata-Q3635189",
+      "externalIds": {
+        "wikidata": "Q3635189"
+      },
+      "kind": "movie",
+      "title": "The Heart of Maryland (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Herbert Brenon",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3635189"
+      ]
+    },
+    {
+      "id": "wikidata-Q18708957",
+      "externalIds": {
+        "wikidata": "Q18708957"
+      },
+      "kind": "movie",
+      "title": "The Ghost of Twisted Oaks",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18708957"
+      ]
+    },
+    {
+      "id": "wikidata-Q20081558",
+      "externalIds": {
+        "wikidata": "Q20081558"
+      },
+      "kind": "movie",
+      "title": "The Governor's Lady (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by George Melford",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20081558"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709107",
+      "externalIds": {
+        "wikidata": "Q18709107"
+      },
+      "kind": "movie",
+      "title": "The Heart of Jennifer",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by James Kirkwood",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709107"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709101",
+      "externalIds": {
+        "wikidata": "Q18709101"
+      },
+      "kind": "movie",
+      "title": "The Fatal Card",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by James Kirkwood",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709101"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709103",
+      "externalIds": {
+        "wikidata": "Q18709103"
+      },
+      "kind": "movie",
+      "title": "The Gentleman from Indiana",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film by Frank Lloyd",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709103"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363594",
+      "externalIds": {
+        "wikidata": "Q19363594"
+      },
+      "kind": "movie",
+      "title": "The Famine (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363594"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987406",
+      "externalIds": {
+        "wikidata": "Q3987406"
+      },
+      "kind": "movie",
+      "title": "The Green Cloak",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987406"
+      ]
+    },
+    {
+      "id": "wikidata-Q16614127",
+      "externalIds": {
+        "wikidata": "Q16614127"
+      },
+      "kind": "movie",
+      "title": "The Golden Pavement",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16614127"
+      ]
+    },
+    {
+      "id": "wikidata-Q20656946",
+      "externalIds": {
+        "wikidata": "Q20656946"
+      },
+      "kind": "movie",
+      "title": "The Garden of Lies",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20656946"
+      ]
+    },
+    {
+      "id": "wikidata-Q21055131",
+      "externalIds": {
+        "wikidata": "Q21055131"
+      },
+      "kind": "movie",
+      "title": "The Face in the Moonlight",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21055131"
+      ]
+    },
+    {
+      "id": "wikidata-Q19796554",
+      "externalIds": {
+        "wikidata": "Q19796554"
+      },
+      "kind": "movie",
+      "title": "The False Asta Nielsen",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Urban Gad",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19796554"
+      ]
+    },
+    {
+      "id": "wikidata-Q3986936",
+      "externalIds": {
+        "wikidata": "Q3986936"
+      },
+      "kind": "movie",
+      "title": "The Fable of the Roistering Blades",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 short film by Richard Foster Baker",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3986936"
+      ]
+    },
+    {
+      "id": "wikidata-Q19971237",
+      "externalIds": {
+        "wikidata": "Q19971237"
+      },
+      "kind": "movie",
+      "title": "The Gentleman Without a Residence (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Austrian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19971237"
+      ]
+    },
+    {
+      "id": "wikidata-Q27590221",
+      "externalIds": {
+        "wikidata": "Q27590221"
+      },
+      "kind": "movie",
+      "title": "The Faith of a Child",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27590221"
+      ]
+    },
+    {
+      "id": "wikidata-Q28064534",
+      "externalIds": {
+        "wikidata": "Q28064534"
+      },
+      "kind": "movie",
+      "title": "The Flaming Sword (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28064534"
+      ]
+    },
+    {
+      "id": "wikidata-Q55635206",
+      "externalIds": {
+        "wikidata": "Q55635206"
+      },
+      "kind": "movie",
+      "title": "The Failure (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 silent film directed by Christy Cabanne",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55635206"
+      ]
+    },
+    {
+      "id": "wikidata-Q104879252",
+      "externalIds": {
+        "wikidata": "Q104879252"
+      },
+      "kind": "movie",
+      "title": "The Greater Will",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 silent film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104879252"
+      ]
+    },
+    {
+      "id": "wikidata-Q104830166",
+      "externalIds": {
+        "wikidata": "Q104830166"
+      },
+      "kind": "movie",
+      "title": "The Great Ruby",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Barry O'Neil",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104830166"
+      ]
+    },
+    {
+      "id": "wikidata-Q106468558",
+      "externalIds": {
+        "wikidata": "Q106468558"
+      },
+      "kind": "movie",
+      "title": "The German Side of the War",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Edwin F. Weigle and Joseph Patterson",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q106468558"
+      ]
+    },
+    {
+      "id": "wikidata-Q15121937",
+      "externalIds": {
+        "wikidata": "Q15121937"
+      },
+      "kind": "movie",
+      "title": "The High Road (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15121937"
+      ]
+    },
+    {
+      "id": "wikidata-Q16679599",
+      "externalIds": {
+        "wikidata": "Q16679599"
+      },
+      "kind": "movie",
+      "title": "The Heart of Lincoln",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 silent film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16679599"
+      ]
+    },
+    {
+      "id": "wikidata-Q136408464",
+      "externalIds": {
+        "wikidata": "Q136408464"
+      },
+      "kind": "movie",
+      "title": "The Fight (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q136408464"
+      ]
+    },
+    {
+      "id": "wikidata-Q2022782",
+      "externalIds": {
+        "wikidata": "Q2022782"
+      },
+      "kind": "movie",
+      "title": "The Italian (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American silent feature film directed by Reginald Barker",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2022782"
+      ]
+    },
+    {
+      "id": "wikidata-Q7746671",
+      "externalIds": {
+        "wikidata": "Q7746671"
+      },
+      "kind": "movie",
+      "title": "The Legend Beautiful",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7746671"
+      ]
+    },
+    {
+      "id": "wikidata-Q7746421",
+      "externalIds": {
+        "wikidata": "Q7746421"
+      },
+      "kind": "movie",
+      "title": "The Law of the Wilds",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7746421"
+      ]
+    },
+    {
+      "id": "wikidata-Q7740171",
+      "externalIds": {
+        "wikidata": "Q7740171"
+      },
+      "kind": "movie",
+      "title": "The Honor of the District Attorney",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by B. Reeves Eason",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7740171"
+      ]
+    },
+    {
+      "id": "wikidata-Q7748983",
+      "externalIds": {
+        "wikidata": "Q7748983"
+      },
+      "kind": "movie",
+      "title": "The Love Transcendent",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7748983"
+      ]
+    },
+    {
+      "id": "wikidata-Q7747731",
+      "externalIds": {
+        "wikidata": "Q7747731"
+      },
+      "kind": "movie",
+      "title": "The Little Teacher (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7747731"
+      ]
+    },
+    {
+      "id": "wikidata-Q7741008",
+      "externalIds": {
+        "wikidata": "Q7741008"
+      },
+      "kind": "movie",
+      "title": "The Hungry Actors",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7741008"
+      ]
+    },
+    {
+      "id": "wikidata-Q7748646",
+      "externalIds": {
+        "wikidata": "Q7748646"
+      },
+      "kind": "movie",
+      "title": "The Lost House",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7748646"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988012",
+      "externalIds": {
+        "wikidata": "Q3988012"
+      },
+      "kind": "movie",
+      "title": "The Lily and the Rose",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988012"
+      ]
+    },
+    {
+      "id": "wikidata-Q7747639",
+      "externalIds": {
+        "wikidata": "Q7747639"
+      },
+      "kind": "movie",
+      "title": "The Little Lady Next Door",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7747639"
+      ]
+    },
+    {
+      "id": "wikidata-Q7750064",
+      "externalIds": {
+        "wikidata": "Q7750064"
+      },
+      "kind": "movie",
+      "title": "The Man from Texas (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7750064"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988140",
+      "externalIds": {
+        "wikidata": "Q3988140"
+      },
+      "kind": "movie",
+      "title": "The Lucky Transfer",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988140"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988055",
+      "externalIds": {
+        "wikidata": "Q3988055"
+      },
+      "kind": "movie",
+      "title": "The Living Death (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988055"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988271",
+      "externalIds": {
+        "wikidata": "Q3988271"
+      },
+      "kind": "movie",
+      "title": "The Measure of a Man (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988271"
+      ]
+    },
+    {
+      "id": "wikidata-Q645844",
+      "externalIds": {
+        "wikidata": "Q645844"
+      },
+      "kind": "movie",
+      "title": "The Kreutzer Sonata (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q645844"
+      ]
+    },
+    {
+      "id": "wikidata-Q7741710",
+      "externalIds": {
+        "wikidata": "Q7741710"
+      },
+      "kind": "movie",
+      "title": "The Incorrigible Dukane",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7741710"
+      ]
+    },
+    {
+      "id": "wikidata-Q7747668",
+      "externalIds": {
+        "wikidata": "Q7747668"
+      },
+      "kind": "movie",
+      "title": "The Little Minister (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7747668"
+      ]
+    },
+    {
+      "id": "wikidata-Q7749124",
+      "externalIds": {
+        "wikidata": "Q7749124"
+      },
+      "kind": "movie",
+      "title": "The Loyal Rebel",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Australian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7749124"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987868",
+      "externalIds": {
+        "wikidata": "Q3987868"
+      },
+      "kind": "movie",
+      "title": "The Lamb (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987868"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987663",
+      "externalIds": {
+        "wikidata": "Q3987663"
+      },
+      "kind": "movie",
+      "title": "The Immigrant (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by George Melford",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987663"
+      ]
+    },
+    {
+      "id": "wikidata-Q16995954",
+      "externalIds": {
+        "wikidata": "Q16995954"
+      },
+      "kind": "movie",
+      "title": "The House with Nobody in It",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16995954"
+      ]
+    },
+    {
+      "id": "wikidata-Q18559356",
+      "externalIds": {
+        "wikidata": "Q18559356"
+      },
+      "kind": "movie",
+      "title": "The Melting Pot (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18559356"
+      ]
+    },
+    {
+      "id": "wikidata-Q18708983",
+      "externalIds": {
+        "wikidata": "Q18708983"
+      },
+      "kind": "movie",
+      "title": "The Irish in America",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18708983"
+      ]
+    },
+    {
+      "id": "wikidata-Q17639915",
+      "externalIds": {
+        "wikidata": "Q17639915"
+      },
+      "kind": "movie",
+      "title": "The Love Route",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17639915"
+      ]
+    },
+    {
+      "id": "wikidata-Q18708970",
+      "externalIds": {
+        "wikidata": "Q18708970"
+      },
+      "kind": "movie",
+      "title": "The House of the Lost Court",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Charles Brabin",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18708970"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709114",
+      "externalIds": {
+        "wikidata": "Q18709114"
+      },
+      "kind": "movie",
+      "title": "The Marriage of Kitty",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by George Melford",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709114"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363708",
+      "externalIds": {
+        "wikidata": "Q19363708"
+      },
+      "kind": "movie",
+      "title": "The Majesty of the Law",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American drama silent film directed by Julia Crawford Ivers",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363708"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709115",
+      "externalIds": {
+        "wikidata": "Q18709115"
+      },
+      "kind": "movie",
+      "title": "The Masqueraders (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by James Kirkwood",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709115"
+      ]
+    },
+    {
+      "id": "wikidata-Q19864821",
+      "externalIds": {
+        "wikidata": "Q19864821"
+      },
+      "kind": "movie",
+      "title": "The Menace of the Mute",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19864821"
+      ]
+    },
+    {
+      "id": "wikidata-Q19874423",
+      "externalIds": {
+        "wikidata": "Q19874423"
+      },
+      "kind": "movie",
+      "title": "The House of Fear (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19874423"
+      ]
+    },
+    {
+      "id": "wikidata-Q16614582",
+      "externalIds": {
+        "wikidata": "Q16614582"
+      },
+      "kind": "movie",
+      "title": "The Man Who Stayed at Home (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16614582"
+      ]
+    },
+    {
+      "id": "wikidata-Q3824196",
+      "externalIds": {
+        "wikidata": "Q3824196"
+      },
+      "kind": "movie",
+      "title": "The Lady of the Camellias (1915 Serena film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Gustavo Serena",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3824196"
+      ]
+    },
+    {
+      "id": "wikidata-Q3824197",
+      "externalIds": {
+        "wikidata": "Q3824197"
+      },
+      "kind": "movie",
+      "title": "The Lady of the Camellias (1915 Negroni film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Baldassarre Negroni",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3824197"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028344",
+      "externalIds": {
+        "wikidata": "Q16028344"
+      },
+      "kind": "movie",
+      "title": "The Ivory Snuff Box",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Maurice Tourneur",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028344"
+      ]
+    },
+    {
+      "id": "wikidata-Q3987621",
+      "externalIds": {
+        "wikidata": "Q3987621"
+      },
+      "kind": "movie",
+      "title": "The House of Tears",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Edwin Carewe",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3987621"
+      ]
+    },
+    {
+      "id": "wikidata-Q23755590",
+      "externalIds": {
+        "wikidata": "Q23755590"
+      },
+      "kind": "movie",
+      "title": "The Lure of Drink",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23755590"
+      ]
+    },
+    {
+      "id": "wikidata-Q23755636",
+      "externalIds": {
+        "wikidata": "Q23755636"
+      },
+      "kind": "movie",
+      "title": "The Master of Merripit",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23755636"
+      ]
+    },
+    {
+      "id": "wikidata-Q8847899",
+      "externalIds": {
+        "wikidata": "Q8847899"
+      },
+      "kind": "movie",
+      "title": "The Master Hand",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Arthur Edeson, Harley Knoles",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8847899"
+      ]
+    },
+    {
+      "id": "wikidata-Q29097661",
+      "externalIds": {
+        "wikidata": "Q29097661"
+      },
+      "kind": "movie",
+      "title": "The Home Electrical",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by General Electric",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q29097661"
+      ]
+    },
+    {
+      "id": "wikidata-Q21183835",
+      "externalIds": {
+        "wikidata": "Q21183835"
+      },
+      "kind": "movie",
+      "title": "The Little Gypsy",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21183835"
+      ]
+    },
+    {
+      "id": "wikidata-Q56275736",
+      "externalIds": {
+        "wikidata": "Q56275736"
+      },
+      "kind": "movie",
+      "title": "The Man Who Went Out",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56275736"
+      ]
+    },
+    {
+      "id": "wikidata-Q20804246",
+      "externalIds": {
+        "wikidata": "Q20804246"
+      },
+      "kind": "movie",
+      "title": "The Lily of Poverty Flat",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by George E. Middleton",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20804246"
+      ]
+    },
+    {
+      "id": "wikidata-Q21184875",
+      "externalIds": {
+        "wikidata": "Q21184875"
+      },
+      "kind": "movie",
+      "title": "The Juggernaut",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21184875"
+      ]
+    },
+    {
+      "id": "wikidata-Q20804242",
+      "externalIds": {
+        "wikidata": "Q20804242"
+      },
+      "kind": "movie",
+      "title": "The House of a Thousand Candles (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Thomas N. Heffron",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20804242"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988167",
+      "externalIds": {
+        "wikidata": "Q3988167"
+      },
+      "kind": "movie",
+      "title": "The Making Over of Geoffrey Manning",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Harry Davenport",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988167"
+      ]
+    },
+    {
+      "id": "wikidata-Q21183845",
+      "externalIds": {
+        "wikidata": "Q21183845"
+      },
+      "kind": "movie",
+      "title": "The Man Who Couldn't Beat God",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21183845"
+      ]
+    },
+    {
+      "id": "wikidata-Q21184923",
+      "externalIds": {
+        "wikidata": "Q21184923"
+      },
+      "kind": "movie",
+      "title": "The Man Who Could Not Sleep",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by John H. Collins",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21184923"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988254",
+      "externalIds": {
+        "wikidata": "Q3988254"
+      },
+      "kind": "movie",
+      "title": "The Mating (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Lost 1915 silent film by Raymond B. West",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988254"
+      ]
+    },
+    {
+      "id": "wikidata-Q136410929",
+      "externalIds": {
+        "wikidata": "Q136410929"
+      },
+      "kind": "movie",
+      "title": "The MiddleMan (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q136410929"
+      ]
+    },
+    {
+      "id": "wikidata-Q21183827",
+      "externalIds": {
+        "wikidata": "Q21183827"
+      },
+      "kind": "movie",
+      "title": "The Island of Regeneration",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21183827"
+      ]
+    },
+    {
+      "id": "wikidata-Q7754045",
+      "externalIds": {
+        "wikidata": "Q7754045"
+      },
+      "kind": "movie",
+      "title": "The Nigger",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Stage play by Edward Sheldon",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7754045"
+      ]
+    },
+    {
+      "id": "wikidata-Q7756257",
+      "externalIds": {
+        "wikidata": "Q7756257"
+      },
+      "kind": "movie",
+      "title": "The Passing of the Oklahoma Outlaws",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7756257"
+      ]
+    },
+    {
+      "id": "wikidata-Q7760293",
+      "externalIds": {
+        "wikidata": "Q7760293"
+      },
+      "kind": "movie",
+      "title": "The Resolve",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7760293"
+      ]
+    },
+    {
+      "id": "wikidata-Q7760776",
+      "externalIds": {
+        "wikidata": "Q7760776"
+      },
+      "kind": "movie",
+      "title": "The Right to Happiness",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7760776"
+      ]
+    },
+    {
+      "id": "wikidata-Q7759497",
+      "externalIds": {
+        "wikidata": "Q7759497"
+      },
+      "kind": "movie",
+      "title": "The Raven (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film (biography of Edgar Allan Poe) directed by Charles Brabin",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7759497"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988458",
+      "externalIds": {
+        "wikidata": "Q3988458"
+      },
+      "kind": "movie",
+      "title": "The New Adventures of J. Rufus Wallingford",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915–1916 film serial",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988458"
+      ]
+    },
+    {
+      "id": "wikidata-Q7758421",
+      "externalIds": {
+        "wikidata": "Q7758421"
+      },
+      "kind": "movie",
+      "title": "The Prize Baby",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7758421"
+      ]
+    },
+    {
+      "id": "wikidata-Q7751321",
+      "externalIds": {
+        "wikidata": "Q7751321"
+      },
+      "kind": "movie",
+      "title": "The Midnight Prowlers",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "2025 shortfilm",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7751321"
+      ]
+    },
+    {
+      "id": "wikidata-Q7751703",
+      "externalIds": {
+        "wikidata": "Q7751703"
+      },
+      "kind": "movie",
+      "title": "The Miser's Legacy",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7751703"
+      ]
+    },
+    {
+      "id": "wikidata-Q7757577",
+      "externalIds": {
+        "wikidata": "Q7757577"
+      },
+      "kind": "movie",
+      "title": "The Poet of the Peaks",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7757577"
+      ]
+    },
+    {
+      "id": "wikidata-Q7753877",
+      "externalIds": {
+        "wikidata": "Q7753877"
+      },
+      "kind": "movie",
+      "title": "The Newer Way",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7753877"
+      ]
+    },
+    {
+      "id": "wikidata-Q7760800",
+      "externalIds": {
+        "wikidata": "Q7760800"
+      },
+      "kind": "movie",
+      "title": "The Ring of Destiny",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7760800"
+      ]
+    },
+    {
+      "id": "wikidata-Q1749295",
+      "externalIds": {
+        "wikidata": "Q1749295"
+      },
+      "kind": "movie",
+      "title": "The New Exploits of Elaine",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1749295"
+      ]
+    },
+    {
+      "id": "wikidata-Q7388869",
+      "externalIds": {
+        "wikidata": "Q7388869"
+      },
+      "kind": "movie",
+      "title": "The Red Circle (serial)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7388869"
+      ]
+    },
+    {
+      "id": "wikidata-Q7755823",
+      "externalIds": {
+        "wikidata": "Q7755823"
+      },
+      "kind": "movie",
+      "title": "The Oyster Dredger",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7755823"
+      ]
+    },
+    {
+      "id": "wikidata-Q7757158",
+      "externalIds": {
+        "wikidata": "Q7757158"
+      },
+      "kind": "movie",
+      "title": "The Pine's Revenge",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7757158"
+      ]
+    },
+    {
+      "id": "wikidata-Q7751486",
+      "externalIds": {
+        "wikidata": "Q7751486"
+      },
+      "kind": "movie",
+      "title": "The Millionaire Paupers",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7751486"
+      ]
+    },
+    {
+      "id": "wikidata-Q7389898",
+      "externalIds": {
+        "wikidata": "Q7389898"
+      },
+      "kind": "movie",
+      "title": "The Price of Betrayal",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7389898"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988823",
+      "externalIds": {
+        "wikidata": "Q3988823"
+      },
+      "kind": "movie",
+      "title": "The Pretty Sister of Jose (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Allan Dwan",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988823"
+      ]
+    },
+    {
+      "id": "wikidata-Q7759738",
+      "externalIds": {
+        "wikidata": "Q7759738"
+      },
+      "kind": "movie",
+      "title": "The Rebel (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Australian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7759738"
+      ]
+    },
+    {
+      "id": "wikidata-Q7752228",
+      "externalIds": {
+        "wikidata": "Q7752228"
+      },
+      "kind": "movie",
+      "title": "The Morals of Marcus (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7752228"
+      ]
+    },
+    {
+      "id": "wikidata-Q7754733",
+      "externalIds": {
+        "wikidata": "Q7754733"
+      },
+      "kind": "movie",
+      "title": "The Officer's Swordknot",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7754733"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988384",
+      "externalIds": {
+        "wikidata": "Q3988384"
+      },
+      "kind": "movie",
+      "title": "The Moonstone (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Frank Hall Crane",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988384"
+      ]
+    },
+    {
+      "id": "wikidata-Q17044933",
+      "externalIds": {
+        "wikidata": "Q17044933"
+      },
+      "kind": "movie",
+      "title": "The Picture of Dorian Gray (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 short film directed by Eugene Moore",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17044933"
+      ]
+    },
+    {
+      "id": "wikidata-Q16254281",
+      "externalIds": {
+        "wikidata": "Q16254281"
+      },
+      "kind": "movie",
+      "title": "The Prince and the Pauper (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 silent film directed by Edwin Stanton Porter",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16254281"
+      ]
+    },
+    {
+      "id": "wikidata-Q18153110",
+      "externalIds": {
+        "wikidata": "Q18153110"
+      },
+      "kind": "movie",
+      "title": "The Patriot and the Spy",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Jack Harvey",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18153110"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709022",
+      "externalIds": {
+        "wikidata": "Q18709022"
+      },
+      "kind": "movie",
+      "title": "The Moth and the Flame (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Sidney Olcott",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709022"
+      ]
+    },
+    {
+      "id": "wikidata-Q3988883",
+      "externalIds": {
+        "wikidata": "Q3988883"
+      },
+      "kind": "movie",
+      "title": "The Puppet Crown",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by George Melford",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3988883"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709117",
+      "externalIds": {
+        "wikidata": "Q18709117"
+      },
+      "kind": "movie",
+      "title": "The Mummy and the Humming Bird",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by James Durkin",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709117"
+      ]
+    },
+    {
+      "id": "wikidata-Q21056564",
+      "externalIds": {
+        "wikidata": "Q21056564"
+      },
+      "kind": "movie",
+      "title": "The Reform Candidate",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American drama silent film directed by Frank Lloyd",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21056564"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709119",
+      "externalIds": {
+        "wikidata": "Q18709119"
+      },
+      "kind": "movie",
+      "title": "The Old Homestead (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by James Kirkwood",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709119"
+      ]
+    },
+    {
+      "id": "wikidata-Q19866192",
+      "externalIds": {
+        "wikidata": "Q19866192"
+      },
+      "kind": "movie",
+      "title": "The Penitentes",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Jack Conway",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19866192"
+      ]
+    },
+    {
+      "id": "wikidata-Q19843264",
+      "externalIds": {
+        "wikidata": "Q19843264"
+      },
+      "kind": "movie",
+      "title": "The Mystery of a Hansom Cab (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19843264"
+      ]
+    },
+    {
+      "id": "wikidata-Q16614733",
+      "externalIds": {
+        "wikidata": "Q16614733"
+      },
+      "kind": "movie",
+      "title": "The Nightbirds of London",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Frank Wilson",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16614733"
+      ]
+    },
+    {
+      "id": "wikidata-Q4373328",
+      "externalIds": {
+        "wikidata": "Q4373328"
+      },
+      "kind": "movie",
+      "title": "The Picture of Dorian Grey (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Vsevolod Meyerhold",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4373328"
+      ]
+    },
+    {
+      "id": "wikidata-Q20802814",
+      "externalIds": {
+        "wikidata": "Q20802814"
+      },
+      "kind": "movie",
+      "title": "The Mirror (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20802814"
+      ]
+    },
+    {
+      "id": "wikidata-Q15121948",
+      "externalIds": {
+        "wikidata": "Q15121948"
+      },
+      "kind": "movie",
+      "title": "The Right of Way (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15121948"
+      ]
+    },
+    {
+      "id": "wikidata-Q21183881",
+      "externalIds": {
+        "wikidata": "Q21183881"
+      },
+      "kind": "movie",
+      "title": "The Plunderer (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Edgar Lewis",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21183881"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522139",
+      "externalIds": {
+        "wikidata": "Q3522139"
+      },
+      "kind": "movie",
+      "title": "The Outlaw's Revenge",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 silent film directed by Christy Cabanne",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522139"
+      ]
+    },
+    {
+      "id": "wikidata-Q65080908",
+      "externalIds": {
+        "wikidata": "Q65080908"
+      },
+      "kind": "movie",
+      "title": "The Ransom (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65080908"
+      ]
+    },
+    {
+      "id": "wikidata-Q21287561",
+      "externalIds": {
+        "wikidata": "Q21287561"
+      },
+      "kind": "movie",
+      "title": "The Rack (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Emile Chautard",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21287561"
+      ]
+    },
+    {
+      "id": "wikidata-Q65071102",
+      "externalIds": {
+        "wikidata": "Q65071102"
+      },
+      "kind": "movie",
+      "title": "The Prisoner of Zenda (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65071102"
+      ]
+    },
+    {
+      "id": "wikidata-Q4373325",
+      "externalIds": {
+        "wikidata": "Q4373325"
+      },
+      "kind": "movie",
+      "title": "The Portrait (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Russian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4373325"
+      ]
+    },
+    {
+      "id": "wikidata-Q90129329",
+      "externalIds": {
+        "wikidata": "Q90129329"
+      },
+      "kind": "movie",
+      "title": "The Money Master",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q90129329"
+      ]
+    },
+    {
+      "id": "wikidata-Q20804257",
+      "externalIds": {
+        "wikidata": "Q20804257"
+      },
+      "kind": "movie",
+      "title": "The Ringtailed Rhinoceros",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by George Terwilliger",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20804257"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028729",
+      "externalIds": {
+        "wikidata": "Q16028729"
+      },
+      "kind": "movie",
+      "title": "The Mystery of Room 13",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 silent film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028729"
+      ]
+    },
+    {
+      "id": "wikidata-Q104830327",
+      "externalIds": {
+        "wikidata": "Q104830327"
+      },
+      "kind": "movie",
+      "title": "The Rights of Man: A Story of War's Red Blotch",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Jack Pratt",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104830327"
+      ]
+    },
+    {
+      "id": "wikidata-Q118903309",
+      "externalIds": {
+        "wikidata": "Q118903309"
+      },
+      "kind": "movie",
+      "title": "The Reward (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q118903309"
+      ]
+    },
+    {
+      "id": "wikidata-Q137301304",
+      "externalIds": {
+        "wikidata": "Q137301304"
+      },
+      "kind": "movie",
+      "title": "The Primrose Path (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q137301304"
+      ]
+    },
+    {
+      "id": "wikidata-Q141248494",
+      "externalIds": {
+        "wikidata": "Q141248494"
+      },
+      "kind": "movie",
+      "title": "The Price (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 silent American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q141248494"
+      ]
+    },
+    {
+      "id": "wikidata-Q7766192",
+      "externalIds": {
+        "wikidata": "Q7766192"
+      },
+      "kind": "movie",
+      "title": "The Stake",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7766192"
+      ]
+    },
+    {
+      "id": "wikidata-Q7767505",
+      "externalIds": {
+        "wikidata": "Q7767505"
+      },
+      "kind": "movie",
+      "title": "The Supreme Impulse",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7767505"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764339",
+      "externalIds": {
+        "wikidata": "Q7764339"
+      },
+      "kind": "movie",
+      "title": "The Simp and the Sophomores",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764339"
+      ]
+    },
+    {
+      "id": "wikidata-Q7763786",
+      "externalIds": {
+        "wikidata": "Q7763786"
+      },
+      "kind": "movie",
+      "title": "The Sheriff's Dilemma",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7763786"
+      ]
+    },
+    {
+      "id": "wikidata-Q7765908",
+      "externalIds": {
+        "wikidata": "Q7765908"
+      },
+      "kind": "movie",
+      "title": "The Spirit of Adventure",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7765908"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764950",
+      "externalIds": {
+        "wikidata": "Q7764950"
+      },
+      "kind": "movie",
+      "title": "The Smuggler's Cave",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764950"
+      ]
+    },
+    {
+      "id": "wikidata-Q7767159",
+      "externalIds": {
+        "wikidata": "Q7767159"
+      },
+      "kind": "movie",
+      "title": "The Substitute Minister",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7767159"
+      ]
+    },
+    {
+      "id": "wikidata-Q7764292",
+      "externalIds": {
+        "wikidata": "Q7764292"
+      },
+      "kind": "movie",
+      "title": "The Silver Lining (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "The Silver Lining (1915 film) is a 1915 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7764292"
+      ]
+    },
+    {
+      "id": "wikidata-Q7765180",
+      "externalIds": {
+        "wikidata": "Q7765180"
+      },
+      "kind": "movie",
+      "title": "The Solution to the Mystery",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7765180"
+      ]
+    },
+    {
+      "id": "wikidata-Q1754159",
+      "externalIds": {
+        "wikidata": "Q1754159"
+      },
+      "kind": "movie",
+      "title": "The Romance of Elaine",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1754159"
+      ]
+    },
+    {
+      "id": "wikidata-Q3283398",
+      "externalIds": {
+        "wikidata": "Q3283398"
+      },
+      "kind": "movie",
+      "title": "The Secret of the Submarine",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3283398"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989336",
+      "externalIds": {
+        "wikidata": "Q3989336"
+      },
+      "kind": "movie",
+      "title": "The Slave Girl (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989336"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989501",
+      "externalIds": {
+        "wikidata": "Q3989501"
+      },
+      "kind": "movie",
+      "title": "The Story of a Story",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989501"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989418",
+      "externalIds": {
+        "wikidata": "Q3989418"
+      },
+      "kind": "movie",
+      "title": "The Spell of the Poppy",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989418"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989305",
+      "externalIds": {
+        "wikidata": "Q3989305"
+      },
+      "kind": "movie",
+      "title": "The Sin of Olga Brandt",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989305"
+      ]
+    },
+    {
+      "id": "wikidata-Q7766300",
+      "externalIds": {
+        "wikidata": "Q7766300"
+      },
+      "kind": "movie",
+      "title": "The Star of the Sea",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7766300"
+      ]
+    },
+    {
+      "id": "wikidata-Q7768916",
+      "externalIds": {
+        "wikidata": "Q7768916"
+      },
+      "kind": "movie",
+      "title": "The Threads of Fate",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7768916"
+      ]
+    },
+    {
+      "id": "wikidata-Q7766659",
+      "externalIds": {
+        "wikidata": "Q7766659"
+      },
+      "kind": "movie",
+      "title": "The Stool Pigeon (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7766659"
+      ]
+    },
+    {
+      "id": "wikidata-Q3522896",
+      "externalIds": {
+        "wikidata": "Q3522896"
+      },
+      "kind": "movie",
+      "title": "The Stronger Mind",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3522896"
+      ]
+    },
+    {
+      "id": "wikidata-Q716613",
+      "externalIds": {
+        "wikidata": "Q716613"
+      },
+      "kind": "movie",
+      "title": "The Romance of an American Duchess",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q716613"
+      ]
+    },
+    {
+      "id": "wikidata-Q7762656",
+      "externalIds": {
+        "wikidata": "Q7762656"
+      },
+      "kind": "movie",
+      "title": "The Scourge of the Desert",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7762656"
+      ]
+    },
+    {
+      "id": "wikidata-Q7769482",
+      "externalIds": {
+        "wikidata": "Q7769482"
+      },
+      "kind": "movie",
+      "title": "The Toast of Death",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Thomas H. Ince",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7769482"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989214",
+      "externalIds": {
+        "wikidata": "Q3989214"
+      },
+      "kind": "movie",
+      "title": "The Seven Sisters (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Sidney Olcott",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989214"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989258",
+      "externalIds": {
+        "wikidata": "Q3989258"
+      },
+      "kind": "movie",
+      "title": "The Shooting of Dan McGrew (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989258"
+      ]
+    },
+    {
+      "id": "wikidata-Q7767432",
+      "externalIds": {
+        "wikidata": "Q7767432"
+      },
+      "kind": "movie",
+      "title": "The Sunny South or The Whirlwind of Fate",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Australian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7767432"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989518",
+      "externalIds": {
+        "wikidata": "Q3989518"
+      },
+      "kind": "movie",
+      "title": "The Stubbornness of Geraldine",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989518"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989388",
+      "externalIds": {
+        "wikidata": "Q3989388"
+      },
+      "kind": "movie",
+      "title": "The Soul of Broadway",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Herbert Brenon",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989388"
+      ]
+    },
+    {
+      "id": "wikidata-Q7761863",
+      "externalIds": {
+        "wikidata": "Q7761863"
+      },
+      "kind": "movie",
+      "title": "The Running Fight",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by James Durkin",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7761863"
+      ]
+    },
+    {
+      "id": "wikidata-Q7763096",
+      "externalIds": {
+        "wikidata": "Q7763096"
+      },
+      "kind": "movie",
+      "title": "The Secret Sin",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Frank Reicher",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7763096"
+      ]
+    },
+    {
+      "id": "wikidata-Q17141931",
+      "externalIds": {
+        "wikidata": "Q17141931"
+      },
+      "kind": "movie",
+      "title": "The Silent Voice (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by William Bowman",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17141931"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989344",
+      "externalIds": {
+        "wikidata": "Q3989344"
+      },
+      "kind": "movie",
+      "title": "The Slim Princess (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Elisha Helm Calvert",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989344"
+      ]
+    },
+    {
+      "id": "wikidata-Q108524875",
+      "externalIds": {
+        "wikidata": "Q108524875"
+      },
+      "kind": "movie",
+      "title": "The Senator (play)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1890 play by David D. Lloyd and Sydney Rosenfeld, and 1915 film by Joseph A. Golden",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q108524875"
+      ]
+    },
+    {
+      "id": "wikidata-Q18154618",
+      "externalIds": {
+        "wikidata": "Q18154618"
+      },
+      "kind": "movie",
+      "title": "The Stolen Jewels (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18154618"
+      ]
+    },
+    {
+      "id": "wikidata-Q42387690",
+      "externalIds": {
+        "wikidata": "Q42387690"
+      },
+      "kind": "movie",
+      "title": "The Skinflint",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q42387690"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709083",
+      "externalIds": {
+        "wikidata": "Q18709083"
+      },
+      "kind": "movie",
+      "title": "The Taint (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709083"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709131",
+      "externalIds": {
+        "wikidata": "Q18709131"
+      },
+      "kind": "movie",
+      "title": "The Spanish Jade (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709131"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989099",
+      "externalIds": {
+        "wikidata": "Q3989099"
+      },
+      "kind": "movie",
+      "title": "The Rug Maker's Daughter",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Oscar Apfel",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989099"
+      ]
+    },
+    {
+      "id": "wikidata-Q17479196",
+      "externalIds": {
+        "wikidata": "Q17479196"
+      },
+      "kind": "movie",
+      "title": "The Secret Orchard",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Frank Reicher",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17479196"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989206",
+      "externalIds": {
+        "wikidata": "Q3989206"
+      },
+      "kind": "movie",
+      "title": "The Sentimental Lady",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989206"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989420",
+      "externalIds": {
+        "wikidata": "Q3989420"
+      },
+      "kind": "movie",
+      "title": "The Spendthrift (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989420"
+      ]
+    },
+    {
+      "id": "wikidata-Q19599993",
+      "externalIds": {
+        "wikidata": "Q19599993"
+      },
+      "kind": "movie",
+      "title": "The Rogues of London",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Bert Haldane",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19599993"
+      ]
+    },
+    {
+      "id": "wikidata-Q19881370",
+      "externalIds": {
+        "wikidata": "Q19881370"
+      },
+      "kind": "movie",
+      "title": "The Third String (1914 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1914 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19881370"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649938",
+      "externalIds": {
+        "wikidata": "Q20649938"
+      },
+      "kind": "movie",
+      "title": "The Shadow of Her Past",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Italian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649938"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649867",
+      "externalIds": {
+        "wikidata": "Q20649867"
+      },
+      "kind": "movie",
+      "title": "The Second in Command",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by William Bowman",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649867"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528141",
+      "externalIds": {
+        "wikidata": "Q21528141"
+      },
+      "kind": "movie",
+      "title": "The Shulamite (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528141"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989434",
+      "externalIds": {
+        "wikidata": "Q3989434"
+      },
+      "kind": "movie",
+      "title": "The Sporting Duchess (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989434"
+      ]
+    },
+    {
+      "id": "wikidata-Q65056738",
+      "externalIds": {
+        "wikidata": "Q65056738"
+      },
+      "kind": "movie",
+      "title": "The Sable Lorcha",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1912 novel by Horace Hazeltine",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q65056738"
+      ]
+    },
+    {
+      "id": "wikidata-Q21183926",
+      "externalIds": {
+        "wikidata": "Q21183926"
+      },
+      "kind": "movie",
+      "title": "The Song of Hate",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by J. Gordon Edwards",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21183926"
+      ]
+    },
+    {
+      "id": "wikidata-Q20006015",
+      "externalIds": {
+        "wikidata": "Q20006015"
+      },
+      "kind": "movie",
+      "title": "The Siren's Reign",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20006015"
+      ]
+    },
+    {
+      "id": "wikidata-Q137478300",
+      "externalIds": {
+        "wikidata": "Q137478300"
+      },
+      "kind": "movie",
+      "title": "The Silent Command (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American drama film directed by Robert Z. Leonard",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q137478300"
+      ]
+    },
+    {
+      "id": "wikidata-Q641474",
+      "externalIds": {
+        "wikidata": "Q641474"
+      },
+      "kind": "movie",
+      "title": "The Tramp (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Charlie Chaplin",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q641474"
+      ]
+    },
+    {
+      "id": "wikidata-Q7771673",
+      "externalIds": {
+        "wikidata": "Q7771673"
+      },
+      "kind": "movie",
+      "title": "The Unnecessary Sex",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7771673"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775438",
+      "externalIds": {
+        "wikidata": "Q7775438"
+      },
+      "kind": "movie",
+      "title": "The Wolf of Debt",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Jack Harvey",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775438"
+      ]
+    },
+    {
+      "id": "wikidata-Q7796962",
+      "externalIds": {
+        "wikidata": "Q7796962"
+      },
+      "kind": "movie",
+      "title": "Thou Shalt Not Lie",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7796962"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775034",
+      "externalIds": {
+        "wikidata": "Q7775034"
+      },
+      "kind": "movie",
+      "title": "The Wily Chaperon",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775034"
+      ]
+    },
+    {
+      "id": "wikidata-Q7770951",
+      "externalIds": {
+        "wikidata": "Q7770951"
+      },
+      "kind": "movie",
+      "title": "The Two Sentences",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7770951"
+      ]
+    },
+    {
+      "id": "wikidata-Q7783730",
+      "externalIds": {
+        "wikidata": "Q7783730"
+      },
+      "kind": "movie",
+      "title": "They Looked Alike",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7783730"
+      ]
+    },
+    {
+      "id": "wikidata-Q7770878",
+      "externalIds": {
+        "wikidata": "Q7770878"
+      },
+      "kind": "movie",
+      "title": "The Twin Sister",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7770878"
+      ]
+    },
+    {
+      "id": "wikidata-Q7773838",
+      "externalIds": {
+        "wikidata": "Q7773838"
+      },
+      "kind": "movie",
+      "title": "The Way Out (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7773838"
+      ]
+    },
+    {
+      "id": "wikidata-Q7777836",
+      "externalIds": {
+        "wikidata": "Q7777836"
+      },
+      "kind": "movie",
+      "title": "Their Social Splash",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7777836"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523294",
+      "externalIds": {
+        "wikidata": "Q3523294"
+      },
+      "kind": "movie",
+      "title": "The Warrens of Virginia (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523294"
+      ]
+    },
+    {
+      "id": "wikidata-Q7771270",
+      "externalIds": {
+        "wikidata": "Q7771270"
+      },
+      "kind": "movie",
+      "title": "The Unafraid",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7771270"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523377",
+      "externalIds": {
+        "wikidata": "Q3523377"
+      },
+      "kind": "movie",
+      "title": "The Wild Goose Chase (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523377"
+      ]
+    },
+    {
+      "id": "wikidata-Q7773650",
+      "externalIds": {
+        "wikidata": "Q7773650"
+      },
+      "kind": "movie",
+      "title": "The Wasp (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7773650"
+      ]
+    },
+    {
+      "id": "wikidata-Q3990078",
+      "externalIds": {
+        "wikidata": "Q3990078"
+      },
+      "kind": "movie",
+      "title": "The Woman from Warren's",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3990078"
+      ]
+    },
+    {
+      "id": "wikidata-Q7772762",
+      "externalIds": {
+        "wikidata": "Q7772762"
+      },
+      "kind": "movie",
+      "title": "The Violin Maker",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7772762"
+      ]
+    },
+    {
+      "id": "wikidata-Q7770570",
+      "externalIds": {
+        "wikidata": "Q7770570"
+      },
+      "kind": "movie",
+      "title": "The Trust (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7770570"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989738",
+      "externalIds": {
+        "wikidata": "Q3989738"
+      },
+      "kind": "movie",
+      "title": "The Two Orphans (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989738"
+      ]
+    },
+    {
+      "id": "wikidata-Q2273049",
+      "externalIds": {
+        "wikidata": "Q2273049"
+      },
+      "kind": "movie",
+      "title": "The Wreck in the North Sea",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Dutch film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2273049"
+      ]
+    },
+    {
+      "id": "wikidata-Q3823008",
+      "externalIds": {
+        "wikidata": "Q3823008"
+      },
+      "kind": "movie",
+      "title": "The Wedding March (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Carmine Gallone",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3823008"
+      ]
+    },
+    {
+      "id": "wikidata-Q3990254",
+      "externalIds": {
+        "wikidata": "Q3990254"
+      },
+      "kind": "movie",
+      "title": "There's Good in Everyone",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Maurice Elvey",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3990254"
+      ]
+    },
+    {
+      "id": "wikidata-Q7776268",
+      "externalIds": {
+        "wikidata": "Q7776268"
+      },
+      "kind": "movie",
+      "title": "The Wreck (1913 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Australian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7776268"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775507",
+      "externalIds": {
+        "wikidata": "Q7775507"
+      },
+      "kind": "movie",
+      "title": "The Woman Who Did (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Walter West",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775507"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814879",
+      "externalIds": {
+        "wikidata": "Q20814879"
+      },
+      "kind": "movie",
+      "title": "The Unknown (1915 comedy film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Australian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814879"
+      ]
+    },
+    {
+      "id": "wikidata-Q7774546",
+      "externalIds": {
+        "wikidata": "Q7774546"
+      },
+      "kind": "movie",
+      "title": "The White Pearl (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7774546"
+      ]
+    },
+    {
+      "id": "wikidata-Q7773010",
+      "externalIds": {
+        "wikidata": "Q7773010"
+      },
+      "kind": "movie",
+      "title": "The Voice in the Fog",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by J. P. McGowan",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7773010"
+      ]
+    },
+    {
+      "id": "wikidata-Q15252427",
+      "externalIds": {
+        "wikidata": "Q15252427"
+      },
+      "kind": "movie",
+      "title": "The Yankee Girl",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Jack J. Clark",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15252427"
+      ]
+    },
+    {
+      "id": "wikidata-Q15134928",
+      "externalIds": {
+        "wikidata": "Q15134928"
+      },
+      "kind": "movie",
+      "title": "The Tunnel (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15134928"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155112",
+      "externalIds": {
+        "wikidata": "Q18155112"
+      },
+      "kind": "movie",
+      "title": "Their One Love",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155112"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155428",
+      "externalIds": {
+        "wikidata": "Q18155428"
+      },
+      "kind": "movie",
+      "title": "The Undertow (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155428"
+      ]
+    },
+    {
+      "id": "wikidata-Q13894033",
+      "externalIds": {
+        "wikidata": "Q13894033"
+      },
+      "kind": "movie",
+      "title": "The White Sister (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Fred E. Wright",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q13894033"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989786",
+      "externalIds": {
+        "wikidata": "Q3989786"
+      },
+      "kind": "movie",
+      "title": "The Unknown (1915 drama film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989786"
+      ]
+    },
+    {
+      "id": "wikidata-Q3990067",
+      "externalIds": {
+        "wikidata": "Q3990067"
+      },
+      "kind": "movie",
+      "title": "The Woman (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by George Melford",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3990067"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709137",
+      "externalIds": {
+        "wikidata": "Q18709137"
+      },
+      "kind": "movie",
+      "title": "The Wild Olive",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Oscar Apfel",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709137"
+      ]
+    },
+    {
+      "id": "wikidata-Q1112788",
+      "externalIds": {
+        "wikidata": "Q1112788"
+      },
+      "kind": "movie",
+      "title": "The Woman Next Door (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1112788"
+      ]
+    },
+    {
+      "id": "wikidata-Q19898237",
+      "externalIds": {
+        "wikidata": "Q19898237"
+      },
+      "kind": "movie",
+      "title": "The White Star",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19898237"
+      ]
+    },
+    {
+      "id": "wikidata-Q16615486",
+      "externalIds": {
+        "wikidata": "Q16615486"
+      },
+      "kind": "movie",
+      "title": "The White Hope (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16615486"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528152",
+      "externalIds": {
+        "wikidata": "Q21528152"
+      },
+      "kind": "movie",
+      "title": "The World's Desire (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528152"
+      ]
+    },
+    {
+      "id": "wikidata-Q23755638",
+      "externalIds": {
+        "wikidata": "Q23755638"
+      },
+      "kind": "movie",
+      "title": "The Verdict of the Heart",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23755638"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989819",
+      "externalIds": {
+        "wikidata": "Q3989819"
+      },
+      "kind": "movie",
+      "title": "The Vampire (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Alice Guy-Blaché",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989819"
+      ]
+    },
+    {
+      "id": "wikidata-Q16679988",
+      "externalIds": {
+        "wikidata": "Q16679988"
+      },
+      "kind": "movie",
+      "title": "Three Bad Men and a Girl",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16679988"
+      ]
+    },
+    {
+      "id": "wikidata-Q19896862",
+      "externalIds": {
+        "wikidata": "Q19896862"
+      },
+      "kind": "movie",
+      "title": "The Vice (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Richard Oswald",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19896862"
+      ]
+    },
+    {
+      "id": "wikidata-Q50280830",
+      "externalIds": {
+        "wikidata": "Q50280830"
+      },
+      "kind": "movie",
+      "title": "The Winged Idol",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film directed by Scott Sidney",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q50280830"
+      ]
+    },
+    {
+      "id": "wikidata-Q3990190",
+      "externalIds": {
+        "wikidata": "Q3990190"
+      },
+      "kind": "movie",
+      "title": "Their Quiet Honeymoon",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3990190"
+      ]
+    },
+    {
+      "id": "wikidata-Q85808726",
+      "externalIds": {
+        "wikidata": "Q85808726"
+      },
+      "kind": "movie",
+      "title": "The Valley of Lost Hope",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q85808726"
+      ]
+    },
+    {
+      "id": "wikidata-Q17479345",
+      "externalIds": {
+        "wikidata": "Q17479345"
+      },
+      "kind": "movie",
+      "title": "The Wheels of Justice",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17479345"
+      ]
+    },
+    {
+      "id": "wikidata-Q3989984",
+      "externalIds": {
+        "wikidata": "Q3989984"
+      },
+      "kind": "movie",
+      "title": "The Whirl of Life",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3989984"
+      ]
+    },
+    {
+      "id": "wikidata-Q137394694",
+      "externalIds": {
+        "wikidata": "Q137394694"
+      },
+      "kind": "movie",
+      "title": "The Workman's Overall",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Hungarian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q137394694"
+      ]
+    },
+    {
+      "id": "wikidata-Q21184893",
+      "externalIds": {
+        "wikidata": "Q21184893"
+      },
+      "kind": "movie",
+      "title": "The Unfaithful Wife (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1916 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21184893"
+      ]
+    },
+    {
+      "id": "wikidata-Q21287419",
+      "externalIds": {
+        "wikidata": "Q21287419"
+      },
+      "kind": "movie",
+      "title": "The Woman Who Lied",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21287419"
+      ]
+    },
+    {
+      "id": "wikidata-Q2445896",
+      "externalIds": {
+        "wikidata": "Q2445896"
+      },
+      "kind": "movie",
+      "title": "Work (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Charlie Chaplin",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2445896"
+      ]
+    },
+    {
+      "id": "wikidata-Q8000543",
+      "externalIds": {
+        "wikidata": "Q8000543"
+      },
+      "kind": "movie",
+      "title": "Wild Blood (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8000543"
+      ]
+    },
+    {
+      "id": "wikidata-Q7882684",
+      "externalIds": {
+        "wikidata": "Q7882684"
+      },
+      "kind": "movie",
+      "title": "Uncle's New Blazer",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7882684"
+      ]
+    },
+    {
+      "id": "wikidata-Q7999468",
+      "externalIds": {
+        "wikidata": "Q7999468"
+      },
+      "kind": "movie",
+      "title": "Wife Wanted (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7999468"
+      ]
+    },
+    {
+      "id": "wikidata-Q7992469",
+      "externalIds": {
+        "wikidata": "Q7992469"
+      },
+      "kind": "movie",
+      "title": "When Empty Hearts Are Filled",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7992469"
+      ]
+    },
+    {
+      "id": "wikidata-Q7991141",
+      "externalIds": {
+        "wikidata": "Q7991141"
+      },
+      "kind": "movie",
+      "title": "What He Forgot",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7991141"
+      ]
+    },
+    {
+      "id": "wikidata-Q7997379",
+      "externalIds": {
+        "wikidata": "Q7997379"
+      },
+      "kind": "movie",
+      "title": "Who Stole the Doggies?",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7997379"
+      ]
+    },
+    {
+      "id": "wikidata-Q7991512",
+      "externalIds": {
+        "wikidata": "Q7991512"
+      },
+      "kind": "movie",
+      "title": "What a Cinch",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7991512"
+      ]
+    },
+    {
+      "id": "wikidata-Q7899232",
+      "externalIds": {
+        "wikidata": "Q7899232"
+      },
+      "kind": "movie",
+      "title": "Ups and Downs (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7899232"
+      ]
+    },
+    {
+      "id": "wikidata-Q7848301",
+      "externalIds": {
+        "wikidata": "Q7848301"
+      },
+      "kind": "movie",
+      "title": "Truth Stranger Than Fiction",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7848301"
+      ]
+    },
+    {
+      "id": "wikidata-Q8027589",
+      "externalIds": {
+        "wikidata": "Q8027589"
+      },
+      "kind": "movie",
+      "title": "Wished on Mabel",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8027589"
+      ]
+    },
+    {
+      "id": "wikidata-Q7992675",
+      "externalIds": {
+        "wikidata": "Q7992675"
+      },
+      "kind": "movie",
+      "title": "When Love Took Wings",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7992675"
+      ]
+    },
+    {
+      "id": "wikidata-Q8021800",
+      "externalIds": {
+        "wikidata": "Q8021800"
+      },
+      "kind": "movie",
+      "title": "Willie Runs the Park",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8021800"
+      ]
+    },
+    {
+      "id": "wikidata-Q3991591",
+      "externalIds": {
+        "wikidata": "Q3991591"
+      },
+      "kind": "movie",
+      "title": "Tinkering with Trouble",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3991591"
+      ]
+    },
+    {
+      "id": "wikidata-Q7811045",
+      "externalIds": {
+        "wikidata": "Q7811045"
+      },
+      "kind": "movie",
+      "title": "To Melody a Soul Responds",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7811045"
+      ]
+    },
+    {
+      "id": "wikidata-Q16963980",
+      "externalIds": {
+        "wikidata": "Q16963980"
+      },
+      "kind": "movie",
+      "title": "To Rent Furnished",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16963980"
+      ]
+    },
+    {
+      "id": "wikidata-Q7475950",
+      "externalIds": {
+        "wikidata": "Q7475950"
+      },
+      "kind": "movie",
+      "title": "Under the Crescent",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7475950"
+      ]
+    },
+    {
+      "id": "wikidata-Q7992977",
+      "externalIds": {
+        "wikidata": "Q7992977"
+      },
+      "kind": "movie",
+      "title": "When the Gods Played a Badger Game",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7992977"
+      ]
+    },
+    {
+      "id": "wikidata-Q7993437",
+      "externalIds": {
+        "wikidata": "Q7993437"
+      },
+      "kind": "movie",
+      "title": "Where the Forest Ends",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7993437"
+      ]
+    },
+    {
+      "id": "wikidata-Q17039766",
+      "externalIds": {
+        "wikidata": "Q17039766"
+      },
+      "kind": "movie",
+      "title": "Under a Shadow",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17039766"
+      ]
+    },
+    {
+      "id": "wikidata-Q7882041",
+      "externalIds": {
+        "wikidata": "Q7882041"
+      },
+      "kind": "movie",
+      "title": "Un drame au château d'Acre",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7882041"
+      ]
+    },
+    {
+      "id": "wikidata-Q13422558",
+      "externalIds": {
+        "wikidata": "Q13422558"
+      },
+      "kind": "movie",
+      "title": "Within Our Gates (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Australian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q13422558"
+      ]
+    },
+    {
+      "id": "wikidata-Q8001212",
+      "externalIds": {
+        "wikidata": "Q8001212"
+      },
+      "kind": "movie",
+      "title": "Wildfire (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8001212"
+      ]
+    },
+    {
+      "id": "wikidata-Q7977067",
+      "externalIds": {
+        "wikidata": "Q7977067"
+      },
+      "kind": "movie",
+      "title": "We'll Take Her Children in Amongst Our Own",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Australian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7977067"
+      ]
+    },
+    {
+      "id": "wikidata-Q8003246",
+      "externalIds": {
+        "wikidata": "Q8003246"
+      },
+      "kind": "movie",
+      "title": "Will They Never Come?",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Australian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8003246"
+      ]
+    },
+    {
+      "id": "wikidata-Q7933193",
+      "externalIds": {
+        "wikidata": "Q7933193"
+      },
+      "kind": "movie",
+      "title": "Violet's Dreams",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film series by L. Frank Baum",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7933193"
+      ]
+    },
+    {
+      "id": "wikidata-Q16963727",
+      "externalIds": {
+        "wikidata": "Q16963727"
+      },
+      "kind": "movie",
+      "title": "Tillie's Tomato Surprise",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16963727"
+      ]
+    },
+    {
+      "id": "wikidata-Q3991827",
+      "externalIds": {
+        "wikidata": "Q3991827"
+      },
+      "kind": "movie",
+      "title": "Titanic (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Italian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3991827"
+      ]
+    },
+    {
+      "id": "wikidata-Q18155767",
+      "externalIds": {
+        "wikidata": "Q18155767"
+      },
+      "kind": "movie",
+      "title": "When Fate Rebelled",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18155767"
+      ]
+    },
+    {
+      "id": "wikidata-Q18353843",
+      "externalIds": {
+        "wikidata": "Q18353843"
+      },
+      "kind": "movie",
+      "title": "Tragico convegno",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Italian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18353843"
+      ]
+    },
+    {
+      "id": "wikidata-Q18709150",
+      "externalIds": {
+        "wikidata": "Q18709150"
+      },
+      "kind": "movie",
+      "title": "Vanity Fair (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18709150"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019374",
+      "externalIds": {
+        "wikidata": "Q4019374"
+      },
+      "kind": "movie",
+      "title": "When We Were Twenty-One",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019374"
+      ]
+    },
+    {
+      "id": "wikidata-Q19600082",
+      "externalIds": {
+        "wikidata": "Q19600082"
+      },
+      "kind": "movie",
+      "title": "Tommy Atkins (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19600082"
+      ]
+    },
+    {
+      "id": "wikidata-Q21328811",
+      "externalIds": {
+        "wikidata": "Q21328811"
+      },
+      "kind": "movie",
+      "title": "Under Southern Skies (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Lucius J. Henderson",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21328811"
+      ]
+    },
+    {
+      "id": "wikidata-Q8848002",
+      "externalIds": {
+        "wikidata": "Q8848002"
+      },
+      "kind": "movie",
+      "title": "Trilby (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 silent film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8848002"
+      ]
+    },
+    {
+      "id": "wikidata-Q21647237",
+      "externalIds": {
+        "wikidata": "Q21647237"
+      },
+      "kind": "movie",
+      "title": "Tutyu and Totyo",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Hungarian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21647237"
+      ]
+    },
+    {
+      "id": "wikidata-Q13882271",
+      "externalIds": {
+        "wikidata": "Q13882271"
+      },
+      "kind": "movie",
+      "title": "Two Hearts That Beat as Ten",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 short film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q13882271"
+      ]
+    },
+    {
+      "id": "wikidata-Q25136414",
+      "externalIds": {
+        "wikidata": "Q25136414"
+      },
+      "kind": "movie",
+      "title": "Under the Red Robe (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 British film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25136414"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019259",
+      "externalIds": {
+        "wikidata": "Q4019259"
+      },
+      "kind": "movie",
+      "title": "What Happened to Jones (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019259"
+      ]
+    },
+    {
+      "id": "wikidata-Q60737692",
+      "externalIds": {
+        "wikidata": "Q60737692"
+      },
+      "kind": "movie",
+      "title": "War and Peace (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 Russian film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q60737692"
+      ]
+    },
+    {
+      "id": "wikidata-Q19796457",
+      "externalIds": {
+        "wikidata": "Q19796457"
+      },
+      "kind": "movie",
+      "title": "With Heart and Hand for the Fatherland",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Jacob Fleck and Luise Fleck",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19796457"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019258",
+      "externalIds": {
+        "wikidata": "Q4019258"
+      },
+      "kind": "movie",
+      "title": "What Happened to Father? (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019258"
+      ]
+    },
+    {
+      "id": "wikidata-Q4018137",
+      "externalIds": {
+        "wikidata": "Q4018137"
+      },
+      "kind": "movie",
+      "title": "Wanted: A Leading Lady",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Al Christie",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4018137"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019463",
+      "externalIds": {
+        "wikidata": "Q4019463"
+      },
+      "kind": "movie",
+      "title": "Where the Heather Blooms",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019463"
+      ]
+    },
+    {
+      "id": "wikidata-Q90129198",
+      "externalIds": {
+        "wikidata": "Q90129198"
+      },
+      "kind": "movie",
+      "title": "Who's Who in Society",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q90129198"
+      ]
+    },
+    {
+      "id": "wikidata-Q90129371",
+      "externalIds": {
+        "wikidata": "Q90129371"
+      },
+      "kind": "movie",
+      "title": "Via Wireless",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q90129371"
+      ]
+    },
+    {
+      "id": "wikidata-Q107472603",
+      "externalIds": {
+        "wikidata": "Q107472603"
+      },
+      "kind": "movie",
+      "title": "When True Love Wins",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q107472603"
+      ]
+    },
+    {
+      "id": "wikidata-Q110530701",
+      "externalIds": {
+        "wikidata": "Q110530701"
+      },
+      "kind": "movie",
+      "title": "Two Knights of Vaudeville",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American 1915 short comedy film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q110530701"
+      ]
+    },
+    {
+      "id": "wikidata-Q122707406",
+      "externalIds": {
+        "wikidata": "Q122707406"
+      },
+      "kind": "movie",
+      "title": "Vendetta in a Hospital",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q122707406"
+      ]
+    },
+    {
+      "id": "wikidata-Q138863342",
+      "externalIds": {
+        "wikidata": "Q138863342"
+      },
+      "kind": "movie",
+      "title": "Up from the Depths (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q138863342"
+      ]
+    },
+    {
+      "id": "wikidata-Q8056988",
+      "externalIds": {
+        "wikidata": "Q8056988"
+      },
+      "kind": "movie",
+      "title": "You Can't Always Tell",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American film",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8056988"
+      ]
+    },
+    {
+      "id": "wikidata-Q8058393",
+      "externalIds": {
+        "wikidata": "Q8058393"
+      },
+      "kind": "movie",
+      "title": "Young Romance (film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 American silent romance film directed by George Melford",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8058393"
+      ]
+    },
+    {
+      "id": "wikidata-Q3574960",
+      "externalIds": {
+        "wikidata": "Q3574960"
+      },
+      "kind": "movie",
+      "title": "Zaza (1915 film)",
+      "year": 1915,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1915 film by Edwin Stanton Porter",
+      "batchId": "wikidata-films-1915-500-999",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3574960"
+      ]
+    }
+  ]
+}

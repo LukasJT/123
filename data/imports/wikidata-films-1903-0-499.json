@@ -1,0 +1,1618 @@
+{
+  "id": "wikidata-films-1903-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1903,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q470329",
+      "externalIds": {
+        "wikidata": "Q470329"
+      },
+      "kind": "movie",
+      "title": "The Great Train Robbery (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American western film by Edwin S. Porter",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q470329"
+      ]
+    },
+    {
+      "id": "wikidata-Q1852843",
+      "externalIds": {
+        "wikidata": "Q1852843"
+      },
+      "kind": "movie",
+      "title": "Alice in Wonderland (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "British fanatsy film by Cecil Hepworth",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1852843"
+      ]
+    },
+    {
+      "id": "wikidata-Q1824475",
+      "externalIds": {
+        "wikidata": "Q1824475"
+      },
+      "kind": "movie",
+      "title": "Life of an American Fireman",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 American film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1824475"
+      ]
+    },
+    {
+      "id": "wikidata-Q1325978",
+      "externalIds": {
+        "wikidata": "Q1325978"
+      },
+      "kind": "movie",
+      "title": "Electrocuting an Elephant",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1325978"
+      ]
+    },
+    {
+      "id": "wikidata-Q1319849",
+      "externalIds": {
+        "wikidata": "Q1319849"
+      },
+      "kind": "movie",
+      "title": "The Infernal Cauldron",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1319849"
+      ]
+    },
+    {
+      "id": "wikidata-Q3006411",
+      "externalIds": {
+        "wikidata": "Q3006411"
+      },
+      "kind": "movie",
+      "title": "The Inn Where No Man Rests",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3006411"
+      ]
+    },
+    {
+      "id": "wikidata-Q153862",
+      "externalIds": {
+        "wikidata": "Q153862"
+      },
+      "kind": "movie",
+      "title": "Capital Execution",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 Danish film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q153862"
+      ]
+    },
+    {
+      "id": "wikidata-Q1995323",
+      "externalIds": {
+        "wikidata": "Q1995323"
+      },
+      "kind": "movie",
+      "title": "The Kingdom of the Fairies",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1995323"
+      ]
+    },
+    {
+      "id": "wikidata-Q1347352",
+      "externalIds": {
+        "wikidata": "Q1347352"
+      },
+      "kind": "movie",
+      "title": "Runaway Match",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 British film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1347352"
+      ]
+    },
+    {
+      "id": "wikidata-Q3850478",
+      "externalIds": {
+        "wikidata": "Q3850478"
+      },
+      "kind": "movie",
+      "title": "Mary Jane's Mishap",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 British film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3850478"
+      ]
+    },
+    {
+      "id": "wikidata-Q1951129",
+      "externalIds": {
+        "wikidata": "Q1951129"
+      },
+      "kind": "movie",
+      "title": "Move On (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 American film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1951129"
+      ]
+    },
+    {
+      "id": "wikidata-Q5264946",
+      "externalIds": {
+        "wikidata": "Q5264946"
+      },
+      "kind": "movie",
+      "title": "Desperate Poaching Affray",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 British film by William Haggar",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5264946"
+      ]
+    },
+    {
+      "id": "wikidata-Q3788623",
+      "externalIds": {
+        "wikidata": "Q3788623"
+      },
+      "kind": "movie",
+      "title": "An Extraordinary Cab Accident",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 British film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3788623"
+      ]
+    },
+    {
+      "id": "wikidata-Q7722292",
+      "externalIds": {
+        "wikidata": "Q7722292"
+      },
+      "kind": "movie",
+      "title": "The Cheese Mites",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 British film by F. Martin Duncan",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7722292"
+      ]
+    },
+    {
+      "id": "wikidata-Q3608966",
+      "externalIds": {
+        "wikidata": "Q3608966"
+      },
+      "kind": "movie",
+      "title": "A Chess Dispute",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 British film by Robert W. Paul",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3608966"
+      ]
+    },
+    {
+      "id": "wikidata-Q2071362",
+      "externalIds": {
+        "wikidata": "Q2071362"
+      },
+      "kind": "movie",
+      "title": "Rip Van Winkle (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1896 American film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2071362"
+      ]
+    },
+    {
+      "id": "enwiki-34341479",
+      "externalIds": {
+        "enwiki": 34341479
+      },
+      "kind": "movie",
+      "title": "Rip's Toast",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Rip's Toast is a 1903 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://en.wikipedia.org/?curid=34341479"
+      ]
+    },
+    {
+      "id": "enwiki-34341482",
+      "externalIds": {
+        "enwiki": 34341482
+      },
+      "kind": "movie",
+      "title": "Rip Meets the Dwarf",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Rip Meets the Dwarf is a 1903 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://en.wikipedia.org/?curid=34341482"
+      ]
+    },
+    {
+      "id": "enwiki-34341485",
+      "externalIds": {
+        "enwiki": 34341485
+      },
+      "kind": "movie",
+      "title": "Rip and the Dwarf",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Rip and the Dwarf is a 1903 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://en.wikipedia.org/?curid=34341485"
+      ]
+    },
+    {
+      "id": "enwiki-34341488",
+      "externalIds": {
+        "enwiki": 34341488
+      },
+      "kind": "movie",
+      "title": "Rip Leaving Sleepy Hollow",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Rip Leaving Sleepy Hollow is a 1903 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://en.wikipedia.org/?curid=34341488"
+      ]
+    },
+    {
+      "id": "enwiki-34341492",
+      "externalIds": {
+        "enwiki": 34341492
+      },
+      "kind": "movie",
+      "title": "Rip's Toast to Hudson and Crew",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Rip's Toast to Hudson and Crew is a 1903 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://en.wikipedia.org/?curid=34341492"
+      ]
+    },
+    {
+      "id": "enwiki-34341497",
+      "externalIds": {
+        "enwiki": 34341497
+      },
+      "kind": "movie",
+      "title": "Rip's Twenty Years' Sleep",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Rip's Twenty Years' Sleep is a 1903 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://en.wikipedia.org/?curid=34341497"
+      ]
+    },
+    {
+      "id": "enwiki-34341500",
+      "externalIds": {
+        "enwiki": 34341500
+      },
+      "kind": "movie",
+      "title": "Rip Passing Over Hill",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Rip Passing Over Hill is a 1903 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://en.wikipedia.org/?curid=34341500"
+      ]
+    },
+    {
+      "id": "wikidata-Q17053893",
+      "externalIds": {
+        "wikidata": "Q17053893"
+      },
+      "kind": "movie",
+      "title": "A Message from Mars (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 New Zealand film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17053893"
+      ]
+    },
+    {
+      "id": "wikidata-Q15791288",
+      "externalIds": {
+        "wikidata": "Q15791288"
+      },
+      "kind": "movie",
+      "title": "A Daring Daylight Burglary",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 British film by Frank Mottershaw",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15791288"
+      ]
+    },
+    {
+      "id": "wikidata-Q16988802",
+      "externalIds": {
+        "wikidata": "Q16988802"
+      },
+      "kind": "movie",
+      "title": "Diving Lucy",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 British silent comedy film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16988802"
+      ]
+    },
+    {
+      "id": "wikidata-Q18708941",
+      "externalIds": {
+        "wikidata": "Q18708941"
+      },
+      "kind": "movie",
+      "title": "The Enchanted Well",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18708941"
+      ]
+    },
+    {
+      "id": "wikidata-Q5357220",
+      "externalIds": {
+        "wikidata": "Q5357220"
+      },
+      "kind": "movie",
+      "title": "Momijigari (film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 Japanese film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5357220"
+      ]
+    },
+    {
+      "id": "wikidata-Q21055161",
+      "externalIds": {
+        "wikidata": "Q21055161"
+      },
+      "kind": "movie",
+      "title": "Los héroes del sitio de Zaragoza",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 Spanish film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21055161"
+      ]
+    },
+    {
+      "id": "wikidata-Q21055140",
+      "externalIds": {
+        "wikidata": "Q21055140"
+      },
+      "kind": "movie",
+      "title": "Gulliver en el país de los Gigantes",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 Spanish film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21055140"
+      ]
+    },
+    {
+      "id": "wikidata-Q3067450",
+      "externalIds": {
+        "wikidata": "Q3067450"
+      },
+      "kind": "movie",
+      "title": "The Damnation of Faust (film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3067450"
+      ]
+    },
+    {
+      "id": "wikidata-Q3197535",
+      "externalIds": {
+        "wikidata": "Q3197535"
+      },
+      "kind": "movie",
+      "title": "Kit Carson (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 American film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3197535"
+      ]
+    },
+    {
+      "id": "wikidata-Q3785448",
+      "externalIds": {
+        "wikidata": "Q3785448"
+      },
+      "kind": "movie",
+      "title": "Hiawatha, the Messiah of the Ojibway",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Joe Rosenthal",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3785448"
+      ]
+    },
+    {
+      "id": "wikidata-Q3225824",
+      "externalIds": {
+        "wikidata": "Q3225824"
+      },
+      "kind": "movie",
+      "title": "A Spiritualistic Photographer",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film directed by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3225824"
+      ]
+    },
+    {
+      "id": "wikidata-Q58411638",
+      "externalIds": {
+        "wikidata": "Q58411638"
+      },
+      "kind": "movie",
+      "title": "Rube and Mandy at Coney Island",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 American film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q58411638"
+      ]
+    },
+    {
+      "id": "wikidata-Q3220750",
+      "externalIds": {
+        "wikidata": "Q3220750"
+      },
+      "kind": "movie",
+      "title": "The Infernal Cake Walk",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3220750"
+      ]
+    },
+    {
+      "id": "wikidata-Q3202925",
+      "externalIds": {
+        "wikidata": "Q3202925"
+      },
+      "kind": "movie",
+      "title": "Alcofrisbas, the Master Magician",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3202925"
+      ]
+    },
+    {
+      "id": "wikidata-Q3548791",
+      "externalIds": {
+        "wikidata": "Q3548791"
+      },
+      "kind": "movie",
+      "title": "Misfortune Never Comes Alone",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3548791"
+      ]
+    },
+    {
+      "id": "wikidata-Q3227701",
+      "externalIds": {
+        "wikidata": "Q3227701"
+      },
+      "kind": "movie",
+      "title": "Jupiter's Thunderbolts",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3227701"
+      ]
+    },
+    {
+      "id": "wikidata-Q3212964",
+      "externalIds": {
+        "wikidata": "Q3212964"
+      },
+      "kind": "movie",
+      "title": "The Drawing Lesson",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3212964"
+      ]
+    },
+    {
+      "id": "wikidata-Q2870332",
+      "externalIds": {
+        "wikidata": "Q2870332"
+      },
+      "kind": "movie",
+      "title": "A Moonlight Serenade",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2870332"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226455",
+      "externalIds": {
+        "wikidata": "Q3226455"
+      },
+      "kind": "movie",
+      "title": "The Apparition (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226455"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245145",
+      "externalIds": {
+        "wikidata": "Q101245145"
+      },
+      "kind": "movie",
+      "title": "The Ballet-Master's Dream",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245145"
+      ]
+    },
+    {
+      "id": "wikidata-Q2907720",
+      "externalIds": {
+        "wikidata": "Q2907720"
+      },
+      "kind": "movie",
+      "title": "Bob Kick, the Mischievous Kid",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2907720"
+      ]
+    },
+    {
+      "id": "wikidata-Q3530902",
+      "externalIds": {
+        "wikidata": "Q3530902"
+      },
+      "kind": "movie",
+      "title": "Jack Jaggs and Dum Dum",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3530902"
+      ]
+    },
+    {
+      "id": "wikidata-Q3225213",
+      "externalIds": {
+        "wikidata": "Q3225213"
+      },
+      "kind": "movie",
+      "title": "Ten Ladies in One Umbrella",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3225213"
+      ]
+    },
+    {
+      "id": "wikidata-Q3160367",
+      "externalIds": {
+        "wikidata": "Q3160367"
+      },
+      "kind": "movie",
+      "title": "Jack and Jim",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3160367"
+      ]
+    },
+    {
+      "id": "wikidata-Q3148756",
+      "externalIds": {
+        "wikidata": "Q3148756"
+      },
+      "kind": "movie",
+      "title": "Extraordinary Illusions",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3148756"
+      ]
+    },
+    {
+      "id": "wikidata-Q4166021",
+      "externalIds": {
+        "wikidata": "Q4166021"
+      },
+      "kind": "movie",
+      "title": "Don Quixote (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French silent short film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4166021"
+      ]
+    },
+    {
+      "id": "wikidata-Q4516415",
+      "externalIds": {
+        "wikidata": "Q4516415"
+      },
+      "kind": "movie",
+      "title": "The Gay Shoe Clerk",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4516415"
+      ]
+    },
+    {
+      "id": "wikidata-Q182244",
+      "externalIds": {
+        "wikidata": "Q182244"
+      },
+      "kind": "movie",
+      "title": "Vie et Passion du Christ",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q182244"
+      ]
+    },
+    {
+      "id": "wikidata-Q2281513",
+      "externalIds": {
+        "wikidata": "Q2281513"
+      },
+      "kind": "movie",
+      "title": "The Sick Kitten",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by George Albert Smith",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2281513"
+      ]
+    },
+    {
+      "id": "wikidata-Q617230",
+      "externalIds": {
+        "wikidata": "Q617230"
+      },
+      "kind": "movie",
+      "title": "The Monster (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q617230"
+      ]
+    },
+    {
+      "id": "wikidata-Q3204631",
+      "externalIds": {
+        "wikidata": "Q3204631"
+      },
+      "kind": "movie",
+      "title": "The Oracle of Delphi (film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3204631"
+      ]
+    },
+    {
+      "id": "wikidata-Q3224944",
+      "externalIds": {
+        "wikidata": "Q3224944"
+      },
+      "kind": "movie",
+      "title": "The Melomaniac",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3224944"
+      ]
+    },
+    {
+      "id": "wikidata-Q30598550",
+      "externalIds": {
+        "wikidata": "Q30598550"
+      },
+      "kind": "movie",
+      "title": "The Pioneers (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Wallace McCutcheon, Sr.",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30598550"
+      ]
+    },
+    {
+      "id": "wikidata-Q3209965",
+      "externalIds": {
+        "wikidata": "Q3209965"
+      },
+      "kind": "movie",
+      "title": "The Magic Lantern (film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3209965"
+      ]
+    },
+    {
+      "id": "wikidata-Q3209739",
+      "externalIds": {
+        "wikidata": "Q3209739"
+      },
+      "kind": "movie",
+      "title": "The Marvellous Wreath",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3209739"
+      ]
+    },
+    {
+      "id": "wikidata-Q3206851",
+      "externalIds": {
+        "wikidata": "Q3206851"
+      },
+      "kind": "movie",
+      "title": "The Mysterious Box",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3206851"
+      ]
+    },
+    {
+      "id": "wikidata-Q3208998",
+      "externalIds": {
+        "wikidata": "Q3208998"
+      },
+      "kind": "movie",
+      "title": "The Mystical Flame",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3208998"
+      ]
+    },
+    {
+      "id": "wikidata-Q3227314",
+      "externalIds": {
+        "wikidata": "Q3227314"
+      },
+      "kind": "movie",
+      "title": "The Witch's Revenge",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 film by Georges Méliès",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3227314"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245229",
+      "externalIds": {
+        "wikidata": "Q101245229"
+      },
+      "kind": "movie",
+      "title": "The Terrible Turkish Executioner",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245229"
+      ]
+    },
+    {
+      "id": "wikidata-Q60840578",
+      "externalIds": {
+        "wikidata": "Q60840578"
+      },
+      "kind": "movie",
+      "title": "Uncle Tom's Cabin (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 short film by Edwin S. Porter",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q60840578"
+      ]
+    },
+    {
+      "id": "wikidata-Q12147270",
+      "externalIds": {
+        "wikidata": "Q12147270"
+      },
+      "kind": "movie",
+      "title": "William Tell (1903 film)",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French silent short film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12147270"
+      ]
+    },
+    {
+      "id": "wikidata-Q3234001",
+      "externalIds": {
+        "wikidata": "Q3234001"
+      },
+      "kind": "movie",
+      "title": "The Queen's Musketeers",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3234001"
+      ]
+    },
+    {
+      "id": "wikidata-Q21029293",
+      "externalIds": {
+        "wikidata": "Q21029293"
+      },
+      "kind": "movie",
+      "title": "What Happened in the Tunnel",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 American film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21029293"
+      ]
+    },
+    {
+      "id": "wikidata-Q16643811",
+      "externalIds": {
+        "wikidata": "Q16643811"
+      },
+      "kind": "movie",
+      "title": "Un paseo a Playa Ancha",
+      "year": 1903,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 Chilean film",
+      "batchId": "wikidata-films-1903-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16643811"
+      ]
+    }
+  ]
+}

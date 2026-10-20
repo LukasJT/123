@@ -1,0 +1,1066 @@
+{
+  "id": "wikidata-films-1906-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1906,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q1212945",
+      "externalIds": {
+        "wikidata": "Q1212945"
+      },
+      "kind": "movie",
+      "title": "The Story of the Kelly Gang",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1212945"
+      ]
+    },
+    {
+      "id": "wikidata-Q2496167",
+      "externalIds": {
+        "wikidata": "Q2496167"
+      },
+      "kind": "movie",
+      "title": "Humorous Phases of Funny Faces",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 film by J. Stuart Blackton",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2496167"
+      ]
+    },
+    {
+      "id": "wikidata-Q1057816",
+      "externalIds": {
+        "wikidata": "Q1057816"
+      },
+      "kind": "movie",
+      "title": "Otello (1906 film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 Italian silent film by Mario Caserini",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1057816"
+      ]
+    },
+    {
+      "id": "wikidata-Q6529953",
+      "externalIds": {
+        "wikidata": "Q6529953"
+      },
+      "kind": "movie",
+      "title": "Les Résultats du féminisme",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 film by Alice Guy-Blaché",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q6529953"
+      ]
+    },
+    {
+      "id": "wikidata-Q3985733",
+      "externalIds": {
+        "wikidata": "Q3985733"
+      },
+      "kind": "movie",
+      "title": "The Automobile Thieves",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 American film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3985733"
+      ]
+    },
+    {
+      "id": "wikidata-Q2144481",
+      "externalIds": {
+        "wikidata": "Q2144481"
+      },
+      "kind": "movie",
+      "title": "A Trip Down Market Street",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 American film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2144481"
+      ]
+    },
+    {
+      "id": "wikidata-Q7686821",
+      "externalIds": {
+        "wikidata": "Q7686821"
+      },
+      "kind": "movie",
+      "title": "Tartans of Scottish Clans",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 British film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7686821"
+      ]
+    },
+    {
+      "id": "wikidata-Q5463613",
+      "externalIds": {
+        "wikidata": "Q5463613"
+      },
+      "kind": "movie",
+      "title": "Flying the Foam and Some Fancy Diving",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 British film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5463613"
+      ]
+    },
+    {
+      "id": "wikidata-Q4183379",
+      "externalIds": {
+        "wikidata": "Q4183379"
+      },
+      "kind": "movie",
+      "title": "The '?' Motorist",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 British silent film by Walter R. Booth",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4183379"
+      ]
+    },
+    {
+      "id": "wikidata-Q16995107",
+      "externalIds": {
+        "wikidata": "Q16995107"
+      },
+      "kind": "movie",
+      "title": "Is Spiritualism a Fraud?",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 British film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16995107"
+      ]
+    },
+    {
+      "id": "wikidata-Q7738727",
+      "externalIds": {
+        "wikidata": "Q7738727"
+      },
+      "kind": "movie",
+      "title": "The Hand of the Artist",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 British film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7738727"
+      ]
+    },
+    {
+      "id": "wikidata-Q4515148",
+      "externalIds": {
+        "wikidata": "Q4515148"
+      },
+      "kind": "movie",
+      "title": "The Merry Frolics of Satan",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4515148"
+      ]
+    },
+    {
+      "id": "wikidata-Q1865881",
+      "externalIds": {
+        "wikidata": "Q1865881"
+      },
+      "kind": "movie",
+      "title": "Dream of a Rarebit Fiend (film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 American film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1865881"
+      ]
+    },
+    {
+      "id": "wikidata-Q7960550",
+      "externalIds": {
+        "wikidata": "Q7960550"
+      },
+      "kind": "movie",
+      "title": "Waiting at the Church (1906 film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7960550"
+      ]
+    },
+    {
+      "id": "wikidata-Q16252167",
+      "externalIds": {
+        "wikidata": "Q16252167"
+      },
+      "kind": "movie",
+      "title": "Kathleen Mavourneen (1906 film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 American silent drama film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16252167"
+      ]
+    },
+    {
+      "id": "wikidata-Q2832142",
+      "externalIds": {
+        "wikidata": "Q2832142"
+      },
+      "kind": "movie",
+      "title": "The Mysterious Retort",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2832142"
+      ]
+    },
+    {
+      "id": "wikidata-Q18150119",
+      "externalIds": {
+        "wikidata": "Q18150119"
+      },
+      "kind": "movie",
+      "title": "From Leadville to Aspen: A Hold-Up in the Rockies",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 American film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18150119"
+      ]
+    },
+    {
+      "id": "wikidata-Q3157361",
+      "externalIds": {
+        "wikidata": "Q3157361"
+      },
+      "kind": "movie",
+      "title": "The Chimney Sweep (film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3157361"
+      ]
+    },
+    {
+      "id": "wikidata-Q19599178",
+      "externalIds": {
+        "wikidata": "Q19599178"
+      },
+      "kind": "movie",
+      "title": "San Francisco Earthquake & Fire: April 18, 1906",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "American documentary silent film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19599178"
+      ]
+    },
+    {
+      "id": "wikidata-Q3136616",
+      "externalIds": {
+        "wikidata": "Q3136616"
+      },
+      "kind": "movie",
+      "title": "A Desperate Crime",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3136616"
+      ]
+    },
+    {
+      "id": "wikidata-Q3435798",
+      "externalIds": {
+        "wikidata": "Q3435798"
+      },
+      "kind": "movie",
+      "title": "Robert Macaire and Bertrand",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3435798"
+      ]
+    },
+    {
+      "id": "wikidata-Q3549395",
+      "externalIds": {
+        "wikidata": "Q3549395"
+      },
+      "kind": "movie",
+      "title": "A Mix-up in the Gallery",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3549395"
+      ]
+    },
+    {
+      "id": "wikidata-Q5966079",
+      "externalIds": {
+        "wikidata": "Q5966079"
+      },
+      "kind": "movie",
+      "title": "The House of Ghosts",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1907 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q5966079"
+      ]
+    },
+    {
+      "id": "wikidata-Q3985995",
+      "externalIds": {
+        "wikidata": "Q3985995"
+      },
+      "kind": "movie",
+      "title": "The Black Hand (1906 film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 American film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3985995"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226261",
+      "externalIds": {
+        "wikidata": "Q3226261"
+      },
+      "kind": "movie",
+      "title": "A Seaside Flirtation",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226261"
+      ]
+    },
+    {
+      "id": "wikidata-Q3201959",
+      "externalIds": {
+        "wikidata": "Q3201959"
+      },
+      "kind": "movie",
+      "title": "Punch and Judy (film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French silent comedy film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3201959"
+      ]
+    },
+    {
+      "id": "wikidata-Q26834032",
+      "externalIds": {
+        "wikidata": "Q26834032"
+      },
+      "kind": "movie",
+      "title": "The Female Highwayman",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q26834032"
+      ]
+    },
+    {
+      "id": "wikidata-Q3209303",
+      "externalIds": {
+        "wikidata": "Q3209303"
+      },
+      "kind": "movie",
+      "title": "The Witch (1906 film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3209303"
+      ]
+    },
+    {
+      "id": "wikidata-Q3230395",
+      "externalIds": {
+        "wikidata": "Q3230395"
+      },
+      "kind": "movie",
+      "title": "The Hilarious Posters",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 film by Georges Méliès",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3230395"
+      ]
+    },
+    {
+      "id": "wikidata-Q3231191",
+      "externalIds": {
+        "wikidata": "Q3231191"
+      },
+      "kind": "movie",
+      "title": "Soap Bubbles (film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 film by Georges Méliès",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3231191"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245060",
+      "externalIds": {
+        "wikidata": "Q101245060"
+      },
+      "kind": "movie",
+      "title": "The Tramp and the Mattress Makers",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245060"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245138",
+      "externalIds": {
+        "wikidata": "Q101245138"
+      },
+      "kind": "movie",
+      "title": "A Roadside Inn",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Short silent film by Georges Méliès",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245138"
+      ]
+    },
+    {
+      "id": "wikidata-Q100154191",
+      "externalIds": {
+        "wikidata": "Q100154191"
+      },
+      "kind": "movie",
+      "title": "Christ Among Men",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 Australian film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q100154191"
+      ]
+    },
+    {
+      "id": "wikidata-Q16652841",
+      "externalIds": {
+        "wikidata": "Q16652841"
+      },
+      "kind": "movie",
+      "title": "The Birth, the Life and the Death of Christ",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French silent short film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16652841"
+      ]
+    },
+    {
+      "id": "wikidata-Q3820942",
+      "externalIds": {
+        "wikidata": "Q3820942"
+      },
+      "kind": "movie",
+      "title": "The Law of Pardon",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French silent short film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3820942"
+      ]
+    },
+    {
+      "id": "wikidata-Q108403397",
+      "externalIds": {
+        "wikidata": "Q108403397"
+      },
+      "kind": "movie",
+      "title": "Rescued in Mid-Air",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 short film by Percy Stow",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q108403397"
+      ]
+    },
+    {
+      "id": "wikidata-Q3820847",
+      "externalIds": {
+        "wikidata": "Q3820847"
+      },
+      "kind": "movie",
+      "title": "The Bell Ringer's Daughter",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French silent short film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3820847"
+      ]
+    },
+    {
+      "id": "wikidata-Q15044024",
+      "externalIds": {
+        "wikidata": "Q15044024"
+      },
+      "kind": "movie",
+      "title": "Aladdin and His Wonder Lamp",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French silent short film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15044024"
+      ]
+    },
+    {
+      "id": "wikidata-Q3962663",
+      "externalIds": {
+        "wikidata": "Q3962663"
+      },
+      "kind": "movie",
+      "title": "Skyscrapers (film)",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 American film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3962663"
+      ]
+    },
+    {
+      "id": "wikidata-Q3225377",
+      "externalIds": {
+        "wikidata": "Q3225377"
+      },
+      "kind": "movie",
+      "title": "Le pendu",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French silent short film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3225377"
+      ]
+    },
+    {
+      "id": "wikidata-Q3222827",
+      "externalIds": {
+        "wikidata": "Q3222827"
+      },
+      "kind": "movie",
+      "title": "The Game-Keeper's Son",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French silent short film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3222827"
+      ]
+    },
+    {
+      "id": "wikidata-Q3275342",
+      "externalIds": {
+        "wikidata": "Q3275342"
+      },
+      "kind": "movie",
+      "title": "Madame a des envies",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 French silent short film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3275342"
+      ]
+    },
+    {
+      "id": "wikidata-Q17265887",
+      "externalIds": {
+        "wikidata": "Q17265887"
+      },
+      "kind": "movie",
+      "title": "Life of a Cowboy",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1906 American film",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17265887"
+      ]
+    },
+    {
+      "id": "wikidata-Q137570213",
+      "externalIds": {
+        "wikidata": "Q137570213"
+      },
+      "kind": "movie",
+      "title": "Le Matelas Alcoolique",
+      "year": 1906,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Comedy short",
+      "batchId": "wikidata-films-1906-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q137570213"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3322 @@
+{
+  "id": "wikidata-films-1932-1000-1499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1932,
+  "offset": 1000,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q1545246",
+      "externalIds": {
+        "wikidata": "Q1545246"
+      },
+      "kind": "movie",
+      "title": "Thirteen Women",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1545246"
+      ]
+    },
+    {
+      "id": "wikidata-Q7786068",
+      "externalIds": {
+        "wikidata": "Q7786068"
+      },
+      "kind": "movie",
+      "title": "This Is the Night (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7786068"
+      ]
+    },
+    {
+      "id": "wikidata-Q2122780",
+      "externalIds": {
+        "wikidata": "Q2122780"
+      },
+      "kind": "movie",
+      "title": "Three on a Match",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by Mervyn LeRoy",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2122780"
+      ]
+    },
+    {
+      "id": "wikidata-Q7774347",
+      "externalIds": {
+        "wikidata": "Q7774347"
+      },
+      "kind": "movie",
+      "title": "The Wet Parade",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7774347"
+      ]
+    },
+    {
+      "id": "wikidata-Q736298",
+      "externalIds": {
+        "wikidata": "Q736298"
+      },
+      "kind": "movie",
+      "title": "The Whoopee Party",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 Mickey Mouse cartoon",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q736298"
+      ]
+    },
+    {
+      "id": "wikidata-Q3009093",
+      "externalIds": {
+        "wikidata": "Q3009093"
+      },
+      "kind": "movie",
+      "title": "Their First Mistake",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3009093"
+      ]
+    },
+    {
+      "id": "wikidata-Q1787422",
+      "externalIds": {
+        "wikidata": "Q1787422"
+      },
+      "kind": "movie",
+      "title": "Tiger Shark (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1787422"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775248",
+      "externalIds": {
+        "wikidata": "Q7775248"
+      },
+      "kind": "movie",
+      "title": "The Wiser Sex",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775248"
+      ]
+    },
+    {
+      "id": "wikidata-Q7783716",
+      "externalIds": {
+        "wikidata": "Q7783716"
+      },
+      "kind": "movie",
+      "title": "They Just Had to Get Married",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7783716"
+      ]
+    },
+    {
+      "id": "wikidata-Q7818720",
+      "externalIds": {
+        "wikidata": "Q7818720"
+      },
+      "kind": "movie",
+      "title": "Tombstone Canyon",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7818720"
+      ]
+    },
+    {
+      "id": "wikidata-Q7782716",
+      "externalIds": {
+        "wikidata": "Q7782716"
+      },
+      "kind": "movie",
+      "title": "There Goes the Bride (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7782716"
+      ]
+    },
+    {
+      "id": "wikidata-Q7783741",
+      "externalIds": {
+        "wikidata": "Q7783741"
+      },
+      "kind": "movie",
+      "title": "They Never Come Back (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7783741"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775530",
+      "externalIds": {
+        "wikidata": "Q7775530"
+      },
+      "kind": "movie",
+      "title": "The Woman from Monte Carlo",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775530"
+      ]
+    },
+    {
+      "id": "wikidata-Q1756455",
+      "externalIds": {
+        "wikidata": "Q1756455"
+      },
+      "kind": "movie",
+      "title": "Three Wise Girls",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1756455"
+      ]
+    },
+    {
+      "id": "wikidata-Q7805417",
+      "externalIds": {
+        "wikidata": "Q7805417"
+      },
+      "kind": "movie",
+      "title": "Time on My Hands (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1931 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7805417"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775670",
+      "externalIds": {
+        "wikidata": "Q7775670"
+      },
+      "kind": "movie",
+      "title": "The Wonderful Story (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775670"
+      ]
+    },
+    {
+      "id": "wikidata-Q7821402",
+      "externalIds": {
+        "wikidata": "Q7821402"
+      },
+      "kind": "movie",
+      "title": "Tonight's the Night (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7821402"
+      ]
+    },
+    {
+      "id": "wikidata-Q7775907",
+      "externalIds": {
+        "wikidata": "Q7775907"
+      },
+      "kind": "movie",
+      "title": "The World, the Flesh, and the Devil (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by George A. Cooper",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7775907"
+      ]
+    },
+    {
+      "id": "wikidata-Q7774777",
+      "externalIds": {
+        "wikidata": "Q7774777"
+      },
+      "kind": "movie",
+      "title": "The Widow in Scarlet",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7774777"
+      ]
+    },
+    {
+      "id": "wikidata-Q7796856",
+      "externalIds": {
+        "wikidata": "Q7796856"
+      },
+      "kind": "movie",
+      "title": "Those We Love",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7796856"
+      ]
+    },
+    {
+      "id": "wikidata-Q3221287",
+      "externalIds": {
+        "wikidata": "Q3221287"
+      },
+      "kind": "movie",
+      "title": "The Yellow Dog (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3221287"
+      ]
+    },
+    {
+      "id": "wikidata-Q7786234",
+      "externalIds": {
+        "wikidata": "Q7786234"
+      },
+      "kind": "movie",
+      "title": "This Reckless Age",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7786234"
+      ]
+    },
+    {
+      "id": "wikidata-Q12133400",
+      "externalIds": {
+        "wikidata": "Q12133400"
+      },
+      "kind": "movie",
+      "title": "The Wild Goose Chase (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12133400"
+      ]
+    },
+    {
+      "id": "wikidata-Q15052016",
+      "externalIds": {
+        "wikidata": "Q15052016"
+      },
+      "kind": "movie",
+      "title": "Tom Brown of Culver",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15052016"
+      ]
+    },
+    {
+      "id": "wikidata-Q17031051",
+      "externalIds": {
+        "wikidata": "Q17031051"
+      },
+      "kind": "movie",
+      "title": "The White God",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17031051"
+      ]
+    },
+    {
+      "id": "wikidata-Q17113226",
+      "externalIds": {
+        "wikidata": "Q17113226"
+      },
+      "kind": "movie",
+      "title": "Three from the Unemployment Office",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17113226"
+      ]
+    },
+    {
+      "id": "wikidata-Q17031221",
+      "externalIds": {
+        "wikidata": "Q17031221"
+      },
+      "kind": "movie",
+      "title": "The Winged Horse",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17031221"
+      ]
+    },
+    {
+      "id": "wikidata-Q17031641",
+      "externalIds": {
+        "wikidata": "Q17031641"
+      },
+      "kind": "movie",
+      "title": "Thea Roland",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17031641"
+      ]
+    },
+    {
+      "id": "wikidata-Q3990386",
+      "externalIds": {
+        "wikidata": "Q3990386"
+      },
+      "kind": "movie",
+      "title": "They Call It Sin",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3990386"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363934",
+      "externalIds": {
+        "wikidata": "Q19363934"
+      },
+      "kind": "movie",
+      "title": "Tomorrow and Tomorrow (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363934"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363919",
+      "externalIds": {
+        "wikidata": "Q19363919"
+      },
+      "kind": "movie",
+      "title": "The World and the Flesh",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363919"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363926",
+      "externalIds": {
+        "wikidata": "Q19363926"
+      },
+      "kind": "movie",
+      "title": "Thunder Below",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363926"
+      ]
+    },
+    {
+      "id": "wikidata-Q15990767",
+      "externalIds": {
+        "wikidata": "Q15990767"
+      },
+      "kind": "movie",
+      "title": "The White Demon",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15990767"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528224",
+      "externalIds": {
+        "wikidata": "Q21528224"
+      },
+      "kind": "movie",
+      "title": "The Western Code",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528224"
+      ]
+    },
+    {
+      "id": "wikidata-Q3523418",
+      "externalIds": {
+        "wikidata": "Q3523418"
+      },
+      "kind": "movie",
+      "title": "The Woman in Room 13 (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3523418"
+      ]
+    },
+    {
+      "id": "wikidata-Q21647211",
+      "externalIds": {
+        "wikidata": "Q21647211"
+      },
+      "kind": "movie",
+      "title": "Tin Gods (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21647211"
+      ]
+    },
+    {
+      "id": "wikidata-Q21007981",
+      "externalIds": {
+        "wikidata": "Q21007981"
+      },
+      "kind": "movie",
+      "title": "To the Polls, Citizens",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21007981"
+      ]
+    },
+    {
+      "id": "wikidata-Q3210686",
+      "externalIds": {
+        "wikidata": "Q3210686"
+      },
+      "kind": "movie",
+      "title": "The Wonderful Day (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3210686"
+      ]
+    },
+    {
+      "id": "wikidata-Q27590191",
+      "externalIds": {
+        "wikidata": "Q27590191"
+      },
+      "kind": "movie",
+      "title": "Three on a Honeymoon (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film directed by Erich Schmidt",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27590191"
+      ]
+    },
+    {
+      "id": "wikidata-Q17640024",
+      "externalIds": {
+        "wikidata": "Q17640024"
+      },
+      "kind": "movie",
+      "title": "Thrill of Youth",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17640024"
+      ]
+    },
+    {
+      "id": "wikidata-Q28442876",
+      "externalIds": {
+        "wikidata": "Q28442876"
+      },
+      "kind": "movie",
+      "title": "Three's a Crowd (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by Rudolf Ising",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q28442876"
+      ]
+    },
+    {
+      "id": "wikidata-Q3311906",
+      "externalIds": {
+        "wikidata": "Q3311906"
+      },
+      "kind": "movie",
+      "title": "The Wayward Canary",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "The Wayward Canary is a 1932 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3311906"
+      ]
+    },
+    {
+      "id": "wikidata-Q30899365",
+      "externalIds": {
+        "wikidata": "Q30899365"
+      },
+      "kind": "movie",
+      "title": "This One or None",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film directed by Carl Froelich",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q30899365"
+      ]
+    },
+    {
+      "id": "wikidata-Q42048361",
+      "externalIds": {
+        "wikidata": "Q42048361"
+      },
+      "kind": "movie",
+      "title": "The Woman Dressed as a Man",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film directed by Augusto Genina",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q42048361"
+      ]
+    },
+    {
+      "id": "wikidata-Q1167750",
+      "externalIds": {
+        "wikidata": "Q1167750"
+      },
+      "kind": "movie",
+      "title": "Things Are Getting Better Already",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1167750"
+      ]
+    },
+    {
+      "id": "wikidata-Q111893356",
+      "externalIds": {
+        "wikidata": "Q111893356"
+      },
+      "kind": "movie",
+      "title": "The Wyoming Whirlwind",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q111893356"
+      ]
+    },
+    {
+      "id": "wikidata-Q108237442",
+      "externalIds": {
+        "wikidata": "Q108237442"
+      },
+      "kind": "movie",
+      "title": "This Sporting Age",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q108237442"
+      ]
+    },
+    {
+      "id": "wikidata-Q20804264",
+      "externalIds": {
+        "wikidata": "Q20804264"
+      },
+      "kind": "movie",
+      "title": "Threads (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20804264"
+      ]
+    },
+    {
+      "id": "wikidata-Q123280843",
+      "externalIds": {
+        "wikidata": "Q123280843"
+      },
+      "kind": "movie",
+      "title": "To Live Happily",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q123280843"
+      ]
+    },
+    {
+      "id": "wikidata-Q21035763",
+      "externalIds": {
+        "wikidata": "Q21035763"
+      },
+      "kind": "movie",
+      "title": "Theodor Körner (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film directed by Carl Boese",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21035763"
+      ]
+    },
+    {
+      "id": "wikidata-Q256416",
+      "externalIds": {
+        "wikidata": "Q256416"
+      },
+      "kind": "movie",
+      "title": "Trouble in Paradise (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by Ernst Lubitsch",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q256416"
+      ]
+    },
+    {
+      "id": "wikidata-Q304923",
+      "externalIds": {
+        "wikidata": "Q304923"
+      },
+      "kind": "movie",
+      "title": "Vampyr",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q304923"
+      ]
+    },
+    {
+      "id": "wikidata-Q4008598",
+      "externalIds": {
+        "wikidata": "Q4008598"
+      },
+      "kind": "movie",
+      "title": "Vanity Fair (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4008598"
+      ]
+    },
+    {
+      "id": "wikidata-Q3008740",
+      "externalIds": {
+        "wikidata": "Q3008740"
+      },
+      "kind": "movie",
+      "title": "Towed in a Hole",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3008740"
+      ]
+    },
+    {
+      "id": "wikidata-Q4003625",
+      "externalIds": {
+        "wikidata": "Q4003625"
+      },
+      "kind": "movie",
+      "title": "Unheimliche Geschichten (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "German comedy horror film by Richard Oswald",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4003625"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883089",
+      "externalIds": {
+        "wikidata": "Q7883089"
+      },
+      "kind": "movie",
+      "title": "Under-Cover Man",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883089"
+      ]
+    },
+    {
+      "id": "wikidata-Q3372559",
+      "externalIds": {
+        "wikidata": "Q3372559"
+      },
+      "kind": "movie",
+      "title": "Two-Fisted Law",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3372559"
+      ]
+    },
+    {
+      "id": "wikidata-Q7859212",
+      "externalIds": {
+        "wikidata": "Q7859212"
+      },
+      "kind": "movie",
+      "title": "Two Seconds",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7859212"
+      ]
+    },
+    {
+      "id": "wikidata-Q12131707",
+      "externalIds": {
+        "wikidata": "Q12131707"
+      },
+      "kind": "movie",
+      "title": "Virtue (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q12131707"
+      ]
+    },
+    {
+      "id": "wikidata-Q7885658",
+      "externalIds": {
+        "wikidata": "Q7885658"
+      },
+      "kind": "movie",
+      "title": "Union Depot (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7885658"
+      ]
+    },
+    {
+      "id": "wikidata-Q7979393",
+      "externalIds": {
+        "wikidata": "Q7979393"
+      },
+      "kind": "movie",
+      "title": "Week Ends Only",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7979393"
+      ]
+    },
+    {
+      "id": "wikidata-Q7918671",
+      "externalIds": {
+        "wikidata": "Q7918671"
+      },
+      "kind": "movie",
+      "title": "Veiled Aristocrats",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7918671"
+      ]
+    },
+    {
+      "id": "wikidata-Q7883091",
+      "externalIds": {
+        "wikidata": "Q7883091"
+      },
+      "kind": "movie",
+      "title": "Under False Flag (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7883091"
+      ]
+    },
+    {
+      "id": "wikidata-Q461848",
+      "externalIds": {
+        "wikidata": "Q461848"
+      },
+      "kind": "movie",
+      "title": "War Babies (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q461848"
+      ]
+    },
+    {
+      "id": "wikidata-Q7832823",
+      "externalIds": {
+        "wikidata": "Q7832823"
+      },
+      "kind": "movie",
+      "title": "Trailing the Killer",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7832823"
+      ]
+    },
+    {
+      "id": "wikidata-Q3487884",
+      "externalIds": {
+        "wikidata": "Q3487884"
+      },
+      "kind": "movie",
+      "title": "Wedding Rehearsal",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 British romantic comedy film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3487884"
+      ]
+    },
+    {
+      "id": "wikidata-Q7899441",
+      "externalIds": {
+        "wikidata": "Q7899441"
+      },
+      "kind": "movie",
+      "title": "Uptown New York",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7899441"
+      ]
+    },
+    {
+      "id": "wikidata-Q7884595",
+      "externalIds": {
+        "wikidata": "Q7884595"
+      },
+      "kind": "movie",
+      "title": "Unholy Love",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7884595"
+      ]
+    },
+    {
+      "id": "wikidata-Q3715964",
+      "externalIds": {
+        "wikidata": "Q3715964"
+      },
+      "kind": "movie",
+      "title": "Two Happy Hearts",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3715964"
+      ]
+    },
+    {
+      "id": "wikidata-Q7973044",
+      "externalIds": {
+        "wikidata": "Q7973044"
+      },
+      "kind": "movie",
+      "title": "Watch Beverly",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7973044"
+      ]
+    },
+    {
+      "id": "wikidata-Q7859332",
+      "externalIds": {
+        "wikidata": "Q7859332"
+      },
+      "kind": "movie",
+      "title": "Two White Arms",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7859332"
+      ]
+    },
+    {
+      "id": "wikidata-Q7858820",
+      "externalIds": {
+        "wikidata": "Q7858820"
+      },
+      "kind": "movie",
+      "title": "Two Against the World (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by Archie Mayo",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7858820"
+      ]
+    },
+    {
+      "id": "wikidata-Q7905436",
+      "externalIds": {
+        "wikidata": "Q7905436"
+      },
+      "kind": "movie",
+      "title": "Ułani, ułani, chłopcy malowani",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7905436"
+      ]
+    },
+    {
+      "id": "wikidata-Q7979389",
+      "externalIds": {
+        "wikidata": "Q7979389"
+      },
+      "kind": "movie",
+      "title": "Week-End Marriage",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7979389"
+      ]
+    },
+    {
+      "id": "wikidata-Q17033727",
+      "externalIds": {
+        "wikidata": "Q17033727"
+      },
+      "kind": "movie",
+      "title": "Washington Merry-Go-Round (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17033727"
+      ]
+    },
+    {
+      "id": "wikidata-Q3795285",
+      "externalIds": {
+        "wikidata": "Q3795285"
+      },
+      "kind": "movie",
+      "title": "Trenck (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3795285"
+      ]
+    },
+    {
+      "id": "wikidata-Q13423836",
+      "externalIds": {
+        "wikidata": "Q13423836"
+      },
+      "kind": "movie",
+      "title": "Two Hearts Beat as One (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q13423836"
+      ]
+    },
+    {
+      "id": "wikidata-Q18636638",
+      "externalIds": {
+        "wikidata": "Q18636638"
+      },
+      "kind": "movie",
+      "title": "Unashamed (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18636638"
+      ]
+    },
+    {
+      "id": "wikidata-Q19364279",
+      "externalIds": {
+        "wikidata": "Q19364279"
+      },
+      "kind": "movie",
+      "title": "Two Kinds of Women (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19364279"
+      ]
+    },
+    {
+      "id": "wikidata-Q19363973",
+      "externalIds": {
+        "wikidata": "Q19363973"
+      },
+      "kind": "movie",
+      "title": "Wayward (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19363973"
+      ]
+    },
+    {
+      "id": "wikidata-Q3745755",
+      "externalIds": {
+        "wikidata": "Q3745755"
+      },
+      "kind": "movie",
+      "title": "Until the Day We Meet Again",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3745755"
+      ]
+    },
+    {
+      "id": "wikidata-Q20950004",
+      "externalIds": {
+        "wikidata": "Q20950004"
+      },
+      "kind": "movie",
+      "title": "Trapped in Tia Juana",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20950004"
+      ]
+    },
+    {
+      "id": "wikidata-Q21528173",
+      "externalIds": {
+        "wikidata": "Q21528173"
+      },
+      "kind": "movie",
+      "title": "Too Busy to Work (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21528173"
+      ]
+    },
+    {
+      "id": "wikidata-Q21869964",
+      "externalIds": {
+        "wikidata": "Q21869964"
+      },
+      "kind": "movie",
+      "title": "Verdict of the Sea",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21869964"
+      ]
+    },
+    {
+      "id": "wikidata-Q24905201",
+      "externalIds": {
+        "wikidata": "Q24905201"
+      },
+      "kind": "movie",
+      "title": "Two Heavenly Blue Eyes",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24905201"
+      ]
+    },
+    {
+      "id": "wikidata-Q23899179",
+      "externalIds": {
+        "wikidata": "Q23899179"
+      },
+      "kind": "movie",
+      "title": "Under the Leather Helmet",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23899179"
+      ]
+    },
+    {
+      "id": "wikidata-Q24886734",
+      "externalIds": {
+        "wikidata": "Q24886734"
+      },
+      "kind": "movie",
+      "title": "Tossing Ship",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24886734"
+      ]
+    },
+    {
+      "id": "wikidata-Q25209549",
+      "externalIds": {
+        "wikidata": "Q25209549"
+      },
+      "kind": "movie",
+      "title": "Transit Camp (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25209549"
+      ]
+    },
+    {
+      "id": "wikidata-Q27590183",
+      "externalIds": {
+        "wikidata": "Q27590183"
+      },
+      "kind": "movie",
+      "title": "Two in a Car",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film directed by Joe May",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27590183"
+      ]
+    },
+    {
+      "id": "wikidata-Q27962537",
+      "externalIds": {
+        "wikidata": "Q27962537"
+      },
+      "kind": "movie",
+      "title": "Venus (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27962537"
+      ]
+    },
+    {
+      "id": "wikidata-Q3311911",
+      "externalIds": {
+        "wikidata": "Q3311911"
+      },
+      "kind": "movie",
+      "title": "Touchdown Mickey",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Touchdown Mickey is a 1932 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3311911"
+      ]
+    },
+    {
+      "id": "wikidata-Q3536378",
+      "externalIds": {
+        "wikidata": "Q3536378"
+      },
+      "kind": "movie",
+      "title": "Trader Mickey",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Trader Mickey is a 1932 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3536378"
+      ]
+    },
+    {
+      "id": "wikidata-Q54020904",
+      "externalIds": {
+        "wikidata": "Q54020904"
+      },
+      "kind": "movie",
+      "title": "Vanishing Men",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54020904"
+      ]
+    },
+    {
+      "id": "wikidata-Q56291167",
+      "externalIds": {
+        "wikidata": "Q56291167"
+      },
+      "kind": "movie",
+      "title": "Viennese Waltz (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q56291167"
+      ]
+    },
+    {
+      "id": "wikidata-Q3983148",
+      "externalIds": {
+        "wikidata": "Q3983148"
+      },
+      "kind": "movie",
+      "title": "War Correspondent (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by Paul Sloane",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3983148"
+      ]
+    },
+    {
+      "id": "wikidata-Q1557537",
+      "externalIds": {
+        "wikidata": "Q1557537"
+      },
+      "kind": "movie",
+      "title": "Una vida por otra",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1557537"
+      ]
+    },
+    {
+      "id": "wikidata-Q27733177",
+      "externalIds": {
+        "wikidata": "Q27733177"
+      },
+      "kind": "movie",
+      "title": "Vanity Street",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27733177"
+      ]
+    },
+    {
+      "id": "wikidata-Q120484121",
+      "externalIds": {
+        "wikidata": "Q120484121"
+      },
+      "kind": "movie",
+      "title": "Tumultes (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 French film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q120484121"
+      ]
+    },
+    {
+      "id": "wikidata-Q23894534",
+      "externalIds": {
+        "wikidata": "Q23894534"
+      },
+      "kind": "movie",
+      "title": "Uncle Moses",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Yiddish American Film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q23894534"
+      ]
+    },
+    {
+      "id": "wikidata-Q138787437",
+      "externalIds": {
+        "wikidata": "Q138787437"
+      },
+      "kind": "movie",
+      "title": "Two Lucky Days",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q138787437"
+      ]
+    },
+    {
+      "id": "wikidata-Q1751461",
+      "externalIds": {
+        "wikidata": "Q1751461"
+      },
+      "kind": "movie",
+      "title": "White Zombie (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by Victor Hugo Halperin",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1751461"
+      ]
+    },
+    {
+      "id": "wikidata-Q2031960",
+      "externalIds": {
+        "wikidata": "Q2031960"
+      },
+      "kind": "movie",
+      "title": "What Price Hollywood?",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2031960"
+      ]
+    },
+    {
+      "id": "wikidata-Q8025598",
+      "externalIds": {
+        "wikidata": "Q8025598"
+      },
+      "kind": "movie",
+      "title": "Winner Take All (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8025598"
+      ]
+    },
+    {
+      "id": "wikidata-Q969709",
+      "externalIds": {
+        "wikidata": "Q969709"
+      },
+      "kind": "movie",
+      "title": "Wild Girl (film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film directed by Raoul Walsh",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q969709"
+      ]
+    },
+    {
+      "id": "wikidata-Q3231856",
+      "externalIds": {
+        "wikidata": "Q3231856"
+      },
+      "kind": "movie",
+      "title": "Wooden Crosses",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film directed by Raymond Bernard",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3231856"
+      ]
+    },
+    {
+      "id": "wikidata-Q3233199",
+      "externalIds": {
+        "wikidata": "Q3233199"
+      },
+      "kind": "movie",
+      "title": "What Scoundrels Men Are! (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3233199"
+      ]
+    },
+    {
+      "id": "wikidata-Q3177981",
+      "externalIds": {
+        "wikidata": "Q3177981"
+      },
+      "kind": "movie",
+      "title": "Young America (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by Frank Borzage",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3177981"
+      ]
+    },
+    {
+      "id": "wikidata-Q7992657",
+      "externalIds": {
+        "wikidata": "Q7992657"
+      },
+      "kind": "movie",
+      "title": "When London Sleeps",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7992657"
+      ]
+    },
+    {
+      "id": "wikidata-Q7989810",
+      "externalIds": {
+        "wikidata": "Q7989810"
+      },
+      "kind": "movie",
+      "title": "Westward Passage",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7989810"
+      ]
+    },
+    {
+      "id": "wikidata-Q2906074",
+      "externalIds": {
+        "wikidata": "Q2906074"
+      },
+      "kind": "movie",
+      "title": "Wild Horse Mesa (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2906074"
+      ]
+    },
+    {
+      "id": "wikidata-Q7979695",
+      "externalIds": {
+        "wikidata": "Q7979695"
+      },
+      "kind": "movie",
+      "title": "Wehe, wenn er losgelassen",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7979695"
+      ]
+    },
+    {
+      "id": "wikidata-Q8028225",
+      "externalIds": {
+        "wikidata": "Q8028225"
+      },
+      "kind": "movie",
+      "title": "Without Honor (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8028225"
+      ]
+    },
+    {
+      "id": "wikidata-Q7994676",
+      "externalIds": {
+        "wikidata": "Q7994676"
+      },
+      "kind": "movie",
+      "title": "White Face",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q7994676"
+      ]
+    },
+    {
+      "id": "wikidata-Q8031341",
+      "externalIds": {
+        "wikidata": "Q8031341"
+      },
+      "kind": "movie",
+      "title": "Women Who Play",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8031341"
+      ]
+    },
+    {
+      "id": "wikidata-Q8075439",
+      "externalIds": {
+        "wikidata": "Q8075439"
+      },
+      "kind": "movie",
+      "title": "Zuster Theresia",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 Dutch East Indian film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q8075439"
+      ]
+    },
+    {
+      "id": "wikidata-Q20002706",
+      "externalIds": {
+        "wikidata": "Q20002706"
+      },
+      "kind": "movie",
+      "title": "While Paris Sleeps (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20002706"
+      ]
+    },
+    {
+      "id": "wikidata-Q17059706",
+      "externalIds": {
+        "wikidata": "Q17059706"
+      },
+      "kind": "movie",
+      "title": "You Don't Forget Such a Girl",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17059706"
+      ]
+    },
+    {
+      "id": "wikidata-Q3880332",
+      "externalIds": {
+        "wikidata": "Q3880332"
+      },
+      "kind": "movie",
+      "title": "Your Money or Your Life (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1933 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3880332"
+      ]
+    },
+    {
+      "id": "wikidata-Q4019004",
+      "externalIds": {
+        "wikidata": "Q4019004"
+      },
+      "kind": "movie",
+      "title": "When Love Sets the Fashion",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4019004"
+      ]
+    },
+    {
+      "id": "wikidata-Q18391155",
+      "externalIds": {
+        "wikidata": "Q18391155"
+      },
+      "kind": "movie",
+      "title": "Zinda Lash",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 Indian film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18391155"
+      ]
+    },
+    {
+      "id": "wikidata-Q16623716",
+      "externalIds": {
+        "wikidata": "Q16623716"
+      },
+      "kind": "movie",
+      "title": "Young Bride",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 American film directed by William A. Seiter",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16623716"
+      ]
+    },
+    {
+      "id": "wikidata-Q18636655",
+      "externalIds": {
+        "wikidata": "Q18636655"
+      },
+      "kind": "movie",
+      "title": "When a Feller Needs a Friend",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18636655"
+      ]
+    },
+    {
+      "id": "wikidata-Q19427449",
+      "externalIds": {
+        "wikidata": "Q19427449"
+      },
+      "kind": "movie",
+      "title": "Wild and Woolly (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19427449"
+      ]
+    },
+    {
+      "id": "wikidata-Q19427450",
+      "externalIds": {
+        "wikidata": "Q19427450"
+      },
+      "kind": "movie",
+      "title": "Wins Out",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q19427450"
+      ]
+    },
+    {
+      "id": "wikidata-Q20814914",
+      "externalIds": {
+        "wikidata": "Q20814914"
+      },
+      "kind": "movie",
+      "title": "You Said a Mouthful",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20814914"
+      ]
+    },
+    {
+      "id": "wikidata-Q21647330",
+      "externalIds": {
+        "wikidata": "Q21647330"
+      },
+      "kind": "movie",
+      "title": "You Will Be My Wife",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 German film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q21647330"
+      ]
+    },
+    {
+      "id": "enwiki-50099777",
+      "externalIds": {
+        "enwiki": 50099777
+      },
+      "kind": "movie",
+      "title": "Wild Women of Borneo",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "Wild Women of Borneo is a 1932 film listed in the 123Videos informational catalog.",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://en.wikipedia.org/?curid=50099777"
+      ]
+    },
+    {
+      "id": "wikidata-Q24905365",
+      "externalIds": {
+        "wikidata": "Q24905365"
+      },
+      "kind": "movie",
+      "title": "Wrong Number, Miss",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24905365"
+      ]
+    },
+    {
+      "id": "wikidata-Q25208020",
+      "externalIds": {
+        "wikidata": "Q25208020"
+      },
+      "kind": "movie",
+      "title": "When Do You Commit Suicide? (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q25208020"
+      ]
+    },
+    {
+      "id": "wikidata-Q24896032",
+      "externalIds": {
+        "wikidata": "Q24896032"
+      },
+      "kind": "movie",
+      "title": "You Will Be a Duchess",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 French film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q24896032"
+      ]
+    },
+    {
+      "id": "wikidata-Q27590539",
+      "externalIds": {
+        "wikidata": "Q27590539"
+      },
+      "kind": "movie",
+      "title": "Where Is This Lady?",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 British film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q27590539"
+      ]
+    },
+    {
+      "id": "wikidata-Q17651304",
+      "externalIds": {
+        "wikidata": "Q17651304"
+      },
+      "kind": "movie",
+      "title": "Women Won't Tell",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q17651304"
+      ]
+    },
+    {
+      "id": "wikidata-Q4023635",
+      "externalIds": {
+        "wikidata": "Q4023635"
+      },
+      "kind": "movie",
+      "title": "Zaganella and the Cavalier",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 Italian film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4023635"
+      ]
+    },
+    {
+      "id": "wikidata-Q108322617",
+      "externalIds": {
+        "wikidata": "Q108322617"
+      },
+      "kind": "movie",
+      "title": "You're Too Careless with Your Kisses!",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by Rudolf Ising",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q108322617"
+      ]
+    },
+    {
+      "id": "wikidata-Q50650139",
+      "externalIds": {
+        "wikidata": "Q50650139"
+      },
+      "kind": "movie",
+      "title": "Western Limited",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film directed by Christy Cabanne",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q50650139"
+      ]
+    },
+    {
+      "id": "wikidata-Q55638119",
+      "externalIds": {
+        "wikidata": "Q55638119"
+      },
+      "kind": "movie",
+      "title": "Young Blood (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55638119"
+      ]
+    },
+    {
+      "id": "wikidata-Q54868280",
+      "externalIds": {
+        "wikidata": "Q54868280"
+      },
+      "kind": "movie",
+      "title": "Whistlin' Dan",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film directed by Phil Rosen",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q54868280"
+      ]
+    },
+    {
+      "id": "wikidata-Q3201628",
+      "externalIds": {
+        "wikidata": "Q3201628"
+      },
+      "kind": "movie",
+      "title": "White Eagle (1932 film)",
+      "year": 1932,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1932 film by Lambert Hillyer",
+      "batchId": "wikidata-films-1932-1000-1499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3201628"
+      ]
+    }
+  ]
+}

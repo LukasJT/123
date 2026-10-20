@@ -1,0 +1,1330 @@
+{
+  "id": "wikidata-films-1904-0-499",
+  "source": "https://en.wikipedia.org/w/api.php",
+  "verifiedAt": "2026-09-21",
+  "year": 1904,
+  "offset": 0,
+  "limit": 500,
+  "records": [
+    {
+      "id": "wikidata-Q2563734",
+      "externalIds": {
+        "wikidata": "Q2563734"
+      },
+      "kind": "movie",
+      "title": "The Impossible Voyage",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q2563734"
+      ]
+    },
+    {
+      "id": "wikidata-Q1679195",
+      "externalIds": {
+        "wikidata": "Q1679195"
+      },
+      "kind": "movie",
+      "title": "Maniac Chase",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 short film by Edwin S. Porter",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1679195"
+      ]
+    },
+    {
+      "id": "wikidata-Q4750085",
+      "externalIds": {
+        "wikidata": "Q4750085"
+      },
+      "kind": "movie",
+      "title": "An Interesting Story",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4750085"
+      ]
+    },
+    {
+      "id": "wikidata-Q3006406",
+      "externalIds": {
+        "wikidata": "Q3006406"
+      },
+      "kind": "movie",
+      "title": "Parsifal (1904 film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3006406"
+      ]
+    },
+    {
+      "id": "wikidata-Q3220293",
+      "externalIds": {
+        "wikidata": "Q3220293"
+      },
+      "kind": "movie",
+      "title": "The Barber of Seville (1904 film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3220293"
+      ]
+    },
+    {
+      "id": "wikidata-Q16248847",
+      "externalIds": {
+        "wikidata": "Q16248847"
+      },
+      "kind": "movie",
+      "title": "The Bold Bank Robbery",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16248847"
+      ]
+    },
+    {
+      "id": "wikidata-Q18154652",
+      "externalIds": {
+        "wikidata": "Q18154652"
+      },
+      "kind": "movie",
+      "title": "The Suburbanite",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18154652"
+      ]
+    },
+    {
+      "id": "wikidata-Q18708907",
+      "externalIds": {
+        "wikidata": "Q18708907"
+      },
+      "kind": "movie",
+      "title": "Burglars at Work",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film by Gaston Velle",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18708907"
+      ]
+    },
+    {
+      "id": "wikidata-Q18667497",
+      "externalIds": {
+        "wikidata": "Q18667497"
+      },
+      "kind": "movie",
+      "title": "A Nigger in the Woodpile",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 blackface minstrel silent short comedy film from the United States",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q18667497"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226228",
+      "externalIds": {
+        "wikidata": "Q3226228"
+      },
+      "kind": "movie",
+      "title": "An Adventurous Automobile Trip",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1905 film by Georges Méliès",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226228"
+      ]
+    },
+    {
+      "id": "wikidata-Q3201985",
+      "externalIds": {
+        "wikidata": "Q3201985"
+      },
+      "kind": "movie",
+      "title": "The Christmas Angel",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3201985"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649428",
+      "externalIds": {
+        "wikidata": "Q20649428"
+      },
+      "kind": "movie",
+      "title": "Bushranging in North Queensland",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649428"
+      ]
+    },
+    {
+      "id": "wikidata-Q20649400",
+      "externalIds": {
+        "wikidata": "Q20649400"
+      },
+      "kind": "movie",
+      "title": "Living London",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film directed by Charles Urban",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q20649400"
+      ]
+    },
+    {
+      "id": "wikidata-Q16028373",
+      "externalIds": {
+        "wikidata": "Q16028373"
+      },
+      "kind": "movie",
+      "title": "Faust and Marguerite (1904 film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16028373"
+      ]
+    },
+    {
+      "id": "wikidata-Q4078527",
+      "externalIds": {
+        "wikidata": "Q4078527"
+      },
+      "kind": "movie",
+      "title": "Barcelone, Parc au crépuscule",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4078527"
+      ]
+    },
+    {
+      "id": "wikidata-Q3298279",
+      "externalIds": {
+        "wikidata": "Q3298279"
+      },
+      "kind": "movie",
+      "title": "A Wager Between Two Magicians, or Jealous of Myself",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3298279"
+      ]
+    },
+    {
+      "id": "wikidata-Q16666335",
+      "externalIds": {
+        "wikidata": "Q16666335"
+      },
+      "kind": "movie",
+      "title": "Nervy Nat Kisses the Bride",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q16666335"
+      ]
+    },
+    {
+      "id": "wikidata-Q55074108",
+      "externalIds": {
+        "wikidata": "Q55074108"
+      },
+      "kind": "movie",
+      "title": "The Hold-Up of the Leadville Stage",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q55074108"
+      ]
+    },
+    {
+      "id": "wikidata-Q3491152",
+      "externalIds": {
+        "wikidata": "Q3491152"
+      },
+      "kind": "movie",
+      "title": "The Cook in Trouble",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3491152"
+      ]
+    },
+    {
+      "id": "wikidata-Q58411807",
+      "externalIds": {
+        "wikidata": "Q58411807"
+      },
+      "kind": "movie",
+      "title": "Girls Taking Time Checks",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 silent short film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q58411807"
+      ]
+    },
+    {
+      "id": "wikidata-Q3212018",
+      "externalIds": {
+        "wikidata": "Q3212018"
+      },
+      "kind": "movie",
+      "title": "The Providence of the Waves",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3212018"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226591",
+      "externalIds": {
+        "wikidata": "Q3226591"
+      },
+      "kind": "movie",
+      "title": "The Untamable Whiskers",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226591"
+      ]
+    },
+    {
+      "id": "wikidata-Q15729320",
+      "externalIds": {
+        "wikidata": "Q15729320"
+      },
+      "kind": "movie",
+      "title": "El heredero de Casa Pruna",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 Spanish film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15729320"
+      ]
+    },
+    {
+      "id": "wikidata-Q96392512",
+      "externalIds": {
+        "wikidata": "Q96392512"
+      },
+      "kind": "movie",
+      "title": "Meet Me at the Fountain",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q96392512"
+      ]
+    },
+    {
+      "id": "wikidata-Q3212835",
+      "externalIds": {
+        "wikidata": "Q3212835"
+      },
+      "kind": "movie",
+      "title": "The Mermaid (1904 film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3212835"
+      ]
+    },
+    {
+      "id": "wikidata-Q3227655",
+      "externalIds": {
+        "wikidata": "Q3227655"
+      },
+      "kind": "movie",
+      "title": "Tchin-Chao, the Chinese Conjurer",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3227655"
+      ]
+    },
+    {
+      "id": "wikidata-Q3548830",
+      "externalIds": {
+        "wikidata": "Q3548830"
+      },
+      "kind": "movie",
+      "title": "A Miracle Under the Inquisition",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3548830"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245070",
+      "externalIds": {
+        "wikidata": "Q101245070"
+      },
+      "kind": "movie",
+      "title": "The Bewitched Trunk",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245070"
+      ]
+    },
+    {
+      "id": "wikidata-Q3548922",
+      "externalIds": {
+        "wikidata": "Q3548922"
+      },
+      "kind": "movie",
+      "title": "Every Man His Own Cigar Lighter",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3548922"
+      ]
+    },
+    {
+      "id": "wikidata-Q101245154",
+      "externalIds": {
+        "wikidata": "Q101245154"
+      },
+      "kind": "movie",
+      "title": "The Clockmaker's Dream",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q101245154"
+      ]
+    },
+    {
+      "id": "wikidata-Q3207074",
+      "externalIds": {
+        "wikidata": "Q3207074"
+      },
+      "kind": "movie",
+      "title": "The Firefall",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film by Georges Méliès",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3207074"
+      ]
+    },
+    {
+      "id": "wikidata-Q3230643",
+      "externalIds": {
+        "wikidata": "Q3230643"
+      },
+      "kind": "movie",
+      "title": "The Fugitive Apparitions",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3230643"
+      ]
+    },
+    {
+      "id": "wikidata-Q104871760",
+      "externalIds": {
+        "wikidata": "Q104871760"
+      },
+      "kind": "movie",
+      "title": "Mr. Pecksniff Fetches the Doctor",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 British film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104871760"
+      ]
+    },
+    {
+      "id": "wikidata-Q104875577",
+      "externalIds": {
+        "wikidata": "Q104875577"
+      },
+      "kind": "movie",
+      "title": "Drama in the Air",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French silent short film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104875577"
+      ]
+    },
+    {
+      "id": "wikidata-Q15866177",
+      "externalIds": {
+        "wikidata": "Q15866177"
+      },
+      "kind": "movie",
+      "title": "An Englishman Trip to Paris from London",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 British film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15866177"
+      ]
+    },
+    {
+      "id": "wikidata-Q104879823",
+      "externalIds": {
+        "wikidata": "Q104879823"
+      },
+      "kind": "movie",
+      "title": "A Railway Tragedy",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 British film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104879823"
+      ]
+    },
+    {
+      "id": "wikidata-Q3235792",
+      "externalIds": {
+        "wikidata": "Q3235792"
+      },
+      "kind": "movie",
+      "title": "The Imperceptible Transmutations",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3235792"
+      ]
+    },
+    {
+      "id": "wikidata-Q104217230",
+      "externalIds": {
+        "wikidata": "Q104217230"
+      },
+      "kind": "movie",
+      "title": "The Child Stealers",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 British film by William Barker",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104217230"
+      ]
+    },
+    {
+      "id": "wikidata-Q104830242",
+      "externalIds": {
+        "wikidata": "Q104830242"
+      },
+      "kind": "movie",
+      "title": "The Story the Biograph Told",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q104830242"
+      ]
+    },
+    {
+      "id": "wikidata-Q105043860",
+      "externalIds": {
+        "wikidata": "Q105043860"
+      },
+      "kind": "movie",
+      "title": "The Strike (1904 film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French silent short film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q105043860"
+      ]
+    },
+    {
+      "id": "wikidata-Q105063158",
+      "externalIds": {
+        "wikidata": "Q105063158"
+      },
+      "kind": "movie",
+      "title": "The Lost Child (1904 film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q105063158"
+      ]
+    },
+    {
+      "id": "wikidata-Q105334303",
+      "externalIds": {
+        "wikidata": "Q105334303"
+      },
+      "kind": "movie",
+      "title": "The Widow and the Only Man",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q105334303"
+      ]
+    },
+    {
+      "id": "wikidata-Q105657667",
+      "externalIds": {
+        "wikidata": "Q105657667"
+      },
+      "kind": "movie",
+      "title": "The Melbourne Cup (1904 film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 documentary film by Franklyn Barrett",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q105657667"
+      ]
+    },
+    {
+      "id": "wikidata-Q50809784",
+      "externalIds": {
+        "wikidata": "Q50809784"
+      },
+      "kind": "movie",
+      "title": "Christopher Columbus (1904 film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1903 French silent short film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q50809784"
+      ]
+    },
+    {
+      "id": "wikidata-Q4173335",
+      "externalIds": {
+        "wikidata": "Q4173335"
+      },
+      "kind": "movie",
+      "title": "The European Rest Cure",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American silent comedy film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4173335"
+      ]
+    },
+    {
+      "id": "wikidata-Q15866946",
+      "externalIds": {
+        "wikidata": "Q15866946"
+      },
+      "kind": "movie",
+      "title": "A Day in the Hayfields",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 British documentary film by Cecil M. Hepworth",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q15866946"
+      ]
+    },
+    {
+      "id": "wikidata-Q111937992",
+      "externalIds": {
+        "wikidata": "Q111937992"
+      },
+      "kind": "movie",
+      "title": "The Moonshiner (film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q111937992"
+      ]
+    },
+    {
+      "id": "wikidata-Q4480321",
+      "externalIds": {
+        "wikidata": "Q4480321"
+      },
+      "kind": "movie",
+      "title": "Dog Factory",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q4480321"
+      ]
+    },
+    {
+      "id": "wikidata-Q124816319",
+      "externalIds": {
+        "wikidata": "Q124816319"
+      },
+      "kind": "movie",
+      "title": "How a French Nobleman Got a Wife Through the New York Herald Personal Columns",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film by Edwin S. Porter",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124816319"
+      ]
+    },
+    {
+      "id": "wikidata-Q124988108",
+      "externalIds": {
+        "wikidata": "Q124988108"
+      },
+      "kind": "movie",
+      "title": "The Enchanted Toymaker",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film by Arthur Melbourne-Cooper",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q124988108"
+      ]
+    },
+    {
+      "id": "wikidata-Q1955166",
+      "externalIds": {
+        "wikidata": "Q1955166"
+      },
+      "kind": "movie",
+      "title": "Westinghouse Works, 1904",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q1955166"
+      ]
+    },
+    {
+      "id": "wikidata-Q3283695",
+      "externalIds": {
+        "wikidata": "Q3283695"
+      },
+      "kind": "movie",
+      "title": "Tracked by Bloodhounds; or, A Lynching at Cripple Creek",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 American film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3283695"
+      ]
+    },
+    {
+      "id": "wikidata-Q3226666",
+      "externalIds": {
+        "wikidata": "Q3226666"
+      },
+      "kind": "movie",
+      "title": "The Wonderful Rose-Tree",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3226666"
+      ]
+    },
+    {
+      "id": "wikidata-Q3224505",
+      "externalIds": {
+        "wikidata": "Q3224505"
+      },
+      "kind": "movie",
+      "title": "The Wonderful Living Fan",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3224505"
+      ]
+    },
+    {
+      "id": "wikidata-Q3549358",
+      "externalIds": {
+        "wikidata": "Q3549358"
+      },
+      "kind": "movie",
+      "title": "Tit for Tat (1904 film)",
+      "year": 1904,
+      "releaseDate": null,
+      "quality": "",
+      "rating": "",
+      "duration": "",
+      "genres": [],
+      "section": "catalog",
+      "poster": "",
+      "desc": "1904 French film",
+      "batchId": "wikidata-films-1904-0-499",
+      "addedAt": "2026-09-21",
+      "updatedAt": "2026-09-21",
+      "verifiedAt": "2026-09-21",
+      "sources": [
+        "https://www.wikidata.org/wiki/Q3549358"
+      ]
+    }
+  ]
+}
